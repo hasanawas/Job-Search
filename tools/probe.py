@@ -2,8 +2,7 @@
 import json, re, urllib.request
 
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/128 Safari/537.36",
-      "Accept": "text/html,application/json,*/*", "Accept-Language": "en"}
-ATS = r"(lever\.co|greenhouse\.io|workable\.com|smartrecruiters\.com|myworkdayjobs\.com|successfactors|phenom|icims|taleo|oraclecloud|bamboohr|zohorecruit|teamtailor|recruitee|ashbyhq|jobvite|eightfold|hrmos|darwinbox|keka|freshteam|breezy|personio|jazzhr|applytojob|ripplehire|hire\.trakstar)[^\"'\s<>]*"
+      "Accept": "application/json,text/html,*/*", "Accept-Language": "en-US"}
 
 def get(url, data=None, headers=None):
     h = dict(UA); h.update(headers or {})
@@ -16,30 +15,48 @@ def get(url, data=None, headers=None):
     except Exception as e:
         return 0, url, str(e)
 
-def show(label, url, data=None, headers=None, n=1500, grep=True):
-    st, final, body = get(url, data, headers)
-    print(f"\n===== {label}: {st} {final} len={len(body)}")
-    if grep:
-        hits = sorted(set(m.group(0)[:160] for m in re.finditer(ATS, body)))
-        print("ATS hits:", hits[:40])
-        for key in ["eagerLoadRefineSearch", "totalHits", "phApp", "refNum", "widgetApiEndpoint", "siteNumber", "jobsearch"]:
-            i = body.find(key)
-            if i >= 0:
-                print(f"  [{key}] ...{body[max(0,i-150):i+350]!r}")
-    print("HEAD:", body[:n].replace("\n", " ")[:n])
+# --- Sysco LABS SPA: find bundle and the URLs it calls
+st, _, html = get("https://syscolabs.lk/careers")
+print("SYSCO HTML:", html)
+for src in re.findall(r'src="([^"]+\.js)"', html):
+    url = src if src.startswith("http") else "https://syscolabs.lk" + src
+    st, _, js = get(url)
+    print("\nSYSCO BUNDLE", url, st, len(js))
+    urls = sorted(set(re.findall(r'https?://[A-Za-z0-9._\-/]+', js)))
+    print("URLS:", [u for u in urls if not any(x in u for x in ["w3.org", "reactjs", "fb.me", "github.com/", "mui.com"])][:80])
+    for kw in ["career", "vacanc", "/api", "jobs"]:
+        for m in list(re.finditer(kw, js))[:4]:
+            print(f"  [{kw}]", repr(js[max(0, m.start()-120):m.start()+160]))
 
-show("smartrecruiters IFS", "https://api.smartrecruiters.com/v1/companies/ifs1/postings?limit=3", grep=False)
-show("syscolabs careers", "https://syscolabs.lk/careers", n=600)
-show("g42 home", "https://careers.g42.ai/global/en/home", n=300)
-show("g42 search", "https://careers.g42.ai/global/en/search-results", n=300)
-body = json.dumps({"lang": "en_global", "deviceType": "desktop", "country": "global", "pageName": "search-results",
-                   "ddoKey": "refineSearch", "sortBy": "", "subsearch": "", "from": 0, "jobs": True, "counts": True,
-                   "all_fields": ["category", "country", "city"], "size": 3, "clearAll": False, "jdsource": "facets",
-                   "isSliderEnable": False, "pageId": "page20", "siteType": "external", "keywords": "",
-                   "global": True, "selected_fields": {}, "locationData": {}}).encode()
-show("g42 widgets", "https://careers.g42.ai/widgets", data=body, headers={"Content-Type": "application/json"}, n=2500, grep=False)
-show("accenture ae careers", "https://www.accenture.com/ae-en/careers/jobsearch", n=300)
-acc = json.dumps({"f": 1, "s": 3, "k": "", "lang": "en", "cs": "ae-en", "df": "[]", "c": "United Arab Emirates",
-                  "sf": 1, "syn": False, "isPk": False, "wordDistance": 0, "userId": ""}).encode()
-show("accenture api", "https://www.accenture.com/api/accenture/jobsearch/result", data=acc,
-     headers={"Content-Type": "application/json"}, n=2500, grep=False)
+# --- Accenture Workday host
+st, _, page = get("https://www.accenture.com/ae-en/careers/jobsearch")
+print("\nACCENTURE workday:", sorted(set(re.findall(r'https://[a-z0-9.]*myworkdayjobs\.com/[A-Za-z0-9_/\-]*', page)))[:10])
+for host in ["accenture.wd103.myworkdayjobs.com", "accenture.wd3.myworkdayjobs.com", "accenture.wd1.myworkdayjobs.com", "accenture.wd5.myworkdayjobs.com"]:
+    body = json.dumps({"appliedFacets": {}, "limit": 2, "offset": 0, "searchText": ""}).encode()
+    st, _, r = get(f"https://{host}/wday/cxs/accenture/AccentureCareers/jobs", data=body, headers={"Content-Type": "application/json"})
+    print(f"\nWORKDAY {host}: {st} len={len(r)}")
+    if st == 200:
+        d = json.loads(r)
+        print("total", d.get("total"), "postings", json.dumps(d.get("jobPostings"))[:800])
+        for f in d.get("facets", []):
+            vals = f.get("values", [])
+            print("FACET", f.get("facetParameter"), f.get("descriptor"), len(vals))
+            for v in vals:
+                if "values" in v:
+                    print("   SUB", v.get("facetParameter"), v.get("descriptor"), [(x.get("descriptor"), x.get("id"), x.get("count")) for x in v["values"]][:60])
+                else:
+                    if any(k in (v.get("descriptor") or "") for k in ["Arab", "Sri Lanka", "Saudi", "India"]):
+                        print("   ", v.get("descriptor"), v.get("id"), v.get("count"))
+        break
+
+# --- Phenom job detail for G42
+body = json.dumps({"lang": "en_global", "deviceType": "desktop", "country": "global", "pageName": "job", "ddoKey": "jobDetail",
+                   "jobId": "3390", "siteType": "external"}).encode()
+st, _, r = get("https://careers.g42.ai/widgets", data=body, headers={"Content-Type": "application/json"})
+print("\nG42 DETAIL", st, r[:1500])
+st, final, r = get("https://careers.g42.ai/global/en/job/3390")
+print("\nG42 JOB PAGE", st, final, len(r), r.find("Senior Engineer"))
+
+# --- SmartRecruiters detail
+st, _, r = get("https://api.smartrecruiters.com/v1/companies/ifs1/postings/744000153246949")
+print("\nSR DETAIL", st, r[:1200])
