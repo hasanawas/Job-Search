@@ -21,7 +21,7 @@ class ITFilterTest(unittest.TestCase):
         for title in [
             "Account Manager", "Senior Accountant", "Retail Store Manager", "Talent Acquisition Partner",
             "Legal Counsel", "Digital Marketing Specialist", "Driver", "Inside Sales Representative",
-            "Make it happen: Customer Experience Lead",
+            "Make it happen: Customer Experience Lead", "Sr. Analyst/Corporate HSE & Security (UAE National)",
         ]:
             self.assertFalse(self.f.is_it_job(title), title)
 

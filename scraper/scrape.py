@@ -39,6 +39,7 @@ def scrape_source(cfg, it_filter, previous_jobs, run_time, log):
     scraper = SOURCE_TYPES[cfg["type"]](cfg)
     previous = {j["id"]: j for j in previous_jobs}
     jobs, stats = [], {"listed": 0, "in_location": 0, "it": 0, "new": 0}
+    skipped = []
     details_fetched = 0
 
     for req in scraper.list_jobs():
@@ -48,6 +49,7 @@ def scrape_source(cfg, it_filter, previous_jobs, run_time, log):
         stats["in_location"] += 1
         title = (req.get("Title") or "").strip()
         if not it_filter.is_it_job(title, scraper.categories(req)):
+            skipped.append(title)
             continue
         stats["it"] += 1
 
@@ -76,6 +78,8 @@ def scrape_source(cfg, it_filter, previous_jobs, run_time, log):
             except Exception as e:
                 log(f"    could not fetch details for {job_id}: {e}")
         jobs.append(job)
+    for title in skipped[:30]:
+        log(f"    skipped (not IT): {title}")
     return jobs, stats
 
 

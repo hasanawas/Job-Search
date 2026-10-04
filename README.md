@@ -1,0 +1,38 @@
+# UAE IT Jobs
+
+A small job portal that checks company career sites twice a day, keeps only the IT openings, and lists them in one place. Clicking **Apply** opens the job on the company's own careers site.
+
+## How it works
+
+- `config/sources.json` lists the companies to check.
+- `scraper/scrape.py` reads each site's job API, keeps IT jobs (rules in `config/it_filter.json`), and writes `site/data/jobs.json`. Jobs first seen in the last 2 days get a **NEW** badge; jobs that are closed on the company site drop off.
+- `.github/workflows/update-jobs.yml` runs the scraper at 06:00 and 18:00 UAE time, commits the new jobs file, and publishes `site/` to GitHub Pages.
+
+## One-time setup
+
+In the repo on GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**. Then run **Actions → Update jobs → Run workflow** once (or wait for the next scheduled run). The site appears at `https://<your-user>.github.io/<repo>/`.
+
+## Adding a company
+
+Most big employers use a hosted careers platform. Supported today:
+
+| type | Careers URL looks like |
+| --- | --- |
+| `oracle_hcm` | `https://<host>/hcmUI/CandidateExperience/en/sites/<SITE>/jobs` |
+
+Add an entry to `config/sources.json` with the host as `base_url` and `<SITE>` as `site_number`. Add `"countries": ["AE"]` to keep only UAE jobs from a global company. Other platforms (Workday, SuccessFactors, Greenhouse, …) need a small new scraper in `scraper/`.
+
+## Tuning what counts as IT
+
+Edit `config/it_filter.json`: `include` words mark a title as IT, `exclude` words (sales, finance, HR…) override them.
+
+## Running locally
+
+```
+python scraper/scrape.py --dry-run     # check every site, print what it finds
+python scraper/scrape.py               # update site/data/jobs.json
+python -m http.server -d site 8000     # open http://localhost:8000
+python -m unittest discover -s scraper # tests
+```
+
+No dependencies beyond Python 3.10+.
