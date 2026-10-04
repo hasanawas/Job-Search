@@ -5,7 +5,7 @@ A job portal that checks company career sites twice a day, keeps only the IT ope
 ## How it works
 
 - `config/sources.json` lists the companies to check.
-- `scraper/scrape.py` reads each site's job API, keeps IT jobs (rules in `config/it_filter.json`), and writes `site/data/jobs.json`. Jobs first seen in the last 2 days get a **NEW** badge; jobs that are closed on the company site drop off.
+- `scraper/scrape.py` reads each site's job API, keeps IT jobs (rules in `config/it_filter.json`), and writes `site/data/jobs.json`. Jobs first seen in the last 2 days get a **NEW** badge; jobs that are closed or deleted on the company site drop off at the next check. If a company site can't be reached, its last known jobs stay up for up to 2 days and are then removed.
 - `.github/workflows/update-jobs.yml` runs the scraper at 06:00 and 18:00 UAE time, commits the new jobs file, and publishes `site/` to the `gh-pages` branch, which GitHub Pages serves.
 
 ## CV matching
