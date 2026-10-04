@@ -1,5 +1,145 @@
 {
- "updated_at": null,
- "sources": [],
- "jobs": []
+ "updated_at": "2026-10-04T17:12:04Z",
+ "sources": [
+  {
+   "id": "eand",
+   "company": "e& (Etisalat)",
+   "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+   "ok": true,
+   "checked_at": "2026-10-04T17:12:04Z",
+   "it_jobs": 2,
+   "listed": 12,
+   "in_location": 12,
+   "it": 2,
+   "new": 2
+  },
+  {
+   "id": "fortinet",
+   "company": "Fortinet",
+   "careers_page": "https://www.fortinet.com/corporate/careers",
+   "ok": true,
+   "checked_at": "2026-10-04T17:12:04Z",
+   "it_jobs": 5,
+   "listed": 976,
+   "in_location": 7,
+   "it": 5,
+   "new": 5
+  }
+ ],
+ "jobs": [
+  {
+   "id": "fortinet:20734",
+   "source": "fortinet",
+   "company": "Fortinet",
+   "title": "Systems Engineer - BFSI",
+   "locations": [
+    "Dubai, Dubai, United Arab Emirates",
+    "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-10-02",
+   "summary": "Systems Engineer     \n\nLocation – UAE (Dubai)                          \n\nWe are looking for a Systems Engineer to work closely with a sales representative in a defined territory. The Systems Engineer's main mission will be to support the sales organization in all technical matters regarding pre-sales, sales calls, and post-sales.",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/20734",
+   "first_seen": "2026-10-04T17:12:04Z",
+   "description": "Systems Engineer\n\nLocation – UAE (Dubai)\n\nWe are looking for a Systems Engineer to work closely with a sales representative in a defined territory. The Systems Engineer's main mission will be to support the sales organization in all technical matters regarding pre-sales, sales calls, and post-sales.\n\nWith us you will\n\n• Lead all technical aspects of a sales cycle with the Enterprise customers, from the initial RFIs, through to RFPs & RFQs when required. This includes the project management and active participation in POCs in partnership with the relevant teams both internally and within the customer and/or commercial partner.\n\n• Have the ability to listen and to understand the technical requirements of the customer, reading between the lines to build a solution which outperforms the competitor offering.\n\n• Be the primary technical point of contact for the customer(s) and partners in close collaboration with your sales partner.\n\n• Continuously strive to improve knowledge around the Fortinet products and solutions, along with maintaining a deep understanding of the competitive landscape and Fortinet’s ability to provide long lasting protection against the ever-evolving threats.\n\n• Have a strong ability to position Fortinet solutions to the customer, whether this be remotely or in person. This requires strong communication skills and the ability to confidently present through whiteboarding, technical white papers, technical plans or customer discussions.\n\n• Manage your time effectively when working on multiple deals simultaneously, ensuring a positive customer experience is maintained.\n\n• Maintain accurate activity, contact, and account technical information of all customers and prospects in our CRM (Salesforce).\n\nApply if you\n\n• Have a high aptitude for security technology, specifically encryption, authentication, with further knowledge of network security, intrusion detection, anti-virus, routing, switching, LAN and WAN being desirable. The CISSP accreditation would also be beneficial.\n\n• Are currently or have previously worked in a pre-sales engineer role, managing end to end technical aspects of deals, through to technical closure.\n\n• Can demonstrate your problem solving skills and how this has impacted key wins within your current organisation.\n\n• Understand and can demonstrate your ability to build and maintain customer relationships, including your ability to effectively communicate technically to a range of both external and internal stakeholders.\n\n• Have a strong understanding of RADIUS, PKI, IKE, Certificates, L2TP, IPSEC, FIREWALL, 802.1Q, MD5, SSH, SSL, SHA1, DES, 3DES\n\nWhat you can expect from us\n\n• Excellent training and development opportunities, providing you with all the tools you need to be successful.\n\n• An open working environment, sharing knowledge and information collaboratively and transparently, with respect to everyone’s thoughts and opinions.\n\n• The opportunity to be part of an innovative, collaborative and winning team.\n\n• A competitive salary and incentive compensation package, including stock awards, health and welfare benefits.\n\nFrom the start, the Fortinet vision has been to deliver broad, truly integrated, high-performance security across the IT infrastructure. Today, we secure the largest enterprises, service providers and government organizations around the world.\n\nFortinet empowers its customers with intelligent, seamless protection across the expanding attack surface and the power to take on ever-increasing performance requirements of the borderless network – today and into the future. We have proven to be a truly innovative technology driven network security company with over 619 registered Global Patents. This is over 3 times more than our closest most innovative competitor!\n\n#LI - AB1"
+  },
+  {
+   "id": "eand:11367",
+   "source": "eand",
+   "company": "e& (Etisalat)",
+   "title": "Expert Engineer Mobile Regional Projects (UAE National)",
+   "locations": [
+    "Dubai, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-09-28",
+   "summary": "We are seeking an Expert Engineer to lead Mobile Regional Projects, ensuring successful installation, testing, and integration of Mobile Access Networks across the UAE.",
+   "url": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11367",
+   "first_seen": "2026-10-04T17:12:04Z",
+   "description": "The Expert Engineer will play a vital role in guiding and executing Mobile Access Network projects, adhering to contractual specifications. They will provide professional support to subordinates, ensuring efficient and effective project delivery.\n\nResponsibilities\n• Implements and reviews KPIs on project progress and compliance to project schedule.\n• Carries out the resolution of complex issues/ concerns that adversely impact project quality and schedule\n• Generates surveys and analyses for site readiness to accommodate equipment delivery and installation\n• Guides & performs all activities related to hardware installation and software loading as well as verification of features and functions\n• Interfaces with vendors, regions and consultants on Mobile Access Network issues as required.\n• Assists in the performance review of contractors and suppliers in terms of project specifications and schedule\n• Keeps abreast of new technologies, systems and developments in the Mobile Access Network area\n• Identifies training needs of subordinates to ensure enhancement of skills\n• Provides professional guidance and support to subordinates in carrying out the assigned functions\n\nQualifications\n• Bachelor’s Degree in Engineering/ Telecommunications/ Electrical Engineering or equivalent\n• Strong knowledge of Mobile Access Network technologies and protocols.\n• Excellent leadership and communication skills for guiding teams.\n• Ability to work independently and manage multiple projects.\n• Proficiency in project management tools and techniques.\n• Analytical skills for problem-solving and decision-making.\n• Valid driving license for regional travel.\n•\nWillingness to undergo training and development opportunities."
+  },
+  {
+   "id": "fortinet:24036",
+   "source": "fortinet",
+   "company": "Fortinet",
+   "title": "Systems Engineer - APPSEC",
+   "locations": [
+    "Dubai, Dubai, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-09-23",
+   "summary": "Systems Engineer – (APPSEC) FortiADC, FortiWeb, FortiAppSec\n\nLocation – Dubai (UAE)\n\nAs a member of the System Engineering department, you will work closely with the Sales Team to position our portfolio of Solutions.\n\nJob Responsibilities:\n\nLead all technical aspects of a sales cycle with the Enterprise customers, from the initial RFIs, through to RFPs & RFQs when required. This includes the project management and active participation in POCs in partnership with the relevant teams both internally and within the customer and/or commercial partner.",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24036",
+   "first_seen": "2026-10-04T17:12:04Z",
+   "description": "Systems Engineer – (APPSEC) FortiADC, FortiWeb, FortiAppSec\n\nLocation – Dubai (UAE)\n\nAs a member of the System Engineering department, you will work closely with the Sales Team to position our portfolio of Solutions.\n\nJob Responsibilities:\n\n•\nLead all technical aspects of a sales cycle with the Enterprise customers, from the initial RFIs, through to RFPs & RFQs when required. This includes the project management and active participation in POCs in partnership with the relevant teams both internally and within the customer and/or commercial partner.\n\n•\nHave the ability to listen and to understand the technical requirements of the customer, reading between the lines to build a solution which outperforms the competitor offering.\n\n•\nBe the primary technical point of contact for the customer(s) and partners in close collaboration with your sales partner.\n\nRequired skills:\n\n•\nTechnical pre-sales experience (8 years)\n\n•\nVendor experience in similar fields\n\n•\nExperience in a global organization, international is preferred\n\n•\nStrong understanding of Web Technology, Application Security, Network Security, TCP/IP, Routing, Switching\n\n•\nArchitectural and hands-on experience with both on-prem and cloud infrastructures (AWS, Azure, GCP)\n\n•\nExpert level in at least two of the following areas:\n\n•\nDDoS: DoS/DDoS detection, analysis and mitigation, Routing protocols (OSPF, BGP), TCP/IP, DNS in-depth, Multi-layer L3-L4-L7 attack vectors, vulnerability analysis, network defense, auditing processes\n\n•\nADC: Load Balancing (SLB, LLB, GSLB), OWASP TOP10, Negative/Positive Security model, Signature and Machine Learning based protection, HTTP/2 – HTTP/3, TLS 1.3, API security (OpenAPI, REST, GraphQL), Bot Protection, DoS protection, Threat Analytics\n\n•\nCASB: Proxy, API, Cloud SaaS (e.g. Office 365, Salesforce, ServiceNow, Box etc). Cloud IaaS management, Compliance reporting, SSPM, DLP, EntraID, Directory Services.\n\n•\nStrong presentation skills to executives, DMU and technical individual contributors\n\n•\nExcellent English written and verbal communication skills\n\n•\nA self-motivated, independent thinker\n\n•\nCandidates with hands-on experience with one of the leading vendors are preferred\n\n•\nCISSP, CISM, Fortinet NSE4, 7 or other equivalent certification is a plus\n\n•\nBachelor's degree or equivalent experience in the network security industry.\n\nWhat you can expect from us\n\n•\nExcellent training and development opportunities, providing you with all the tools you need to be successful.\n\n•\nAn open working environment, sharing knowledge and information collaboratively and transparently, with respect to everyone’s thoughts and opinions.\n\n•\nThe opportunity to be part of an innovative, collaborative and winning team.\n\n•\nA competitive salary and incentive compensation package, including stock awards, health and welfare benefits.\n\nWhy Join Us:\n\nAt Fortinet, we embrace diversity and inclusivity. We encourage applications from diverse backgrounds and identities. Explore our welcoming work environment designed for a rewarding career journey with an attractive Total Rewards package to support you with your overall health and financial well-being. Join us in bringing solutions that make a meaningful and lasting impact to our 660,000+ customers around the globe.\n\nWe will only notify shortlisted candidates.\n\nFortinet will not entertain any unsolicited resumes, please refrain from sending them to any Fortinet employees or Fortinet email aliases. Should any Agency submit any resumes to Fortinet, these resumes if considered, will be assumed to have been given by the Agency free of any related fees/charges.\n\n<#LI-APPSEC>"
+  },
+  {
+   "id": "fortinet:24037",
+   "source": "fortinet",
+   "company": "Fortinet",
+   "title": "Systems Engineer - SASE",
+   "locations": [
+    "Dubai, Dubai, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-09-23",
+   "summary": "Systems Engineer - SASE \n\nLocation – UAE (Dubai)                          \n\nWe are looking for a Systems Engineer to work closely with a sales representative in a defined territory. The Systems Engineer's main mission will be to support the sales organization in all technical matters regarding pre-sales, sales calls, and post-sales.",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24037",
+   "first_seen": "2026-10-04T17:12:04Z",
+   "description": "Systems Engineer - SASE\n\nLocation – UAE (Dubai)\n\nWe are looking for a Systems Engineer to work closely with a sales representative in a defined territory. The Systems Engineer's main mission will be to support the sales organization in all technical matters regarding pre-sales, sales calls, and post-sales.\n\nWith us you will\n\n• Lead all technical aspects of a sales cycle with the Enterprise customers, from the initial RFIs, through to RFPs & RFQs when required. This includes the project management and active participation in POCs in partnership with the relevant teams both internally and within the customer and/or commercial partner.\n• Have the ability to listen and to understand the technical requirements of the customer, reading between the lines to build a solution which outperforms the competitor offering.\n• Be the primary technical point of contact for the customer(s) and partners in close collaboration with your sales partner.\n• Continuously strive to improve knowledge around the Fortinet products and solutions, along with maintaining a deep understanding of the competitive landscape and Fortinet’s ability to provide long lasting protection against the ever-evolving threats.\n• Collaborate with Regional Sales Managers and Regional Systems Engineers ensuring customers understand how to deliver value to their customers and partners with FortiSASE\n• Establish yourself as a trusted advisor to prospects and customers working with the Field Sales and Engineering teams\n• Deliver outstanding service and problem resolution to Fortinet customers\n• Have a strong ability to position Fortinet solutions to the customer, whether this be remotely or in person. This requires strong communication skills and the ability to confidently present through whiteboarding, technical white papers, technical plans or customer discussions.\n• Manage your time effectively when working on multiple deals simultaneously, ensuring a positive customer experience is maintained.\n• Maintain accurate activity, contact, and account technical information of all customers and prospects in our CRM (Salesforce).\n\nApply if you\n\n• Have a high aptitude for security technology, specifically encryption, authentication, with further knowledge of network security, intrusion detection, anti-virus, routing, switching, LAN and WAN being desirable. The CISSP accreditation would also be beneficial.\n• Previous experience in network security. Knowledgeable in the following technologies SASE, VPN, Firewall, Anti-Virus, Anti-Spam, Intrusion Prevention, and Content Filtering.\n• Strong analytical, communication and presentation skills to evaluate complex problems to find a systematic approach to gain a quick resolution\n• Ability to work independently with little direction – travel will be required in territory\n• Are currently or have previously worked in a pre-sales engineer role, managing end to end technical aspects of deals, through to technical closure.\n• Can demonstrate your problem solving skills and how this has impacted key wins within your current organisation.\n• Understand and can demonstrate your ability to build and maintain customer relationships, including your ability to effectively communicate technically to a range of both external and internal stakeholders.\n• Have a strong understanding of RADIUS, PKI, IKE, Certificates, L2TP, IPSEC, FIREWALL, 802.1Q, MD5, SSH, SSL, SHA1, DES, 3DES\n\nWhat you can expect from us\n\n• Excellent training and development opportunities, providing you with all the tools you need to be successful.\n• An open working environment, sharing knowledge and information collaboratively and transparently, with respect to everyone’s thoughts and opinions.\n• The opportunity to be part of an innovative, collaborative and winning team.\n• A competitive salary and incentive compensation package, including stock awards, health and welfare benefits.\n\nFrom the start, the Fortinet vision has been to deliver broad, truly integrated, high-performance security across the IT infrastructure. Today, we secure the largest enterprises, service providers and government organizations around the world.\n\nFortinet empowers its customers with intelligent, seamless protection across the expanding attack surface and the power to take on ever-increasing performance requirements of the borderless network – today and into the future. We have proven to be a truly innovative technology driven network security company with over 619 registered Global Patents. This is over 3 times more than our closest most innovative competitor!"
+  },
+  {
+   "id": "fortinet:23771",
+   "source": "fortinet",
+   "company": "Fortinet",
+   "title": "Professional Services Consultant",
+   "locations": [
+    "Dubai, United Arab Emirates"
+   ],
+   "workplace_type": "Hybrid",
+   "category": "",
+   "posted_date": "2026-09-22",
+   "summary": "The Professional Services Consultant works on Customer site, with the aim of providing timely, quality and cost-effective technical services, including vendor expertise during security infrastructure design, deployment, testing and verification, optimization and operation services.",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23771",
+   "first_seen": "2026-10-04T17:12:04Z",
+   "description": "The Professional Services Consultant works on Customer site, with the aim of providing timely, quality and cost-effective technical services, including vendor expertise during security infrastructure design, deployment, testing and verification, optimization and operation services.\n\nProfessional Services within Fortinet is an integral part of the support and services organization, as a result the Engineer will collaborate with their assigned Customer and effectively with peers to drive customer satisfaction. This role is for an on-site engagement.\n\nThe Dedicated Professional Services Engineer works on Customer site, with the aim of providing timely, quality and cost-effective technical services, including vendor expertise during security infrastructure design, deployment, testing and verification, optimization and operation services.\n\nThe Engineer instills confidence through their technical ability, focused communication skills and structured approach. This role requires a constant focus on improving technical skills through training or on-job learning opportunities. The Engineer needs to be collaborative and build effective working relationships within the Customer and Fortinet to drive success.\n\nResponsibilities:\n\n• Assists the Customer during the Think and Build phases of a project.\n• Develops and maintains technical project documentation: high/low level design documentation, method of procedure, test plans, configuration templates and scripts.\n• Provisions, customizes and verifies Fortinet configurations based on recommended and approved design.\n• Tests Fortinet solutions and verifies system behavior.\n• Participates to interoperability/integration testing of devices that interact with Fortinet products.\n• Recommends and Implements Fortinet best practices.\n• Resolves and/or escalates technical issues in a timely fashion.\n• Delivers general knowledge transfer to client staff.\n• Develops and maintains core competency on Fortinet’s product line and technologies.\n\nJob Requirements:\n\n• + 7 years of experience in LAN/WAN/Network Security Products.\n• Experience with designing and implementing SD-WAN solutions and FortiGate, FortiManager, FortiAnalyzer product families.\n• Experience in complex routing and WAN environments where BGP, OSFP is a requirement.\n• Work experience in maintaining, deploying or designing MPLS networks in particular L3 VPN.\n• Experience in implementing cybersecurity solutions in OT (Operational Technology) environments such as industrial equipments, SCADA systems, HVAC systems, Programmable Logic Controllers (PLCs) or Distributed Control Systems (DCS).\n• Excellent communication and technical documentation skills.\n• Proven ability to work independently as well as in a team in a collaborative environment. Ability to elicit cooperation from a wide variety of sources, including management, clients, and other departments.\n• Positive customer service attitude with excellent soft skills.\n\nEducation:\n\n• Master's Degree in technical or management discipline and/or equivalent extensive workrelated experience.\n\n#LI-Hybrid"
+  },
+  {
+   "id": "eand:11404",
+   "source": "eand",
+   "company": "e& (Etisalat)",
+   "title": "AI Graduate Programme",
+   "locations": [
+    "United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-06-19",
+   "summary": "This programme is central to our mission: developing UAE National talent into the next generation of tech leaders. Through it, you'll explore emerging technologies, Artificial Intelligence, leadership fundamentals, and gain practical, hands-on experience across e& offices in the UAE.",
+   "url": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11404",
+   "first_seen": "2026-10-04T17:12:04Z",
+   "description": "Let’s shape e&’s digital transformation.\n\nJoin the e& AI Graduate Programme.\n\nAre you ready to leap into a world where technology shapes lives, and collaboration powers innovation? Look no further. At e&, we’re not just embracing the digital future; we’re driving it—and we want you to come along for the ride. Dive into the e& AI Graduate Programme, a 12-month adventure that’s both well-rounded and downright fun!\n\nThis programme is central to our mission: developing UAE National talent into the next generation of tech leaders. Through it, you'll explore emerging technologies, Artificial Intelligence, leadership fundamentals, and gain practical, hands-on experience across e& offices in the UAE.\n\nWhy e& AI Graduate Programme?\n\nOur programme isn’t just a pathway to the tech world; it’s a launchpad for any career, tech or non-tech. Whether you’re into the fundamentals of IT and Technology or thrive in areas like HR, Finance, Strategy, Operations, Business or Sales, we have a track for you. This programme is open to all majors and specialisations, inviting a rich mix of perspectives and expertise.\n\n🌟 What’s the programme about:\n\n• Duration: 12 months of fun and practical work-based training.\n\n• Tracks: Whether you're a tech-savvy or not, we've got you covered with both tech and non-tech learning journey. From IT and technology to HR, Consumer, and Sales, there's a place for every major and specialisation.\n\n• Learning: You'll have access to top-notch AI learning and development programmes through our best-in-class educational partners.\n\n🚀 What we offer:\n\n• Vibrant culture: Work in a people-centric organisation with a diverse team of highly motivated professionals that unite as one, dare to be bold and are customer-obsessed.\n\n• Competitive benefits: Enjoy a competitive salary package with perks like medical insurance, telephone rebates, and discounts on gyms, restaurants, and retail.\n\n• Work-life balance: Experience our flexible work environment that perfectly balances your professional and personal life.\n\n🎓 Who should apply:\n\n• Education: Graduates with a Bachelor’s degree or higher from any top institution, accredited by the UAE Ministry of Education (all majors).\n\n• Experience: Up to 2 years of professional experience.\n\n• Graduated within the last 2 years.\n\n• GPA of 3 and higher.\n\n• Passion: We want inspired and passionate graduates ready to contribute to our digital future.\n\nWhy wait? Apply now and be a part of e&’s digital transformation\n\nJoin us for a year of challenges, learning, and fun! If you fit the bill, our team will reach out to guide you through the assessment process and on to the exciting next steps. Let's innovate and grow together in the e& AI Graduate Programme.\n\n💡 Diversity is our strength:\n\nAt e&, we cherish diversity and are committed to creating an inclusive environment for all. We encourage people from all backgrounds, ages, and abilities to apply. If you require any adjustments or accommodations during the selection process, please reach out to DiversityEquity&Inclusion@eand.com."
+  },
+  {
+   "id": "fortinet:22228",
+   "source": "fortinet",
+   "company": "Fortinet",
+   "title": "Professional Services Consultant - Abu Dhabi",
+   "locations": [
+    "Dubai, United Arab Emirates",
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "Hybrid",
+   "category": "",
+   "posted_date": "2026-03-18",
+   "summary": "The Professional Services Consultant works on Customer site, with the aim of providing timely, quality and cost-effective technical services, including vendor expertise during security infrastructure design, deployment, testing and verification, optimization and operation services.",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22228",
+   "first_seen": "2026-10-04T17:12:04Z",
+   "description": "This role is based in Abu Dhabi (due to customer location).\n\nThe Professional Services Consultant works on Customer site, with the aim of providing timely, quality and cost-effective technical services, including vendor expertise during security infrastructure design, deployment, testing and verification, optimization and operation services.\n\nProfessional Services within Fortinet is an integral part of the support and services organization, as a result the Engineer will collaborate with their assigned Customer and effectively with peers to drive customer satisfaction. This role is for an on-site engagement.\n\nThe Dedicated Professional Services Engineer works on Customer site, with the aim of providing timely, quality and cost-effective technical services, including vendor expertise during security infrastructure design, deployment, testing and verification, optimization and operation services.\n\nThe Engineer instills confidence through their technical ability, focused communication skills and structured approach. This role requires a constant focus on improving technical skills through training or on-job learning opportunities. The Engineer needs to be collaborative and build effective working relationships within the Customer and Fortinet to drive success.\n\nResponsibilities:\n\n• Assists the Customer during the Think and Build phases of a project.\n• Develops and maintains technical project documentation: high/low level design documentation, method of procedure, test plans, configuration templates and scripts.\n• Provisions, customizes and verifies Fortinet configurations based on recommended and approved design.\n• Tests Fortinet solutions and verifies system behavior.\n• Participates to interoperability/integration testing of devices that interact with Fortinet products.\n• Recommends and Implements Fortinet best practices.\n• Resolves and/or escalates technical issues in a timely fashion.\n• Delivers general knowledge transfer to client staff.\n• Develops and maintains core competency on Fortinet’s product line and technologies.\n\nJob Requirements:\n\n• + 7 years of experience in LAN/WAN/Network Security Products.\n• Experience with designing and implementing SD-WAN solutions and FortiGate, FortiManager, FortiAnalyzer product families.\n• Experience in complex routing and WAN environments where BGP, OSFP is a requirement.\n• Work experience in maintaining, deploying or designing MPLS networks in particular L3 VPN.\n• Experience in implementing cybersecurity solutions in OT (Operational Technology) environments such as industrial equipments, SCADA systems, HVAC systems, Programmable Logic Controllers (PLCs) or Distributed Control Systems (DCS).\n• Excellent communication and technical documentation skills.\n• Proven ability to work independently as well as in a team in a collaborative environment. Ability to elicit cooperation from a wide variety of sources, including management, clients, and other departments.\n• Positive customer service attitude with excellent soft skills.\n\nEducation:\n\n• Master's Degree in technical or management discipline and/or equivalent extensive workrelated experience."
+  }
+ ]
 }
