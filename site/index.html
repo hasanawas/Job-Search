@@ -23,6 +23,13 @@
         <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
         <input id="search" type="search" placeholder="Search by title, skill or company" aria-label="Search jobs" autocomplete="off">
       </label>
+      <div class="hero-actions">
+        <button id="cv-open" class="btn btn-gold" type="button">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M12 18v-6M9 15l3-3 3 3"/></svg>
+          <span id="cv-open-label">Upload your CV to find matching jobs</span>
+        </button>
+        <span class="hero-note">Your CV is read on your device and never uploaded.</span>
+      </div>
       <div class="stats" id="stats"></div>
     </div>
   </header>
@@ -57,10 +64,31 @@
     </aside>
 
     <section class="results" aria-label="Jobs">
+      <div id="cv-panel" class="cv-panel" hidden>
+        <div class="cv-panel-head">
+          <div>
+            <p class="cv-kicker">Matched to your CV</p>
+            <p class="cv-file" id="cv-file"></p>
+          </div>
+          <div class="cv-actions">
+            <button id="cv-change" class="btn btn-ghost" type="button">Change CV</button>
+            <button id="cv-stop" class="btn btn-ghost" type="button">Stop matching</button>
+          </div>
+        </div>
+        <p class="cv-fields" id="cv-fields"></p>
+        <div class="cv-skills" id="cv-skills"></div>
+        <form id="cv-add" class="cv-add" autocomplete="off">
+          <input id="cv-add-input" list="cv-skill-list" placeholder="Add a skill we missed" aria-label="Add a skill">
+          <datalist id="cv-skill-list"></datalist>
+          <button class="btn btn-ghost" type="submit">Add</button>
+        </form>
+        <label class="cv-toggle"><input type="checkbox" id="cv-only" checked> Only show jobs that match my CV</label>
+      </div>
       <div class="results-head">
         <p id="count" class="count" aria-live="polite"></p>
         <label class="sort">Sort
           <select id="sort">
+            <option value="match" id="sort-match" hidden>Best match</option>
             <option value="new">Newest on portal</option>
             <option value="posted">Recently posted</option>
             <option value="company">Company A–Z</option>
@@ -94,11 +122,27 @@
         </div>
       </div>
       <div class="d-tags" id="d-tags"></div>
+      <div class="d-match" id="d-match" hidden></div>
       <a id="d-apply" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Apply on company site ↗</a>
       <div id="d-desc" class="d-desc"></div>
     </div>
   </dialog>
 
+  <dialog id="cv-dialog" class="modal" aria-labelledby="cv-title">
+    <form method="dialog" class="d-close"><button aria-label="Close">×</button></form>
+    <h2 id="cv-title">Find jobs that match your CV</h2>
+    <p class="muted">We read your CV right here in your browser, pick out your skills, and rank every job by how well it fits. The file never leaves your device.</p>
+    <label class="drop" id="cv-drop">
+      <input type="file" id="cv-file-input" accept=".pdf,.docx,.txt,application/pdf,application/vnd.openxmlformats-officedocument.wordprocessingml.document,text/plain">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16V4M7 9l5-5 5 5"/><path d="M4 16v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3"/></svg>
+      <b>Drop your CV here or click to choose</b>
+      <span>PDF, Word (.docx) or text</span>
+    </label>
+    <p class="cv-status" id="cv-status" role="status"></p>
+  </dialog>
+
+  <script src="skills.js"></script>
+  <script src="cv.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
