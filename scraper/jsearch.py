@@ -12,6 +12,8 @@ import time
 import urllib.parse
 import urllib.request
 
+from common import country_name
+
 HOST = "jsearch.p.rapidapi.com"
 KEY_ENV = "JSEARCH_API_KEY"
 
@@ -35,11 +37,14 @@ def _get_json(url, key, retries=3):
 
 
 class JSearchSource:
+    keep_unlisted_days = 21  # search only covers recent posts, so keep jobs it found earlier this long
+    needs_key = KEY_ENV
+
     def __init__(self, source):
         self.source = source
         self.key = os.environ.get(KEY_ENV, "").strip()
         self.queries = source.get("queries", [])
-        self.country = source.get("country", "ae")
+        self.country = source.get("search_country", "ae")
         self.date_posted = source.get("date_posted", "3days")
         self.publishers = {p.lower() for p in source.get("publishers", [])}
 
@@ -64,17 +69,27 @@ class JSearchSource:
                 seen.add(jid)
                 if self.publishers and (job.get("job_publisher") or "").lower() not in self.publishers:
                     continue
-                yield job
+                yield self._posting(job)
             time.sleep(1)
 
-    @staticmethod
-    def locations(job):
-        parts = [job.get("job_city"), job.get("job_state")]
-        country = job.get("job_country")
-        loc = ", ".join(p for p in parts if p)
-        if country:
-            loc = f"{loc}, {'United Arab Emirates' if country == 'AE' else country}" if loc else country
-        return [loc] if loc else []
+    def _posting(self, job):
+        code = (job.get("job_country") or "").upper()
+        place = ", ".join(p for p in [job.get("job_city"), job.get("job_state")] if p)
+        loc = ", ".join(p for p in [place, country_name(code)] if p)
+        return {
+            "key": job["job_id"],
+            "title": (job.get("job_title") or "").strip(),
+            "company": (job.get("employer_name") or "").strip() or "Unknown company",
+            "via": job.get("job_publisher") or "",
+            "locations": [loc] if loc else [],
+            "countries": [code] if code else [],
+            "workplace_type": "Remote" if job.get("job_is_remote") else "",
+            "categories": [],
+            "posted_date": (job.get("job_posted_at_datetime_utc") or "")[:10],
+            "summary": "",
+            "url": self.apply_url(job),
+            "description": (job.get("job_description") or "").strip()[:8000],
+        }
 
     @staticmethod
     def apply_url(job):

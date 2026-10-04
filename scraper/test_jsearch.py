@@ -3,7 +3,7 @@ from unittest import mock
 
 import jsearch
 import scrape
-from it_filter import ITFilter
+from it_filter import FieldTagger, ITFilter
 
 RESULTS = {"data": [
     {"job_id": "a1", "job_title": "DevOps Engineer", "employer_name": "Careem", "job_publisher": "LinkedIn",
@@ -24,7 +24,8 @@ class JSearchTest(unittest.TestCase):
         with mock.patch.dict("os.environ", {"JSEARCH_API_KEY": "k"}), \
                 mock.patch.object(jsearch, "_get_json", return_value=RESULTS) as get, \
                 mock.patch.object(jsearch.time, "sleep"):
-            jobs, stats = scrape.scrape_source(cfg, ITFilter.load(), previous, "2026-10-04T00:00:00Z", lambda m: None, known)
+            jobs, stats = scrape.scrape_source(cfg, {"countries": ["AE"]}, ITFilter.load(), FieldTagger.load(), previous,
+                                               "2026-10-04T00:00:00Z", lambda m: None, known)
         return jobs, stats, get
 
     def test_filters_dedupes_and_prefers_direct_link(self):
@@ -37,6 +38,7 @@ class JSearchTest(unittest.TestCase):
         self.assertEqual(job["locations"], ["Dubai, United Arab Emirates"])
         self.assertEqual(job["posted_date"], "2026-10-03")
         self.assertEqual(stats["new"], 1)
+        self.assertEqual(job["field"], "DevOps & Cloud")
 
     def test_keeps_recent_unlisted_jobs_and_drops_old_ones(self):
         recent = {"id": "jb:old1", "title": "Recent", "first_seen": scrape.now_iso()}

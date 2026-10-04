@@ -1,33 +1,48 @@
-"""Checks every careers site in config/sources.json, keeps only IT jobs,
-and writes site/data/jobs.json for the portal.
+"""Checks every careers site in config/sources.json, keeps only IT jobs in the
+selected countries, tags each with an IT field, and writes site/data/jobs.json.
 
-    python scraper/scrape.py              # update site/data/jobs.json
-    python scraper/scrape.py --dry-run    # just print what would be found
+    python scraper/scrape.py                    # update site/data/jobs.json
+    python scraper/scrape.py --dry-run          # just print what would be found
+    python scraper/scrape.py --dry-run --only g42,ifs
 """
 
 import argparse
 import json
+import os
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from it_filter import ITFilter  # noqa: E402
+from common import country_name  # noqa: E402
+from it_filter import FieldTagger, ITFilter  # noqa: E402
 from jsearch import JSearchSource  # noqa: E402
 from oracle_hcm import OracleHCMSource  # noqa: E402
+from phenom import PhenomSource  # noqa: E402
+from smartrecruiters import SmartRecruitersSource  # noqa: E402
+from workday import WorkdaySource  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_PATH = ROOT / "config" / "sources.json"
 OUTPUT_PATH = ROOT / "site" / "data" / "jobs.json"
-MAX_DETAIL_FETCHES_PER_SOURCE = 200  # full descriptions are fetched once per new job
+MAX_DETAIL_FETCHES_PER_SOURCE = 150  # full descriptions are fetched once per new job
 
-SOURCE_TYPES = {"oracle_hcm": OracleHCMSource, "jsearch": JSearchSource}
-KEEP_UNLISTED_DAYS = 21  # job-board search only returns recent posts, so keep older ones this long
+SOURCE_TYPES = {
+    "oracle_hcm": OracleHCMSource,
+    "smartrecruiters": SmartRecruitersSource,
+    "workday": WorkdaySource,
+    "phenom": PhenomSource,
+    "jsearch": JSearchSource,
+}
 
 
 def now_iso():
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
+
+def norm(text):
+    return " ".join((text or "").lower().replace("&", "and").split())
 
 
 def load_previous():
@@ -37,104 +52,92 @@ def load_previous():
     return {"jobs": []}
 
 
-def norm(text):
-    return " ".join((text or "").lower().replace("&", "and").split())
+def wanted_countries(cfg, default):
+    """A source's own 'countries' list wins; "all" (or []) keeps every country."""
+    countries = cfg.get("countries", default)
+    if countries in ("all", None) or countries == []:
+        return None
+    return {c.upper() for c in countries}
 
 
-def scrape_jsearch(scraper, cfg, it_filter, previous_jobs, run_time, log, known):
-    """Job-board results. `known` holds (company, title) pairs already found on
-    company career sites, so the same opening isn't listed twice."""
+def scrape_source(cfg, defaults, it_filter, tagger, previous_jobs, run_time, log, known=()):
+    """Returns (jobs, stats) for one source. `known` holds (company, title) pairs already
+    collected from earlier sources, so a job-board copy of the same opening is skipped."""
+    countries = wanted_countries(cfg, defaults.get("countries"))
+    # Sources that filter by country on the server (Workday) need the resolved list.
+    scraper = SOURCE_TYPES[cfg["type"]]({**cfg, "countries": sorted(countries or [])})
     previous = {j["id"]: j for j in previous_jobs}
-    jobs, stats = [], {"listed": 0, "in_location": 0, "it": 0, "new": 0}
-    for raw in scraper.fetch():
+    jobs, skipped = [], []
+    stats = {"listed": 0, "in_location": 0, "it": 0, "new": 0}
+    details_fetched = 0
+
+    for post in scraper.fetch():
         stats["listed"] += 1
-        stats["in_location"] += 1
-        title = (raw.get("job_title") or "").strip()
-        company = (raw.get("employer_name") or "").strip()
-        if not it_filter.is_it_job(title):
-            log(f"    skipped (not IT): {title} | {company}")
+        if countries is not None and not (set(post["countries"]) & countries):
             continue
+        stats["in_location"] += 1
+        title = post["title"]
+        if not it_filter.is_it_job(title, post.get("categories", [])):
+            skipped.append(title)
+            continue
+        company = post.get("company") or cfg["company"]
         if any(t == norm(title) and (c in norm(company) or norm(company) in c) for c, t in known):
             continue
         stats["it"] += 1
-        job_id = f'{cfg["id"]}:{raw["job_id"]}'
+
+        job_id = f'{cfg["id"]}:{post["key"]}'
         old = previous.get(job_id)
-        if not old:
-            stats["new"] += 1
-        jobs.append({
-            "id": job_id,
-            "source": cfg["id"],
-            "company": company or "Unknown company",
-            "via": raw.get("job_publisher") or "",
-            "title": title,
-            "locations": scraper.locations(raw),
-            "workplace_type": "Remote" if raw.get("job_is_remote") else "",
-            "category": "",
-            "posted_date": (raw.get("job_posted_at_datetime_utc") or "")[:10],
-            "summary": "",
-            "url": scraper.apply_url(raw),
-            "first_seen": old["first_seen"] if old else run_time,
-            "description": (raw.get("job_description") or "").strip()[:8000],
-        })
-    # Keep recent jobs the search didn't return this time (it only covers the last few days).
-    current = {j["id"] for j in jobs}
-    cutoff = datetime.now(timezone.utc).timestamp() - KEEP_UNLISTED_DAYS * 86400
-    for old in previous_jobs:
-        try:
-            seen_at = datetime.fromisoformat(old["first_seen"].replace("Z", "+00:00")).timestamp()
-        except (KeyError, ValueError):
-            continue
-        if old["id"] not in current and seen_at >= cutoff:
-            jobs.append(old)
-    return jobs, stats
-
-
-def scrape_source(cfg, it_filter, previous_jobs, run_time, log, known=frozenset()):
-    scraper = SOURCE_TYPES[cfg["type"]](cfg)
-    if isinstance(scraper, JSearchSource):
-        return scrape_jsearch(scraper, cfg, it_filter, previous_jobs, run_time, log, known)
-    previous = {j["id"]: j for j in previous_jobs}
-    jobs, stats = [], {"listed": 0, "in_location": 0, "it": 0, "new": 0}
-    skipped = []
-    details_fetched = 0
-
-    for req in scraper.list_jobs():
-        stats["listed"] += 1
-        if not scraper.in_selected_countries(req):
-            continue
-        stats["in_location"] += 1
-        title = (req.get("Title") or "").strip()
-        if not it_filter.is_it_job(title, scraper.categories(req)):
-            skipped.append(title)
-            continue
-        stats["it"] += 1
-
-        job_id = f'{cfg["id"]}:{req["Id"]}'
-        old = previous.get(job_id)
+        codes = [c for c in post["countries"] if countries is None or c in countries] or post["countries"]
         job = {
             "id": job_id,
             "source": cfg["id"],
-            "company": cfg["company"],
+            "company": company,
+            "via": post.get("via", ""),
             "title": title,
-            "locations": scraper.locations(req),
-            "workplace_type": req.get("WorkplaceType") or "",
-            "category": req.get("JobFamily") or req.get("JobFunction") or "",
-            "posted_date": req.get("PostedDate") or "",
-            "summary": (req.get("ShortDescriptionStr") or "").strip(),
-            "url": scraper.job_url(req["Id"]),
+            "field": tagger.tag(title, post.get("categories", [])),
+            "country_code": codes[0] if codes else "",
+            "country": country_name(codes[0]) if codes else "",
+            "countries": [country_name(c) for c in codes],
+            "locations": post["locations"],
+            "workplace_type": post.get("workplace_type", ""),
+            "category": next((c for c in post.get("categories", []) if c), ""),
+            "posted_date": (post.get("posted_date") or "")[:10],
+            "summary": post.get("summary", ""),
+            "url": post["url"],
             "first_seen": old["first_seen"] if old else run_time,
-            "description": old.get("description", "") if old else "",
+            "description": post.get("description") or (old or {}).get("description", ""),
         }
-        if not old:
+        if old:
+            # Keep the exact date and locations read from the detail page last time.
+            if old.get("posted_date"):
+                job["posted_date"] = old["posted_date"]
+            if not job["locations"]:
+                job["locations"] = old.get("locations", [])
+        else:
             stats["new"] += 1
-        if not job["description"] and details_fetched < MAX_DETAIL_FETCHES_PER_SOURCE:
+        if not job["description"] and hasattr(scraper, "details") and details_fetched < MAX_DETAIL_FETCHES_PER_SOURCE:
             details_fetched += 1
             try:
-                job["description"] = scraper.description_from_details(scraper.details(req["Id"]))
+                extra = scraper.details(post)
+                job.update({k: v for k, v in extra.items() if v})
+                job["posted_date"] = job["posted_date"][:10]
             except Exception as e:
                 log(f"    could not fetch details for {job_id}: {e}")
         jobs.append(job)
-    for title in skipped[:30]:
+
+    keep_days = getattr(scraper, "keep_unlisted_days", 0)
+    if keep_days:
+        current = {j["id"] for j in jobs}
+        cutoff = datetime.now(timezone.utc).timestamp() - keep_days * 86400
+        for old in previous_jobs:
+            try:
+                seen_at = datetime.fromisoformat(old["first_seen"].replace("Z", "+00:00")).timestamp()
+            except (KeyError, ValueError):
+                continue
+            if old["id"] not in current and seen_at >= cutoff:
+                jobs.append(old)
+
+    for title in skipped[:25]:
         log(f"    skipped (not IT): {title}")
     return jobs, stats
 
@@ -148,45 +151,46 @@ def main():
 
     log = lambda msg: print(msg, flush=True)  # noqa: E731
     with open(SOURCES_PATH, encoding="utf-8") as f:
-        sources = json.load(f)["sources"]
+        config = json.load(f)
+    defaults = config.get("defaults", {})
+    sources = config["sources"]
     if args.only:
         wanted = set(args.only.split(","))
         sources = [s for s in sources if s["id"] in wanted]
 
-    it_filter = ITFilter.load()
+    it_filter, tagger = ITFilter.load(), FieldTagger.load()
     previous = load_previous()
     run_time = now_iso()
     all_jobs, source_status, failed = [], [], False
 
     for cfg in sources:
-        if cfg["type"] == "jsearch" and not JSearchSource(cfg).enabled:
-            log(f"Skipping {cfg['company']}: set the JSEARCH_API_KEY secret to turn it on")
+        needs = getattr(SOURCE_TYPES[cfg["type"]], "needs_key", None)
+        if needs and not os.environ.get(needs, "").strip():
+            log(f"Skipping {cfg['company']}: set the {needs} secret to turn it on")
             continue
         log(f"Checking {cfg['company']} ...")
         prev_for_source = [j for j in previous.get("jobs", []) if j.get("source") == cfg["id"]]
+        status = {"id": cfg["id"], "company": cfg["company"], "careers_page": cfg.get("careers_page", ""), "checked_at": run_time}
         try:
             known = {(norm(j["company"]), norm(j["title"])) for j in all_jobs}
-            jobs, stats = scrape_source(cfg, it_filter, prev_for_source, run_time, log, known)
-            log(f"  {stats['listed']} open jobs, {stats['in_location']} in selected locations, "
+            jobs, stats = scrape_source(cfg, defaults, it_filter, tagger, prev_for_source, run_time, log, known)
+            log(f"  {stats['listed']} open jobs, {stats['in_location']} in selected countries, "
                 f"{stats['it']} IT jobs ({stats['new']} new)")
-            for j in jobs[:15]:
-                log(f"    - {j['title']} | {', '.join(j['locations'][:2])}")
+            for j in jobs[:20]:
+                log(f"    + [{j['field']}] {j['title']} | {j['country']}")
             if stats["listed"] == 0:
                 failed = True
             all_jobs.extend(jobs)
-            source_status.append({"id": cfg["id"], "company": cfg["company"], "careers_page": cfg.get("careers_page", ""),
-                                  "ok": True, "checked_at": run_time, "it_jobs": len(jobs), **stats})
+            source_status.append({**status, "ok": True, "it_jobs": len(jobs), **stats})
         except Exception as e:
             failed = True
             log(f"  FAILED: {e}")
             # Keep showing what we had, rather than wiping the company off the portal.
             all_jobs.extend(prev_for_source)
-            source_status.append({"id": cfg["id"], "company": cfg["company"], "careers_page": cfg.get("careers_page", ""),
-                                  "ok": False, "checked_at": run_time, "error": str(e)[:300],
-                                  "it_jobs": len(prev_for_source)})
+            source_status.append({**status, "ok": False, "error": str(e)[:300], "it_jobs": len(prev_for_source)})
 
-    all_jobs.sort(key=lambda j: (j["first_seen"], j["posted_date"]), reverse=True)
-    output = {"updated_at": run_time, "sources": source_status, "jobs": all_jobs}
+    all_jobs.sort(key=lambda j: (j["first_seen"], j.get("posted_date", "")), reverse=True)
+    output = {"updated_at": run_time, "fields": tagger.names, "sources": source_status, "jobs": all_jobs}
 
     if not args.dry_run:
         OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
