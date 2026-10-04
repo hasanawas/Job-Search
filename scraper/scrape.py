@@ -14,6 +14,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from it_filter import ITFilter  # noqa: E402
+from jsearch import JSearchSource  # noqa: E402
 from oracle_hcm import OracleHCMSource  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -21,7 +22,8 @@ SOURCES_PATH = ROOT / "config" / "sources.json"
 OUTPUT_PATH = ROOT / "site" / "data" / "jobs.json"
 MAX_DETAIL_FETCHES_PER_SOURCE = 200  # full descriptions are fetched once per new job
 
-SOURCE_TYPES = {"oracle_hcm": OracleHCMSource}
+SOURCE_TYPES = {"oracle_hcm": OracleHCMSource, "jsearch": JSearchSource}
+KEEP_UNLISTED_DAYS = 21  # job-board search only returns recent posts, so keep older ones this long
 
 
 def now_iso():
@@ -35,8 +37,62 @@ def load_previous():
     return {"jobs": []}
 
 
-def scrape_source(cfg, it_filter, previous_jobs, run_time, log):
+def norm(text):
+    return " ".join((text or "").lower().replace("&", "and").split())
+
+
+def scrape_jsearch(scraper, cfg, it_filter, previous_jobs, run_time, log, known):
+    """Job-board results. `known` holds (company, title) pairs already found on
+    company career sites, so the same opening isn't listed twice."""
+    previous = {j["id"]: j for j in previous_jobs}
+    jobs, stats = [], {"listed": 0, "in_location": 0, "it": 0, "new": 0}
+    for raw in scraper.fetch():
+        stats["listed"] += 1
+        stats["in_location"] += 1
+        title = (raw.get("job_title") or "").strip()
+        company = (raw.get("employer_name") or "").strip()
+        if not it_filter.is_it_job(title):
+            log(f"    skipped (not IT): {title} | {company}")
+            continue
+        if any(t == norm(title) and (c in norm(company) or norm(company) in c) for c, t in known):
+            continue
+        stats["it"] += 1
+        job_id = f'{cfg["id"]}:{raw["job_id"]}'
+        old = previous.get(job_id)
+        if not old:
+            stats["new"] += 1
+        jobs.append({
+            "id": job_id,
+            "source": cfg["id"],
+            "company": company or "Unknown company",
+            "via": raw.get("job_publisher") or "",
+            "title": title,
+            "locations": scraper.locations(raw),
+            "workplace_type": "Remote" if raw.get("job_is_remote") else "",
+            "category": "",
+            "posted_date": (raw.get("job_posted_at_datetime_utc") or "")[:10],
+            "summary": "",
+            "url": scraper.apply_url(raw),
+            "first_seen": old["first_seen"] if old else run_time,
+            "description": (raw.get("job_description") or "").strip()[:8000],
+        })
+    # Keep recent jobs the search didn't return this time (it only covers the last few days).
+    current = {j["id"] for j in jobs}
+    cutoff = datetime.now(timezone.utc).timestamp() - KEEP_UNLISTED_DAYS * 86400
+    for old in previous_jobs:
+        try:
+            seen_at = datetime.fromisoformat(old["first_seen"].replace("Z", "+00:00")).timestamp()
+        except (KeyError, ValueError):
+            continue
+        if old["id"] not in current and seen_at >= cutoff:
+            jobs.append(old)
+    return jobs, stats
+
+
+def scrape_source(cfg, it_filter, previous_jobs, run_time, log, known=frozenset()):
     scraper = SOURCE_TYPES[cfg["type"]](cfg)
+    if isinstance(scraper, JSearchSource):
+        return scrape_jsearch(scraper, cfg, it_filter, previous_jobs, run_time, log, known)
     previous = {j["id"]: j for j in previous_jobs}
     jobs, stats = [], {"listed": 0, "in_location": 0, "it": 0, "new": 0}
     skipped = []
@@ -103,10 +159,14 @@ def main():
     all_jobs, source_status, failed = [], [], False
 
     for cfg in sources:
+        if cfg["type"] == "jsearch" and not JSearchSource(cfg).enabled:
+            log(f"Skipping {cfg['company']}: set the JSEARCH_API_KEY secret to turn it on")
+            continue
         log(f"Checking {cfg['company']} ...")
         prev_for_source = [j for j in previous.get("jobs", []) if j.get("source") == cfg["id"]]
         try:
-            jobs, stats = scrape_source(cfg, it_filter, prev_for_source, run_time, log)
+            known = {(norm(j["company"]), norm(j["title"])) for j in all_jobs}
+            jobs, stats = scrape_source(cfg, it_filter, prev_for_source, run_time, log, known)
             log(f"  {stats['listed']} open jobs, {stats['in_location']} in selected locations, "
                 f"{stats['it']} IT jobs ({stats['new']} new)")
             for j in jobs[:15]:

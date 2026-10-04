@@ -22,6 +22,15 @@ Most big employers use a hosted careers platform. Supported today:
 
 Add an entry to `config/sources.json` with the host as `base_url` and `<SITE>` as `site_number`. Add `"countries": ["AE"]` to keep only UAE jobs from a global company. Other platforms (Workday, SuccessFactors, Greenhouse, …) need a small new scraper in `scraper/`.
 
+## LinkedIn and other job boards
+
+LinkedIn has no public jobs API and its terms forbid scraping, so LinkedIn (plus Indeed, Bayt, Glassdoor and others) comes in through the [JSearch API](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch), which reads Google for Jobs. To turn it on:
+
+1. Sign up at RapidAPI, subscribe to JSearch's free Basic plan (200 requests a month), and copy your `X-RapidAPI-Key`.
+2. In this repo: **Settings → Secrets and variables → Actions → New repository secret**, name `JSEARCH_API_KEY`, paste the key.
+
+Without the secret, that source is simply skipped. The `jobboards` entry in `config/sources.json` sets the search queries; each query costs one request per run. Jobs found on a company's own careers site aren't listed a second time.
+
 ## Tuning what counts as IT
 
 Edit `config/it_filter.json`: `include` words mark a title as IT, `exclude` words (sales, finance, HR…) override them.

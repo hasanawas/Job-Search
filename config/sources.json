@@ -1,5 +1,5 @@
 {
-  "_help": "Add one entry per company. type 'oracle_hcm' covers any careers site whose URL looks like https://<host>/hcmUI/CandidateExperience/<lang>/sites/<site_number>/... . 'countries' is optional: list ISO country codes to keep (e.g. [\"AE\"]); leave it out to keep every location.",
+  "_help": "Add one entry per company. type 'oracle_hcm' covers any careers site whose URL looks like https://<host>/hcmUI/CandidateExperience/<lang>/sites/<site_number>/... . 'countries' is optional: list ISO country codes to keep (e.g. [\"AE\"]); leave it out to keep every location. type 'jsearch' pulls LinkedIn, Indeed, Bayt and other job-board posts through the JSearch API: it needs a JSEARCH_API_KEY repository secret, each query uses one of the free plan's 200 requests a month per run (3 queries x 2 runs a day = about 180), and an optional 'publishers' list such as [\"LinkedIn\"] keeps only those boards.",
   "sources": [
     {
       "id": "eand",
@@ -17,6 +17,19 @@
       "site_number": "CX_2001",
       "careers_page": "https://www.fortinet.com/corporate/careers",
       "countries": ["AE"]
+    },
+    {
+      "id": "jobboards",
+      "company": "LinkedIn & job boards",
+      "type": "jsearch",
+      "careers_page": "https://www.linkedin.com/jobs/search/?location=United%20Arab%20Emirates",
+      "country": "ae",
+      "date_posted": "3days",
+      "queries": [
+        "IT jobs in United Arab Emirates",
+        "software developer jobs in United Arab Emirates",
+        "cyber security network cloud engineer jobs in United Arab Emirates"
+      ]
     }
   ]
 }

@@ -45,7 +45,7 @@ function render() {
     const li = el("li", { className: "job", tabIndex: 0 }, [
       el("div", {}, [
         el("h3", { textContent: job.title }),
-        el("div", { className: "meta", textContent: job.company }),
+        el("div", { className: "meta", textContent: job.company + (job.via ? ` · via ${job.via}` : "") }),
         el("div", { className: "meta", textContent: metaLine(job) }),
       ]),
       el("div", { className: "side" }, [isNew(job) && el("span", { className: "badge", textContent: "NEW" }), apply]),
@@ -61,7 +61,7 @@ function render() {
 }
 
 function openDetail(job) {
-  $("d-company").textContent = job.company;
+  $("d-company").textContent = job.company + (job.via ? ` · via ${job.via}` : "");
   $("d-title").textContent = job.title;
   $("d-meta").textContent = [cities(job).join(" · "), job.workplace_type, job.category,
     job.posted_date && "Posted " + fmtDate(job.posted_date)].filter(Boolean).join("  |  ");
