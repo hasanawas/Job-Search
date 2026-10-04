@@ -8,7 +8,9 @@ const FIELD_COLORS = {
 };
 const AVATAR_COLORS = ["#0f2342", "#1d4e89", "#0e6655", "#7a3e9d", "#a0522d", "#2f4f4f", "#8b1e3f", "#3d5a80"];
 
+const MIN_MATCH = 25; // with "only matching jobs" on, hide jobs below this match %
 const $ = (id) => document.getElementById(id);
+let scores = new Map();
 const state = { field: "" };
 let allJobs = [];
 
@@ -26,7 +28,9 @@ function when(job) {
   if (d <= 0) return "Posted today";
   if (d === 1) return "Posted yesterday";
   if (d < 30) return `Posted ${d} days ago`;
-  return "Posted " + new Date(ref).toLocaleDateString(undefined, { day: "numeric", month: "short" });
+  const date = new Date(ref);
+  const sameYear = date.getFullYear() === new Date().getFullYear();
+  return "Posted " + date.toLocaleDateString(undefined, sameYear ? { day: "numeric", month: "short" } : { day: "numeric", month: "short", year: "numeric" });
 }
 
 function el(tag, props = {}, children = []) {
@@ -68,6 +72,18 @@ function tagsFor(job, full = false) {
   ];
 }
 
+function matchPill(sc) {
+  if (!sc) return null;
+  const level = sc.pct >= 70 ? "hi" : sc.pct >= 40 ? "mid" : "lo";
+  return el("span", { className: `match ${level}`, textContent: `${sc.pct}% match` });
+}
+
+function whyLine(sc) {
+  if (!sc || !sc.matched.length) return null;
+  return el("p", { className: "why" }, ["Your skills: ", el("b", { textContent: sc.matched.slice(0, 5).join(" · ") }),
+    sc.matched.length > 5 ? ` +${sc.matched.length - 5} more` : ""]);
+}
+
 function companyLine(job) {
   return job.company + (job.via ? ` · via ${job.via}` : "");
 }
@@ -82,6 +98,7 @@ function matches(job, skip) {
     (!country || countryList(job).includes(country)) &&
     (!company || job.company === company) &&
     (!posted || ageDays(job.first_seen) < posted) &&
+    (!CV.state.active || !$("cv-only").checked || (scores.get(job.id)?.pct || 0) >= MIN_MATCH) &&
     (!q || [job.title, job.company, job.field, job.category, job.summary, cities(job).join(" ")].join(" ").toLowerCase().includes(q))
   );
 }
@@ -89,7 +106,8 @@ function matches(job, skip) {
 function sorted(jobs) {
   const by = $("sort").value;
   const list = [...jobs];
-  if (by === "posted") list.sort((a, b) => (b.posted_date || "").localeCompare(a.posted_date || ""));
+  if (by === "match" && CV.state.active) list.sort((a, b) => (scores.get(b.id)?.pct || 0) - (scores.get(a.id)?.pct || 0) || b.first_seen.localeCompare(a.first_seen));
+  else if (by === "posted") list.sort((a, b) => (b.posted_date || "").localeCompare(a.posted_date || ""));
   else if (by === "company") list.sort((a, b) => a.company.localeCompare(b.company) || a.title.localeCompare(b.title));
   else list.sort((a, b) => b.first_seen.localeCompare(a.first_seen) || (b.posted_date || "").localeCompare(a.posted_date || ""));
   return list;
@@ -124,6 +142,8 @@ function renderStats() {
 
 let fieldNames = [];
 function render() {
+  scores = new Map(CV.state.active ? allJobs.map((j) => [j.id, CV.score(j)]) : []);
+  renderCvPanel();
   renderFields(fieldNames);
   const shown = sorted(allJobs.filter((j) => matches(j)));
   $("jobs").replaceChildren(...shown.map((job) => {
@@ -135,8 +155,10 @@ function render() {
         el("h3", { textContent: job.title }),
         el("p", { className: "co", textContent: companyLine(job) }),
         el("div", { className: "tags" }, tagsFor(job)),
+        whyLine(scores.get(job.id)),
       ]),
       el("div", { className: "side" }, [
+        matchPill(scores.get(job.id)),
         el("div", { className: "when" }, [isNew(job) && el("span", { className: "badge-new", textContent: "NEW" }), " ", when(job)]),
         apply,
       ]),
@@ -155,6 +177,15 @@ function openDetail(job) {
   $("d-company").textContent = companyLine(job);
   $("d-title").textContent = job.title;
   $("d-tags").replaceChildren(...tagsFor(job, true), el("span", { className: "tag", textContent: when(job) }));
+  const sc = scores.get(job.id);
+  $("d-match").hidden = !sc;
+  if (sc) {
+    $("d-match").replaceChildren(
+      el("p", {}, [matchPill(sc), " with your CV"]),
+      sc.matched.length ? el("p", {}, [el("b", { textContent: "You have: " }), sc.matched.join(", ")]) : null,
+      sc.missing.length ? el("p", {}, [el("b", { textContent: "Also asked for: " }), sc.missing.slice(0, 10).join(", ")]) : null,
+    );
+  }
   $("d-apply").href = safeUrl(job.url);
   $("d-desc").textContent = job.description || job.summary || "Open the company site for the full description.";
   $("detail").showModal();
@@ -172,6 +203,81 @@ function renderSources(sources) {
   ])));
 }
 
+function renderCvPanel() {
+  const on = CV.state.active;
+  $("cv-panel").hidden = !on;
+  $("sort-match").hidden = !on;
+  $("cv-open-label").textContent = on ? "Update your CV" : "Upload your CV to find matching jobs";
+  if (!on) return;
+  const years = CV.state.years ? ` · about ${CV.state.years} years' experience` : "";
+  $("cv-file").textContent = (CV.state.fileName ? `From ${CV.state.fileName} · ` : "") + `${CV.state.skills.size} skills${years}`;
+  $("cv-fields").replaceChildren(...(CV.state.topFields.length
+    ? ["Your strongest areas: ", el("b", { textContent: CV.state.topFields.join(", ") })]
+    : ["Add a few more skills to sharpen your matches."]));
+  const skills = [...CV.state.skills].sort((a, b) => a.localeCompare(b));
+  $("cv-skills").replaceChildren(...skills.map((s) => {
+    const b = el("button", { className: "skill", type: "button", title: `Remove ${s}` }, [s, el("span", { textContent: "×", ariaHidden: "true" })]);
+    b.addEventListener("click", () => { CV.setSkills(skills.filter((x) => x !== s)); if (!CV.state.active) resetSort(); render(); });
+    return b;
+  }));
+}
+
+function resetSort() {
+  if ($("sort").value === "match") $("sort").value = "new";
+}
+
+async function handleCvFile(file) {
+  if (!file) return;
+  const status = $("cv-status");
+  status.className = "cv-status";
+  status.textContent = `Reading ${file.name}…`;
+  try {
+    const skills = await CV.analyze(file);
+    if (!skills.size) {
+      status.className = "cv-status err";
+      status.textContent = "We read your CV but didn't recognise any IT skills. You can add them by hand after closing this.";
+      CV.setSkills([], file.name);
+      return;
+    }
+    status.textContent = `Found ${skills.size} skills.`;
+    $("sort").value = "match";
+    $("cv-only").checked = true;
+    render();
+    $("cv-dialog").close();
+    $("cv-panel").scrollIntoView({ behavior: "smooth", block: "start" });
+  } catch (e) {
+    status.className = "cv-status err";
+    status.textContent = e.message || "Something went wrong reading that file.";
+  }
+}
+
+function wireCv() {
+  const open = () => { $("cv-status").textContent = ""; $("cv-file-input").value = ""; $("cv-dialog").showModal(); };
+  $("cv-open").addEventListener("click", open);
+  $("cv-change").addEventListener("click", open);
+  $("cv-stop").addEventListener("click", () => { CV.clear(); resetSort(); render(); });
+  $("cv-only").addEventListener("input", render);
+  $("cv-file-input").addEventListener("change", (e) => handleCvFile(e.target.files[0]));
+  const drop = $("cv-drop");
+  drop.addEventListener("dragover", (e) => { e.preventDefault(); drop.classList.add("over"); });
+  drop.addEventListener("dragleave", () => drop.classList.remove("over"));
+  drop.addEventListener("drop", (e) => { e.preventDefault(); drop.classList.remove("over"); handleCvFile(e.dataTransfer.files[0]); });
+  $("cv-dialog").addEventListener("click", (e) => { if (e.target === $("cv-dialog")) $("cv-dialog").close(); });
+  $("cv-skill-list").replaceChildren(...CV.allSkillNames.map((n) => el("option", { value: n })));
+  $("cv-add").addEventListener("submit", (e) => {
+    e.preventDefault();
+    const input = $("cv-add-input");
+    const wanted = input.value.trim().toLowerCase();
+    const name = CV.allSkillNames.find((n) => n.toLowerCase() === wanted);
+    if (!name) { input.setCustomValidity("Pick a skill from the list"); input.reportValidity(); return; }
+    input.setCustomValidity("");
+    CV.setSkills([...CV.state.skills, name]);
+    input.value = "";
+    render();
+  });
+  $("cv-add-input").addEventListener("input", (e) => e.target.setCustomValidity(""));
+}
+
 async function init() {
   try {
     const res = await fetch("data/jobs.json", { cache: "no-store" });
@@ -183,9 +289,13 @@ async function init() {
     fillSelect($("company"), allJobs.map((j) => j.company));
     renderSources(data.sources || []);
     renderStats();
+    CV.compile(allJobs);
+    CV.restore();
+    if (CV.state.active) $("sort").value = "match";
   } catch (e) {
     $("count").textContent = "Couldn't load jobs right now. Please try again shortly.";
   }
+  wireCv();
   for (const id of ["search", "country", "company", "posted", "sort"]) $(id).addEventListener("input", render);
   $("clear").addEventListener("click", () => {
     for (const id of ["search", "country", "company", "posted"]) $(id).value = "";

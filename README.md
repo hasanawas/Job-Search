@@ -8,6 +8,10 @@ A job portal that checks company career sites twice a day, keeps only the IT ope
 - `scraper/scrape.py` reads each site's job API, keeps IT jobs (rules in `config/it_filter.json`), and writes `site/data/jobs.json`. Jobs first seen in the last 2 days get a **NEW** badge; jobs that are closed on the company site drop off.
 - `.github/workflows/update-jobs.yml` runs the scraper at 06:00 and 18:00 UAE time, commits the new jobs file, and publishes `site/` to the `gh-pages` branch, which GitHub Pages serves.
 
+## CV matching
+
+Visitors can upload a CV (PDF, .docx or text) to rank jobs by fit. Everything happens in the browser: `site/cv.js` extracts the text (with pdf.js and mammoth, vendored in `site/vendor/`), finds skills from the list in `site/skills.js`, and scores each job by how much of the skills it asks for appear in the CV, weighted toward rarer skills and skills in the job title, with a nudge for the CV's main IT field and a penalty for clear seniority mismatches. The file is never uploaded; only the detected skill names are remembered in the visitor's browser. Add skills or spellings to `site/skills.js` to improve matching.
+
 ## One-time setup
 
 After the first **Update jobs** run creates the `gh-pages` branch, check **Settings → Pages**: Source should be **Deploy from a branch**, branch **gh-pages**, folder **/ (root)**. GitHub usually sets this automatically. The site appears at `https://<your-user>.github.io/<repo>/`.
