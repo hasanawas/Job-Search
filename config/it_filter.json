@@ -129,7 +129,31 @@
     "ui",
     "ux",
     "ui/ux",
-    "professional services consultant"
+    "professional services consultant",
+    "quality engineer",
+    "quality engineering",
+    "operations engineer",
+    "operations engineering",
+    "technical lead",
+    "tech lead",
+    "identity",
+    "access management",
+    "privileged access",
+    "patch",
+    "grc",
+    "implementation consultant",
+    "application support",
+    "service delivery",
+    "business analyst",
+    "ba lead",
+    "presales",
+    "pre-sales",
+    "pre sales",
+    "solution engineering",
+    "solutions engineer",
+    "data centre",
+    "data center",
+    "architecture"
   ],
   "include_exact_case": [
     "IT",
@@ -147,7 +171,10 @@
     "BSS",
     "IoT",
     "UI",
-    "UX"
+    "UX",
+    "IFS",
+    "GRC",
+    "PAM"
   ],
   "exclude": [
     "account executive",
@@ -199,7 +226,12 @@
     "health & safety",
     "physical security",
     "security guard",
-    "security officer"
+    "security officer",
+    "coordinator",
+    "demand generation",
+    "account risk",
+    "strategic finance",
+    "ceo office"
   ],
   "_help_fields": "Each IT job is tagged with the first field whose keywords match its title (checked top to bottom); 'keywords_exact_case' are case-sensitive acronyms. Jobs matching none are tagged 'Other IT'.",
   "fields": [
@@ -224,7 +256,10 @@
         "grc",
         "zero trust",
         "siem",
-        "malware"
+        "malware",
+        "identity",
+        "access management",
+        "privileged access"
       ],
       "keywords_exact_case": [
         "SOC",
@@ -274,7 +309,9 @@
         "functional consultant",
         "ifs cloud",
         "ifs consultant",
-        "abap"
+        "abap",
+        "implementation consultant",
+        "application support"
       ],
       "keywords_exact_case": [
         "SAP",
@@ -314,7 +351,8 @@
         "tester",
         "testing",
         "quality engineer",
-        "sdet"
+        "sdet",
+        "quality engineering"
       ],
       "keywords_exact_case": [
         "QA"
@@ -429,7 +467,10 @@
         "integration engineer",
         "microservices",
         "application engineer",
-        "sde"
+        "sde",
+        "technical lead",
+        "tech lead",
+        "software architect"
       ],
       "keywords_exact_case": [
         "SDE"
@@ -453,7 +494,10 @@
         "dba",
         "middleware",
         "it operations",
-        "systems analyst"
+        "systems analyst",
+        "operations engineer",
+        "operations engineering",
+        "patch"
       ],
       "keywords_exact_case": [
         "DBA"
@@ -463,7 +507,9 @@
       "name": "Architecture",
       "keywords": [
         "architect",
-        "architecture"
+        "architecture",
+        "solution engineering",
+        "solutions engineer"
       ]
     },
     {

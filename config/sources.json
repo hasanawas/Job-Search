@@ -7,8 +7,7 @@
       "type": "oracle_hcm",
       "base_url": "https://peoplehub.eand.com",
       "site_number": "CX_1",
-      "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-      "countries": "all"
+      "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
     },
     {
       "id": "fortinet",
@@ -27,7 +26,6 @@
       "lang": "en_global",
       "country": "global",
       "brand_as_company": true,
-      "countries": "all",
       "careers_page": "https://careers.g42.ai/global/en/home"
     },
     {

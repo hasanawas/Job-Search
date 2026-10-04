@@ -1,6 +1,6 @@
-# UAE IT Jobs
+# IT Careers Hub
 
-A small job portal that checks company career sites twice a day, keeps only the IT openings, and lists them in one place. Clicking **Apply** opens the job on the company's own careers site.
+A job portal that checks company career sites twice a day, keeps only the IT openings in the UAE, the Gulf and Sri Lanka, tags each one with an IT field (DevOps & Cloud, Software Development, Cybersecurity, and so on), and lists them in one place with country, company and field filters. Clicking **Apply** opens the job on the company's own careers site.
 
 ## How it works
 
@@ -16,11 +16,18 @@ After the first **Update jobs** run creates the `gh-pages` branch, check **Setti
 
 Most big employers use a hosted careers platform. Supported today:
 
-| type | Careers URL looks like |
-| --- | --- |
-| `oracle_hcm` | `https://<host>/hcmUI/CandidateExperience/en/sites/<SITE>/jobs` |
+| type | Careers URL looks like | Example |
+| --- | --- | --- |
+| `oracle_hcm` | `https://<host>/hcmUI/CandidateExperience/en/sites/<site_number>/jobs` | e&, Fortinet |
+| `smartrecruiters` | `https://careers.smartrecruiters.com/<company_identifier>` | IFS |
+| `workday` | `https://<tenant>.wdN.myworkdayjobs.com/<site>` or `https://wdN.myworkdaysite.com/recruiting/<tenant>/<site>` | Accenture, Sysco LABS |
+| `phenom` | `https://<host>/global/en/search-results` | G42 |
 
-Add an entry to `config/sources.json` with the host as `base_url` and `<SITE>` as `site_number`. Add `"countries": ["AE"]` to keep only UAE jobs from a global company. Other platforms (Workday, SuccessFactors, Greenhouse, …) need a small new scraper in `scraper/`.
+Add an entry to `config/sources.json` (copy a similar one). A company's own career page often links to one of these platforms behind its "Search jobs" button. Other platforms need a small new scraper in `scraper/`.
+
+## Countries and IT fields
+
+`defaults.countries` in `config/sources.json` sets which countries are kept (UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, Oman and Sri Lanka today). A source can override it with its own `countries` list, or `"all"`. IT fields are defined in `config/it_filter.json` under `fields`: each job gets the first field whose keywords match its title.
 
 ## LinkedIn and other job boards
 
