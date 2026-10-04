@@ -1,0 +1,22 @@
+name: Check scrapers
+
+on:
+  push:
+    branches-ignore: [main]
+    paths: ["config/**", "scraper/**", ".github/workflows/check-scrapers.yml"]
+  pull_request:
+    paths: ["config/**", "scraper/**", ".github/workflows/check-scrapers.yml"]
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Unit tests
+        run: python -m unittest discover -s scraper -v
+      - name: Live check of every career site (nothing is saved)
+        run: python scraper/scrape.py --dry-run --strict

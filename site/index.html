@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>UAE IT Jobs</title>
+  <meta name="description" content="IT job openings from top UAE employers, checked twice a day.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>UAE IT Jobs</h1>
+      <p class="sub">IT openings from company career sites, checked twice a day. <span id="updated"></span></p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="filters" aria-label="Filters">
+      <input id="search" type="search" placeholder="Search title, skill, location…" aria-label="Search jobs">
+      <select id="company" aria-label="Company"><option value="">All companies</option></select>
+      <select id="location" aria-label="Location"><option value="">All locations</option></select>
+      <label class="toggle"><input id="newOnly" type="checkbox"> New only</label>
+    </section>
+
+    <p id="count" class="count" aria-live="polite"></p>
+    <ul id="jobs" class="jobs"></ul>
+    <p id="empty" class="empty" hidden>No IT jobs match these filters.</p>
+  </main>
+
+  <footer class="wrap foot">
+    <h2>Sources</h2>
+    <ul id="sources"></ul>
+  </footer>
+
+  <dialog id="detail" aria-labelledby="d-title">
+    <form method="dialog" class="close-row"><button class="close" aria-label="Close">×</button></form>
+    <p class="d-company" id="d-company"></p>
+    <h2 id="d-title"></h2>
+    <p class="d-meta" id="d-meta"></p>
+    <a id="d-apply" class="apply" target="_blank" rel="noopener noreferrer">Apply on company site ↗</a>
+    <div id="d-desc" class="d-desc"></div>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>
