@@ -1,5 +1,5 @@
 {
-  "_help": "Add one entry per company. type 'oracle_hcm' covers any careers site whose URL looks like https://<host>/hcmUI/CandidateExperience/<lang>/sites/<site_number>/... . 'countries' is optional: list ISO country codes to keep (e.g. [\"AE\"]); leave it out to keep every location.",
+  "_help": "Add one entry per company. 'countries' lists ISO codes to keep (\"all\" keeps every country); sources without it use defaults.countries. Supported 'type's: oracle_hcm (careers URL .../hcmUI/CandidateExperience/en/sites/<site_number>/...), smartrecruiters (careers.smartrecruiters.com/<company_identifier>), workday (<tenant>.wdN.myworkdayjobs.com/<site> or wdN.myworkdaysite.com/recruiting/<tenant>/<site>; host, tenant, site), phenom (sites whose search page is /global/en/search-results; base_url, path), jsearch (LinkedIn and other job boards via the JSearch API; needs a JSEARCH_API_KEY repository secret, each query costs one of the free plan's 200 monthly requests per run).",
   "sources": [
     {
       "id": "eand",
@@ -15,8 +15,73 @@
       "type": "oracle_hcm",
       "base_url": "https://edel.fa.us2.oraclecloud.com",
       "site_number": "CX_2001",
-      "careers_page": "https://www.fortinet.com/corporate/careers",
-      "countries": ["AE"]
+      "careers_page": "https://www.fortinet.com/corporate/careers"
+    },
+    {
+      "id": "g42",
+      "company": "G42",
+      "type": "phenom",
+      "base_url": "https://careers.g42.ai",
+      "path": "global/en",
+      "lang": "en_global",
+      "country": "global",
+      "brand_as_company": true,
+      "careers_page": "https://careers.g42.ai/global/en/home"
+    },
+    {
+      "id": "ifs",
+      "company": "IFS",
+      "type": "smartrecruiters",
+      "company_identifier": "ifs1",
+      "careers_page": "https://www.ifs.com/en/about/careers"
+    },
+    {
+      "id": "accenture",
+      "company": "Accenture",
+      "type": "workday",
+      "host": "accenture.wd103.myworkdayjobs.com",
+      "tenant": "accenture",
+      "site": "AccentureCareers",
+      "careers_page": "https://www.accenture.com/ae-en/careers"
+    },
+    {
+      "id": "syscolabs",
+      "company": "Sysco LABS",
+      "type": "workday",
+      "host": "wd5.myworkdaysite.com",
+      "tenant": "sysco",
+      "site": "syscocareers",
+      "facets": {
+        "locations": [
+          "b014cc62fe6601b8d666502cd5287f36"
+        ]
+      },
+      "country": "LK",
+      "careers_page": "https://syscolabs.lk/careers"
+    },
+    {
+      "id": "jobboards",
+      "company": "LinkedIn & job boards",
+      "type": "jsearch",
+      "careers_page": "https://www.linkedin.com/jobs/search/?location=United%20Arab%20Emirates",
+      "date_posted": "3days",
+      "queries": [
+        "IT jobs in United Arab Emirates",
+        "software developer jobs in United Arab Emirates",
+        "cyber security network cloud engineer jobs in United Arab Emirates"
+      ],
+      "search_country": "ae"
     }
-  ]
+  ],
+  "defaults": {
+    "countries": [
+      "AE",
+      "SA",
+      "QA",
+      "KW",
+      "BH",
+      "OM",
+      "LK"
+    ]
+  }
 }

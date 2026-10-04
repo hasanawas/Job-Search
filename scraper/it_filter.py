@@ -40,3 +40,29 @@ class ITFilter:
         if self.exclude and title and self.exclude.search(title):
             return False
         return self._includes(title) or any(self._includes(c) for c in categories if c)
+
+
+class FieldTagger:
+    """Tags an IT job with a sub-field such as 'DevOps & Cloud', using the 'fields' list in config/it_filter.json."""
+
+    OTHER = "Other IT"
+
+    def __init__(self, config):
+        self.fields = [(f["name"], _word_pattern(f.get("keywords", []), re.IGNORECASE),
+                        _word_pattern(f.get("keywords_exact_case", []), 0)) for f in config.get("fields", [])]
+
+    @classmethod
+    def load(cls, path=CONFIG_PATH):
+        with open(path, encoding="utf-8") as f:
+            return cls(json.load(f))
+
+    @property
+    def names(self):
+        return [name for name, _, _ in self.fields] + [self.OTHER]
+
+    def tag(self, title, categories=()):
+        for text in [title] + [c for c in categories if c]:
+            for name, loose, exact in self.fields:
+                if (loose and loose.search(text)) or (exact and exact.search(text)):
+                    return name
+        return self.OTHER

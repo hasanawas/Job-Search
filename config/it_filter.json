@@ -129,7 +129,31 @@
     "ui",
     "ux",
     "ui/ux",
-    "professional services consultant"
+    "professional services consultant",
+    "quality engineer",
+    "quality engineering",
+    "operations engineer",
+    "operations engineering",
+    "technical lead",
+    "tech lead",
+    "identity",
+    "access management",
+    "privileged access",
+    "patch",
+    "grc",
+    "implementation consultant",
+    "application support",
+    "service delivery",
+    "business analyst",
+    "ba lead",
+    "presales",
+    "pre-sales",
+    "pre sales",
+    "solution engineering",
+    "solutions engineer",
+    "data centre",
+    "data center",
+    "architecture"
   ],
   "include_exact_case": [
     "IT",
@@ -147,7 +171,10 @@
     "BSS",
     "IoT",
     "UI",
-    "UX"
+    "UX",
+    "IFS",
+    "GRC",
+    "PAM"
   ],
   "exclude": [
     "account executive",
@@ -199,6 +226,302 @@
     "health & safety",
     "physical security",
     "security guard",
-    "security officer"
+    "security officer",
+    "coordinator",
+    "demand generation",
+    "account risk",
+    "strategic finance",
+    "ceo office"
+  ],
+  "_help_fields": "Each IT job is tagged with the first field whose keywords match its title (checked top to bottom); 'keywords_exact_case' are case-sensitive acronyms. Jobs matching none are tagged 'Other IT'.",
+  "fields": [
+    {
+      "name": "Cybersecurity",
+      "keywords": [
+        "security",
+        "cybersecurity",
+        "cyber",
+        "penetration",
+        "pentest",
+        "threat",
+        "vulnerability",
+        "soc analyst",
+        "incident response",
+        "forensic",
+        "identity and access",
+        "iam",
+        "appsec",
+        "sase",
+        "firewall",
+        "grc",
+        "zero trust",
+        "siem",
+        "malware",
+        "identity",
+        "access management",
+        "privileged access"
+      ],
+      "keywords_exact_case": [
+        "SOC",
+        "IAM",
+        "GRC"
+      ]
+    },
+    {
+      "name": "Data & AI",
+      "keywords": [
+        "data",
+        "database",
+        "analytics",
+        "machine learning",
+        "artificial intelligence",
+        "deep learning",
+        "llm",
+        "generative ai",
+        "gen ai",
+        "computer vision",
+        "nlp",
+        "business intelligence",
+        "big data",
+        "etl",
+        "scientist",
+        "power bi",
+        "tableau"
+      ],
+      "keywords_exact_case": [
+        "AI",
+        "ML",
+        "BI",
+        "MLOps"
+      ]
+    },
+    {
+      "name": "ERP & Business Apps",
+      "keywords": [
+        "sap",
+        "erp",
+        "oracle",
+        "salesforce",
+        "servicenow",
+        "dynamics 365",
+        "crm",
+        "workday",
+        "functional consultant",
+        "ifs cloud",
+        "ifs consultant",
+        "abap",
+        "implementation consultant",
+        "application support"
+      ],
+      "keywords_exact_case": [
+        "SAP",
+        "ERP",
+        "CRM",
+        "IFS"
+      ]
+    },
+    {
+      "name": "DevOps & Cloud",
+      "keywords": [
+        "devops",
+        "devsecops",
+        "site reliability",
+        "cloud",
+        "aws",
+        "azure",
+        "gcp",
+        "kubernetes",
+        "platform engineer",
+        "terraform",
+        "ci/cd",
+        "release engineer",
+        "build engineer"
+      ],
+      "keywords_exact_case": [
+        "SRE"
+      ]
+    },
+    {
+      "name": "QA & Testing",
+      "keywords": [
+        "qa",
+        "quality assurance",
+        "test engineer",
+        "test automation",
+        "tester",
+        "testing",
+        "quality engineer",
+        "sdet",
+        "quality engineering"
+      ],
+      "keywords_exact_case": [
+        "QA"
+      ]
+    },
+    {
+      "name": "Product & Project",
+      "keywords": [
+        "product owner",
+        "product manager",
+        "project manager",
+        "program manager",
+        "programme manager",
+        "scrum master",
+        "agile coach",
+        "delivery manager",
+        "pmo",
+        "business analyst"
+      ],
+      "keywords_exact_case": [
+        "PMO"
+      ]
+    },
+    {
+      "name": "UI/UX Design",
+      "keywords": [
+        "ui/ux",
+        "ux",
+        "ui designer",
+        "user experience",
+        "product designer",
+        "interaction designer",
+        "ux researcher"
+      ],
+      "keywords_exact_case": [
+        "UI",
+        "UX"
+      ]
+    },
+    {
+      "name": "IT Support",
+      "keywords": [
+        "support",
+        "helpdesk",
+        "help desk",
+        "service desk",
+        "desktop",
+        "end user",
+        "it technician",
+        "customer success engineer"
+      ]
+    },
+    {
+      "name": "Networking & Telecom",
+      "keywords": [
+        "network",
+        "networks",
+        "networking",
+        "noc",
+        "routing",
+        "switching",
+        "telecom",
+        "5g",
+        "4g",
+        "lte",
+        "mpls",
+        "transmission",
+        "core network",
+        "wireless",
+        "sd-wan",
+        "radio",
+        "rf",
+        "fiber",
+        "fibre",
+        "voip"
+      ],
+      "keywords_exact_case": [
+        "NOC",
+        "RF",
+        "RAN"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "keywords": [
+        "software",
+        "developer",
+        "development engineer",
+        "programmer",
+        "full stack",
+        "full-stack",
+        "frontend",
+        "front end",
+        "front-end",
+        "backend",
+        "back end",
+        "back-end",
+        "web",
+        "mobile developer",
+        "mobile engineer",
+        "android",
+        "ios",
+        "java",
+        "python",
+        ".net",
+        "react",
+        "node",
+        "golang",
+        "embedded",
+        "firmware",
+        "api",
+        "integration engineer",
+        "microservices",
+        "application engineer",
+        "sde",
+        "technical lead",
+        "tech lead",
+        "software architect"
+      ],
+      "keywords_exact_case": [
+        "SDE"
+      ]
+    },
+    {
+      "name": "Systems & Infrastructure",
+      "keywords": [
+        "systems engineer",
+        "system engineer",
+        "systems administrator",
+        "system administrator",
+        "sysadmin",
+        "linux",
+        "unix",
+        "windows",
+        "infrastructure",
+        "virtualization",
+        "vmware",
+        "storage",
+        "dba",
+        "middleware",
+        "it operations",
+        "systems analyst",
+        "operations engineer",
+        "operations engineering",
+        "patch"
+      ],
+      "keywords_exact_case": [
+        "DBA"
+      ]
+    },
+    {
+      "name": "Architecture",
+      "keywords": [
+        "architect",
+        "architecture",
+        "solution engineering",
+        "solutions engineer"
+      ]
+    },
+    {
+      "name": "IT Consulting",
+      "keywords": [
+        "consultant",
+        "consulting",
+        "professional services",
+        "advisory",
+        "technology analyst",
+        "technology strategy"
+      ]
+    }
   ]
 }
