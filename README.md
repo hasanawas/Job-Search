@@ -6,11 +6,11 @@ A small job portal that checks company career sites twice a day, keeps only the 
 
 - `config/sources.json` lists the companies to check.
 - `scraper/scrape.py` reads each site's job API, keeps IT jobs (rules in `config/it_filter.json`), and writes `site/data/jobs.json`. Jobs first seen in the last 2 days get a **NEW** badge; jobs that are closed on the company site drop off.
-- `.github/workflows/update-jobs.yml` runs the scraper at 06:00 and 18:00 UAE time, commits the new jobs file, and publishes `site/` to GitHub Pages.
+- `.github/workflows/update-jobs.yml` runs the scraper at 06:00 and 18:00 UAE time, commits the new jobs file, and publishes `site/` to the `gh-pages` branch, which GitHub Pages serves.
 
 ## One-time setup
 
-In the repo on GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**. Then run **Actions → Update jobs → Run workflow** once (or wait for the next scheduled run). The site appears at `https://<your-user>.github.io/<repo>/`.
+After the first **Update jobs** run creates the `gh-pages` branch, check **Settings → Pages**: Source should be **Deploy from a branch**, branch **gh-pages**, folder **/ (root)**. GitHub usually sets this automatically. The site appears at `https://<your-user>.github.io/<repo>/`.
 
 ## Adding a company
 
