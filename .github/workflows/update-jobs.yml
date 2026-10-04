@@ -1,0 +1,59 @@
+name: Update jobs
+
+on:
+  schedule:
+    # 06:00 and 18:00 UAE time (UTC+4)
+    - cron: "0 2,14 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["config/**", "scraper/**", "site/**", ".github/workflows/update-jobs.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-jobs
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check career sites for IT jobs
+        run: python scraper/scrape.py
+      - name: Save new results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/jobs.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update IT jobs ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4
