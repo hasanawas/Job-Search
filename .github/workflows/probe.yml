@@ -1,0 +1,11 @@
+name: Probe (temporary)
+on:
+  push:
+    branches: [claude/it-job-portal-14io8m]
+    paths: ["tools/probe.py", ".github/workflows/probe.yml"]
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python tools/probe.py
