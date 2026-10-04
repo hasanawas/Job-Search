@@ -131,3 +131,19 @@ class CommonTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class FailedSourceTest(unittest.TestCase):
+    JOBS = [{"key": "a"}, {"key": "b"}]
+
+    def test_keeps_recent_jobs_after_failure(self):
+        kept, last_ok = scrape.keep_after_failure({"ok": True, "checked_at": "2026-10-04T02:00:00Z"}, self.JOBS, "2026-10-04T14:00:00Z")
+        self.assertEqual((kept, last_ok), (self.JOBS, "2026-10-04T02:00:00Z"))
+
+    def test_drops_jobs_not_confirmed_for_two_days(self):
+        prev = {"ok": False, "last_ok_at": "2026-10-01T14:00:00Z"}
+        kept, last_ok = scrape.keep_after_failure(prev, self.JOBS, "2026-10-04T14:00:00Z")
+        self.assertEqual((kept, last_ok), ([], "2026-10-01T14:00:00Z"))
+
+    def test_drops_jobs_with_no_good_check(self):
+        self.assertEqual(scrape.keep_after_failure(None, self.JOBS, "2026-10-04T14:00:00Z"), ([], None))

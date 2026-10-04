@@ -27,6 +27,9 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCES_PATH = ROOT / "config" / "sources.json"
 OUTPUT_PATH = ROOT / "site" / "data" / "jobs.json"
 MAX_DETAIL_FETCHES_PER_SOURCE = 150  # full descriptions are fetched once per new job
+# If a careers site can't be checked, its last known jobs stay up for this long, then come off
+# (we can no longer tell whether they are still open).
+KEEP_FAILED_SOURCE_HOURS = 48
 
 SOURCE_TYPES = {
     "oracle_hcm": OracleHCMSource,
@@ -50,6 +53,26 @@ def load_previous():
         with open(OUTPUT_PATH, encoding="utf-8") as f:
             return json.load(f)
     return {"jobs": []}
+
+
+def hours_since(iso, now_iso_str):
+    try:
+        then = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+        now = datetime.fromisoformat(now_iso_str.replace("Z", "+00:00"))
+    except (AttributeError, ValueError):
+        return None
+    return (now - then).total_seconds() / 3600
+
+
+def keep_after_failure(prev_status, prev_jobs, run_time):
+    """Which old jobs to keep for a source that failed this run, and its last good check time."""
+    last_ok = (prev_status or {}).get("last_ok_at")
+    if not last_ok and (prev_status or {}).get("ok"):
+        last_ok = prev_status.get("checked_at")
+    age = hours_since(last_ok, run_time) if last_ok else None
+    if age is None or age > KEEP_FAILED_SOURCE_HOURS:
+        return [], last_ok
+    return prev_jobs, last_ok
 
 
 def wanted_countries(cfg, default):
@@ -170,6 +193,7 @@ def main():
             continue
         log(f"Checking {cfg['company']} ...")
         prev_for_source = [j for j in previous.get("jobs", []) if j.get("source") == cfg["id"]]
+        prev_status = next((s for s in previous.get("sources", []) if s.get("id") == cfg["id"]), None)
         status = {"id": cfg["id"], "company": cfg["company"], "careers_page": cfg.get("careers_page", ""), "checked_at": run_time}
         try:
             known = {(norm(j["company"]), norm(j["title"])) for j in all_jobs}
@@ -181,13 +205,17 @@ def main():
             if stats["listed"] == 0:
                 failed = True
             all_jobs.extend(jobs)
-            source_status.append({**status, "ok": True, "it_jobs": len(jobs), **stats})
+            source_status.append({**status, "ok": True, "last_ok_at": run_time, "it_jobs": len(jobs), **stats})
         except Exception as e:
             failed = True
             log(f"  FAILED: {e}")
-            # Keep showing what we had, rather than wiping the company off the portal.
-            all_jobs.extend(prev_for_source)
-            source_status.append({**status, "ok": False, "error": str(e)[:300], "it_jobs": len(prev_for_source)})
+            # Keep showing what we had for a short while, rather than wiping the company off the portal
+            # over one bad check; after that, drop them since they may have been taken down.
+            kept, last_ok = keep_after_failure(prev_status, prev_for_source, run_time)
+            if prev_for_source and not kept:
+                log(f"  removed {len(prev_for_source)} old jobs: not confirmed open since {last_ok or 'unknown'}")
+            all_jobs.extend(kept)
+            source_status.append({**status, "ok": False, "last_ok_at": last_ok, "error": str(e)[:300], "it_jobs": len(kept)})
 
     all_jobs.sort(key=lambda j: (j["first_seen"], j.get("posted_date", "")), reverse=True)
     output = {"updated_at": run_time, "fields": tagger.names, "sources": source_status, "jobs": all_jobs}
