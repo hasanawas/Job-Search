@@ -1,5 +1,5 @@
 {
-  "_help": "Add one entry per company. 'countries' lists ISO codes to keep (\"all\" keeps every country); sources without it use defaults.countries. Supported 'type's: oracle_hcm (careers URL .../hcmUI/CandidateExperience/en/sites/<site_number>/...), smartrecruiters (careers.smartrecruiters.com/<company_identifier>), workday (<tenant>.wdN.myworkdayjobs.com/<site> or wdN.myworkdaysite.com/recruiting/<tenant>/<site>; host, tenant, site), phenom (sites whose search page is /global/en/search-results; base_url, path), jsearch (LinkedIn and other job boards via the JSearch API; needs a JSEARCH_API_KEY repository secret, each query costs one of the free plan's 200 monthly requests per run).",
+  "_help": "Add one entry per company. 'countries' lists ISO codes to keep (\"all\" keeps every country); sources without it use defaults.countries. Supported 'type's: oracle_hcm (careers URL .../hcmUI/CandidateExperience/en/sites/<site_number>/...), smartrecruiters (careers.smartrecruiters.com/<company_identifier>), workday (<tenant>.wdN.myworkdayjobs.com/<site> or wdN.myworkdaysite.com/recruiting/<tenant>/<site>; host, tenant, site), phenom (sites whose search page is /global/en/search-results; base_url, path), teamtailor (Teamtailor careers sites that serve /jobs.rss; base_url), jibe (Jibe/iCIMS careers sites with an /api/jobs endpoint; base_url), jsearch (LinkedIn and other job boards via the JSearch API; needs a JSEARCH_API_KEY repository secret, each query costs one of the free plan's 200 monthly requests per run).",
   "sources": [
     {
       "id": "eand",
@@ -58,6 +58,36 @@
       },
       "country": "LK",
       "careers_page": "https://syscolabs.lk/careers"
+    },
+    {
+      "id": "presight",
+      "company": "Presight",
+      "type": "oracle_hcm",
+      "base_url": "https://iaambv.fa.ocs.oraclecloud.com",
+      "site_number": "CX_1",
+      "careers_page": "https://careers.presight.ai/"
+    },
+    {
+      "id": "khazna",
+      "company": "Khazna Data Centers",
+      "type": "oracle_hcm",
+      "base_url": "https://iaarey.fa.ocs.oraclecloud.com",
+      "site_number": "CX_1001",
+      "careers_page": "https://khaznadatacenters.com/careers/"
+    },
+    {
+      "id": "m42",
+      "company": "M42",
+      "type": "jibe",
+      "base_url": "https://careers.m42.ae",
+      "careers_page": "https://careers.m42.ae/jobs"
+    },
+    {
+      "id": "astratech",
+      "company": "Astra Tech",
+      "type": "teamtailor",
+      "base_url": "https://careers.astratech.ae",
+      "careers_page": "https://careers.astratech.ae/jobs"
     },
     {
       "id": "jobboards",
