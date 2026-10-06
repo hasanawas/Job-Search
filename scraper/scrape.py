@@ -17,10 +17,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from common import country_name  # noqa: E402
 from it_filter import FieldTagger, ITFilter  # noqa: E402
+from jibe import JibeSource  # noqa: E402
 from jsearch import JSearchSource  # noqa: E402
 from oracle_hcm import OracleHCMSource  # noqa: E402
 from phenom import PhenomSource  # noqa: E402
 from smartrecruiters import SmartRecruitersSource  # noqa: E402
+from teamtailor import TeamtailorSource  # noqa: E402
 from workday import WorkdaySource  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -36,6 +38,8 @@ SOURCE_TYPES = {
     "smartrecruiters": SmartRecruitersSource,
     "workday": WorkdaySource,
     "phenom": PhenomSource,
+    "teamtailor": TeamtailorSource,
+    "jibe": JibeSource,
     "jsearch": JSearchSource,
 }
 

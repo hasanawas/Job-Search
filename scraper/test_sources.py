@@ -147,3 +147,48 @@ class FailedSourceTest(unittest.TestCase):
 
     def test_drops_jobs_with_no_good_check(self):
         self.assertEqual(scrape.keep_after_failure(None, self.JOBS, "2026-10-04T14:00:00Z"), ([], None))
+
+
+class TeamtailorTest(unittest.TestCase):
+    RSS = """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:tt="https://teamtailor.com/locations"><channel>
+<item><title>Senior QA Engineer</title><description>&lt;p&gt;Test our &lt;b&gt;APIs&lt;/b&gt;&lt;/p&gt;</description>
+<pubDate>Fri, 18 Sep 2026 17:20:14 +0400</pubDate><link>https://careers.example.ae/jobs/8039073-senior-qa-engineer</link>
+<remoteStatus>hybrid</remoteStatus><tt:locations><tt:location><tt:name>Dubai</tt:name><tt:city>Dubai</tt:city>
+<tt:country>United Arab Emirates</tt:country></tt:location></tt:locations><tt:department>Engineering</tt:department></item>
+<item><title>Head of Marketing</title><description/><pubDate>Fri, 18 Sep 2026 17:20:14 +0400</pubDate>
+<link>https://careers.example.ae/jobs/1-head-of-marketing</link><tt:locations><tt:location><tt:city>Dubai</tt:city>
+<tt:country>United Arab Emirates</tt:country></tt:location></tt:locations></item>
+</channel></rss>"""
+
+    def test_reads_rss(self):
+        import teamtailor
+        cfg = {"id": "tt", "company": "Example", "type": "teamtailor", "base_url": "https://careers.example.ae"}
+        with mock.patch.object(teamtailor, "fetch_text", return_value=self.RSS):
+            jobs, stats = scrape.scrape_source(cfg, DEFAULTS, ITFilter.load(), FieldTagger.load(), [], "NOW", lambda m: None)
+        self.assertEqual(stats["listed"], 2)
+        self.assertEqual([j["title"] for j in jobs], ["Senior QA Engineer"])
+        j = jobs[0]
+        self.assertEqual((j["country"], j["posted_date"], j["workplace_type"]), ("United Arab Emirates", "2026-09-18", "Hybrid"))
+        self.assertEqual(j["url"], "https://careers.example.ae/jobs/8039073-senior-qa-engineer")
+        self.assertEqual(j["description"], "Test our APIs")
+
+
+class JibeTest(unittest.TestCase):
+    def page(self, url, data=None, headers=None):
+        jobs = {1: [{"data": {"slug": "6556", "title": "Data Engineer", "tags2": ["Abu Dhabi"], "tags3": ["United Arab Emirates"],
+                              "categories": [{"name": "Information Technology"}], "posted_date": "2026-10-06T11:29:00+0000",
+                              "description": "<p>Build pipelines</p>"}}],
+                2: [{"data": {"slug": "7000", "title": "Staff Nurse", "tags3": ["United Arab Emirates"], "categories": [{"name": "Nursing"}]}}]}
+        page = int(url.split("page=")[1].split("&")[0])
+        return {"totalCount": 2, "jobs": jobs.get(page, [])}
+
+    def test_pages_and_filters(self):
+        import jibe
+        cfg = {"id": "jb", "company": "Example", "type": "jibe", "base_url": "https://careers.example.ae"}
+        jobs, stats = run(cfg, jibe, self.page)
+        self.assertEqual(stats["listed"], 2)
+        self.assertEqual([j["title"] for j in jobs], ["Data Engineer"])
+        j = jobs[0]
+        self.assertEqual((j["country"], j["posted_date"], j["url"]), ("United Arab Emirates", "2026-10-06", "https://careers.example.ae/jobs/6556"))
+        self.assertIn("Build pipelines", j["description"])

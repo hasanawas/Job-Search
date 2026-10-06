@@ -14,7 +14,12 @@ USER_AGENT = "Mozilla/5.0 (compatible; IT-Job-Portal/1.0; +https://github.com/ha
 
 def fetch_json(url, data=None, headers=None, retries=3, timeout=60):
     """GET (or POST when `data` is given, sent as JSON) and parse the JSON reply."""
-    h = {"User-Agent": USER_AGENT, "Accept": "application/json", "Accept-Language": "en-US,en"}
+    return json.loads(fetch_text(url, data, {"Accept": "application/json", **(headers or {})}, retries, timeout))
+
+
+def fetch_text(url, data=None, headers=None, retries=3, timeout=60):
+    """GET (or POST when `data` is given, sent as JSON) and return the reply as text."""
+    h = {"User-Agent": USER_AGENT, "Accept": "*/*", "Accept-Language": "en-US,en"}
     body = None
     if data is not None:
         body = json.dumps(data).encode()
@@ -25,7 +30,10 @@ def fetch_json(url, data=None, headers=None, retries=3, timeout=60):
         try:
             req = urllib.request.Request(url, data=body, headers=h)
             with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return json.load(resp)
+                text = resp.read().decode(resp.headers.get_content_charset() or "utf-8", "replace")
+            if "json" in h["Accept"]:
+                json.loads(text)  # retry on a truncated or non-JSON reply
+            return text
         except urllib.error.HTTPError as e:
             last_error = e
             if e.code in (400, 401, 403, 404):

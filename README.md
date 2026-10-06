@@ -22,10 +22,12 @@ Most big employers use a hosted careers platform. Supported today:
 
 | type | Careers URL looks like | Example |
 | --- | --- | --- |
-| `oracle_hcm` | `https://<host>/hcmUI/CandidateExperience/en/sites/<site_number>/jobs` | e&, Fortinet |
+| `oracle_hcm` | `https://<host>/hcmUI/CandidateExperience/en/sites/<site_number>/jobs` | e&, Fortinet, Presight, Khazna |
 | `smartrecruiters` | `https://careers.smartrecruiters.com/<company_identifier>` | IFS |
 | `workday` | `https://<tenant>.wdN.myworkdayjobs.com/<site>` or `https://wdN.myworkdaysite.com/recruiting/<tenant>/<site>` | Accenture, Sysco LABS |
-| `phenom` | `https://<host>/global/en/search-results` | G42 |
+| `phenom` | `https://<host>/global/en/search-results` | G42 (incl. Inception, AIQ, CPX) |
+| `teamtailor` | Teamtailor site with `https://<host>/jobs.rss` | Astra Tech |
+| `jibe` | Jibe / iCIMS site with `https://<host>/api/jobs` | M42 |
 
 Add an entry to `config/sources.json` (copy a similar one). A company's own career page often links to one of these platforms behind its "Search jobs" button. Other platforms need a small new scraper in `scraper/`.
 
