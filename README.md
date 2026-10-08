@@ -28,6 +28,8 @@ Most big employers use a hosted careers platform. Supported today:
 | `phenom` | `https://<host>/global/en/search-results` | G42 (incl. Inception, AIQ, CPX) |
 | `teamtailor` | Teamtailor site with `https://<host>/jobs.rss` | Astra Tech |
 | `jibe` | Jibe / iCIMS site with `https://<host>/api/jobs` | M42 |
+| `amazon` | `https://www.amazon.jobs` (searched per selected country) | Amazon |
+| `apple` | `https://jobs.apple.com` (searched per selected country) | Apple |
 
 Add an entry to `config/sources.json` (copy a similar one). A company's own career page often links to one of these platforms behind its "Search jobs" button. Other platforms need a small new scraper in `scraper/`.
 

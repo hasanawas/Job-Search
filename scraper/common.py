@@ -108,6 +108,13 @@ COUNTRIES = {
     "KE": "Kenya", "MU": "Mauritius", "US": "United States", "CA": "Canada", "MX": "Mexico", "BR": "Brazil",
     "AR": "Argentina", "CL": "Chile", "CO": "Colombia", "CR": "Costa Rica", "PE": "Peru", "PR": "Puerto Rico",
 }
+# Three-letter codes, for sites (Amazon, Apple) that filter by them.
+ISO3 = {
+    "AE": "ARE", "SA": "SAU", "QA": "QAT", "KW": "KWT", "BH": "BHR", "OM": "OMN", "LK": "LKA", "EG": "EGY",
+    "JO": "JOR", "LB": "LBN", "MA": "MAR", "TR": "TUR", "PK": "PAK", "IN": "IND", "BD": "BGD", "SG": "SGP",
+    "MY": "MYS", "GB": "GBR", "IE": "IRL", "DE": "DEU", "FR": "FRA", "NL": "NLD", "ES": "ESP", "IT": "ITA",
+    "US": "USA", "CA": "CAN", "AU": "AUS", "ZA": "ZAF",
+}
 _ALIASES = {
     "uae": "AE", "u.a.e": "AE", "dubai": "AE", "abu dhabi": "AE", "sharjah": "AE", "ajman": "AE", "ras al khaimah": "AE",
     "fujairah": "AE", "al ain": "AE", "riyadh": "SA", "jeddah": "SA", "ksa": "SA", "doha": "QA", "manama": "BH",
