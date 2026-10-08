@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T08:18:21Z",
+ "updated_at": "2026-10-08T19:37:17Z",
  "fields": [
   "Cybersecurity",
   "Data & AI",
@@ -21,12 +21,12 @@
    "id": "eand",
    "company": "e& (Etisalat)",
    "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-   "checked_at": "2026-10-08T08:18:21Z",
+   "checked_at": "2026-10-08T19:37:17Z",
    "ok": true,
-   "last_ok_at": "2026-10-08T08:18:21Z",
+   "last_ok_at": "2026-10-08T19:37:17Z",
    "it_jobs": 1,
-   "listed": 8,
-   "in_location": 8,
+   "listed": 9,
+   "in_location": 9,
    "it": 1,
    "new": 0
   },
@@ -34,12 +34,12 @@
    "id": "fortinet",
    "company": "Fortinet",
    "careers_page": "https://www.fortinet.com/corporate/careers",
-   "checked_at": "2026-10-08T08:18:21Z",
+   "checked_at": "2026-10-08T19:37:17Z",
    "ok": true,
-   "last_ok_at": "2026-10-08T08:18:21Z",
+   "last_ok_at": "2026-10-08T19:37:17Z",
    "it_jobs": 19,
-   "listed": 1003,
-   "in_location": 30,
+   "listed": 996,
+   "in_location": 28,
    "it": 19,
    "new": 0
   },
@@ -47,35 +47,35 @@
    "id": "g42",
    "company": "G42",
    "careers_page": "https://careers.g42.ai/global/en/home",
-   "checked_at": "2026-10-08T08:18:21Z",
+   "checked_at": "2026-10-08T19:37:17Z",
    "ok": true,
-   "last_ok_at": "2026-10-08T08:18:21Z",
-   "it_jobs": 39,
-   "listed": 48,
-   "in_location": 42,
-   "it": 39,
-   "new": 0
+   "last_ok_at": "2026-10-08T19:37:17Z",
+   "it_jobs": 41,
+   "listed": 52,
+   "in_location": 44,
+   "it": 41,
+   "new": 2
   },
   {
    "id": "ifs",
    "company": "IFS",
    "careers_page": "https://www.ifs.com/en/about/careers",
-   "checked_at": "2026-10-08T08:18:21Z",
+   "checked_at": "2026-10-08T19:37:17Z",
    "ok": true,
-   "last_ok_at": "2026-10-08T08:18:21Z",
+   "last_ok_at": "2026-10-08T19:37:17Z",
    "it_jobs": 27,
    "listed": 256,
-   "in_location": 44,
+   "in_location": 45,
    "it": 27,
-   "new": 0
+   "new": 2
   },
   {
    "id": "accenture",
    "company": "Accenture",
    "careers_page": "https://www.accenture.com/ae-en/careers",
-   "checked_at": "2026-10-08T08:18:21Z",
+   "checked_at": "2026-10-08T19:37:17Z",
    "ok": true,
-   "last_ok_at": "2026-10-08T08:18:21Z",
+   "last_ok_at": "2026-10-08T19:37:17Z",
    "it_jobs": 21,
    "listed": 25,
    "in_location": 25,
@@ -86,12 +86,12 @@
    "id": "syscolabs",
    "company": "Sysco LABS",
    "careers_page": "https://syscolabs.lk/careers",
-   "checked_at": "2026-10-08T08:18:21Z",
+   "checked_at": "2026-10-08T19:37:17Z",
    "ok": true,
-   "last_ok_at": "2026-10-08T08:18:21Z",
+   "last_ok_at": "2026-10-08T19:37:17Z",
    "it_jobs": 78,
-   "listed": 87,
-   "in_location": 87,
+   "listed": 88,
+   "in_location": 88,
    "it": 78,
    "new": 0
   },
@@ -99,9 +99,9 @@
    "id": "presight",
    "company": "Presight",
    "careers_page": "https://careers.presight.ai/",
-   "checked_at": "2026-10-08T08:18:21Z",
+   "checked_at": "2026-10-08T19:37:17Z",
    "ok": true,
-   "last_ok_at": "2026-10-08T08:18:21Z",
+   "last_ok_at": "2026-10-08T19:37:17Z",
    "it_jobs": 1,
    "listed": 1,
    "in_location": 1,
@@ -112,9 +112,9 @@
    "id": "khazna",
    "company": "Khazna Data Centers",
    "careers_page": "https://khaznadatacenters.com/careers/",
-   "checked_at": "2026-10-08T08:18:21Z",
+   "checked_at": "2026-10-08T19:37:17Z",
    "ok": true,
-   "last_ok_at": "2026-10-08T08:18:21Z",
+   "last_ok_at": "2026-10-08T19:37:17Z",
    "it_jobs": 0,
    "listed": 7,
    "in_location": 7,
@@ -125,12 +125,12 @@
    "id": "m42",
    "company": "M42",
    "careers_page": "https://careers.m42.ae/jobs",
-   "checked_at": "2026-10-08T08:18:21Z",
+   "checked_at": "2026-10-08T19:37:17Z",
    "ok": true,
-   "last_ok_at": "2026-10-08T08:18:21Z",
+   "last_ok_at": "2026-10-08T19:37:17Z",
    "it_jobs": 3,
-   "listed": 88,
-   "in_location": 82,
+   "listed": 90,
+   "in_location": 84,
    "it": 3,
    "new": 0
   },
@@ -138,12 +138,12 @@
    "id": "astratech",
    "company": "Astra Tech",
    "careers_page": "https://careers.astratech.ae/jobs",
-   "checked_at": "2026-10-08T08:18:21Z",
+   "checked_at": "2026-10-08T19:37:17Z",
    "ok": true,
-   "last_ok_at": "2026-10-08T08:18:21Z",
+   "last_ok_at": "2026-10-08T19:37:17Z",
    "it_jobs": 4,
-   "listed": 19,
-   "in_location": 16,
+   "listed": 20,
+   "in_location": 18,
    "it": 4,
    "new": 0
   },
@@ -151,30 +151,168 @@
    "id": "amazon",
    "company": "Amazon",
    "careers_page": "https://www.amazon.jobs/content/en/locations/united-arab-emirates",
-   "checked_at": "2026-10-08T08:18:21Z",
+   "checked_at": "2026-10-08T19:37:17Z",
    "ok": true,
-   "last_ok_at": "2026-10-08T08:18:21Z",
+   "last_ok_at": "2026-10-08T19:37:17Z",
    "it_jobs": 23,
-   "listed": 141,
-   "in_location": 141,
+   "listed": 132,
+   "in_location": 132,
    "it": 23,
-   "new": 0
+   "new": 2
   },
   {
    "id": "apple",
    "company": "Apple",
    "careers_page": "https://jobs.apple.com/en-ae/search?location=united-arab-emirates-ARE",
-   "checked_at": "2026-10-08T08:18:21Z",
+   "checked_at": "2026-10-08T19:37:17Z",
    "ok": true,
-   "last_ok_at": "2026-10-08T08:18:21Z",
+   "last_ok_at": "2026-10-08T19:37:17Z",
    "it_jobs": 0,
-   "listed": 53,
+   "listed": 29,
    "in_location": 26,
    "it": 0,
    "new": 0
   }
  ],
  "jobs": [
+  {
+   "id": "g42:1714",
+   "source": "g42",
+   "company": "G42 · CPX",
+   "via": "",
+   "title": "Lead SOC Engineer (SIEM & SOAR)",
+   "field": "Cybersecurity",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "MBZ City, Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "Information Technology Operations",
+   "posted_date": "2026-10-08",
+   "summary": "Become part of our team as a Lead SOC Engineer, delivering SIEM and SOAR management services within the Security Operations Centre. Oversee Splunk SIEM and SOAR, collaborate with internal and external stakeholders, and ensure optimal system performance. Ideal for experienced SOC professionals with strong Splunk expertise.",
+   "url": "https://careers.g42.ai/global/en/job/1714",
+   "first_seen": "2026-10-08T19:37:17Z",
+   "description": "Overview:\n\r\n\nThe Lead Engineer – SOC (SIEM & SOAR) is a critical role responsible for delivering SIEM /SOAR management services, particularly focusing on Splunk SIEM and SOAR, within the Security Operations Center (SOC). This role encompasses working closely with the SOC Internal and external teams to facilitate onboarding new log sources, enhancing and optimizing telemetry, ensuring system updates, resolving issues, and maintaining SIEM performance, automation and orchestration, designing playbooks according to best practices achieved through SOAR Solution.\n\nResponsibilities:\n\r\n\nKey Responosibilities\n\n• Deliver Splunk SIEM /SOAR management services within the SOC environment.\n• Collaborate with the asset owner, client stakeholder, and SOC, in onboarding new log sources to the SIEM/SOAR platform.\n• Maintain and govern SOC critical log sources, ensuring their proper functionality and integration with Splunk SIEM /SOAR.\n• Detect log source issues, coordinate with customers to diagnose and resolve them in a timely manner.\n• Enhance and optimize telemetry within the Splunk environment to improve data collection, correlation, and reporting.\n• Perform regular system updates to ensure Splunk functionality and security are up to date.\n• Resolve Splunk-related issues promptly and efficiently.\n• Proficiency in field extractions, data normalization, and CIM (Common Information Model) compliance.\n• Maintain the performance of the Splunk SIEM /SOAR according to established best practices.\n• Design SOAR Playbooks to enhance automation and orchestration of incidents.\n• Connect SOAR with SIEM, ticketing systems (e.g., ServiceNow), threat intelligence platforms, and endpoint tools.\n• Experience with platforms like Splunk SOAR (Phantom), Forti SOAR, or Cortex XSOAR.\n• Participate in continuous process improvements to increase SOC efficiency and effectiveness.\n• Provide regular and accurate reports on Splunk services and SOC operations to relevant stakeholders.\n• Contribute to SOC architecture strategy and implementation initiatives related to Splunk.\n• Assist in the mentorship and development of junior SOC engineers.\n\nCharacteristics:\n\n• Profound knowledge and hands-on experience with Splunk SIEM/SOAR and other related technologies like CRIBL.\n• Understanding of SOC workflows, MITRE ATT&CK framework, and threat detection methodologies.\n• Ability to correlate data across multiple sources to identify patterns and anomalies.\n• Strong understanding of cloud and network technologies, essential for efficient log source onboarding.\n• Proven technical capabilities in a complex, fast-paced SOC environment.\n• Ability to diagnose and troubleshoot log source issues related to cloud and network infrastructures.\n• Strong understanding of SOC operations, cybersecurity principles, and best practices.\n• Excellent problem-solving skills and the ability to make decisions under pressure.\n• Ability to collaborate effectively with a variety of team members, including interfacing with customers to resolve issues.\n• High proficiency in written and verbal communication.\n\nQualifications:\n\r\n\nSkills/Certifications\n\n• Splunk Certified Architect or Splunk Certified Administrator.\n• Mastery of SPL (Search Processing Language) for complex queries, dashboards, and reports.\n• Python scripting skills.\n• Experience with platforms like Forti SOAR, Splunk SOAR (Phantom), Cortex XSOAR etc.\n• Cloud-related certifications like AWS Certified Solutions Architect, Google Professional Cloud Architect, or Microsoft Certified: Azure Solutions Architect Expert.\n• Certified Information Systems Security Professional (CISSP), GIAC is preferred\n• Networking certifications such as CCNA or CCNP are advantageous.\n\nMinimum Work Experience\n\nA minimum of 8 years of experience in SOC operations, with significant experience in Splunk SIEM management.\n\nPrior experience in a technical role within a SOC or similar cybersecurity environment.\n\nEducation\n\nBachelor’s degree in computer science, Information Technology, Cybersecurity, or a related field."
+  },
+  {
+   "id": "g42:3255",
+   "source": "g42",
+   "company": "G42 · Inception42",
+   "via": "",
+   "title": "ITSM Manager",
+   "field": "Other IT",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "Information Technology Operations",
+   "posted_date": "2026-10-08",
+   "summary": "Take on the role of ITSM Manager to lead the design and implementation of ITIL-based processes across Inception’s AI-driven ecosystem. Drive transformation initiatives, ensure operational excellence, and foster a culture of process standardisation. Ideal for experienced ITSM leaders with deep expertise in enterprise environments and a strong technical background.",
+   "url": "https://careers.g42.ai/global/en/job/3255",
+   "first_seen": "2026-10-08T19:37:17Z",
+   "description": "Inception, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview:\n\r\n\nThe ITSM Manager will lead the design, implementation, and continuous improvement of ITIL-based processes across the enterprise. This individual will be responsible for establishing and maturing ITSM frameworks from the ground up, ensuring operational excellence, compliance, and service quality throughout Inception's AI-driven ecosystem of partners, suppliers, and enterprise customers.\n\nResponsibilities:\n\r\n\n- Establish, design, and implement enterprise-wide ITIL processes including Incident, Problem, Change, Release, and Knowledge Management.\n\n- Drive end-to-end ITSM transformation initiatives, ensuring integration with the organization’s technology and business vision.\n\n- Develop and maintain ITSM policies and procedures aligned with ISO and audit requirements to ensure full auditability at all times.\n\n- Champion ITIL awareness programs, internal trainings, and enterprise roadshows to promote adoption and process discipline.\n\n- Collaborate with Engineering, Product, Security, and Customer Success teams to embed ITSM principles into AI product development and delivery workflows.\n\n- Provide leadership and direction for continuous service improvement initiatives through measurable KPIs and governance metrics.\n\n- Act as a key influencer in driving cultural change and process standardization across global teams.\n\n- Support ITSM tool selection, configuration, and optimization aligned to defined process needs.\n\n- Partner with audit and compliance stakeholders to ensure adherence to ISO 20000, ISO 27001, and other quality frameworks.\n\nQualifications:\n\r\n\n- Bachelor in Computer Science, Information Technology, Business Administration, or Computer Information Systems.\n\n- Minimum 15 years of overall IT experience, with at least 10 years in ITSM or ITIL leadership roles within large enterprise environments.\n\n- Proven success in establishing ITSM frameworks and achieving process maturity from inception.\n\n- Strong technical understanding of AI-driven product development, cloud infrastructure, and enterprise platforms.\n\n- Advanced knowledge of Microsoft Azure and cloud-based service delivery models.\n\n- Deep familiarity with ITIL processes such as Incident, Change, Release, Problem, and Knowledge Management.\n\n- Experience managing complex partner, supplier, and customer ecosystems within a technology product organization.\n\n- Excellent leadership, stakeholder management, and communication skills with the ability to influence across business and technical\n\nCertifications\n\n- Mandatory: ITIL Certification (v4 Managing Professional or equivalent)\n\n- Mandatory: SCRUM and Agile Certifications\n\n- Optional: PMP or PRINCE2 Certification\n\n- Cloud certifications in Azure / AWS/GCP.\n\nKey Attributes\n\n- Strategic and process-driven mindset with hands-on execution capability.\n\n- Strong technical appreciation of product lifecycle, DevOps, and cloud operations.\n\n- Passionate communicator and trainer, capable of simplifying complex process concepts.\n\n- Committed to operational excellence, continuous improvement, and service quality.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception community.\n\nWhat Working At Inception Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
+  },
+  {
+   "id": "ifs:744000154383130",
+   "source": "ifs",
+   "company": "IFS",
+   "via": "",
+   "title": "Lead/Principal Agentic AI Full Stack Engineer - (UX & Frontend Framework)",
+   "field": "Data & AI",
+   "country_code": "LK",
+   "country": "Sri Lanka",
+   "countries": [
+    "Sri Lanka"
+   ],
+   "locations": [
+    "Colombo, Western Province, Sri Lanka"
+   ],
+   "workplace_type": "",
+   "category": "Information Technology",
+   "posted_date": "2026-10-08",
+   "summary": "",
+   "url": "https://jobs.smartrecruiters.com/IFS1/744000154383130-lead-principal-agentic-ai-full-stack-engineer-ux-frontend-framework-",
+   "first_seen": "2026-10-08T19:37:17Z",
+   "description": "Job Description\nWe're looking for a true full stack engineer.\n\nSomeone who can obsess over a UX detail in the morning, build a React component after lunch, and ship a Go service before the day is over.\n\nYou'll work across React, TypeScript, Web Components, Go, AI agents, and MCP's. Not as separate disciplines, but as one product engineering problem: building great software people actually enjoy using.\n\nWhat you'll do\n\n• Build end-to-end product capabilities across frontend and backend\n• Create exceptional user experiences using React, TypeScript, and modern web technologies\n• Develop scalable services and APIs in Go\n• Build and integrate MCP servers and AI-powered product capabilities\n• Explore how agentic workflows and AI-assisted engineering can improve both products and developer productivity\n• Help raise the technical bar through hands-on engineering\n• Join a global team of passionate engineers who care about great UX, modern engineering, continuous learning, and helping each other build exceptional products\n\nQualifications\nWe're probably a match if you\n\n• Are genuinely full stack\n• Care as much about UX as architecture\n• Love building things, not just discussing them\n• Use AI tools daily and are curious about where software engineering is heading\n• Can learn new domains quickly and operate with a high degree of ownership\n• Prefer broad, impactful problems over narrowly defined roles\n\nThis role is not for you if\n\n• You only want to work on backend\n• You only want to work on frontend\n• You want a highly specialized role with well-defined boundaries\n\nWe're looking for engineers who can build the whole thing, not just one layer of it.\n\nAdditional Information\nWe embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships."
+  },
+  {
+   "id": "ifs:744000154369376",
+   "source": "ifs",
+   "company": "IFS",
+   "via": "",
+   "title": "IFS Project Manager (IGT1)",
+   "field": "ERP & Business Apps",
+   "country_code": "LK",
+   "country": "Sri Lanka",
+   "countries": [
+    "Sri Lanka"
+   ],
+   "locations": [
+    "Port City, Western Province, Sri Lanka"
+   ],
+   "workplace_type": "Hybrid",
+   "category": "Consulting",
+   "posted_date": "2026-10-08",
+   "summary": "",
+   "url": "https://jobs.smartrecruiters.com/IFS1/744000154369376-ifs-project-manager-igt1-",
+   "first_seen": "2026-10-08T19:37:17Z",
+   "description": "Job Description\nAbout the Client: Centric\n\nCentric Global is a growing technology company with offices in Kenya, Dubai, and Sri Lanka, specializing in ICT, enterprise applications, and digital transformation solutions.\n\nAs an IFS partner, Centric Global delivers IFS ERP solutions and supports organizations across various industries with implementation, consulting, optimization, and technology services. The company also partners with global technology providers including Microsoft, AWS, SUSE, Kaspersky, and Red Hat.\n\nWith a focus on innovation, regional growth, and customer success, Centric Global brings together talented technology professionals to deliver scalable solutions and create meaningful impact for clients across the region.\n\nJoin Centric Global and be part of a growing team delivering technology solutions that help businesses operate smarter and grow sustainably.\n\nAbout the role:\n\nAs a IFS Project Manager, you will be responsible for leading complex, end-to-end IFS Cloud implementation and transformation programs for enterprise clients across international markets. Working within a delivery-focused consultancy, you will play a key role in ensuring successful project execution in line with IFS implementation methodologies, managing scope, timelines, budgets, risks, and quality while delivering measurable business value and customer satisfaction.\n\nSuccess in this position requires strong ERP project management expertise, extensive experience in enterprise implementations, and the ability to lead cross-functional teams in complex, customer-facing environments. You will drive project delivery from initiation through go-live, establish effective project governance, manage senior stakeholder relationships and coordinate international delivery teams to ensure successful outcomes while maintaining strong commercial control and long-term client relationships.\n\nKey Responsibilities:\n\n•\nLead and manage end-to-end IFS Cloud implementation projects from initiation through go-live and hypercare, ensuring successful delivery within agreed scope, timelines, budgets, and quality standards.\n\n•\nDevelop and maintain comprehensive project plans, schedules, milestones and governance frameworks in alignment with IFS implementation methodologies and contractual commitments.\n\n•\nAct as the primary point of contact for clients and internal stakeholders, managing expectations, building strong relationships and ensuring effective communication across international and multicultural environments.\n\n•\nLead and coordinate cross-functional teams across functional, technical and integration workstreams, ensuring effective collaboration, clear accountability and timely delivery of project milestones.\n\n•\nProactively identify, assess, and manage project risks, issues, dependencies and change requests, evaluating their impact on project timelines, costs and contractual obligations.\n\n•\nManage project budgets, financial forecasts, resource costs and invoicing while maintaining commercial control and ensuring compliance with contractual commitments.\n\n•\nPlan, allocate, and coordinate project resources across workstreams, managing capacity, priorities and dependencies to meet project objectives and delivery commitments.\n\n•\nPrepare and deliver project status reports, financial updates and executive presentations, facilitate steering committee meetings and ensure timely escalation of critical issues and decisions.\n\n•\nMonitor project deliverables against agreed quality standards, business requirements and client expectations, ensuring successful solution delivery and realization of expected business benefits.\n\n•\nMotivate and support project teams, delegate responsibilities effectively, resolve conflicts and foster a collaborative, accountable, and results-driven delivery environment.\n\n•\nManage project delivery across multiple geographies, time zones and cultural environments, ensuring effective coordination between clients, consultants, and other delivery stakeholders.\n\nQualifications\nRequired Skills & Experience:\n\n•\nBachelor’s degree or equivalent qualification, preferably in Information Technology, Business Management, Project Management, or a related discipline.\n\n•\nProven experience managing medium to large-scale ERP implementation and transformation programmes, including end-to-end IFS implementations, in a project management or delivery leadership capacity.\n\n•\nStrong understanding of the ERP implementation lifecycle, project governance and Agile, Waterfall, or Hybrid delivery methodologies.\n\n•\nStrong understanding of IFS Cloud, IFS software, and service offerings.\n\n•\nExperience working across international delivery programmes and managing stakeholders across different cultures locations, and time zones.\n\n•\nExposure to IFS Cloud modules such as Supply Chain, Manufacturing, Finance, Procurement and Human Capital Management is preferred.\n\n•\nExperience working with Public Sector and Service Industry organisations is preferred.\n\n•\nStrong stakeholder management and client-facing communication skills, with the ability to work effectively across complex delivery environments.\n\n•\nProven ability to manage multiple stakeholders and priorities while maintaining scope, timelines, budgets, and delivery risks.\n\n•\nPrevious consultancy or customer-facing ERP delivery experience is preferred.\n\n•\nProfessional project management certification is preferred.\n\n•\nExcellent command of English, both written and spoken.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
+  },
+  {
+   "id": "amazon:10573268",
+   "source": "amazon",
+   "company": "Amazon",
+   "via": "",
+   "title": "Data Center Technician - 2027 Internship",
+   "field": "Systems & Infrastructure",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh, Saudi Arabia"
+   ],
+   "workplace_type": "",
+   "category": "Operations, IT, & Support Engineering",
+   "posted_date": "2026-10-08",
+   "summary": "At Amazon Web Services (AWS), we are working to be the most customer-centric company on earth. To get there, we need exceptionally talented, bright, and driven people. Are you ready to embrace the challenge?",
+   "url": "https://www.amazon.jobs/en/jobs/10573268/data-center-technician-2027-internship",
+   "first_seen": "2026-10-08T19:37:17Z",
+   "description": "At Amazon Web Services (AWS), we are working to be the most customer-centric company on earth. To get there, we need exceptionally talented, bright, and driven people. Are you ready to embrace the challenge? Come build the future with us.\n\nThis is a unique opportunity to work in some of the most cutting-edge data centers in the world. Amazon data centers are large-scale, high-density facilities where you will help change the face of cloud technology in the region — and your work will directly impact millions of customers.\n\nThis internship is designed as a potential pathway to full-time employment. Interns who demonstrate strong performance throughout their internship may be considered for a full-time Data Center Technician position, subject to available roles and business needs.\n\nWho Should Apply\n\nWe welcome applications from:\n\n- Students in the last year of their Bachelor's degree in a relevant technical field such as Information Technology, Computer Hardware Repair, or similar. It is a requirement to be graduated by the end of the internship.\n\nImportant — Site Location & Commuting: This role is based at a data center facility in a remote location with no public transportation access. A valid driving license and access to personal transportation are required to commute to the site daily. Please consider this before applying.\n\nAs a Data Center Technician Intern, you will work as part of the Operations team, whose primary responsibility is the maintenance and upkeep of the data center infrastructure. This position involves hardware and network diagnostics followed by physical repair.\n\nYou will be exposed to both independent work and team-based collaboration. Prioritization, organizational skills, effective communication, and the ability to react quickly are critical to being successful.\n\nWhat You Will Do\n\nYou will provide our internal teams with infrastructure-related support, resolving tickets related to hardware (motherboards, Random Access Memory, Central Processing Units, Graphics Processing Units, and more) and networking (link-down events, optics replacements, switch replacements, and more).\n\nIn addition to hardware and network repair, you will learn how to install equipment, create documentation, innovate solutions, and fix complex problems within the data center environment.\n\nYour day-to-day duties include:\n\n- Troubleshooting server hardware alongside experienced AWS technicians\n\n- Meeting Service Level Agreements (SLAs) against assigned trouble tickets\n\n- Shadowing AWS technicians during network troubleshooting to build your diagnostic skills\n\n- Replacing media (Solid State Drives and Hard Disk Drives) in accordance with AWS Data Tech guidance\n\n- Performing regular server hardware repairs (drives, motherboards, and other components) under the guidance of experienced technicians\n\n- Interacting with third-party vendors and contractors working on site\n\nInternship Structure\n\nAmazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027. This position requires the intern to report to work on site daily. Intern schedules are typically day schedules, Sunday through Thursday.\n\nPlease note that a full-time Data Center Technician position could involve day, evening, or weekend shifts and on-call rotations. Candidates should be willing and able to commit to shift work upon transitioning to a full-time position.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed below, we encourage you to apply. If your career is just starting, has not followed a traditional path, or includes alternative experiences, do not let that stop you from applying.\n\nYour Career at Amazon — A Universe of Opportunity\n\nAt Amazon, your career is not a straight path. It is a journey you build as you go.\n\nFrom your first day as an intern, you will own real work that matters. You will diagnose and repair the servers and networks that keep AWS running for millions of customers. Your mentors and teammates will champion your growth, helping you build skills you did not know existed — and you will see your work come to life at massive scale.\n\nImpact. Your work shapes the infrastructure that millions of customers rely on every day. Every server you repair and every network issue you resolve keeps the cloud running.\n\nAction. You will move fast, learn by doing, and solve real problems from day one. Your ideas do not get stuck in approval chains — they get tested, refined, and put into practice.\n\nCuriosity. Every project teaches you something new. You will apply what you learned in the classroom to real challenges and explore different teams, technologies, and career paths within Amazon.\n\nMentorship and career growth. You will start with structured onboarding and get paired with experienced mentors. Our team is dedicated to supporting new members in an environment that celebrates knowledge sharing. Projects and tasks are assigned in a way that leverages your strengths and helps you further develop your skill set. Your journey here is yours to shape.\n\nAbout the team\n\nAWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. We are the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on.\n\nYou will join a diverse team of engineers, supply chain specialists, security experts, operations managers, and other vital roles. You will collaborate with people across AWS to deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers.\n\nBasic qualifications\n- In pursuit of a Bachelor's degree in a relevant technical field such as Information Technology, Computer Hardware Repair, or similar, graduating in 2027 – before the internship´s end date.\n\n- Professional English proficiency, both written and verbal\n\n- Ability to work well with others in a team environment, with strong time management skills\n\nPreferred qualifications\n- Basic knowledge of Linux and networking\n\n- Basic knowledge of computer hardware components\n\n- Ability to manage work and priorities through a ticketing system and coordination with Manager.\n\n- An interest in computer sciences and information technology\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
+  },
+  {
+   "id": "amazon:10573069",
+   "source": "amazon",
+   "company": "Amazon",
+   "via": "",
+   "title": "Data Center Engineering Operations - 2027 Internship",
+   "field": "Systems & Infrastructure",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh, Saudi Arabia"
+   ],
+   "workplace_type": "",
+   "category": "Operations, IT, & Support Engineering",
+   "posted_date": "2026-10-08",
+   "summary": "Want to be part of the team that keeps the world's largest cloud running? As an Engineering Operations Technician Intern at Amazon Web Services (AWS), you will get hands-on experience with the critical",
+   "url": "https://www.amazon.jobs/en/jobs/10573069/data-center-engineering-operations-2027-internship",
+   "first_seen": "2026-10-08T19:37:17Z",
+   "description": "Want to be part of the team that keeps the world's largest cloud running? As an Engineering Operations Technician Intern at Amazon Web Services (AWS), you will get hands-on experience with the critical infrastructure behind Amazon's global data centers — and your work will directly impact millions of customers worldwide.\n\nThis internship is designed as a potential pathway to full-time employment. Interns who demonstrate strong performance throughout their internship may be considered for a full-time Engineering Operations Technician position, subject to available roles and business needs.\n\nWho Should Apply\n\nWe welcome applications from:\n\n- Students in the last year of their Bachelor's degree in Mechanical Engineering, Electrical Engineering, or a related field who are looking for an internship that could lead to a full-time career.\n\nIt is a requirement to be graduated by the end of the internship.\n\nAbout the Role\n\nAs an intern, you will provide technical support within Amazon's owned and operated data centers. Your work will ensure that the data center's mechanical, electrical, and plumbing systems operate at 100% availability while maintaining first-class customer service to the teams and groups on site.\n\nYou will be exposed to both independent work and team-based collaboration. Prioritization, organizational skills, effective communication, and the ability to react quickly are critical to being successful.\n\nWhat You Will Do\n\nThe Engineering Operations team is Amazon's front-line responders for hands-on electrical and mechanical equipment troubleshooting and operations. You will work with equipment that supports mission-critical servers and must maintain better than 99.999% uptime. This equipment includes, but is not limited to:\n\n- Stand-by diesel generators and switchgear\n\n- Uninterruptible Power Supplies (UPSs) and Power Distribution Units (PDUs)\n\n- Air Handling Units (AHUs), chillers, and cooling towers\n\n- Chemical treatment systems, pumps, motors, and Variable Frequency Drives (VFDs)\n\n- Building automation systems\n\nYour day-to-day duties include:\n\n- Maintaining mechanical and electrical equipment\n\n- Assisting with root cause analysis of equipment failures\n\n- Troubleshooting facility and rack-level events within internal Service Level Agreements (SLAs)\n\n- Taking daily operational readings of all mechanical and electrical equipment\n\n- Using internal Computerized Maintenance Management Systems (CMMS) to manage building workflows\n\n- Interacting with third-party vendors and contractors working on site\n\nInternship Structure\n\nAmazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027. This position requires the intern to report to work on site daily. Intern schedules are typically day schedules, Sunday through Thursday.\n\nPlease note that full-time Engineering Operations Technician roles operate on a rotating shift pattern, which may include days, nights, weekends, and public holidays. Candidates should be willing and able to commit to shift work upon transitioning to a full-time position.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed below, we encourage you to apply. If your career is just starting, has not followed a traditional path, or includes alternative experiences, do not let that stop you from applying.\n\nYour Career at Amazon — A Universe of Opportunity\n\nAt Amazon, your career is not a straight path. It is a journey you build as you go.\n\nFrom your first day as an intern, you will own real work that matters. You will troubleshoot and maintain the systems that keep AWS running for millions of customers. Your mentors and teammates will champion your growth, helping you build skills you did not know existed — and you will see your work come to life at massive scale.\n\nImpact. Your work shapes the infrastructure that millions of customers rely on every day. From cloud computing to artificial intelligence, the systems you maintain power it all.\n\nAction. You will move fast, experiment, and learn by doing. Your ideas do not get stuck in approval chains — they get tested, refined, and put into practice.\n\nCuriosity. Every project teaches you something new. You will apply what you learned in the classroom to real challenges and explore different teams, technologies, and career paths within Amazon.\n\nMentorship and career growth. You will start with structured onboarding and get paired with experienced mentors. Beyond that, you will find continuous learning opportunities and the chance to work on different projects. Your journey here is yours to shape.\n\nAbout the team\n\nAWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. We are the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on.\n\nYou will join a diverse team of engineers, supply chain specialists, security experts, operations managers, and other vital roles. You will collaborate with people across AWS to deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers.\n\nBasic qualifications\n- In pursuit of a Bachelor's degree in a relevant field such as Mechanical Engineering or Electrical Engineering, or a related technical field, graduating in 2027 - before the end of the internship.\n\n- Professional English proficiency, both written and verbal\n\n- Ability to work well with others in a team environment, with strong time management skills\n\n- You must have access to your own transport (note: public transit options may be limited)\n\nPreferred qualifications\n- Experience in program or project management\n\n- Knowledge of mechanical systems (Heating, Ventilation, and Air Conditioning systems, controls)\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
+  },
   {
    "id": "syscolabs:R270252",
    "source": "syscolabs",
@@ -544,29 +682,6 @@
    "description": "Amazon Web Services Infrastructure Delivery owns the end-to-end design, planning, delivery, and operation of the global AWS infrastructure footprint — the backbone that enables the cloud to operate at scale. Our teams support every AWS data center and the full stack of critical infrastructure including compute, storage, networking, power, and cooling systems, ensuring customers maintain continuous access to the services and innovation they depend on. We operate in one of the world’s most complex environments, solving high-impact challenges across supply chain, deployment, operational readiness, and infrastructure scaling while continuously raising the bar on execution, resiliency, and customer experience.\n\nYou will join a high-performing, diverse organization of software engineers, hardware engineers, network specialists, supply chain professionals, security experts, operations leaders, and infrastructure teams working collectively to deliver scalable, secure, and highly available infrastructure globally. Success in this environment requires strong ownership, collaboration across organizational boundaries, and relentless focus on safety, quality, and operational excellence. At AWS, individuals are empowered to think big, challenge convention, and drive initiatives through completion with measurable impact.\n\nWe are seeking an ID Install Technician to support network infrastructure deployment and expansion within our next-generation data center environments.\n\nThis role requires operating with a high degree of autonomy in fast-paced, mission-critical environments while maintaining exceptional attention to detail and execution standards.\n\nThe ideal candidate demonstrates strong technical judgment, disciplined operational practices, and proven experience supporting large-scale enterprise infrastructure deployments.\n\nSuccess in this role requires strong implementation and troubleshooting capabilities, structured documentation practices, and the ability to communicate effectively across technical and operational stakeholders.\n\nThe ability to execute efficiently under pressure, adapt quickly to evolving priorities, and collaborate effectively within cross-functional teams is essential.\n\nProven experience supporting large-scale enterprise network environments is required, along with strong implementation, troubleshooting, and structured documentation capabilities. Success in this role depends on effective written and verbal communication, disciplined operational practices, and the ability to collaborate efficiently across technical teams, stakeholders, and customers.\n\nYou must be able to adapt quickly to changing priorities, maintain composure under pressure, and contribute effectively within highly collaborative environments where precision, accountability, and execution excellence are critical to operational success.\n\nKey job responsibilities\n\n- As an ID Install Technician, you support deployment of next-generation network infrastructure across global data centers.\n\n- Your day includes rack installation, structured cabling, hardware deployment, validation, and troubleshooting to ensure safe and accurate delivery at scale.\n\n- You work closely with Network Engineering, Operations, Security, and Logistics teams to execute infrastructure builds with precision and efficiency.\n\n- The role requires strong ownership, attention to detail, and the ability to operate in fast-paced, mission-critical environments with minimal supervision.\n\n- You proactively identify risks, ensure adherence to safety and quality standards, and deliver consistent operational excellence across complex, high-impact deployments.\n\nAbout the team\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\n\nWhy AWS?\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nInclusive Team Culture\n\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences, inspire us to never stop embracing our uniqueness.\n\nMentorship & Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nBasic qualifications\n- Experience with computer hardware troubleshooting and repair\n\n- Experience in computer networking\n\n- High school or equivalent diploma\n\n- Knowledge of TCP/IP networks\n\n- Knowledge of cloud computing technologies\n\n- Knowledge of fiber optic and copper cabling standards, testing equipment and troubleshooting methodologies\n\n- Knowledge of network design, protocols and Layer 1/2 troubleshooting\n\nPreferred qualifications\n- Experience dealing effectively with customers during problem resolution and operating efficiently under pressure\n\n- Bachelor's degree in information technology or computer science\n\n- Knowledge of fiber optic and copper cabling standards, testing equipment and troubleshooting methodologies\n\n- Knowledge of server hardware and components\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
   },
   {
-   "id": "amazon:10440219",
-   "source": "amazon",
-   "company": "Amazon",
-   "via": "",
-   "title": "Data Center Facility Engineer (Controls), AWS",
-   "field": "DevOps & Cloud",
-   "country_code": "SA",
-   "country": "Saudi Arabia",
-   "countries": [
-    "Saudi Arabia"
-   ],
-   "locations": [
-    "Riyadh, Saudi Arabia"
-   ],
-   "workplace_type": "",
-   "category": "Facilities, Maintenance, & Real Estate",
-   "posted_date": "2026-06-04",
-   "summary": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers",
-   "url": "https://www.amazon.jobs/en/jobs/10440219/data-center-facility-engineer-controls-aws",
-   "first_seen": "2026-10-08T07:37:59Z",
-   "description": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.\n\nYou’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.\n\nAmazon Web Services (AWS) is looking for a Data Center Engineering Operations Engineer to join our expanding Data Centers (DC) Cloud regions. Data Center Engineering Operations Engineer is a hands-on electrical and mechanical equipment troubleshooting and operation responder.\n\nAs an Engineering Operations Engineer, you will operate and maintain AWS DCs’ world-class mechanical and electrical infrastructure following a process-oriented approach. In addition, you will oversee facility operations and ensure the implementation of safety procedures.\n\nIf you like to apply your electrical and mechanical skills to solve problems while striving for operational excellence, we would like to meet you. Your work will help maintain availability for customers and ensure the upkeep and operation of the technical infrastructure in the DC.\n\nKey job responsibilities\n\nSAFETY\n\n- Follow and maintain the highest safety standards and diligently encourage a world-class safety culture. As a facility owner team, ensure remediation of safety risks/issues in conjunction with other teams. Own the safety initiatives and projects to foster strong safety culture.\n\nENGINEERING & FACILITY OPERATIONS AND MAINTENANCE\n\n- You will be supporting electrical and mechanical equipment, including Uninterruptable Power Supplies (UPS’s), Switchgear, Circuit Breakers, Automatic Transfer Switches (ATS's), Diesel Generators, Chillers, Heating Ventilation Air Conditioning (HVAC), Exhaust Fans, Variable Frequency Drives (VFD's), and Transformers.\n\n- Operate and maintain mechanical and electrical, mechanical, emergency generator, HVAC and fire/life safety equipment within the data center\n\n- Troubleshoot facility and rack-level events within internal SLAs\n\n- Perform root cause analysis of equipment failures\n\n- Drive innovation while reducing operational costs in the facilities\n\nDAY IN THE LIFE\n\n- Work rotational shifts of 4 days of 12 hours shifts (2 days followed by 2 nights), and 4 days off (including night, weekends and holidays) / Respond to on-call rotation reaction to off-duty emergency calls\n\n- Take daily operational readings of all mechanical and electrical equipment through routine rounds/log-taking (temperatures, voltages, currents, etc.)\n\n- Supervise contractors who perform servicing or preventive maintenance\n\n- Perform the following tasks, with or without reasonable accommodation:\n\n- Occasionally Move objects/material (weight limits in accordance with regulations)\n\n- Work in outdoor weather conditions.\n\n- Work in noisy environments\n\n- Work at heights and from ladders\n\nAbout the team\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\n\nWhy AWS?\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nInclusive Team Culture\n\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.\n\nMentorship & Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nBasic qualifications\n- Bachelor's degree in engineering, project management, construction management or similar technical focus\n\n- Knowledge of BMS and EPMS control systems and data collection/trending\n\n- Knowledge of mechanical systems (Mechanical, HVAC systems, Controls)\n\n- Knowledge of key electrical competencies and theory\n\nPreferred qualifications\n- Experience in data center engineering\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
-  },
-  {
    "id": "amazon:10434651",
    "source": "amazon",
    "company": "Amazon",
@@ -611,29 +726,6 @@
    "url": "https://www.amazon.jobs/en/jobs/10423173/senior-security-assurance-specialist-uae-aws-compliance-and-security-assurance",
    "first_seen": "2026-10-08T07:37:59Z",
    "description": "Amazon obsesses over customers, and delivering secure cloud solutions for customers is our priority. We are looking for a cybersecurity professional with security assurance and compliance experience to support AWS's cybersecurity initiatives in the UAE region.\n\nIn this role, the successful candidate will enjoy working across many stakeholders, including internal and external customers, to design solutions for complex compliance challenges. You are passionate about the security of the cloud and you want to solve real business problems.\n\nWe have a team culture that encourages ownership, diversity, inclusion, and innovation. We expect team members and management alike to take a high degree of ownership for their program vision and execution of ideas. We expect this person to balance their unique perspective with those of the diverse perspectives of the team and its stakeholders. You will have an opportunity to work directly with senior leadership within Amazon to improve our ability to demonstrate assurance for regulated customers.\n\nYou should be a technically experienced and innovative security, compliance, and audit professional who has the ability to understand IT processes, communicate clearly and transparently with customers, and to be able to drive innovative process changes through multiple organizations and teams.\n\n**You should be UAE National to be considered for this role.**\n\nKey job responsibilities\n\nAs part of the team, you will work with customers and regulators to demonstrate Amazon security controls applicable to local requirements. You will join our team in helping customers understand how our infrastructure is designed, operated, maintained, and protected in accordance with global regulated industry standards.\n\nIn this role, you will be responsible for the following activities:\n\n- Dive deep into the Amazon control environment to develop broad domain and technical understanding of our security activities and control implementations to articulate compliance implications to both customers and internal/external audit functions.\n\n- Develop understanding of regulated industry compliance requirements and communicate how we control activities to meet global regulatory obligations.\n\n- Liaise with customers, regulators and auditors, articulate control implementation, and describe considerations for applying security and compliance concepts to monitor, evaluate, and continuously improve the organization by being a trusted advisor, facilitator and creative problem solver.\n\n- Implement continuous improvements to the security organization and the program management process. Share program/project process frameworks, tools, and best practices that can be adopted throughout the organization.\n\nApply a working knowledge of global information security regulation and policy to articulate customer and control impact and drive alignment to Amazon controls.\n\nA day in the life\n\nOn any given day, you'll be working directly with customers to respond to their assurance needs, helping third-party auditors understand the AWS control environment, or talking to regulators about how AWS views cloud security. You'll be talking to AWS service teams about how the technology works under the hood and helping translate that technology into meaningful security and compliance outcomes.\n\nAbout the team\n\nWhy Amazon Security\n\nAt Amazon, security is central to maintaining customer trust and delivering delightful customer experiences. Our organization is responsible for creating and maintaining a high bar for security across all of Amazon’s products and services. We offer talented security professionals the chance to accelerate their careers with opportunities to build experience in a wide variety of areas including cloud, devices, retail, entertainment, healthcare, operations, and physical stores.\n\nInclusive Team Culture\n\nIn Amazon Security, it’s in our nature to learn and be curious. Ongoing DEI events and learning experiences inspire us to continue learning and to embrace our uniqueness. Addressing the toughest security challenges requires that we seek out and celebrate a diversity of ideas, perspectives, and voices. Amazon’s culture of inclusion is reinforced within our 16 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.\n\nWork/Life Balance\n\nOur team puts a high value on work-life harmony. It isn’t about how many hours you spend at home or at work; it’s about the flow you establish that brings energy to both parts of your life. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.\n\nMentorship & Career Growth\n\nOur team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded professional and enable them to take on more complex tasks in the future.\n\nBasic qualifications\n- Bachelor's degree or equivalent in Information Security, Computer Science, Risk Management, Engineering, Math, Statistics, or a related discipline, or equivalent technology experience\n\n- 5+ years of working experience in performing and/or participating in IT audits and assessments of highly technical cloud-based environments.\n\n- 5+ years working in highly regulated industries (e.g. financial services, healthcare, and energy, telecommunications).\n\n- Business level proficiency in English (verbal and written) and Arabic language (verbal)\n\nPreferred qualifications\n- 5+ years of one or more of the following: big data, DevOps, security, systems administration, software development, cloud technology experience\n\n- 1 or more industry-recognized security, cloud, or audit professional certifications (e.g., CISA, CISM, CISSP, CCSP, Amazon Cloud Practitioner\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
-  },
-  {
-   "id": "amazon:10418488",
-   "source": "amazon",
-   "company": "Amazon",
-   "via": "",
-   "title": "Data Center Engineer/Technician, AWS (UAE National Only), Data Center Operations (DCO), AWS",
-   "field": "DevOps & Cloud",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "Facilities, Maintenance, & Real Estate",
-   "posted_date": "2026-05-13",
-   "summary": "AWS have an exciting Data Center Technician/Engineer opportunity in Dubai available for a UAE national with family book. AWS are committed to contributing towards the UAE’s goal of employing 75,000 Emiratis",
-   "url": "https://www.amazon.jobs/en/jobs/10418488/data-center-engineer-technician-aws-uae-national-only-data-center-operations-dco-aws",
-   "first_seen": "2026-10-08T07:37:59Z",
-   "description": "AWS have an exciting Data Center Technician/Engineer opportunity in Dubai available for a UAE national with family book. AWS are committed to contributing towards the UAE’s goal of employing 75,000 Emiratis in the private sector and Ministerial Resolution No.279.\n\nAWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.\n\nYou’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.\n\nWe are looking for Data Center Technicians to join our expanding Infrastructure Operations team. Data Center Technicians are the primary resolver and troubleshoot and solve a range of datacenter infrastructure issues including, but not limited to: hardware, fiber, networking, and related problems. You will be part of the Data Center Operations (DCO) team, overseeing the operation and maintenance of the IT infrastructure and hardware for data centers in AWS Cloud regions. You will become the primary resolver for your support team, and gain troubleshooting skills on different hardware and software cases.\n\nYou will be able to troubleshoot and solve most infrastructure issues and engage other appropriate solutions groups on more complex problems to drive solutions.\n\nKey job responsibilities\n\nExecution & Troubleshooting:\n\n- Perform a variety of DCO procedures including break-and-fix repairs, host-level decommissions (HLD), server rack decommissions (SRD), media removal, media destruction, and first responder duties\n\n- Troubleshoot hardware issues using SOPs and available documentation; escalate when actions deviate from established procedures.\n\nScope & Decision-Making:\n\n- Operate across one or more process paths within the DCO team, applying knowledge to determine the correct task or procedure — including slight deviations — to achieve desired outcomes\n\n- Work is reviewed daily by supervision.\n\nCommunication & Collaboration:\n\n- Communicate clearly via tickets, SIMs, task tracking entries, and write-ups\n\n- Participate effectively in team meetings and present work to leaders\n\nImpact & Process Improvement:\n\n- Deliver work that impacts team metrics including ticket resolution, decom throughput, and safety compliance\n\n- Take action to improve operational excellence within DCO workflows\n\nSafety & Compliance:\n\n- Adhere to all DC safety protocols during red zone (RZ) and floor operations\n\n- Support safety inspections and maintain site compliance standards\n\nBasic qualifications\n- UAE National Only with a valid family book\n\n- Experience with computer hardware troubleshooting and repair\n\n- Experience in computer networking\n\n- High school or equivalent diploma\n\nPreferred qualifications\n- Experience in a data center or other critical environment\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
   },
   {
    "id": "amazon:10399428",
@@ -1262,29 +1354,6 @@
    "description": "Overview:\n\r\n\nThe Senior SOC Engineer is responsible for managing SIEM services within the Security Operations Center, with a primary focus on Splunk SIEM and Splunk UEBA. This role involves onboarding new log sources, optimizing telemetry, ensuring system updates, troubleshooting issues, and maintaining SIEM performance. Additionally, the engineer will support SIEM architecture improvements and deployments aligned with business requirements.\n\nResponsibilities:\n\r\n\nKey Responsibilities:\n\n• Manage Splunk SIEM services within the SOC environment.\n• Implement scalable Splunk-based SIEM solutions following best practices.\n• Define data ingestion strategies, parsing logic, and correlation rules.\n• Onboard new log sources and ensure proper integration with Splunk SIEM.\n• Monitor and maintain critical log sources; troubleshoot and resolve issues promptly.\n• Optimize telemetry for improved data collection, correlation, and reporting.\n• Collaborate with SOC and threat intelligence teams to develop detection use cases.\n• Create dashboards, alerts, and reports for proactive threat monitoring.\n• Perform system updates, version upgrades, and feature rollouts.\n• Ensure CIM compliance, field extractions, and data normalization.\n• Maintain SIEM performance and troubleshoot Splunk-related issues.\n• Evaluate and deploy Splunk apps and add-ons as needed.\n• Document SIEM workflows, configurations, and operational procedures.\n• Support continuous process improvements to enhance SOC efficiency. Work cross-functionally with IT, DevOps, and security teams.\n\nCharacteristics:\n\n• Profound knowledge and hands-on experience with Splunk SIEM, UEBA and other related technologies like CRIBL.\n• Understanding of SOC workflows, MITRE ATT&CK framework, and threat detection methodologies.\n• Ability to correlate data across multiple sources to identify patterns and anomalies.\n• Strong understanding of cloud and network technologies, essential for efficient log source onboarding.\n• Proven technical capabilities in a complex, fast-paced SOC environment.\n• Ability to diagnose and troubleshoot log source issues related to cloud and network infrastructures.\n• Strong understanding of SOC operations, cybersecurity principles, and best practices.\n• Excellent problem-solving skills and the ability to make decisions under pressure.\n• Ability to collaborate effectively with a variety of team members, including interfacing with customers to resolve issues.\n• High proficiency in written and verbal communication\n\nQualifications:\n\r\n\nSkills/Certifications (Technical & Non-Technical)\n\n• Splunk Certified Administrator.\n• Mastery of SPL (Search Processing Language) for complex queries, dashboards, and reports.\n• Scripting skills (Python, Bash, PowerShell)\n• Cloud-related certifications like AWS Certified Solutions Architect, Google Professional Cloud Architect, or Microsoft Certified: Azure Solutions Architect Expert.\n• Certified Information Systems Security Professional (CISSP), GIAC is preferred.\n• Excellent communication and documentation skills\n• Ability to lead technical initiatives and work independently\n\nMinimum Work Experience\n\n• A minimum of 3-5 years of experience in SOC operations, with significant experience in Splunk SIEM management.\n• Prior experience in a technical role within a SOC or similar cybersecurity environment.\n\nEducation\n\n• Bachelor’s degree in computer science, Information Technology, Cybersecurity, or a related field."
   },
   {
-   "id": "ifs:744000153113469",
-   "source": "ifs",
-   "company": "IFS",
-   "via": "",
-   "title": "IFS Project Manager (IGT1)",
-   "field": "ERP & Business Apps",
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "countries": [
-    "Sri Lanka"
-   ],
-   "locations": [
-    "Port City, Western Province, Sri Lanka"
-   ],
-   "workplace_type": "Hybrid",
-   "category": "Consulting",
-   "posted_date": "2026-10-02",
-   "summary": "",
-   "url": "https://jobs.smartrecruiters.com/ifs1/744000153113469",
-   "first_seen": "2026-10-04T17:59:24Z",
-   "description": "Job Description\nAbout the Client: Centric\n\nCentric Global is a growing technology company with offices in Kenya, Dubai, and Sri Lanka, specializing in ICT, enterprise applications, and digital transformation solutions.\n\nAs an IFS partner, Centric Global delivers IFS ERP solutions and supports organizations across various industries with implementation, consulting, optimization, and technology services. The company also partners with global technology providers including Microsoft, AWS, SUSE, Kaspersky, and Red Hat.\n\nWith a focus on innovation, regional growth, and customer success, Centric Global brings together talented technology professionals to deliver scalable solutions and create meaningful impact for clients across the region.\n\nJoin Centric Global and be part of a growing team delivering technology solutions that help businesses operate smarter and grow sustainably.\n\nAbout the role:\n\nAs a IFS Project Manager, you will be responsible for leading complex, end-to-end IFS Cloud implementation and transformation programs for enterprise clients across international markets. Working within a delivery-focused consultancy, you will play a key role in ensuring successful project execution in line with IFS implementation methodologies, managing scope, timelines, budgets, risks, and quality while delivering measurable business value and customer satisfaction.\n\nSuccess in this position requires strong ERP project management expertise, extensive experience in enterprise implementations, and the ability to lead cross-functional teams in complex, customer-facing environments. You will drive project delivery from initiation through go-live, establish effective project governance, manage senior stakeholder relationships and coordinate international delivery teams to ensure successful outcomes while maintaining strong commercial control and long-term client relationships.\n\nKey Responsibilities:\n\n•\nLead and manage end-to-end IFS Cloud implementation projects from initiation through go-live and hypercare, ensuring successful delivery within agreed scope, timelines, budgets, and quality standards.\n\n•\nDevelop and maintain comprehensive project plans, schedules, milestones and governance frameworks in alignment with IFS implementation methodologies and contractual commitments.\n\n•\nAct as the primary point of contact for clients and internal stakeholders, managing expectations, building strong relationships and ensuring effective communication across international and multicultural environments.\n\n•\nLead and coordinate cross-functional teams across functional, technical and integration workstreams, ensuring effective collaboration, clear accountability and timely delivery of project milestones.\n\n•\nProactively identify, assess, and manage project risks, issues, dependencies and change requests, evaluating their impact on project timelines, costs and contractual obligations.\n\n•\nManage project budgets, financial forecasts, resource costs and invoicing while maintaining commercial control and ensuring compliance with contractual commitments.\n\n•\nPlan, allocate, and coordinate project resources across workstreams, managing capacity, priorities and dependencies to meet project objectives and delivery commitments.\n\n•\nPrepare and deliver project status reports, financial updates and executive presentations, facilitate steering committee meetings and ensure timely escalation of critical issues and decisions.\n\n•\nMonitor project deliverables against agreed quality standards, business requirements and client expectations, ensuring successful solution delivery and realization of expected business benefits.\n\n•\nMotivate and support project teams, delegate responsibilities effectively, resolve conflicts and foster a collaborative, accountable, and results-driven delivery environment.\n\n•\nManage project delivery across multiple geographies, time zones and cultural environments, ensuring effective coordination between clients, consultants, and other delivery stakeholders.\n\nQualifications\nRequired Skills & Experience:\n\n•\nBachelor’s degree or equivalent qualification, preferably in Information Technology, Business Management, Project Management, or a related discipline.\n\n•\nProven experience managing medium to large-scale ERP implementation and transformation programmes, including end-to-end IFS implementations, in a project management or delivery leadership capacity.\n\n•\nStrong understanding of the ERP implementation lifecycle, project governance and Agile, Waterfall, or Hybrid delivery methodologies.\n\n•\nStrong understanding of IFS Cloud, IFS software, and service offerings.\n\n•\nExperience working across international delivery programmes and managing stakeholders across different cultures locations, and time zones.\n\n•\nExposure to IFS Cloud modules such as Supply Chain, Manufacturing, Finance, Procurement and Human Capital Management is preferred.\n\n•\nExperience working with Public Sector and Service Industry organisations is preferred.\n\n•\nStrong stakeholder management and client-facing communication skills, with the ability to work effectively across complex delivery environments.\n\n•\nProven ability to manage multiple stakeholders and priorities while maintaining scope, timelines, budgets, and delivery risks.\n\n•\nPrevious consultancy or customer-facing ERP delivery experience is preferred.\n\n•\nProfessional project management certification is preferred.\n\n•\nExcellent command of English, both written and spoken.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
-  },
-  {
    "id": "syscolabs:R269987",
    "source": "syscolabs",
    "company": "Sysco LABS",
@@ -1628,29 +1697,6 @@
    "url": "https://jobs.smartrecruiters.com/ifs1/744000152614875",
    "first_seen": "2026-10-04T17:59:24Z",
    "description": "Job Description\nThe SOC Manager is a strategic leadership role responsible for managing and overseeing all Security Operations Center activities on a 24x7 basis which is part of the Product & Customer Organization (PCO). In this position, you will lead a team of security engineers and analysts, manage major security incidents, ensure regulatory compliance, and drive continuous security posture improvements. You will be reporting to the Director of Cloud Services and Security who is responsible for PCO organization that manages cloud security strategy, infrastructure architecture oversight, operations alignment, and enterprise cloud and security initiatives.\n\nEssential duties and accountabilities\n\n•\nLead and manage the day-to-day operations of the Cloud Security Operations Center (CSOC)\n\n•\nDrive continuous improvement of the organization's security posture through collaboration with engineering, platform, and product teams.\n\n•\nOversee vulnerability management activities and ensure timely remediation of identified security risks and weaknesses.\n\n•\nSupport internal and external security audits, compliance assessments, customer security reviews, and evidence collection activities.\n\n•\nDevelop, maintain, and continuously improve SOC processes, procedures, runbooks, knowledge base articles (KBAs), and operational documentation.\n\n•\nPlan, coordinate, and facilitate cybersecurity tabletop exercises, incident simulations, and operational readiness activities.\n\n•\nDefine, monitor, and report on SOC Key Performance Indicators (KPIs), Service Level Agreements (SLAs), and operational metrics to drive continuous improvement.\n\n•\nLead the SOC's workforce and reporting transformation for AI adoption redesigning analyst roles and upskilling paths toward AI-oversight and threat-hunting specialization, tracking automation effectiveness metrics, and acting as executive liaison for AI-related security incidents and governance decisions.\n\n•\nEvaluate and recommend security technologies, automation opportunities, and operational improvements to enhance SOC maturity and effectiveness.\n\n•\nLead, mentor, and develop Security Engineers and Analysts, including hiring, onboarding, performance management, succession planning, and promotion assessments.\n\n•\nAny other duties as designated by the line manager.\n\nOverall required competence\n\n•\nStrong leadership and people management skills\n\n•\nOwn the AI augmented SOC operating model\n\n•\nExcellent stakeholder communication and executive reporting capabilities.\n\n•\nSolid understanding of cloud security technologies and security architecture.\n\n•\nStrong understanding of Security Operations Center functions and best practices. \n\n•\nITSM knowledge will be an added advantage. \n\n•\nAn ability to build strong relationships with internal teams, and senior leadership is essential\n\nQualifications\nEssential: A degree in Information Security, Computer Science, or Information Technology with 5+ years of Security Operations Center, Incident Response, or Cyber Security Operations experience including 2+ years in a team leadership or management role.\n\n Desirable:  \n\n•\nExperience managing global or distributed SOC teams\n\n•\nExperience supporting enterprise compliance programs and security audits.\n\n•\nOne combination of: CISSP/CISM/CEH /CCSK / Security+ or other similar qualifications.\n\n•\nAny cloud security specific certification or other qualifications is an added advantage.\n\n•\nPrevious experience on any of cloud providers (Amazon Web Services, Microsoft Azure, Google Cloud)\n\n•\nKnowledge of automation, orchestration, and AI-driven security operations capabilities.\n\nAdditional Information\nWe embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships."
-  },
-  {
-   "id": "ifs:744000152600099",
-   "source": "ifs",
-   "company": "IFS",
-   "via": "",
-   "title": "IFS Enterprise Asset Management (EAM) Consultant (IGT1)",
-   "field": "ERP & Business Apps",
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "countries": [
-    "Sri Lanka"
-   ],
-   "locations": [
-    "Port City, Western Province, Sri Lanka"
-   ],
-   "workplace_type": "Hybrid",
-   "category": "Other",
-   "posted_date": "2026-09-30",
-   "summary": "",
-   "url": "https://jobs.smartrecruiters.com/ifs1/744000152600099",
-   "first_seen": "2026-10-04T17:59:24Z",
-   "description": "Job Description\nAbout the Client: Centric\n\nCentric Global is a growing technology company with offices in Kenya, Dubai, and Sri Lanka, specializing in ICT, enterprise applications, and digital transformation solutions.\n\nAs an IFS partner, Centric Global delivers IFS ERP solutions and supports organizations across various industries with implementation, consulting, optimization, and technology services. The company also partners with global technology providers including Microsoft, AWS, SUSE, Kaspersky, and Red Hat.\n\nWith a focus on innovation, regional growth, and customer success, Centric Global brings together talented technology professionals to deliver scalable solutions and create meaningful impact for clients across the region.\n\nJoin Centric Global and be part of a growing team delivering technology solutions that help businesses operate smarter and grow sustainably.\n\nAbout the role:\n\nSolution Design & Implementation\n\n• Analyze maintenance workflows, asset hierarchies, and reliability strategies.\n• Map business requirements to standard IFS EAM modules.\n• Configure Equipment, Work Order, Maintenance Planning, and Linear Asset modules.\n• Define asset tracking metrics, preventive maintenance schedules, and spare parts loops.\n\nTechnical Execution & Integration\n\n• Collaborate with developers to design system integrations (e.g., IoT, GIS, ERP).\n• Develop custom functional specifications for unique business operational gaps.\n• Migrate legacy asset data, service histories, and preventative routines into IFS.\n• Build operational lobbies, quick reports, and dashboards for maintenance managers.\n\nTraining & Change Management\n\n• Deliver structured training to reliability engineers, planners, and field technicians.\n• Create user documentation, standard operating procedures, and configuration guides.\n• Support user acceptance testing (UAT) by building realistic maintenance scenarios.\n• Guide operational teams through system cutover and early hypercare phases.\n\nQualifications\nTechnical Profile\n\n• Experience: Deep knowledge of IFS Cloud EAM.\n• Modules: Mastery of Asset Management, Work Order, B2B Service, and MRO.\n• Industry: Exposure to capital-intensive sectors like Utilities, Oil & Gas, or Manufacturing.\n\nProfessional Competencies\n\n• Methodology: Solid understanding of ISO 55000 asset management standards.\n• Soft Skills: Strong stakeholder management, clear technical writing, and analytical thinking.\n• The role involves travel to customer sites to support client engagements, project delivery, stakeholder meetings, and other business requirements. Candidates must be willing and able to travel internationally as required by the role.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
   },
   {
    "id": "ifs:744000152599659",
