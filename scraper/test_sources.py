@@ -1,3 +1,4 @@
+import json
 import unittest
 from unittest import mock
 
@@ -192,3 +193,57 @@ class JibeTest(unittest.TestCase):
         j = jobs[0]
         self.assertEqual((j["country"], j["posted_date"], j["url"]), ("United Arab Emirates", "2026-10-06", "https://careers.example.ae/jobs/6556"))
         self.assertIn("Build pipelines", j["description"])
+
+
+class AmazonTest(unittest.TestCase):
+    JOB = {"id": "u1", "id_icims": "10571684", "title": "Sr. Solutions Architect, CS MENAT", "job_path": "/en/jobs/10571684/sr-sa",
+           "locations": ['{"countryIso2a":"AE","normalizedCityName":"Dubai","normalizedCountryName":"United Arab Emirates"}'],
+           "job_category": "Solutions Architect", "posted_date": "October  7, 2026", "description": "<p>Design on AWS</p>",
+           "basic_qualifications": "- 5 years", "description_short": "Design"}
+    OTHER = {"id": "u2", "id_icims": "2", "title": "Logistics Supervisor", "job_path": "/en/jobs/2/x",
+             "locations": ['{"countryIso2a":"AE","normalizedCountryName":"United Arab Emirates"}'], "job_category": "Administrative Support"}
+
+    def responder(self, url, data=None, headers=None):
+        if "=ARE" in url and "offset=0" in url:
+            return {"hits": 2, "jobs": [self.JOB, self.OTHER]}
+        return {"hits": 0, "jobs": []}
+
+    def test_jobs(self):
+        import amazon
+        jobs, stats = run({"id": "amazon", "company": "Amazon", "type": "amazon"}, amazon, self.responder)
+        self.assertEqual(stats["listed"], 2)
+        self.assertEqual([j["title"] for j in jobs], ["Sr. Solutions Architect, CS MENAT"])
+        j = jobs[0]
+        self.assertEqual((j["country"], j["posted_date"], j["url"]),
+                         ("United Arab Emirates", "2026-10-07", "https://www.amazon.jobs/en/jobs/10571684/sr-sa"))
+        self.assertIn("Design on AWS", j["description"])
+        self.assertIn("Basic qualifications", j["description"])
+
+
+class AppleTest(unittest.TestCase):
+    def page(self, results, total):
+        data = {"loaderData": {"root": {}, "search": {"searchResults": results, "totalRecords": total}}}
+        return "<script>window.__staticRouterHydrationData = JSON.parse(%s);</script>" % json.dumps(json.dumps(data))
+
+    def test_jobs(self):
+        import apple
+        it = {"positionId": "200", "postingTitle": "Software Engineer, Maps", "transformedPostingTitle": "software-engineer-maps",
+              "locations": [{"countryName": "United Arab Emirates", "countryID": "iso-country-ARE"}], "team": {"teamName": "Software and Services"},
+              "postDateInGMT": "2026-10-08T07:31:20Z", "jobSummary": "Build maps"}
+        retail = {"positionId": "100", "postingTitle": "UAE-Business Expert", "transformedPostingTitle": "uae-business-expert",
+                  "locations": [{"countryName": "United Arab Emirates", "countryID": "iso-country-ARE"}], "team": {"teamName": "Apple Retail"}}
+        calls = []
+
+        def fetch(url, *a, **k):
+            calls.append(url)
+            if "united-arab-emirates-ARE" in url:
+                return self.page([retail, it], 3) if "page=1" in url else self.page([retail], 3)
+            return self.page([], 0)
+        with mock.patch.object(apple, "fetch_text", side_effect=fetch), mock.patch.object(apple.time, "sleep"):
+            jobs, stats = scrape.scrape_source({"id": "apple", "company": "Apple", "type": "apple"}, DEFAULTS,
+                                               ITFilter.load(), FieldTagger.load(), [], "NOW", lambda m: None)
+        self.assertEqual(stats["listed"], 2)  # the repeat on page 2 is skipped
+        self.assertEqual([j["title"] for j in jobs], ["Software Engineer, Maps"])
+        self.assertEqual(jobs[0]["url"], "https://jobs.apple.com/en-ae/details/200/software-engineer-maps")
+        self.assertEqual(jobs[0]["posted_date"], "2026-10-08")
+        self.assertTrue(any("sri-lanka-LKA" in c for c in calls))

@@ -15,6 +15,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+from amazon import AmazonSource  # noqa: E402
+from apple import AppleSource  # noqa: E402
 from common import country_name  # noqa: E402
 from it_filter import FieldTagger, ITFilter  # noqa: E402
 from jibe import JibeSource  # noqa: E402
@@ -40,6 +42,8 @@ SOURCE_TYPES = {
     "phenom": PhenomSource,
     "teamtailor": TeamtailorSource,
     "jibe": JibeSource,
+    "amazon": AmazonSource,
+    "apple": AppleSource,
     "jsearch": JSearchSource,
 }
 
