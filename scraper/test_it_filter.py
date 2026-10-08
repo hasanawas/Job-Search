@@ -1,6 +1,6 @@
 import unittest
 
-from it_filter import ITFilter
+from it_filter import FieldTagger, ITFilter
 
 
 class ITFilterTest(unittest.TestCase):
@@ -21,7 +21,7 @@ class ITFilterTest(unittest.TestCase):
         for title in [
             "Account Manager", "Senior Accountant", "Retail Store Manager", "Talent Acquisition Partner",
             "Legal Counsel", "Digital Marketing Specialist", "Driver", "Inside Sales Representative",
-            "Make it happen: Customer Experience Lead", "Sr. Analyst/Corporate HSE & Security (UAE National)",
+            "Make it happen: Customer Experience Lead", "Sr. AI/ML Sales Specialist, MENAT AGS Specialist Team", "Sr. Analyst/Corporate HSE & Security (UAE National)",
         ]:
             self.assertFalse(self.f.is_it_job(title), title)
 
@@ -32,3 +32,11 @@ class ITFilterTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class FieldTaggerTest(unittest.TestCase):
+    def test_data_center_is_infrastructure(self):
+        t = FieldTagger.load()
+        self.assertEqual(t.tag("Data Center Technician"), "Systems & Infrastructure")
+        self.assertNotEqual(t.tag("Data Centre Project Lead"), "Data & AI")
+        self.assertEqual(t.tag("Senior Data Engineer"), "Data & AI")

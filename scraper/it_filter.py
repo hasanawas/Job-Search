@@ -62,6 +62,8 @@ class FieldTagger:
 
     def tag(self, title, categories=()):
         for text in [title] + [c for c in categories if c]:
+            # "Data Center Technician" is infrastructure work, not Data & AI.
+            text = re.sub(r"\bdata[\s-]*cent(?:er|re)s?\b", "datacenter infrastructure", text, flags=re.IGNORECASE)
             for name, loose, exact in self.fields:
                 if (loose and loose.search(text)) or (exact and exact.search(text)):
                     return name
