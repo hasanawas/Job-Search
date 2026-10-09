@@ -327,13 +327,14 @@ class ListingPagesTest(unittest.TestCase):
                 ' <a href="t">Technology</a> </span> </li> </ul> <ul class="job-item__details"> <li class="job-item__detail"> Permanent </li>'
                 ' <li class="job-item__detail"> Remote </li> </ul> </div> </div> </li>')
         page1 = '<ul class="jobs__items">' + item.format(slug="full-stack-engineer", id=715368, title="Full Stack Engineer") + \
-                item.format(slug="payments-product-manager", id=715367, title="Payments Product Manager") + "</ul>"
+                item.format(slug="payments-product-manager", id=715367, title="Payments Product Manager") + "</ul>" + \
+            '<a href="https://welovesalt.com/job-category/united-arab-emirates/technology-united-arab-emirates/page/2">2</a>'
         page2 = '<ul class="jobs__items">' + item.format(slug="full-stack-engineer", id=715368, title="Full Stack Engineer") + "</ul>"
         detail = '<script type="application/ld+json">{"@type": "JobPosting", "datePosted": "2026-10-05", "description": "<p>React and Node</p>"}</script>'
         cfg = {"id": "salt", "company": "SALT (recruiter)", "type": "salt", "base_url": "https://welovesalt.com",
                "list_path": "/job-category/united-arab-emirates/technology-united-arab-emirates", "country": "AE"}
         jobs, stats = self.scrape(cfg, [("/jobs/", detail), ("/page/2", page2), ("/page/", ""), ("technology", page1)])
-        self.assertEqual(stats["listed"], 2)
+        self.assertEqual(stats["listed"], 2)  # page 2 repeats a job and links nowhere, so paging stops there
         j = next(j for j in jobs if j["title"] == "Full Stack Engineer")
         self.assertEqual((j["locations"][0], j["country"]), ("United Arab Emirates, Dubai", "United Arab Emirates"))
         self.assertEqual((j["workplace_type"], j["posted_date"], j["description"]), ("Remote", "2026-10-05", "React and Node"))

@@ -2,13 +2,16 @@
 NYU Abu Dhabi. Each reads its listing pages for titles and links, and each new job's page for its full advert."""
 
 import html
+import http.cookiejar
 import json
 import re
 import time
+import urllib.request
 
 from common import country_code, country_name, fetch_text, html_to_text, relative_posted_date
 
 MAX_PAGES = 15
+BROWSER_UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 
 
 def _text(fragment):
@@ -107,6 +110,14 @@ class SaltSource(_Paged):
     def page_url(self, n):
         return f"{self.base}{self.list_path}" + (f"/page/{n}" if n > 1 else "")
 
+    def get_page(self, n):
+        page = fetch_text(self.page_url(n))
+        self._next = f"{self.list_path}/page/{n + 1}" in page
+        return page
+
+    def has_next(self, n):
+        return self._next
+
     def parse(self, page):
         for item in page.split('<li class="job-item">')[1:]:
             link = re.search(r'class="job-item__title">\s*<a href="([^"]+/jobs/[^"]+?-(\d+))/?"[^>]*>(.*?)</a>', item, re.S)
@@ -169,11 +180,18 @@ class GuildhallSource(_Paged):
     def page_url(self, n):
         return f"{self.base}{self.list_path}/" + (f"page/{n}/" if n > 1 else "")
 
+    def __init__(self, cfg):
+        super().__init__(cfg)
+        self.opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+
+    def _get(self, url):
+        return fetch_text(url, headers={"User-Agent": BROWSER_UA, "Accept": "text/html,*/*"}, opener=self.opener)
+
     def get_page(self, n):
-        # The first visit sometimes gets a bot-check page (HTTP 202); a second request goes through.
+        # The first visit gets a bot-check page (HTTP 202) that sets a cookie; the next request goes through.
         for attempt in range(3):
-            page = fetch_text(self.page_url(n))
-            if 'class="ghj-card"' in page or attempt == 2:
+            page = self._get(self.page_url(n))
+            if 'class="ghj-card"' in page or (n > 1 and "ghj-" in page) or attempt == 2:
                 return page
             time.sleep(3)
 
@@ -187,6 +205,10 @@ class GuildhallSource(_Paged):
             summary = _text((re.search(r"</div>\s*<p>(.*?)</p>", card, re.S) or [None, ""])[1])
             yield _posting(link.group(2), _text(link.group(3)), link.group(1), location, self.default_country,
                            summary=summary, categories=[tag] if tag else [])
+
+    def details(self, posting):
+        data = jsonld_job(self._get(posting["url"]))
+        return {"description": html_to_text(data.get("description"))} if data else {}
 
 
 class NyuadSource:
