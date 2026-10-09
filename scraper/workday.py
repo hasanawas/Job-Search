@@ -40,7 +40,8 @@ class WorkdaySource:
         for facet in data.get("facets", []):
             groups = facet.get("values", []) if "values" in (facet.get("values") or [{}])[0] else [facet]
             for group in groups:
-                if group.get("facetParameter") in ("locationCountry", "Location_Country"):
+                # Most sites call the country filter locationCountry; NVIDIA calls it locationHierarchy1.
+                if group.get("facetParameter") in ("locationCountry", "Location_Country", "locationHierarchy1"):
                     for v in group.get("values", []):
                         code = country_code(v.get("descriptor"))
                         if code:
