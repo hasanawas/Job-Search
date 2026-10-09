@@ -306,3 +306,77 @@ class MichaelPageTest(unittest.TestCase):
         j = jobs[0]
         self.assertEqual((j["country"], j["posted_date"], j["description"]), ("United Arab Emirates", "2026-10-01", "Kubernetes at scale"))
         self.assertEqual(j["url"], "https://www.example.ae/job-detail/head-of-devops/ref/jn-1")
+
+
+class ListingPagesTest(unittest.TestCase):
+    def scrape(self, cfg, pages):
+        import listing_pages
+
+        def fetch(url, *a, **k):
+            for needle, body in pages:
+                if needle in url:
+                    return body
+            return ""
+        with mock.patch.object(listing_pages, "fetch_text", side_effect=fetch), mock.patch.object(listing_pages.time, "sleep"):
+            return scrape.scrape_source(cfg, DEFAULTS, ITFilter.load(), FieldTagger.load(), [], "NOW", lambda m: None)
+
+    def test_salt(self):
+        item = ('<li class="job-item"> <div class="job-item__inner"> <p class="job-item__title"> <a href="https://welovesalt.com/jobs/{slug}-{id}"> {title} </a> </p>'
+                ' <div class="job-item__meta"> <ul class="highlights"> <li class="highlights__item"> <i></i> <span> <a href="x">United Arab Emirates</a>,'
+                ' <a href="y">Dubai</a> </span> </li> <li class="highlights__item"> <i></i> <span> <a href="z">Software Development &amp; Engineering</a>,'
+                ' <a href="t">Technology</a> </span> </li> </ul> <ul class="job-item__details"> <li class="job-item__detail"> Permanent </li>'
+                ' <li class="job-item__detail"> Remote </li> </ul> </div> </div> </li>')
+        page1 = '<ul class="jobs__items">' + item.format(slug="full-stack-engineer", id=715368, title="Full Stack Engineer") + \
+                item.format(slug="payments-product-manager", id=715367, title="Payments Product Manager") + "</ul>"
+        page2 = '<ul class="jobs__items">' + item.format(slug="full-stack-engineer", id=715368, title="Full Stack Engineer") + "</ul>"
+        detail = '<script type="application/ld+json">{"@type": "JobPosting", "datePosted": "2026-10-05", "description": "<p>React and Node</p>"}</script>'
+        cfg = {"id": "salt", "company": "SALT (recruiter)", "type": "salt", "base_url": "https://welovesalt.com",
+               "list_path": "/job-category/united-arab-emirates/technology-united-arab-emirates", "country": "AE"}
+        jobs, stats = self.scrape(cfg, [("/jobs/", detail), ("/page/2", page2), ("/page/", ""), ("technology", page1)])
+        self.assertEqual(stats["listed"], 2)
+        j = next(j for j in jobs if j["title"] == "Full Stack Engineer")
+        self.assertEqual((j["locations"][0], j["country"]), ("United Arab Emirates, Dubai", "United Arab Emirates"))
+        self.assertEqual((j["workplace_type"], j["posted_date"], j["description"]), ("Remote", "2026-10-05", "React and Node"))
+        self.assertEqual(j["url"], "https://welovesalt.com/jobs/full-stack-engineer-715368")
+
+    def test_charterhouse(self):
+        page = ("<ul class='results-list clearfix'> <li class='job-result-item' data-disciplines='information-technology'> <div class='job-details'>"
+                " <div class='job-title'> <a href=\"/job/senior-infrastructure-and-technology-engineer-53774\">Senior Infrastructure and Technology Engineer</a>"
+                " </div> <ul class='job-info clearfix'> <li class='results-job-location'>Dubai</li> <li class='results-salary'>Competitive Salary</li>"
+                " <li class='results-posted-at'> Posted 7 days ago </li> </ul> <p class='job-description'> ​Our client runs event technology. </p>"
+                " <div class='extra-job-links'> </div> </div> </li> </ul> <div class='results-nav'> </div>")
+        cfg = {"id": "ch", "company": "Charterhouse (recruiter)", "type": "charterhouse", "base_url": "https://www.charterhouseme.ae",
+               "list_path": "/jobs/information-technology", "country": "AE"}
+        jobs, stats = self.scrape(cfg, [("/job/", ""), ("/jobs/", page)])
+        self.assertEqual(stats["listed"], 1)
+        j = jobs[0]
+        self.assertEqual(j["url"], "https://www.charterhouseme.ae/job/senior-infrastructure-and-technology-engineer-53774")
+        self.assertEqual(j["country"], "United Arab Emirates")
+        self.assertTrue(j["posted_date"])
+
+    def test_guildhall(self):
+        card = ('<article class="ghj-card"><div class="ghj-card-header"> <span class="ghj-card-tag">{tag}</span></div><h3><a href="https://guildhall.agency/jobs/{slug}/">'
+                '{title}</a></h3><div class="ghj-card-meta"> <span class="ghj-meta-location">Dubai, United Arab Emirates</span></div><p>{summary}</p>'
+                ' <a href="https://guildhall.agency/jobs/{slug}/" class="ghj-card-btn">View Role</a></article>')
+        page = card.format(tag="Technology", slug="head-of-it-dubai", title="Head of IT", summary="Lead infrastructure and cybersecurity") + \
+            card.format(tag="Construction &amp; Engineering", slug="qaqc-manager-dubai", title="QAQC Manager", summary="Tower build")
+        detail = ('<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList"}]}</script>'
+                  '<script type="application/ld+json">{"@type":"JobPosting","title":"Head of IT","description":"<p>Own the IT estate</p>"}</script>')
+        cfg = {"id": "gh", "company": "Guildhall (recruiter)", "type": "guildhall", "base_url": "https://guildhall.agency", "list_path": "/jobs", "country": "AE"}
+        jobs, stats = self.scrape(cfg, [("/jobs/head-of-it", detail), ("/page/", ""), ("/jobs/", page)])
+        self.assertEqual(stats["listed"], 2)
+        self.assertEqual([j["title"] for j in jobs], ["Head of IT"])
+        self.assertEqual(jobs[0]["description"], "Own the IT estate")
+
+    def test_nyuad(self):
+        listing = ('<table><tbody><tr><td><a href="/en/about/careers/administration-staff/2026/06/senior-systems-engineer---it.html">Senior Systems Engineer - IT</a>'
+                   '</td></tr><tr><td><a href="/en/about/careers/administration-staff/2025/11/curator---nyuad-art-gallery0.html">Curator - NYUAD Art Gallery</a></td></tr></tbody></table>')
+        detail = ('<h1 class="hasNav">Senior Systems Engineer - IT</h1><section> <dl> <dt>Job Number</dt> <dd>2026-15001</dd> </dl> </section>'
+                  '<section> <h4>Position Summary</h4> <p>Run Linux and VMware servers.</p> </section>')
+        cfg = {"id": "nyuad", "company": "NYU Abu Dhabi", "type": "nyuad", "base_url": "https://nyuad.nyu.edu",
+               "list_paths": ["/en/about/careers/administration-staff.html"]}
+        jobs, stats = self.scrape(cfg, [("/2026/06/", detail), ("administration-staff.html", listing)])
+        self.assertEqual(stats["listed"], 2)
+        self.assertEqual([j["title"] for j in jobs], ["Senior Systems Engineer - IT"])
+        j = jobs[0]
+        self.assertEqual((j["country"], j["description"]), ("United Arab Emirates", "Position Summary\nRun Linux and VMware servers."))
