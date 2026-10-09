@@ -99,6 +99,14 @@ class WorkdayTest(unittest.TestCase):
         self.assertEqual(list(src._queries()), [("LK", {"locations": ["lk"]})])
         self.assertEqual(src.public, "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers")
 
+    def test_nvidia_country_facet(self):
+        src = workday.WorkdaySource({"host": "nvidia.wd5.myworkdayjobs.com", "tenant": "nvidia", "site": "NVIDIAExternalCareerSite"})
+        facets = {"facets": [{"facetParameter": "locationMainGroup", "values": [
+            {"facetParameter": "locationHierarchy2", "values": [{"descriptor": "Office", "id": "office"}]},
+            {"facetParameter": "locationHierarchy1", "values": [{"descriptor": "United Arab Emirates", "id": "uae", "count": 2}]}]}]}
+        with mock.patch.object(workday, "fetch_json", return_value=facets):
+            self.assertEqual(src._country_facets(), {"AE": ("locationHierarchy1", "uae")})
+
 
 class PhenomTest(unittest.TestCase):
     def responder(self, url, data=None, **kw):

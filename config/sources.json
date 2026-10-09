@@ -188,6 +188,15 @@
       "careers_page": "https://www.charterhouseme.ae/jobs/information-technology"
     },
     {
+      "id": "nvidia",
+      "company": "NVIDIA",
+      "type": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "careers_page": "https://jobs.nvidia.com/careers"
+    },
+    {
       "id": "jobboards",
       "company": "LinkedIn & job boards",
       "type": "jsearch",
