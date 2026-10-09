@@ -247,3 +247,62 @@ class AppleTest(unittest.TestCase):
         self.assertEqual(jobs[0]["url"], "https://jobs.apple.com/en-ae/details/200/software-engineer-maps")
         self.assertEqual(jobs[0]["posted_date"], "2026-10-08")
         self.assertTrue(any("sri-lanka-LKA" in c for c in calls))
+
+
+class SuccessFactorsTest(unittest.TestCase):
+    ROW = ('<tr class="data-row"> <td class="colTitle" headers="hdrTitle"> <span class="jobTitle hidden-phone"> '
+           '<a href="/job/Abu-Dhabi-{slug}-Abu/{id}/" class="jobTitle-link">{title}</a> </span> </td> '
+           '<td class="colFacility hidden-phone"> <span class="jobFacility">{fac}</span> </td> '
+           '<td class="colDate hidden-phone"> <span class="jobDate">18 Sept 2026 </span> </td> </tr>')
+
+    def page(self, rows, total):
+        label = f'<span class="paginationLabel" aria-label="x">Results <b>1 – 2</b> of <b>{total}</b></span>'
+        return label + "<table>" + "".join(self.ROW.format(**r) for r in rows) + "</table>"
+
+    def test_pages_and_details(self):
+        import successfactors
+        p0 = [{"slug": "Cloud-Engineer", "id": "1", "title": "Cloud Engineer", "fac": "Katim"},
+              {"slug": "Sr_-Buyer", "id": "2", "title": "Sr. Buyer", "fac": "NIMR"}]
+        detail = ('<span class="jobdescription"><p>Run our cloud</p></span></div>'
+                  '<meta itemprop="addressLocality" content="Abu Dhabi"><meta itemprop="addressCountry" content="AE">')
+
+        def fetch(url, *a, **k):
+            if "/job/" in url:
+                return detail
+            return self.page(p0, 2) if url.endswith("/4166222/") else self.page([], 2)
+        cfg = {"id": "edge", "company": "EDGE", "type": "successfactors", "base_url": "https://careers.example.ae",
+               "list_path": "/go/View-All-Jobs/4166222/", "country": "AE", "facility_as_company": True}
+        with mock.patch.object(successfactors, "fetch_text", side_effect=fetch), mock.patch.object(successfactors.time, "sleep"):
+            jobs, stats = scrape.scrape_source(cfg, DEFAULTS, ITFilter.load(), FieldTagger.load(), [], "NOW", lambda m: None)
+        self.assertEqual(stats["listed"], 2)
+        self.assertEqual([j["title"] for j in jobs], ["Cloud Engineer"])
+        j = jobs[0]
+        self.assertEqual((j["company"], j["country"], j["posted_date"]), ("EDGE · Katim", "United Arab Emirates", "2026-09-18"))
+        self.assertEqual(j["url"], "https://careers.example.ae/job/Abu-Dhabi-Cloud-Engineer-Abu/1/")
+        self.assertEqual(j["description"], "Run our cloud")
+
+
+class MichaelPageTest(unittest.TestCase):
+    TILE = ('<li class="views-row"><div class="job-tile search-job-tile"><div class="job-title "><h3>'
+            '<a href="/job-detail/{slug}/ref/{ref}" rel="bookmark">{title}</a></h3></div><div class="job-properties">'
+            '<div class="job-location"><i class="fal"></i> Dubai</div></div><div class="job-summary">'
+            '<div class="job_advert__job-summary-text"><p>{summary}</p></div></div></div></li>')
+
+    def test_tiles_and_details(self):
+        import michaelpage
+        listing = "<ul>" + self.TILE.format(slug="head-of-devops", ref="jn-1", title="Head of DevOps", summary="Lead platform") + \
+                  self.TILE.format(slug="sales-director", ref="jn-2", title="Sales Director - Technology", summary="Sell") + "</ul>"
+        detail = ('<script type="application/ld+json">{"@type" : "JobPosting","datePosted" : "2026-10-01",'
+                  '"description" : "<p>Kubernetes at scale</p>"}</script>')
+
+        def fetch(url, *a, **k):
+            return detail if "/job-detail/" in url else listing
+        cfg = {"id": "mp", "company": "Michael Page (recruiter)", "type": "michaelpage", "base_url": "https://www.example.ae",
+               "list_path": "/jobs/technology/united-arab-emirates", "country": "AE"}
+        with mock.patch.object(michaelpage, "fetch_text", side_effect=fetch), mock.patch.object(michaelpage.time, "sleep"):
+            jobs, stats = scrape.scrape_source(cfg, DEFAULTS, ITFilter.load(), FieldTagger.load(), [], "NOW", lambda m: None)
+        self.assertEqual(stats["listed"], 2)
+        self.assertEqual([j["title"] for j in jobs], ["Head of DevOps"])
+        j = jobs[0]
+        self.assertEqual((j["country"], j["posted_date"], j["description"]), ("United Arab Emirates", "2026-10-01", "Kubernetes at scale"))
+        self.assertEqual(j["url"], "https://www.example.ae/job-detail/head-of-devops/ref/jn-1")
