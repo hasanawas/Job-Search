@@ -22,7 +22,7 @@ from it_filter import FieldTagger, ITFilter  # noqa: E402
 from jibe import JibeSource  # noqa: E402
 from jsearch import JSearchSource  # noqa: E402
 from michaelpage import MichaelPageSource  # noqa: E402
-from listing_pages import CharterhouseSource, GuildhallSource, NyuadSource, SaltSource  # noqa: E402
+from listing_pages import CharterhouseSource, NyuadSource, SaltSource  # noqa: E402
 from oracle_hcm import OracleHCMSource  # noqa: E402
 from phenom import PhenomSource  # noqa: E402
 from smartrecruiters import SmartRecruitersSource  # noqa: E402
@@ -51,7 +51,6 @@ SOURCE_TYPES = {
     "michaelpage": MichaelPageSource,
     "salt": SaltSource,
     "charterhouse": CharterhouseSource,
-    "guildhall": GuildhallSource,
     "nyuad": NyuadSource,
     "jsearch": JSearchSource,
 }

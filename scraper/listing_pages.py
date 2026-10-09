@@ -1,17 +1,14 @@
-"""Small careers sites and recruiters that only publish HTML listing pages: SALT, Charterhouse, Guildhall and
-NYU Abu Dhabi. Each reads its listing pages for titles and links, and each new job's page for its full advert."""
+"""Small careers sites and recruiters that only publish HTML listing pages: SALT, Charterhouse and NYU
+Abu Dhabi. Each reads its listing pages for titles and links, and each new job's page for its full advert."""
 
 import html
-import http.cookiejar
 import json
 import re
 import time
-import urllib.request
 
 from common import country_code, country_name, fetch_text, html_to_text, relative_posted_date
 
 MAX_PAGES = 15
-BROWSER_UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 
 
 def _text(fragment):
@@ -172,43 +169,6 @@ class CharterhouseSource(_Paged):
             return {"description": html_to_text(data.get("description"))}
         m = re.search(r"<div class='job-description'>(.*?)</div>", page, re.S) or re.search(r'class="job-description">(.*?)</div>', page, re.S)
         return {"description": html_to_text(m.group(1))} if m else {}
-
-
-class GuildhallSource(_Paged):
-    """Guildhall executive search (guildhall.agency). Config: base_url, list_path ("/jobs"), country."""
-
-    def page_url(self, n):
-        return f"{self.base}{self.list_path}/" + (f"page/{n}/" if n > 1 else "")
-
-    def __init__(self, cfg):
-        super().__init__(cfg)
-        self.opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
-
-    def _get(self, url):
-        return fetch_text(url, headers={"User-Agent": BROWSER_UA, "Accept": "text/html,*/*"}, opener=self.opener)
-
-    def get_page(self, n):
-        # The first visit gets a bot-check page (HTTP 202) that sets a cookie; the next request goes through.
-        for attempt in range(3):
-            page = self._get(self.page_url(n))
-            if 'class="ghj-card"' in page or (n > 1 and "ghj-" in page) or attempt == 2:
-                return page
-            time.sleep(3)
-
-    def parse(self, page):
-        for card in re.findall(r'<article class="ghj-card">(.*?)</article>', page, re.S):
-            link = re.search(r'<h3>\s*<a href="([^"]+/jobs/([^"/]+)/?)"[^>]*>(.*?)</a>', card, re.S)
-            if not link:
-                continue
-            location = _text((re.search(r'<span class="ghj-meta-location">(.*?)</span>', card, re.S) or [None, ""])[1])
-            tag = _text((re.search(r'<span class="ghj-card-tag">(.*?)</span>', card, re.S) or [None, ""])[1])
-            summary = _text((re.search(r"</div>\s*<p>(.*?)</p>", card, re.S) or [None, ""])[1])
-            yield _posting(link.group(2), _text(link.group(3)), link.group(1), location, self.default_country,
-                           summary=summary, categories=[tag] if tag else [])
-
-    def details(self, posting):
-        data = jsonld_job(self._get(posting["url"]))
-        return {"description": html_to_text(data.get("description"))} if data else {}
 
 
 class NyuadSource:

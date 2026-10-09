@@ -34,7 +34,6 @@ Most big employers use a hosted careers platform. Supported today:
 | `michaelpage` | `https://www.michaelpage.ae/jobs/<category>/<country>` | Michael Page (technology roles) |
 | `salt` | `https://welovesalt.com/job-category/<country>/<category>` | SALT (technology roles) |
 | `charterhouse` | `https://www.charterhouseme.ae/jobs/<category>` | Charterhouse (IT roles) |
-| `guildhall` | `https://guildhall.agency/jobs/` | Guildhall |
 | `nyuad` | `https://nyuad.nyu.edu/en/about/careers/<list>.html` | NYU Abu Dhabi |
 
 Add an entry to `config/sources.json` (copy a similar one). A company's own career page often links to one of these platforms behind its "Search jobs" button. Other platforms need a small new scraper in `scraper/`.

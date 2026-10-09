@@ -1,5 +1,5 @@
 {
-  "_help": "Add one entry per company. 'countries' lists ISO codes to keep (\"all\" keeps every country); sources without it use defaults.countries. Supported 'type's: oracle_hcm (careers URL .../hcmUI/CandidateExperience/en/sites/<site_number>/...), smartrecruiters (careers.smartrecruiters.com/<company_identifier>), workday (<tenant>.wdN.myworkdayjobs.com/<site> or wdN.myworkdaysite.com/recruiting/<tenant>/<site>; host, tenant, site), phenom (sites whose search page is /global/en/search-results; base_url, path), teamtailor (Teamtailor careers sites that serve /jobs.rss; base_url), jibe (Jibe/iCIMS careers sites with an /api/jobs endpoint; base_url), amazon (amazon.jobs), apple (jobs.apple.com; optional locale), successfactors (SAP SuccessFactors career sites with /go/<list>/<id>/ pages; base_url, list_path, country), michaelpage (Michael Page listing pages; base_url, list_path, country), salt / charterhouse / guildhall (those recruiters' listing pages; base_url, list_path, country), nyuad (NYU Abu Dhabi vacancy pages; base_url, list_paths), jsearch (LinkedIn and other job boards via the JSearch API; needs a JSEARCH_API_KEY repository secret, each query costs one of the free plan's 200 monthly requests per run).",
+  "_help": "Add one entry per company. 'countries' lists ISO codes to keep (\"all\" keeps every country); sources without it use defaults.countries. Supported 'type's: oracle_hcm (careers URL .../hcmUI/CandidateExperience/en/sites/<site_number>/...), smartrecruiters (careers.smartrecruiters.com/<company_identifier>), workday (<tenant>.wdN.myworkdayjobs.com/<site> or wdN.myworkdaysite.com/recruiting/<tenant>/<site>; host, tenant, site), phenom (sites whose search page is /global/en/search-results; base_url, path), teamtailor (Teamtailor careers sites that serve /jobs.rss; base_url), jibe (Jibe/iCIMS careers sites with an /api/jobs endpoint; base_url), amazon (amazon.jobs), apple (jobs.apple.com; optional locale), successfactors (SAP SuccessFactors career sites with /go/<list>/<id>/ pages; base_url, list_path, country), michaelpage (Michael Page listing pages; base_url, list_path, country), salt / charterhouse (those recruiters' listing pages; base_url, list_path, country), nyuad (NYU Abu Dhabi vacancy pages; base_url, list_paths), jsearch (LinkedIn and other job boards via the JSearch API; needs a JSEARCH_API_KEY repository secret, each query costs one of the free plan's 200 monthly requests per run).",
   "sources": [
     {
       "id": "eand",
@@ -186,15 +186,6 @@
       "list_path": "/jobs/information-technology",
       "country": "AE",
       "careers_page": "https://www.charterhouseme.ae/jobs/information-technology"
-    },
-    {
-      "id": "guildhall",
-      "company": "Guildhall (recruiter)",
-      "type": "guildhall",
-      "base_url": "https://guildhall.agency",
-      "list_path": "/jobs",
-      "country": "AE",
-      "careers_page": "https://guildhall.agency/jobs/"
     },
     {
       "id": "jobboards",

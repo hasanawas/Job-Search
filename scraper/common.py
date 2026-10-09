@@ -17,9 +17,8 @@ def fetch_json(url, data=None, headers=None, retries=3, timeout=60):
     return json.loads(fetch_text(url, data, {"Accept": "application/json", **(headers or {})}, retries, timeout))
 
 
-def fetch_text(url, data=None, headers=None, retries=3, timeout=60, opener=None):
-    """GET (or POST when `data` is given, sent as JSON) and return the reply as text. Pass an `opener` (e.g. one
-    with a cookie jar) for sites that set a cookie on the first visit."""
+def fetch_text(url, data=None, headers=None, retries=3, timeout=60):
+    """GET (or POST when `data` is given, sent as JSON) and return the reply as text."""
     h = {"User-Agent": USER_AGENT, "Accept": "*/*", "Accept-Language": "en-US,en"}
     body = None
     if data is not None:
@@ -30,7 +29,7 @@ def fetch_text(url, data=None, headers=None, retries=3, timeout=60, opener=None)
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, data=body, headers=h)
-            with (opener.open if opener else urllib.request.urlopen)(req, timeout=timeout) as resp:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
                 text = resp.read().decode(resp.headers.get_content_charset() or "utf-8", "replace")
             if "json" in h["Accept"]:
                 json.loads(text)  # retry on a truncated or non-JSON reply

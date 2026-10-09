@@ -355,20 +355,6 @@ class ListingPagesTest(unittest.TestCase):
         self.assertEqual(j["country"], "United Arab Emirates")
         self.assertTrue(j["posted_date"])
 
-    def test_guildhall(self):
-        card = ('<article class="ghj-card"><div class="ghj-card-header"> <span class="ghj-card-tag">{tag}</span></div><h3><a href="https://guildhall.agency/jobs/{slug}/">'
-                '{title}</a></h3><div class="ghj-card-meta"> <span class="ghj-meta-location">Dubai, United Arab Emirates</span></div><p>{summary}</p>'
-                ' <a href="https://guildhall.agency/jobs/{slug}/" class="ghj-card-btn">View Role</a></article>')
-        page = card.format(tag="Technology", slug="head-of-it-dubai", title="Head of IT", summary="Lead infrastructure and cybersecurity") + \
-            card.format(tag="Construction &amp; Engineering", slug="qaqc-manager-dubai", title="QAQC Manager", summary="Tower build")
-        detail = ('<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList"}]}</script>'
-                  '<script type="application/ld+json">{"@type":"JobPosting","title":"Head of IT","description":"<p>Own the IT estate</p>"}</script>')
-        cfg = {"id": "gh", "company": "Guildhall (recruiter)", "type": "guildhall", "base_url": "https://guildhall.agency", "list_path": "/jobs", "country": "AE"}
-        jobs, stats = self.scrape(cfg, [("/jobs/head-of-it", detail), ("/page/", ""), ("/jobs/", page)])
-        self.assertEqual(stats["listed"], 2)
-        self.assertEqual([j["title"] for j in jobs], ["Head of IT"])
-        self.assertEqual(jobs[0]["description"], "Own the IT estate")
-
     def test_nyuad(self):
         listing = ('<table><tbody><tr><td><a href="/en/about/careers/administration-staff/2026/06/senior-systems-engineer---it.html">Senior Systems Engineer - IT</a>'
                    '</td></tr><tr><td><a href="/en/about/careers/administration-staff/2025/11/curator---nyuad-art-gallery0.html">Curator - NYUAD Art Gallery</a></td></tr></tbody></table>')
