@@ -30,7 +30,7 @@ Most big employers use a hosted careers platform. Supported today:
 | `jibe` | Jibe / iCIMS site with `https://<host>/api/jobs` | M42 |
 | `amazon` | `https://www.amazon.jobs` (searched per selected country) | Amazon |
 | `apple` | `https://jobs.apple.com` (searched per selected country) | Apple |
-| `successfactors` | `https://<host>/go/<list name>/<id>/` (SAP SuccessFactors) | EDGE |
+| `successfactors` | `https://<host>/go/<list name>/<id>/` or `https://<host>/search/` (SAP SuccessFactors) | EDGE, ENEC |
 | `michaelpage` | `https://www.michaelpage.ae/jobs/<category>/<country>` | Michael Page (technology roles) |
 | `salt` | `https://welovesalt.com/job-category/<country>/<category>` | SALT (technology roles) |
 | `charterhouse` | `https://www.charterhouseme.ae/jobs/<category>` | Charterhouse (IT roles) |
