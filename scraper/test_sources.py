@@ -289,6 +289,27 @@ class SuccessFactorsTest(unittest.TestCase):
         self.assertEqual(j["url"], "https://careers.example.ae/job/Abu-Dhabi-Cloud-Engineer-Abu/1/")
         self.assertEqual(j["description"], "Run our cloud")
 
+    def test_search_tiles(self):
+        import successfactors
+        tile = ('<li class="job-tile job-id-{id} job-row-index-1" data-url="/job/United-Arab-Emirates-{slug}-Abu/{id}/"> <div class="tiletitle">'
+                ' <a class="jobTitle-link fontcolor99" data-focus-tile=".job-id-{id}" href="/job/United-Arab-Emirates-{slug}-Abu/{id}/"> {title} </a>'
+                ' </div> <div id="job-{id}-desktop-section-date-value">12 Oct 2026 </div> </li>')
+        page = ('<span id="tile-search-results-label">Showing 1 to 2 of 2 Jobs</span><ul id="job-tile-list">'
+                + tile.format(id=11, slug="Cloud-Engineer", title="Cloud Engineer") + tile.format(id=12, slug="Welder", title="Welder") + "</ul>")
+        urls = []
+
+        def fetch(url, *a, **k):
+            urls.append(url)
+            return "" if "/job/" in url else page
+        cfg = {"id": "enec", "company": "ENEC", "type": "successfactors", "base_url": "https://careers.example.ae",
+               "list_path": "/search/", "country": "AE"}
+        with mock.patch.object(successfactors, "fetch_text", side_effect=fetch), mock.patch.object(successfactors.time, "sleep"):
+            jobs, stats = scrape.scrape_source(cfg, DEFAULTS, ITFilter.load(), FieldTagger.load(), [], "NOW", lambda m: None)
+        self.assertEqual(stats["listed"], 2)
+        self.assertEqual([j["title"] for j in jobs], ["Cloud Engineer"])
+        self.assertEqual((jobs[0]["country"], jobs[0]["posted_date"]), ("United Arab Emirates", "2026-10-12"))
+        self.assertTrue(urls[0].endswith("/search/?q=&sortColumn=referencedate&sortDirection=desc&startrow=0"))
+
 
 class MichaelPageTest(unittest.TestCase):
     TILE = ('<li class="views-row"><div class="job-tile search-job-tile"><div class="job-title "><h3>'
