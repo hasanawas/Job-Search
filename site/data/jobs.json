@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T07:00:01Z",
+ "updated_at": "2026-10-14T18:15:14Z",
  "fields": [
   "Cybersecurity",
   "Data & AI",
@@ -21,9 +21,9 @@
    "id": "eand",
    "company": "e& (Etisalat)",
    "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 3,
    "listed": 9,
    "in_location": 9,
@@ -34,12 +34,12 @@
    "id": "fortinet",
    "company": "Fortinet",
    "careers_page": "https://www.fortinet.com/corporate/careers",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 16,
-   "listed": 1000,
-   "in_location": 25,
+   "listed": 1002,
+   "in_location": 26,
    "it": 16,
    "new": 0
   },
@@ -47,12 +47,12 @@
    "id": "g42",
    "company": "G42",
    "careers_page": "https://careers.g42.ai/global/en/home",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 42,
    "listed": 53,
-   "in_location": 46,
+   "in_location": 45,
    "it": 42,
    "new": 0
   },
@@ -60,11 +60,11 @@
    "id": "ifs",
    "company": "IFS",
    "careers_page": "https://www.ifs.com/en/about/careers",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 25,
-   "listed": 250,
+   "listed": 248,
    "in_location": 42,
    "it": 25,
    "new": 0
@@ -73,25 +73,25 @@
    "id": "accenture",
    "company": "Accenture",
    "careers_page": "https://www.accenture.com/ae-en/careers",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
-   "it_jobs": 26,
-   "listed": 32,
-   "in_location": 32,
-   "it": 26,
-   "new": 0
+   "last_ok_at": "2026-10-14T18:15:14Z",
+   "it_jobs": 30,
+   "listed": 35,
+   "in_location": 35,
+   "it": 30,
+   "new": 6
   },
   {
    "id": "syscolabs",
    "company": "Sysco LABS",
    "careers_page": "https://syscolabs.lk/careers",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 34,
-   "listed": 40,
-   "in_location": 40,
+   "listed": 41,
+   "in_location": 41,
    "it": 34,
    "new": 0
   },
@@ -99,9 +99,9 @@
    "id": "presight",
    "company": "Presight",
    "careers_page": "https://careers.presight.ai/",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 1,
    "listed": 1,
    "in_location": 1,
@@ -112,9 +112,9 @@
    "id": "khazna",
    "company": "Khazna Data Centers",
    "careers_page": "https://khaznadatacenters.com/careers/",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 0,
    "listed": 7,
    "in_location": 7,
@@ -125,9 +125,9 @@
    "id": "m42",
    "company": "M42",
    "careers_page": "https://careers.m42.ae/jobs",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 2,
    "listed": 90,
    "in_location": 84,
@@ -138,9 +138,9 @@
    "id": "astratech",
    "company": "Astra Tech",
    "careers_page": "https://careers.astratech.ae/jobs",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 4,
    "listed": 18,
    "in_location": 13,
@@ -151,12 +151,12 @@
    "id": "amazon",
    "company": "Amazon",
    "careers_page": "https://www.amazon.jobs/content/en/locations/united-arab-emirates",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 30,
-   "listed": 137,
-   "in_location": 137,
+   "listed": 135,
+   "in_location": 135,
    "it": 30,
    "new": 0
   },
@@ -164,9 +164,9 @@
    "id": "apple",
    "company": "Apple",
    "careers_page": "https://jobs.apple.com/en-ae/search?location=united-arab-emirates-ARE",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 0,
    "listed": 54,
    "in_location": 27,
@@ -177,64 +177,64 @@
    "id": "edge",
    "company": "EDGE",
    "careers_page": "https://careers.edgegroup.ae/go/View-All-Jobs/4166222/",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
-   "it_jobs": 55,
-   "listed": 206,
-   "in_location": 206,
-   "it": 55,
-   "new": 0
+   "last_ok_at": "2026-10-14T18:15:14Z",
+   "it_jobs": 56,
+   "listed": 218,
+   "in_location": 218,
+   "it": 56,
+   "new": 1
   },
   {
    "id": "adnoc",
    "company": "ADNOC",
    "careers_page": "https://jobs.adnoc.ae/us/en/search-results",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
-   "it_jobs": 9,
-   "listed": 83,
-   "in_location": 83,
-   "it": 9,
-   "new": 3
+   "last_ok_at": "2026-10-14T18:15:14Z",
+   "it_jobs": 5,
+   "listed": 88,
+   "in_location": 88,
+   "it": 5,
+   "new": 0
   },
   {
    "id": "michaelpage",
    "company": "Michael Page (recruiter)",
    "careers_page": "https://www.michaelpage.ae/jobs/technology/united-arab-emirates",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
-   "it_jobs": 15,
-   "listed": 22,
-   "in_location": 22,
-   "it": 15,
-   "new": 0
+   "last_ok_at": "2026-10-14T18:15:14Z",
+   "it_jobs": 16,
+   "listed": 23,
+   "in_location": 23,
+   "it": 16,
+   "new": 1
   },
   {
    "id": "fab",
    "company": "First Abu Dhabi Bank (FAB)",
    "careers_page": "https://www.bankfab.com/en-ae/about-fab/careers",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
-   "it_jobs": 14,
-   "listed": 116,
-   "in_location": 114,
-   "it": 14,
-   "new": 0
+   "last_ok_at": "2026-10-14T18:15:14Z",
+   "it_jobs": 15,
+   "listed": 120,
+   "in_location": 117,
+   "it": 15,
+   "new": 1
   },
   {
    "id": "altayer",
    "company": "Al Tayer Group",
    "careers_page": "https://www.altayer.com/careers",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 1,
-   "listed": 46,
-   "in_location": 46,
+   "listed": 48,
+   "in_location": 48,
    "it": 1,
    "new": 0
   },
@@ -242,25 +242,25 @@
    "id": "maf",
    "company": "Majid Al Futtaim",
    "careers_page": "https://careers.majidalfuttaim.com/global/en/home",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
-   "it_jobs": 18,
-   "listed": 232,
+   "last_ok_at": "2026-10-14T18:15:14Z",
+   "it_jobs": 19,
+   "listed": 235,
    "in_location": 155,
-   "it": 18,
-   "new": 0
+   "it": 19,
+   "new": 1
   },
   {
    "id": "nyuad",
    "company": "NYU Abu Dhabi",
    "careers_page": "https://nyuad.nyu.edu/en/about/careers.html",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 0,
-   "listed": 26,
-   "in_location": 26,
+   "listed": 27,
+   "in_location": 27,
    "it": 0,
    "new": 0
   },
@@ -268,9 +268,9 @@
    "id": "salt",
    "company": "SALT (recruiter)",
    "careers_page": "https://welovesalt.com/job-category/united-arab-emirates",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 14,
    "listed": 15,
    "in_location": 15,
@@ -281,9 +281,9 @@
    "id": "charterhouse",
    "company": "Charterhouse (recruiter)",
    "careers_page": "https://www.charterhouseme.ae/jobs/information-technology",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 1,
    "listed": 1,
    "in_location": 1,
@@ -294,9 +294,9 @@
    "id": "nvidia",
    "company": "NVIDIA",
    "careers_page": "https://jobs.nvidia.com/careers",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 2,
    "listed": 2,
    "in_location": 2,
@@ -307,9 +307,9 @@
    "id": "enec",
    "company": "ENEC",
    "careers_page": "https://careers.enec.ae/search/",
-   "checked_at": "2026-10-14T07:00:01Z",
+   "checked_at": "2026-10-14T18:15:14Z",
    "ok": true,
-   "last_ok_at": "2026-10-14T07:00:01Z",
+   "last_ok_at": "2026-10-14T18:15:14Z",
    "it_jobs": 6,
    "listed": 54,
    "in_location": 54,
@@ -319,12 +319,194 @@
  ],
  "jobs": [
   {
-   "id": "adnoc:33197",
-   "source": "adnoc",
-   "company": "ADNOC",
+   "id": "accenture:14840486",
+   "source": "accenture",
+   "company": "Accenture",
    "via": "",
-   "title": "Senior Specialist, Digital Advanced Automations Solutions",
+   "title": "Security Consultant",
+   "field": "Cybersecurity",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, Sowwah Square - Al Sila Tower"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-10-14",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/Security-Consultant_14840486",
+   "first_seen": "2026-10-14T18:15:14Z",
+   "description": "Role Overview\n\nSupport the delivery of OT Cybersecurity engagements across consulting, engineering, architecture, design, and implementation. This role combines advisory expertise with hands-on technical delivery, partnering with clients, OT teams, OEMs, and technology vendors to design, implement, and maintain secure OT environments that align with business and operational objectives.\n\nKey Responsibilities\n\n• Support end-to-end OT Cybersecurity engagements spanning assessments, strategy, architecture, engineering, design, and implementation.\n• Conduct OT cybersecurity maturity assessments, gap analyses, risk assessments, and security reviews across industrial and critical infrastructure environments.\n• Design and engineer OT cybersecurity solutions aligned with client requirements, operational needs, and industry best practices.\n• Develop detailed OT security architectures, network designs, technical specifications, security controls, and implementation roadmaps.\n• Support the implementation and configuration of OT security technologies, including network segmentation, firewalls, secure remote access, asset visibility, monitoring, vulnerability management, and other cybersecurity controls.\n• Participate in technical design workshops, solution engineering, system integration, testing, commissioning, and operational handover activities.\n• Collaborate with OT, engineering, IT, and cybersecurity teams to translate business and operational requirements into secure, practical technical solutions.\n• Work closely with OT OEMs, system integrators, and technology vendors to design, integrate, and validate cybersecurity solutions.\n• Apply industry-leading OT cybersecurity standards and frameworks, including IEC 62443, NIST, NERC CIP, and ISO 27001/27019.\n• Develop technical deliverables such as High-Level Designs (HLDs), Low-Level Designs (LLDs), security architectures, assessment reports, technical specifications, and implementation documentation.\n• Support client workshops, technical presentations, demonstrations, and stakeholder engagement activities.\n• Contribute to proposals, RFP responses, solution development initiatives, and the creation of new OT cybersecurity offerings.\n• Stay current with emerging OT technologies, cybersecurity threats, regulatory requirements, and engineering best practices.\n\nDesired Experience & Qualifications\n\n• 4-8 years of cybersecurity experience, including significant exposure to OT/ICS cybersecurity environments.\n• Proven experience delivering OT cybersecurity consulting, engineering, design, and implementation engagements.\n• Strong understanding of OT/ICS architectures, industrial networks, communication protocols, control systems, and engineering environments.\n• Hands-on experience designing, implementing, or supporting OT security technologies and solutions.\n• Experience working with OT OEMs, system integrators, and industrial technology vendors.\n• Strong knowledge of OT cybersecurity frameworks and standards, particularly IEC 62443 and NIST.\n• Experience developing HLDs, LLDs, network and security architectures, technical designs, and implementation specifications.\n• Experience supporting system integration, testing, commissioning, and operational handover activities is highly desirable.\n• Relevant certifications such as GICSP, ISA/IEC 62443, CISSP, CISM, or equivalent are advantageous.\n• Experience within Energy, Oil & Gas, Utilities, Manufacturing, Mining, or other Critical Infrastructure sectors is preferred.\n• Strong analytical, technical, communication, and stakeholder management skills.\n• Demonstrated ability to operate across both advisory and hands-on engineering environments, translating cybersecurity requirements into practical and implementable solutions.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
+  {
+   "id": "accenture:14840455",
+   "source": "accenture",
+   "company": "Accenture",
+   "via": "",
+   "title": "Security Manager",
+   "field": "Cybersecurity",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, Sowwah Square - Al Sila Tower"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-10-14",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/Security-Manager_14840455",
+   "first_seen": "2026-10-14T18:15:14Z",
+   "description": "Role Overview\n\nLead OT Cybersecurity consulting engagements, providing both strategic and technical leadership to clients across OT security strategy, risk management, architecture, assessments, and transformation initiatives. This role requires deep expertise in OT environments, cybersecurity standards, OEM ecosystems, and the ability to translate complex technical requirements into practical business outcomes.\n\nKey Responsibilities\n\n• Lead OT Cybersecurity engagements from client discovery and solution design through delivery and implementation.\n• Advise clients on OT cybersecurity strategy, operating models, risk management, security architecture, and transformation programs.\n• Conduct OT cybersecurity assessments, maturity reviews, gap analyses, and risk assessments across complex OT environments.\n• Develop and present executive-level recommendations, roadmaps, business cases, and cybersecurity strategies.\n• Apply leading OT cybersecurity frameworks and standards, including IEC 62443, NIST, NERC CIP, ISO 27001/27019, and other relevant regulatory requirements.\n• Provide technical leadership across OT security architecture, network segmentation, secure remote access, asset management, monitoring, vulnerability management, and incident preparedness.\n• Collaborate with major OT technology vendors and OEMs to assess solutions, architectures, and security capabilities.\n• Lead multidisciplinary consulting teams, ensuring high-quality delivery, adherence to timelines, and effective stakeholder management.\n• Support business development activities through proposals, RFP responses, client workshops, thought leadership, and the development of new OT cybersecurity offerings.\n• Build trusted relationships with senior client stakeholders and serve as a strategic advisor on OT cybersecurity matters.\n• Stay current with emerging OT cybersecurity threats, technologies, regulations, and industry trends, translating insights into innovative client solutions.\n\nDesired Experience & Qualifications\n\n• 8-12+ years of cybersecurity experience, including significant experience in OT/ICS cybersecurity.\n• Proven track record leading OT cybersecurity consulting engagements for industrial and critical infrastructure organizations.\n• Strong understanding of OT/ICS environments, architectures, industrial protocols, and control systems.\n• Experience working with OT OEMs, system integrators, and technology vendors.\n• Deep knowledge of OT cybersecurity standards and frameworks, particularly IEC 62443 and NIST.\n• Experience developing OT cybersecurity strategies, security architectures, assessments, roadmaps, and transformation programs.\n• Strong client-facing consulting, stakeholder management, and executive communication skills.\n• Demonstrated ability to lead teams and manage complex consulting engagements.\n• Professional certifications such as GICSP, GRID, CISSP, CISM, ISA/IEC 62443, or equivalent are highly desirable.\n• Excellent analytical, problem-solving, presentation, and communication skills.\n• Consulting experience within Energy, Oil & Gas, Utilities, Manufacturing, Mining, or other Critical Infrastructure sectors is strongly preferred.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
+  {
+   "id": "accenture:14840521",
+   "source": "accenture",
+   "company": "Accenture",
+   "via": "",
+   "title": "Security Consultant",
+   "field": "Cybersecurity",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-10-14",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Security-Consultant_14840521",
+   "first_seen": "2026-10-14T18:15:14Z",
+   "description": "Role Overview\n\nSupport the delivery of OT Cybersecurity engagements across consulting, engineering, architecture, design, and implementation. This role combines advisory expertise with hands-on technical delivery, partnering with clients, OT teams, OEMs, and technology vendors to design, implement, and optimize secure OT environments that align with operational and business objectives.\n\nKey Responsibilities\n\n• Support the delivery of end-to-end OT Cybersecurity engagements, including assessments, strategy, architecture, engineering, design, and implementation activities.\n• Conduct OT cybersecurity maturity assessments, gap analyses, risk assessments, and security reviews within industrial and critical infrastructure environments.\n• Design and engineer OT cybersecurity solutions aligned to client requirements, operational objectives, and industry best practices.\n• Develop OT security architectures, network designs, security controls, technical specifications, and implementation roadmaps.\n• Assist in the implementation, configuration, and optimization of OT security technologies, including network segmentation, firewalls, secure remote access, asset visibility, monitoring, vulnerability management, and other security controls.\n• Participate in technical workshops, solution engineering, system integration, testing, commissioning, and operational handover activities.\n• Collaborate with OT, engineering, IT, and cybersecurity teams to translate business and operational requirements into secure, scalable technical solutions.\n• Work with OT OEMs, system integrators, and technology vendors to design, integrate, validate, and support OT cybersecurity solutions.\n• Apply industry-recognized OT cybersecurity standards and frameworks, including IEC 62443, NIST, NERC CIP, and ISO 27001/27019.\n• Produce high-quality technical deliverables, including High-Level Designs (HLDs), Low-Level Designs (LLDs), security architectures, assessment reports, technical specifications, and implementation documentation.\n• Support client workshops, technical presentations, demonstrations, and stakeholder engagement activities.\n• Contribute to proposals, RFP responses, solution development initiatives, and the creation of new OT cybersecurity offerings.\n• Stay informed on emerging OT technologies, cyber threats, regulatory requirements, and industry trends, incorporating these insights into client solutions.\n\nDesired Experience & Qualifications\n\n• 4-8 years of cybersecurity experience, including substantial exposure to OT/ICS cybersecurity environments.\n• Proven experience supporting OT cybersecurity consulting, engineering, design, and implementation projects.\n• Strong understanding of OT/ICS architectures, industrial networks, protocols, control systems, and operational engineering environments.\n• Hands-on experience designing, implementing, or supporting OT cybersecurity technologies and solutions.\n• Experience working with OT OEMs, system integrators, and industrial technology vendors.\n• Strong knowledge of OT cybersecurity standards and frameworks, particularly IEC 62443 and NIST.\n• Experience developing HLDs, LLDs, network and security architectures, technical designs, and implementation specifications.\n• Experience supporting system integration, testing, commissioning, and operational handover activities is highly desirable.\n• Relevant certifications such as GICSP, ISA/IEC 62443, CISSP, CISM, or equivalent are advantageous.\n• Experience within Energy, Oil & Gas, Utilities, Manufacturing, Mining, or other Critical Infrastructure sectors is preferred.\n• Strong analytical, technical, communication, and stakeholder management skills.\n• Ability to operate effectively across both advisory and hands-on engineering environments, translating cybersecurity requirements into practical, implementable solutions.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
+  {
+   "id": "accenture:14602232",
+   "source": "accenture",
+   "company": "Accenture",
+   "via": "",
+   "title": "Business Process & AI Transformation Consultant",
+   "field": "Data & AI",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-10-14",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Business-Process---AI-Transformation-Consultant_14602232",
+   "first_seen": "2026-10-14T18:15:14Z",
+   "description": "Role Overview\n\nAs a Business Process & AI Transformation Consultant, you will help organizations reimagine business processes through the adoption of Artificial Intelligence (AI), automation, and emerging technologies. You will assess industry trends, identify transformation opportunities, and design future-state operating models that integrate AI at scale. Working closely with business and technology leaders, you will define practical, scalable transformation strategies that drive operational efficiency, innovation, and business value.\n\nKey Responsibilities\n\n• Assess industry trends, market dynamics, and emerging technology developments to identify opportunities for AI-driven business transformation.\n• Analyze current business processes and operating models to identify areas for optimization through AI and intelligent automation.\n• Design future-state business processes that leverage AI, automation, and digital technologies to improve efficiency, effectiveness, and customer outcomes.\n• Define AI integration points across business processes, systems, workflows, data sources, and decision-making activities.\n• Develop detailed process transformation designs, including system interactions, data flows, automation requirements, and human-machine collaboration models.\n• Recommend operating model changes that support sustainable AI adoption, including governance structures, roles, responsibilities, and performance measures.\n• Facilitate alignment between business and technology stakeholders throughout transformation initiatives.\n• Provide subject matter expertise on industry- and function-specific requirements, regulations, governance frameworks, and business practices.\n• Support the development of transformation roadmaps, implementation strategies, and change management approaches.\n• Communicate complex process, technology, and AI design decisions to senior leadership in a clear, business-focused manner.\n• Collaborate with cross-functional teams to ensure AI-enabled solutions are practical, scalable, and aligned with organizational objectives.\n• Promote best practices for AI adoption, process excellence, and continuous improvement across transformation programs.\n\nJob Qualifications\n\nBasic Qualifications\n\n• 4-7 years of experience in Business Transformation, Process Consulting, Management Consulting, Digital Transformation, Intelligent Automation, or related fields.\n• Experience analyzing and redesigning business processes to improve operational performance and business outcomes.\n• Knowledge of AI, Generative AI, intelligent automation, process optimization, and digital transformation principles.\n• Experience developing target operating models, process frameworks, and transformation roadmaps.\n• Strong understanding of business process design methodologies and process improvement techniques.\n• Experience facilitating workshops and collaborating with business and technology stakeholders.\n• Strong analytical, problem-solving, and communication skills.\n\nPreferred Qualifications\n\n• Experience supporting AI, automation, or enterprise transformation initiatives across one or more business functions or industries.\n• Familiarity with process mining, workflow automation, business architecture, and operating model design.\n• Knowledge of AI governance, compliance, risk management, and responsible AI practices.\n• Experience documenting future-state processes, data flows, and system integration requirements.\n• Strong stakeholder management and executive presentation skills.\n• Experience working with transformation tools, process modeling frameworks, and enterprise technology platforms.\n• Relevant certifications in Business Analysis, Process Excellence, Lean Six Sigma, Change Management, or Digital Transformation are preferred.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
+  {
+   "id": "accenture:14602230",
+   "source": "accenture",
+   "company": "Accenture",
+   "via": "",
+   "title": "Data & AI Transformation Consultant",
+   "field": "Data & AI",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-10-14",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Data---AI-Transformation-Consultant_14602230",
+   "first_seen": "2026-10-14T18:15:14Z",
+   "description": "Role Overview\n\nAs a Data & AI Transformation Consultant, you will help organizations accelerate their AI transformation journeys by driving AI adoption, workforce readiness, and operating model redesign. You will work with business and technology leaders to embed AI into the way people work, develop AI-enabled operating models, and build the skills, capabilities, and culture required to become an AI-first organization.\n\nKey Responsibilities\n\n• Support the execution of enterprise AI transformation strategies by aligning people, processes, and technology with organizational objectives.\n• Analyze industry trends, competitive benchmarks, and AI adoption patterns to identify opportunities for business improvement and innovation.\n• Design and implement AI adoption frameworks, methodologies, and change management programs that enable AI at scale.\n• Develop AI-enabled operating models, including organizational structures, roles, processes, governance, and performance frameworks.\n• Define workforce strategies that support AI transformation through reskilling, upskilling, talent acquisition, and capability development.\n• Design and deliver AI learning and enablement programs tailored to an organization's current maturity level, business priorities, and strategic goals.\n• Create role-based learning journeys and competency frameworks leveraging skills intelligence, workforce analytics, and industry best practices.\n• Partner with business leaders and ecosystem partners to identify future workforce requirements and emerging AI skill needs.\n• Drive cultural transformation initiatives that encourage innovation, experimentation, continuous learning, and AI adoption across the organization.\n• Support the development of AI communities of practice, knowledge-sharing programs, and employee engagement initiatives.\n• Measure and track AI adoption, workforce readiness, and transformation success through data-driven metrics and insights.\n• Collaborate with stakeholders to identify barriers to AI adoption and recommend strategies to accelerate business value realization.\n\nBasic Qualifications\n\n• 4-7 years of experience in Organizational Change Management, Workforce Transformation, Learning & Development, Talent Strategy, Human Capital Consulting, Data & AI Transformation, or related fields.\n• Experience supporting digital, data, or AI transformation initiatives in enterprise environments.\n• Understanding of AI, Generative AI, workforce transformation, and future-of-work trends.\n• Experience designing change management, training, adoption, or capability-building programs.\n• Knowledge of operating model design, organizational effectiveness, and workforce planning principles.\n• Strong stakeholder management, facilitation, and communication skills.\n• Ability to translate business and transformation objectives into actionable workforce and adoption strategies.\n\nPreferred Qualifications\n\n• Experience with AI adoption programs, AI Centers of Excellence (CoE), or enterprise transformation initiatives.\n• Knowledge of learning strategy development, competency frameworks, and skills-based workforce planning.\n• Familiarity with workforce analytics, skills intelligence platforms, and change adoption measurement techniques.\n• Experience designing role-based learning paths and large-scale reskilling or upskilling initiatives.\n• Strong understanding of organizational design, talent management, and employee experience principles.\n• Experience collaborating with external ecosystem partners, training providers, or technology vendors.\n• Relevant certifications in Change Management, Organizational Development, Human Capital, Learning & Development, or AI-related disciplines are preferred.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
+  {
+   "id": "accenture:14516362",
+   "source": "accenture",
+   "company": "Accenture",
+   "via": "",
+   "title": "AI Solution Delivery Manager",
+   "field": "Data & AI",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh, KAFD 3.09"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-10-14",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh-KAFD-309/AI-Solution-Delivery-Manager_14516362",
+   "first_seen": "2026-10-14T18:15:14Z",
+   "description": "About Accenture\n\nAccenture helps the world’s leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed for organizations across industries. Our strategy is to be the reinvention partner of choice for our clients and lead in the safe, widespread adoption of AI, and to be the most client-focused, AI-enabled, great place to work in the world. We bring together the talent of our approximately 786,000 people with proprietary assets and platforms, deep process and industry expertise, and leading ecosystem relationships to deliver end-to-end solutions and measurable outcomes at scale. Through our Reinvention Services, we offer broad expertise across Cybersecurity, Digital Core, Finance, Industry and Enterprise, Song, Supply Chain and Engineering, and Talent, with advanced capabilities in AI and Data, Industry and Process, and Technology. We serve approximately 9,000 clients and generated approximately $70 billion in FY25 revenue. Visit us at accenture.com.\n\nJob Summary:\n\nAs a AI Solution Delivery Manager leads the delivery of end-to-end AI solutions, managing teams, stakeholders, and technical architecture to drive AI transformation. The role focuses on designing and implementing scalable AI/ML solutions, ensuring successful adoption, and delivering measurable business impact for clients.\n\nKey Roles and Responsibilities:\n\n•\nKEY RESPONSIBILITIES\n\nAI Transformation & Delivery\n\n• Lead end-to-end delivery of AI/ML solutions for public sector clients, from requirements through production and operationalization.\n• Develop and implement AI transformation strategies aligned with national government priorities and strategic objectives.\n• Design scalable, production-grade AI architectures leveraging the full ML spectrum — GenAI, NLP, LLMs, Computer Vision, and Simulation.\n• Contribute hands-on to model development, pipeline engineering, API design, and platform integration.\n•\nTeam Leadership & Stakeholder Engagement\n\n• Lead and manage a multi-disciplinary AI/Data team; take accountability for team decisions, delivery quality, and individual growth.\n• Serve as the primary AI technical point of contact for senior government stakeholders, facilitating workshops, technical reviews, and executive presentations.\n• Collaborate with cross-functional teams — data engineers, cloud architects, and business analysts — to align solutions with client objectives.\n• Engage across the broader Accenture delivery network, contributing to decisions that span multiple teams and workstreams.\n•\nSolution Architecture & Operating Model\n\n• Own and govern the AI & Data solution architecture, defining platform strategy, cloud AI/ML service selection, and MLOps pipeline design.\n• Contribute to AI & Data Operating Model design, ensuring government clients can sustain and extend AI capabilities independently post-engagement.\n• Analyze complex public sector challenges and design innovative, scalable AI approaches that drive measurable impact.\n•\nContinuous Improvement & AI Adoption\n\n• Drive AI adoption by designing change management and enablement approaches that accelerate value realization within client organizations.\n• Integrate emerging technologies and best practices to continuously improve AI frameworks and delivery standards.\n• Contribute to Accenture's AI & Data practice through thought leadership, reusable asset development, and internal capability building.\n\n•\nESSENTIAL QUALIFICATIONS\n\n• Bachelor's degree or equivalent in Computer Science, Data Science, Statistics, Engineering, or a related field (minimum 12 years of work experience).\n• 8-12 years of extensive experience in Data Analysis, Statistics, Machine Learning, or Computer Science.\n• 5+ years of experience in machine learning, deep learning, or demonstrated proficiency in Natural Language Processing (NLP).\n• 5+ years of experience with AI/ML and cognitive services from at least one major cloud provider (AWS, Azure, or GCP).\n• 1+ year of experience designing, building, and/or implementing Agentic Architectures.\n• 1+ year of experience building Conversational AI applications using cloud-based services and orchestrating AI/ML services into end-to-end solutions.\n• Ability to operate fully hands-on on coding.\n• Demonstrated experience managing and leading cross-functional AI/ML delivery teams in client-facing engagements.\n• Proven track record of taking AI solutions from inception to production and operationalization.\n•\n\nPREFFERED QUALIFICATIONS\n\n• Experience managing and leading Gen AI / Agentic delivery across enterprise or government clients.\n• Deep industry expertise in public sector and consulting\n• Prior experience delivering projects in Saudi Arabia or the broader GCC/MENA region.\n• Familiarity with Saudi Vision 2030 digital transformation initiatives.\n• Arabic language proficiency (spoken and/or written).\n• Postgraduate qualification (Master's or PhD) in AI, Data Science, or a related field.\n\nWay Forward:\n\nIf this sounds like the ideal role, career, and company for you, click below to apply.\n\nTo learn more about life @AccentureMiddleEast, follow us on social media and keep up with our latest news.\n\nAccenture Middle East: LinkedIn, Instagram, Facebook, Twitter, YouTube\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
+  {
+   "id": "edge:733555022",
+   "source": "edge",
+   "company": "EDGE · POWERTECH",
+   "via": "",
+   "title": "Quality Engineer I",
+   "field": "QA & Testing",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [],
+   "workplace_type": "",
+   "category": "POWERTECH",
+   "posted_date": "2026-10-14",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Quality-Engineer-I/733555022/",
+   "first_seen": "2026-10-14T18:15:14Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAbout POWERTECH\n\nPOWERTECH is a center of excellence for propulsion technologies, specializing in the design, engineering, and manufacturing of combustion engines, expendable turbojet engines, and turbofan engines for a wide range of aerospace, defence, and autonomous applications, including fixed- and rotary-wing UAVs and other advanced platforms.\n\nRole Summary\n\nEnsure products, processes, and services meet defined quality standards, customer requirements, and regulatory obligations.\nSupport continuous improvement initiatives to enhance product quality, operational efficiency, and customer satisfaction.\nAnalyze quality performance data, identify risks, investigate issues, and implement corrective and preventive actions.\nWork closely with cross-functional teams to drive quality excellence throughout the product or service lifecycle.\n\nRESPONSIBILITIES\n\r\n\n- Quality Assurance & Compliance\nMonitor compliance with internal quality management systems, policies, and procedures.\nEnsure adherence to customer, industry, and regulatory requirements.\nParticipate in internal, external, and customer audits.\nMaintain quality documentation, records, and reports.\n\n- Quality Control & Monitoring\nDevelop and implement quality control plans and inspection processes.\nMonitor product and process quality performance using established metrics.\nReview inspection and test results to ensure conformity to specifications.\nEscalate quality concerns and support resolution activities.\n\n- Non-Conformance Management\nInvestigate product, process, or service non-conformities.\nPerform root cause analysis using quality tools such as 5 Whys, Fishbone Diagram, and Pareto Analysis.\nLead corrective and preventive action (CAPA) activities.\nVerify effectiveness of implemented corrective actions.\n\n- Continuous Improvement\nIdentify opportunities for process improvement and waste reduction.\nSupport Lean, Six Sigma, Kaizen, or other quality improvement programs.\nDrive initiatives to improve quality performance indicators.\nFacilitate lessons learned and best-practice sharing across teams. - Data Analysis & Reporting\nCollect, analyze, and interpret quality data and trends.\nDevelop quality dashboards and management reports.\nMonitor key performance indicators (KPIs) such as defect rates, customer complaints, and process capability.\nProvide recommendations based on data-driven insights.\n\n- Customer Quality Support\nAddress customer quality concerns and complaints.\nSupport investigations and corrective actions related to customer issues.\nParticipate in customer meetings and quality reviews where required.\nEnsure customer expectations are understood and incorporated into quality processes.\n\n- Supplier Quality Management\nSupport supplier qualification and performance evaluation activities.\nMonitor supplier quality performance and manage supplier-related corrective actions.\nCollaborate with suppliers to resolve quality issues.\n\nBASIC QUALIFICATIONS\n\r\n\nBachelor's Degree in Engineering, Quality Management, Manufacturing, Industrial Engineering, or a related technical discipline.\n\nProfessional certification is desirable:\n- Certified Quality Engineer (CQE)\n- Six Sigma Green Belt or Black Belt\n- ISO 9001 Internal Auditor or Lead Auditor\n- Strong understanding of Quality Management Systems (QMS).\n- Knowledge of quality tools and methodologies.\n- Proficiency in Microsoft Office applications and quality reporting tools.\n- Familiarity with statistical analysis and problem-solving techniques.\n\nPREFERRED QUALIFICATIONS\n\r\n\n3 to 5 years of experience in Quality Engineering, Quality Assurance, or Quality Control roles.\nExperience working within a structured Quality Management System.\nExperience conducting root cause analysis and implementing corrective actions.\nExperience in quality audits, inspections, and compliance activities.\nDemonstrated ability to analyze data and drive quality improvements.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
+  },
+  {
+   "id": "michaelpage:jn-102026-7125396",
+   "source": "michaelpage",
+   "company": "Michael Page (recruiter)",
+   "via": "",
+   "title": "Group Head of Technology - Healthcare Industry",
    "field": "Other IT",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-10-14",
+   "summary": "We are seeking an experienced technology leader to drive enterprise-wide digital transformation, technology strategy, and AI adoption within a leading healthcare organisation. Reporting directly to executive leadership, you will oversee critical technology platforms, modernisation programmes, and a ",
+   "url": "https://www.michaelpage.ae/job-detail/group-head-technology-healthcare-industry/ref/jn-102026-7125396",
+   "first_seen": "2026-10-14T18:15:14Z",
+   "description": "• Opportunity to shape technology and AI strategy\n• Lead major enterprise transformation initiatives\n\nAbout Our Client\n\nOur client is a rapidly expanding healthcare group operating across the Middle East, with ambitious growth plans and a strong focus on digital transformation, innovation, and clinical excellence. As they continue to scale, they are investing heavily in modernising their technology landscape and building a future-ready AI strategy.\n\nJob Description\n\n• Define and execute the organisation's technology and AI strategy.\n• Lead EMR, ERP, integration, and digital transformation programmes.\n• Drive data, analytics, and AI initiatives that support business and clinical objectives.\n• Oversee enterprise architecture, application landscape, and system modernisation.\n• Manage and develop a high-performing technology team and key technology partners.\n• Act as a trusted advisor to senior leadership on technology investment and innovation.\n\nThe Successful Applicant\n\n• Proven technology leadership experience within a healthcare provider environment.\n• Strong background in EMR/HIS platforms, integrations, and system migrations.\n• Experience delivering large-scale ERP transformation programmes.\n• Understanding of healthcare informatics, interoperability, and data strategy.\n• Exposure to AI, automation, or advanced analytics initiatives.\n• Arabic language skills and GCC healthcare experience would be a major plus.\n\nWhat's on Offer\n\n• Play a pivotal role in transforming healthcare delivery through technology and AI.\n• Join a high-growth organisation where your impact will be visible from day one.\n\nIf you're a healthcare technology leader passionate about digital transformation and innovation, we'd love to hear from you. Apply now or contact us for a confidential discussion."
+  },
+  {
+   "id": "fab:2923",
+   "source": "fab",
+   "company": "First Abu Dhabi Bank (FAB)",
+   "via": "",
+   "title": "Executive Director, Infrastructure Contractors",
+   "field": "Systems & Infrastructure",
    "country_code": "AE",
    "country": "United Arab Emirates",
    "countries": [
@@ -333,13 +515,36 @@
    "locations": [
     "Abu Dhabi, United Arab Emirates"
    ],
-   "workplace_type": "External",
-   "category": "Other",
-   "posted_date": "2026-09-29",
-   "summary": "We are looking for a Senior Specialist, Digital Advanced Automations Solutions to drive impactful AI and analytics initiatives, developing and implementing advanced solutions to automate business processes. The role involves leading technical projects, collaborating with cross-functional teams, and requires significant experience in AI and machine learning within a technical and managerial capacity.",
-   "url": "https://jobs.adnoc.ae/us/en/job/33197",
-   "first_seen": "2026-10-14T07:00:01Z",
-   "description": "JOB PURPOSE:\n\nGenerate insights by leveraging the latest Artificial Intelligence (AI) and Analytics techniques to derive value at the overall organization level. Building world-class solutions, conquer business problems, address technical challenges using AI Platforms and technologies.\n\nUtilize the existing frameworks, standards, patterns to create architectural foundation and services necessary for AI applications that scale from multi-user to enterprise-class. Developing and implementing Advanced solutions to support the business stakeholders to have automated business processes and to take informed decisions\n\nIdentify and analyse trends and patterns in Artificial Intelligence tools to be used for diagnosis and prediction purpose. Research on existing AI solutions to fit into business requirements and contribute to formulating prototypes for innovative ideas, filing patents and research papers\n\nDevelop and manage Advanced Solutions, applications integrations, and machine learning to meet business requirements.\n\nProvides technical expertise and recommendations in assessing new Digital software projects and initiatives to support and enhance existing systems.\n\nKEY ACCOUNTABILITIES:\n\n· Work on functional design, process design (including scenario design, flow mapping), prototyping, testing, training, and defining support procedures, working with an advanced engineering team and executive leadership.\n\n· Manage solutions development and implementations going through the full Solutions Development Life Cycle phases.\n\n· Supervise necessary applications amendments and responsible for reviewing, analysing, and modifying systems including encoding, testing, debugging, and installing to support application systems.\n\n· Aid and advice to business users in the effective use of applications and information technology.\n\n· Identify opportunities that can improve efficiency of business processes.\n\n· Filter Data by reviewing reports and performance indicators to identify and correct code problems\n\n· Use statistical tools to identify, analyse, and interpret patterns and trends in complex data sets that could be helpful for the diagnosis and prediction\n\n· Collaborate with programmers, engineers, and management heads to identify process improvement opportunities, propose system modifications, and devise data governance strategies.\n\n· Supervise and support the team to ensure smooth operation of systems and handles/trouble shoots complicated problems raised by users upon escalation by the Digital Help Desk Team or other members of the Solutions team.\n\n· Collaborate with cross-functional teams to analyse the partner’s business and main areas where the application of AI can stimulate business growth.\n\n· Prepare final analysis reports for the stakeholders to understand the data-analysis steps, enabling them to take important decisions based on various facts and trends.\n\n· Document and articulate solution architecture and lessons learned for each exploration and accelerated incubation\n\n· Analyse local, national, and global trends and predictions that impact both the organization and the industry and report to management.\n\nIT Strategic & Tactical Planning\n\n· Coordinate and consult with the business and Digital management to ensure that the Group Digital Advanced Automations solutions strategy components are successfully translated into solutions and services.\n\n· Contribute to the regular review of the Group Digital Strategy at pre-defined intervals to ensure that it reflects the concerned Directorates business requirements and ensures its constant alignment with the Company's short, medium, and long-term business plans.\n\n· Whenever applicable, ensures that the Group Digital Unit strategic goals, strategies and roadmaps are translated into sectional tactical plans and actionable items, in full coordination with other Digital departments and sections.\n\nGroup Digital Advanced Automations Solutions Delivery\n\n· Conduct the analysis, scope development, technical evaluations, and prototyping, developing, implementing, and delivering Solutions Delivery Capture business requirements related to the domain.\n\n· Ensure the delivery of the vertical’s business requirements and services according to the Company standard and strategies.\n\n· Support the vertical’s business users and beyond in line with pre-set SLAs and delivery guidelines.\n\n· Lead the development, implementation, and support of high quality and cost-effective Solutions and services deemed critical to the business operations.\n\n· Ensure that the department meets the appropriate service level agreements established with internal and group users’ functions. Also, that the services delivered by the engaged external organizations are delivered within the agreed service levels.\n\n· Ensure that all deployed solutions have followed a comprehensive testing and quality assurance process, quality assurance reviews and have fulfilled the Group Digital Unit services release process requirements.\n\n· Ensure that the enterprise architecture principals, data management and information security standards are applied throughout the solution development and implementation lifecycles.\n\n· Report to the management on the progress of assigned programs and projects against plans, in terms of schedule, resources and cost.\n\n· Ensure that all programs and projects are managed in compliance with the Projects Management Methodology and related standards.\n\nConduct pre-deployment activities of Advanced Automations Solutions\n\n· Lead feasibility studies, assess business requirements, and assist in designing business processes for small to large systems and implementations. Submit findings and recommendations for review, evaluation, and approval by Digital and Business management. Participate in feasibility studies of Digital Programs undertaken within the unit wherever required.\n\n· Analyse functional requirements including input transactions, output reports, functional processes, etc. and recommends solutions and process improvements for user approval to establish functional specifications.\n\n· Perform impact analysis for new development to ensure synchronization and integration of cross functional business solutions and systems.\n\n· Lead the development of business cases and projects initiation documentations and artifacts.\n\nEvaluate new solutions and services\n\n· Evaluate off-the-shelf packages to ascertain the degree of fitness with existing business processes and recommends appropriate solutions to business requirements.\n\n· Wherever required, develop the required interfaces between various solutions while ensuring systems and data availability, integrity, and service continuity.\n\n· Develop fit-for-purpose and secure software programs. Test them to ensure their fulfilment of business requirements and their compliance with ADNOC Group Digital standards and policies.\n\n· Receive, assess, and prioritize change requests from the existing Digital services owners and users.\n\nDocument Group Digital Advanced Automations Solutions\n\n· In coordination with the enterprise and technology architects; prepare solutions design documents, data models, data flow diagrams and other system architecture artifacts.\n\n· Update the solutions documentation throughout the company systems development & support lifecycles in accordance with the Company standards on the subject.\n\n· Archive and keep available all as-build solutions documents and artifacts.\n\nAct as an SME for the future domain specific implementations\n\n· Implement the best practices for all Group Digital Advanced Automations solutions, and services implementations\n\n· Plan and undertake the deployment of the required new software releases.\n\n· Provide the required training and support to users during and after deployment.\n\nSupervision\n\n· Plan, supervise and coordinate all domain activities in the assigned area to meet functional objectives.\n\n· Train and develop the assigned staff on relevant skills to enable them to become proficient on the job and deliver the respective business objectives.\n\nBudgets\n\n· Provide input for preparation of the Function / Division / Department / Section budgets, assist in the implementation of the approved Budget, and work plans to deliver business objectives.\n\n· Investigate and highlight any significant variances to support effective performance and cost control.\n\nPolicies, Systems, Processes & Procedures\n\n· Implement approved Function/ Division/ Department/ Section policies, processes, systems, standards and procedures in order to support execution of the work programs in line with Company and International standards.\n\nPerformance Management\n\n· Contribute to the achievement of the approved Performance Objectives for the Function/ Division / Department/ Section in line with the Company Performance framework.\n\nInnovation and Continuous Improvement\n\n· Design and implement new tools and techniques to improve the quality and efficiency of operational processes.\n\n· Identify improvements in internal processes against best practices in pursuit of greater efficiency in line with best industry standards to define intelligent solutions for issues confronting the function.\n\nHealth, Safety, Environment (HSE) and Sustainability\n\n· Comply with relevant HSE policies, procedures, controls, applicable legislation, and sustainability guidelines in line with international standards, best practices and ADNOC Code of Practices.\n\nReports\n\n· Provide inputs to prepare MIS and progress reports for Company Management.\n\nCOMMUNICATIONS & WORKING RELATIONSHIPS:\n\nInternal\n\n· Regular contacts with Digital Management Team across ADNOC Group on services delivery, services operations, services governance, and other related matters.\n\n· Frequent contacts with Programs / Projects Managers and Architects on matters related to roadmaps developments and projects and programs delivery.\n\n· Regular contacts with the counterparts in ADNOC Group Companies on Digital Strategy, Planning and Quality Assurance matters.\n\nExternal\n\n· Frequent contacts with external auditors, local / international vendors, consultants, and Digital professional organizations to facilitate quality and cost-effective service delivery.\n\n· Occasional contacts with counterparts in regional and international oil companies for exchange of information / benchmarking / study visits and other programs.\n\n· Regular contacts with local and international Digital service providers on matters related to Digital services and strategic directions.\n\nQUALIFICATIONS, EXPERIENCE, KNOWLEDGE & SKILLS:\n\nMinimum Qualification\n\n· Bachelor's degree in information technology, Computer Science, or equivalent.\n\nMinimum Experience & Knowledge & Skills\n\n· 10 years of relevant IT experience including at least 6 years in positions of progressively increasing technical and managerial responsibilities in AI and Machine Learning Solutions\n\n· Deep Knowledge of Machine learning, deep learning, NLP, Python, NoSQL, RDBMS,\n\n· Experience in application development, preferably in an oil industry environment.\n\nProfessional Certifications\n\n· Certification in Machine Learning / Artificial Intelligence (Desired)\n\n· Certification in PMP (Desired)\n\nTECHNICAL COMPETENCIES:\n\n· As per the approved competency dictionary\n\nBEHAVIOURAL COMPETENCIES:\n\n· As per the approved competency dictionary"
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-10-14",
+   "summary": "",
+   "url": "https://ehjd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/2923",
+   "first_seen": "2026-10-14T18:15:14Z",
+   "description": "JOB SUMMARY / INTRODUCTION\n\nTo grow and manage existing large & sensitive clients relationships for assigned portfolio; increase clientele base by originating & booking quality NTBs in line with the bank’s defined Risk frameworks. Improve service quality levels and supervise the subordinates' day-to-day activities and client interactions to ensure that the team's objectives are constantly met and its revenue targets achieved, while maintaining client satisfaction and portfolio credit quality.\n\nKEY RESPONSIBILITIES\n\nClient and Market Analysis\n\n• Conduct financial analysis on clients and their respective geographies/ industries/ markets to identify potential opportunities and risks.\n• Maintain up to date industry insights /market intelligence to early identify business opportunities.\n\nBusiness Origination\n\n• Originate new business opportunities with target clients across banking products and in line with relevant policies.\n• Obtain support from relevant stakeholders and governance forums to close deals (e.g., credit, products, GTx).\n• Develop Term Sheet, Information Memorandum, Mandate letter etc.\n• Examine & resolve credit, market and operational risk aspects of the transactions in collaboration with products and enablement units.\n• Leverage FAB’s network expansion through cross border deals.\n• Anchor Strategic Alliances with UAE’s Top Developers & Authorities\n• Expand Products Penetration Through Sector-Focused Solutions\n• Ensure high returns with satisfactory yields\n• Maintain the credit quality of the client's relationships within the Portfolio to an acceptable level set by the Bank's management.\n• Pitch, review, negotiate and conclude deals.\n• Develop and maintain strong relationships with key decision makers in other banks to originate business opportunities, ensure that FAB leads joint deals.\n• Remain Up to date with the latest market, competitors, regulatory and industry and amend accordingly the account plans as when applicable.\n• Ability to handle sophisticated transactions and engage assigned team members.\n• Recommend policy amendments as when required to match with the latest business & industry trends.\n• Analyse the monthly income generation metrics to identify any income leakage/losses.\n\nClient Relationship Management\n\n• To achieve assigned financial and non-financial objectives by meeting all borrowing & non borrowing needs of customers with target segments (E.g., borrowers, transactors, depositors).\n• Prepare and Maintain Account Plans for all clients with support from relevant partners (e.g., products, international banking, Employee banking, Asset Management, etc.). Regular checking of account plans and adopt amendments as when required.\n• Support on the conduct of annual/periodic credit facility reviews in the existing portfolio in a timely manner and support on the recommendation of appropriate credit facilities in line with the banks credit. policy to maximize earnings while containing/mitigating risks to an acceptable level and identifying candidates for downgrades/ upgrades.\n• Develop, Implement and maintain complete control aspects i.e., documentation, periodical client visits / call reports, stock inspections and formal credit checks / informal market feedback to monitor the assigned portfolio effectively.\n• Organize client meetings with relevant partners/ seniority to deepen FAB relationship within the portfolio.\n• Identify & develop cross selling opportunities and increase cross-sell ratio and returns with clients.\n• Support client on their day-to-day banking requirements with support from the team (as applicable).\n• Ensure customer satisfaction remains high and meets the targeted NPS score.\n• Keep abreast of market trends and manage a disciplined marketing process by identifying steps/strategies necessary to effectively initiate relationships with prospects.\n• Onboard new clients as per targets assigned.\n\nCollaboration\n\n• Align with Contracting team subsectors as well as other partners to identify and convert opportunities.\n• Collaborate with other business divisions to drive cross-BU collaboration. Develop proposition strategy, competition analysis, focused group approach, service delivery model, customer experience, internal & external campaigns and alignment with other Products & proposition including Risk policies, Payment & Cash management, Trade products, collaboration with Retail banking including Private Banking, etc.\n• Align with International banking to support client in FAB network locations.\n• Support Unit/Divisional/Bank-wide initiatives (as required or assigned).\n• Handle internal MIS/reporting requirements for the team.\n\nOperational\n\n• Follow all relevant policies, processes, standard operating procedures, and instructions so that work is carried out in a controlled and consistent manner.\n• Conduct periodic reviews of risks (credit, operational, compliance etc.) within the portfolio on a regular basis.\n• Drive day-to-day administrative and transactional activities for the team such as client calls, documentation follow up, pipeline updates, and any other activities in the unit/team to ensure continuity of work and delivery of effective/high quality output.\n• Ensure that internal processes for existing portfolio/ NTBs are in-line with the Bank's policies & procedures.\n• Manage and follow up on KYC and compliance requirements to ensure consistency with the Bank's KYC and AML policies and regulatory requirements.\n• Ensure all credit reviews are submitted on time and agreed conditions are met.\n• Ensure all clients' files [documents] are maintained.\n• Maintain a satisfactory audit on the portfolio.\n• Adhere to process KPl's and, ORM, BCP & Internal Audit requirements.\n• Prepare timely and accurate statements and reports to meet the unit's requirements, policies, and standards.\n• Ensure minimal/nonmaterial audit findings in assigned portfolio.\n\nLeadership\n\n• Act as Role Model for the entire Contracting group and Civil Contractors team\n• Lead, Mentor, Motivate, Develop and Coach team members to ensure career growth and short- & long-term successors\n• Establish high-performance culture and ensure high engagement levels.\n• Encourage ownership through rightful assignments to team members.\n• Achieve individual and team's financial performance targets.\n• Learning & Development Attend appropriate on and off-the-job training programs and ensure development and skill upgradation of team members.\n• Involvement in team members new hirings.\n\nFramework, Boundaries & Decision-Making Authority\n\n• Functions within the framework and boundaries of Group policies as well as overall organizational and governance frameworks.\n\nREQUIREMENTS / QUALIFICATIONS\n\n• Bachelor’s degree in finance or related discipline.\n• 12+ years of experience in Banking with at least 8+ years in senior role of team management.\n• Deep Knowledge of Wholesale Banking or investment banking.\n• Understanding of FAB's product offering and business strategy.\n• Ability to collaborate with a wide range of stakeholders to drive business.\n• Strong relationship management skills both internally and externally.\n• Sound communication skills (written and verbal).\n• Ability to analyse and research information.\n• Deep Financial and credit analysis ability with an aptitude to identify opportunities and close business deals.\n• Data analysis and financial modelling skills.\n• Ability to work under pressure and adjust quickly to changing priorities.\n• Proficient in MS Office (excel, word and Power-point)."
+  },
+  {
+   "id": "maf:23036",
+   "source": "maf",
+   "company": "Majid Al Futtaim",
+   "via": "",
+   "title": "Cinema Service Engineer",
+   "field": "Architecture",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai"
+   ],
+   "workplace_type": "Regular",
+   "category": "Architecture, Engineering & Project Management",
+   "posted_date": "2026-10-14",
+   "summary": "Seeking a Cinema Service Engineer to install, maintain, and support digital cinema projection, audio, and networking systems at VOX Cinemas locations. Key responsibilities include troubleshooting technical issues and ensuring optimal cinema presentation standards. Ideal candidates will have significant experience in servicing digital cinema systems and strong technical problem-solving skills.",
+   "url": "https://careers.majidalfuttaim.com/global/en/job/23036",
+   "first_seen": "2026-10-14T18:15:14Z",
+   "description": "JOB TITLE\nCinema Service Engineer | MAF Entertainment | Cinemas\n\nROLE SUMMARY\nThe Cinema Service Engineer will be responsible for the installation, maintenance, repair, and support of digital cinema projection, audio, networking, and presentation systems across VOX Cinemas locations. The role involves troubleshooting technical issues, supporting new cinema deployments, monitoring system performance, coordinating installations, and ensuring optimal cinema presentation standards while maintaining safety, operational efficiency, and customer satisfaction.\n\nROLE PROFILE\n\n• Install, maintain, troubleshoot, and repair digital cinema projection, audio, networking, and automation systems.\n• Support the deployment and commissioning of digital cinema systems across new and existing VOX Cinemas locations.\n• Conduct installation and wiring of audio racks, speaker cabling, TMS, and network infrastructure.\n• Monitor system performance and perform preventive maintenance to minimize equipment downtime.\n• Coordinate with internal teams, suppliers, and stakeholders to ensure successful project execution and equipment delivery.\n• Maintain technical documentation, installation reports, and calibration records.\n• Provide technical support, fault diagnosis, and remote assistance for cinema systems and equipment.\n• Ensure compliance with safety standards, security procedures, and company policies during all technical activities.\n\nREQUIREMENTS\n\n• Bachelor’s degree, Diploma, or Technical Certification in Electrical Engineering, IT, or a related technical field.\n• Minimum 4 years of experience servicing digital cinema systems and equipment.\n• Strong technical problem-solving, troubleshooting, and equipment repair skills.\n• Good understanding of cinema projection, audio, automation, and control systems.\n• Certification course in Barco or Christie (Level I or II) projection system.\n• Valid UAE driving license is required."
   },
   {
    "id": "adnoc:33258",
@@ -363,29 +568,6 @@
    "url": "https://jobs.adnoc.ae/us/en/job/33258",
    "first_seen": "2026-10-14T07:00:01Z",
    "description": "JOB PURPOSE:\n\nSenior Analyst (Group Commercial & Financial Solutions) deploys, customizes, maintains, and supports high quality, cost effective Commercial & Financial solutions to meet ADNOC Group digital business requirements.\n\nSenior Analyst (Group Commercial & Financial Solutions) plans, coordinates and participates in development of domain specific strategies and plans and in the evaluations and reviews of business processes required for new solutions deployment, existing applications and services change management, applications security and controls, and the provision of enhancements of existing applications, solutions, and services.\n\nThe Senior Analyst (Group Commercial & Financial Solutions) leads and coordinates the development and support of required interfaces between existing and future systems. Participates in the evaluation of packages to match business requirements and undertakes configuration, testing, upgrade, and maintenance of the Company digital solutions and services.\n\nKEY ACCOUNTABILITIES:\n\nIdentification of Business Needs\n\n· Partner with Group Commercial & Financial process owners to identify the technological needs and explore solutions to build and maintain a scalable and agile IT solutions meeting all current and future business requirements while ensuring alignment of all Trade & Financial related IT Business Solutions projects with approved ADNOC Group Digital & Cybersecurity standards, including the security standards and overall enterprise architecture framework.\n\n· Plan and conduct feasibility studies, business cases, request for proposals and proof of concepts following Group Digital & Cybersecurity project management methodology for new IT solutions or services.\n\n· Review third party proposals and technical documentation for digital Solutions to assure alignment to defined protocols and security governance standards. Provide expert analysis to the management highlighting technical concerns if any and recommend the optimum terms to support negotiations with the vendors.\n\n· Create architecture specifications and high-level design documentation for new or enhanced Group Digital & Cybersecurity Services for all Group Commercial & Financial business solutions.\n\nGroup Commercial & Financial Solutions Standards and Framework\n\n· Conduct research and consolidate best practices in digital solutions management and ensure maintenance of an up-to-date internal best practice repository in line with the overall Group Digital & Cybersecurity framework.\n\n· Collaborate with the corporate Group Digital & Cybersecurity Security function to develop the guidelines and policies for the Group Commercial & Financial solutions to ensure that all Group Digital & Cybersecurity solutions are following the defined framework.\n\n· Provide support in disaster recovery planning to ensure alignment with the business continuity plan from the information security.\n\n· Validate compliance of related Group Digital & Cybersecurity projects and (internally or externally) developed solutions with architectural standards and principles.\n\n· Analyse and improve data and application architecture to provide end-to-end (cross-application) support.\n\nGroup Commercial & Financial Solution Development\n\n· Lead the development program/projects for Group Commercial & Financial solutions ensuring efficient and effective project management and considering all factors like approach/integration, scope, time, cost, quality, people, communications, risks management, and procurement to meet business needs.\n\n· Provide expertise to achieve business/ technical / operational efficiency by setting up a consistent and integrated organisation wide information model facilitating the integration, security, shareability and accessibility of all Group Commercial & Financial information.\n\n· Plan, organize, manage, and control various stages in the business application development project life cycle in order to ensure its timely completion, meeting agreed project parameters, standards and objectives.\n\n· Design and implement test plans (in collaboration with vendor representatives and internal clients) and conduct User Acceptance Testing and accurately document all outcomes to ensure the functionality and viability of the solution being delivered.\n\nGroup Commercial & Financial Solutions Delivery\n\n· Conduct the analysis, scope development, technical evaluations, and prototyping, developing, implementing, and delivering solutions\n\n· Capture business requirements related to the Group Commercial & Financial domain.\n\n· Ensure the delivery of the vertical’s business requirements and services according to the Company standards and strategies.\n\n· Support the vertical’s business users and beyond in line with pre-set SLAs and delivery guidelines.\n\n· Lead the development, implementation and support of high quality and cost-effective Group Commercial & Financial solutions and services deemed critical to the business operations.\n\n· Ensure that the Group Commercial & Financial solutions section meet the appropriate service level agreements established with internal and group users’ functions. Also, that the services delivered by the engaged external organizations are delivered within the agreed service levels.\n\n· Ensure that all deployed Group Commercial & Financial solutions have followed a comprehensive testing and quality assurance process, quality assurance reviews and have fulfilled the Group Digital & Cybersecurity Unit services release process requirements.\n\n· Ensure that the enterprise architecture principles, data management and information security standards are applied throughout the solution development and implementation lifecycles.\n\n· Report to the digital Solutions management on the progress of assigned programs and projects against plans, in terms of schedule, resources and cost.\n\n· Ensure that all programs and projects are managed in compliance with the Projects Management Methodology and related standards.\n\nConduct systems' pre-deployment activities\n\n· Conduct feasibility studies, assess business requirements and assist in designing business processes for small to large systems and implementations. Submit findings and recommendations for review, evaluation and approval by digital and Business management. Lead feasibility studies of digital Programs undertaken within the Unit wherever required.\n\n· Analyse functional requirements including input transactions, output reports, functional processes, etc. and recommend solutions and process improvements for user approval to establish functional specifications.\n\n· Perform impact analysis for new development to ensure synchronization and integration of cross functional business solutions and systems.\n\n· Support in the development of business cases and projects initiation documentations and artifacts.\n\nEvaluate new solutions and services\n\n· Evaluate off-the-shelf packages to ascertain the degree of fitness with existing business processes and recommends appropriate solutions to business requirements.\n\n· Technically support the existing ERP and other enterprise solutions implementations\n\n· Wherever required, develop the required interfaces between various solutions while ensuring systems and data availability, integrity and service continuity.\n\n· Develop fit-for-purpose and secure software programs. Test them to ensure their fulfilment of business requirements and their compliance with ADNOC Group digital standards and policies.\n\n· Receive, assess, and prioritize change requests from the existing digital services owners and users.\n\nSolution Upgrade & Maintenance\n\n· Plan and implement maintenance and enhancement initiatives of existing Group Commercial & Financial solutions through the phases of structured system analysis and design life cycle to meet the Company’s changing business requirements.\n\n· Provide technical expertise and on-site presence, including data backup recovery in accordance with established SLAs. Plan and test the Contingency and Disaster Recovery activities to maintain service levels and ensure the continuous operation of the information services.\n\n· Conduct feasibility studies for adopting new tools for systems development and support. Analyse and develop technical justifications for adoption of new projects in order to optimize solutions in line with best fitted technology.\n\nDocument the Company digital solutions and services\n\n· In coordination with the enterprise and technology architects; prepares solutions design documents, data models, data flow diagrams and other system architecture artifacts.\n\n· Update the solutions documentation throughout the company systems development & support lifecycles in accordance with the Company standards on the subject.\n\n· Archives and keeps available all as-build solutions documents and artifacts.\n\nAct as an SME for the future domain specific implementations\n\n· Implement the best practices for all Group Commercial & Financial Solutions and services implementations\n\n· Plan and undertake the deployment of the required new software releases.\n\n· Provide the required training and support to users during and after deployment of digital Solutions.\n\nOther Duties\n\n· Contribute towards and promotes the protection of ADNOC digital assets and corporate information against threats to their security by implementing the Company information security standards and all other related policies, regulations, and guidelines.\n\n· All other duties as required.\n\nSupervision\n\n· Plan, supervise and coordinate all activities in the assigned area to meet functional objectives.\n\n· Train and develop the assigned staff on relevant skills to enable them to become proficient on the job and deliver the respective section objectives.\n\nBudgets\n\n· Provide input for preparation of the Section / Department budgets and assist in the implementation of the approved Budget and work plans to deliver Section objectives.\n\n· Investigate and highlight any significant variances to support effective performance and cost control.\n\nPolicies, Systems, Processes & Procedures\n\n· Implement approved Section / Department policies, processes, systems, standards and procedures in order to support execution of the Section’s / Department work programs in line with Company and International standards.\n\nPerformance Management\n\n· Contribute to the achievement of the approved Performance Objectives for the Section / Department in line with the Company Performance framework.\n\nInnovation and Continuous Improvement\n\n· Design and implement new tools and techniques to improve the quality and efficiency of operational processes.\n\n· Identify improvements in internal processes against best practices in pursuit of greater efficiency in line with ISO standards in order to define intelligent solutions for issues confronting the function.\n\nHealth, Safety, Environment (HSE) and Sustainability\n\n· Comply with relevant HSE policies, procedures & controls and applicable legislation and sustainability guidelines in line with international standards, best practices and ADNOC Code of Practices.\n\nReports\n\n· Provide inputs to prepare Section MIS and progress reports for Company Management.\n\nCOMMUNICATIONS & WORKING RELATIONSHIPS:\n\nInternal\n\n· Regular contacts with IT Management Team and End-users up to Unit Managers across ADNOC on provision of Group Digital & Cybersecurity solutions and services delivery.\n\n· Frequent contact with Programme / Project Manager and Enterprise Architect on matters relating to creating synergies in the overall project portfolio, to define road maps etc.\n\n· Regular contact with the counterparts in ADNOC Group Companies on intra-group coordination on IT related issues.\n\nExternal\n\n· Frequent contacts with ADNOC Group companies, internal/external auditors, local/international vendors, consultants and IT professional organizations to facilitate quality and cost-effective service delivery.\n\n· Regular contacts with international IT service providers and telecommunication providers on matters related to IT services and strategic directions\n\nQUALIFICATIONS, EXPERIENCE, KNOWLEDGE & SKILLS:\n\nMinimum Qualification\n\n· Bachelor's degree in computer science, IT engineering or equivalent.\n\nMinimum Experience & Knowledge & Skills\n\n· 8 years relevant IT experience with emphasis on IT solutions, application development and project management. Experience as a managing consultant from a top tier IT Consultancy firm is also preferred\n\n· Knowledge and experience of IT Architecture tools and techniques.\n\n· Understanding of ERP system architecture, solution and technical architecture components.\n\n· IT consultancy and advisory experience.\n\n· Knowledge of IT governance and operations.\n\nProfessional Certifications\n\n· Professional certification in Business Solutions/Application Development from a globally recognized institution is preferred.\n\nTECHNICAL COMPETENCIES:\n\n· As per approved Competency Dictionary\n\nBEHAVIOURAL COMPETENCIES:\n\n· As per approved Competency Dictionary"
-  },
-  {
-   "id": "adnoc:33197",
-   "source": "adnoc",
-   "company": "ADNOC",
-   "via": "",
-   "title": "Senior Specialist, Digital Advanced Automations Solutions",
-   "field": "Other IT",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "External",
-   "category": "Other",
-   "posted_date": "2026-09-29",
-   "summary": "We are looking for a Senior Specialist, Digital Advanced Automations Solutions to drive impactful AI and analytics initiatives, developing and implementing advanced solutions to automate business processes. The role involves leading technical projects, collaborating with cross-functional teams, and requires significant experience in AI and machine learning within a technical and managerial capacity.",
-   "url": "https://jobs.adnoc.ae/us/en/job/33197",
-   "first_seen": "2026-10-14T07:00:01Z",
-   "description": "JOB PURPOSE:\n\nGenerate insights by leveraging the latest Artificial Intelligence (AI) and Analytics techniques to derive value at the overall organization level. Building world-class solutions, conquer business problems, address technical challenges using AI Platforms and technologies.\n\nUtilize the existing frameworks, standards, patterns to create architectural foundation and services necessary for AI applications that scale from multi-user to enterprise-class. Developing and implementing Advanced solutions to support the business stakeholders to have automated business processes and to take informed decisions\n\nIdentify and analyse trends and patterns in Artificial Intelligence tools to be used for diagnosis and prediction purpose. Research on existing AI solutions to fit into business requirements and contribute to formulating prototypes for innovative ideas, filing patents and research papers\n\nDevelop and manage Advanced Solutions, applications integrations, and machine learning to meet business requirements.\n\nProvides technical expertise and recommendations in assessing new Digital software projects and initiatives to support and enhance existing systems.\n\nKEY ACCOUNTABILITIES:\n\n· Work on functional design, process design (including scenario design, flow mapping), prototyping, testing, training, and defining support procedures, working with an advanced engineering team and executive leadership.\n\n· Manage solutions development and implementations going through the full Solutions Development Life Cycle phases.\n\n· Supervise necessary applications amendments and responsible for reviewing, analysing, and modifying systems including encoding, testing, debugging, and installing to support application systems.\n\n· Aid and advice to business users in the effective use of applications and information technology.\n\n· Identify opportunities that can improve efficiency of business processes.\n\n· Filter Data by reviewing reports and performance indicators to identify and correct code problems\n\n· Use statistical tools to identify, analyse, and interpret patterns and trends in complex data sets that could be helpful for the diagnosis and prediction\n\n· Collaborate with programmers, engineers, and management heads to identify process improvement opportunities, propose system modifications, and devise data governance strategies.\n\n· Supervise and support the team to ensure smooth operation of systems and handles/trouble shoots complicated problems raised by users upon escalation by the Digital Help Desk Team or other members of the Solutions team.\n\n· Collaborate with cross-functional teams to analyse the partner’s business and main areas where the application of AI can stimulate business growth.\n\n· Prepare final analysis reports for the stakeholders to understand the data-analysis steps, enabling them to take important decisions based on various facts and trends.\n\n· Document and articulate solution architecture and lessons learned for each exploration and accelerated incubation\n\n· Analyse local, national, and global trends and predictions that impact both the organization and the industry and report to management.\n\nIT Strategic & Tactical Planning\n\n· Coordinate and consult with the business and Digital management to ensure that the Group Digital Advanced Automations solutions strategy components are successfully translated into solutions and services.\n\n· Contribute to the regular review of the Group Digital Strategy at pre-defined intervals to ensure that it reflects the concerned Directorates business requirements and ensures its constant alignment with the Company's short, medium, and long-term business plans.\n\n· Whenever applicable, ensures that the Group Digital Unit strategic goals, strategies and roadmaps are translated into sectional tactical plans and actionable items, in full coordination with other Digital departments and sections.\n\nGroup Digital Advanced Automations Solutions Delivery\n\n· Conduct the analysis, scope development, technical evaluations, and prototyping, developing, implementing, and delivering Solutions Delivery Capture business requirements related to the domain.\n\n· Ensure the delivery of the vertical’s business requirements and services according to the Company standard and strategies.\n\n· Support the vertical’s business users and beyond in line with pre-set SLAs and delivery guidelines.\n\n· Lead the development, implementation, and support of high quality and cost-effective Solutions and services deemed critical to the business operations.\n\n· Ensure that the department meets the appropriate service level agreements established with internal and group users’ functions. Also, that the services delivered by the engaged external organizations are delivered within the agreed service levels.\n\n· Ensure that all deployed solutions have followed a comprehensive testing and quality assurance process, quality assurance reviews and have fulfilled the Group Digital Unit services release process requirements.\n\n· Ensure that the enterprise architecture principals, data management and information security standards are applied throughout the solution development and implementation lifecycles.\n\n· Report to the management on the progress of assigned programs and projects against plans, in terms of schedule, resources and cost.\n\n· Ensure that all programs and projects are managed in compliance with the Projects Management Methodology and related standards.\n\nConduct pre-deployment activities of Advanced Automations Solutions\n\n· Lead feasibility studies, assess business requirements, and assist in designing business processes for small to large systems and implementations. Submit findings and recommendations for review, evaluation, and approval by Digital and Business management. Participate in feasibility studies of Digital Programs undertaken within the unit wherever required.\n\n· Analyse functional requirements including input transactions, output reports, functional processes, etc. and recommends solutions and process improvements for user approval to establish functional specifications.\n\n· Perform impact analysis for new development to ensure synchronization and integration of cross functional business solutions and systems.\n\n· Lead the development of business cases and projects initiation documentations and artifacts.\n\nEvaluate new solutions and services\n\n· Evaluate off-the-shelf packages to ascertain the degree of fitness with existing business processes and recommends appropriate solutions to business requirements.\n\n· Wherever required, develop the required interfaces between various solutions while ensuring systems and data availability, integrity, and service continuity.\n\n· Develop fit-for-purpose and secure software programs. Test them to ensure their fulfilment of business requirements and their compliance with ADNOC Group Digital standards and policies.\n\n· Receive, assess, and prioritize change requests from the existing Digital services owners and users.\n\nDocument Group Digital Advanced Automations Solutions\n\n· In coordination with the enterprise and technology architects; prepare solutions design documents, data models, data flow diagrams and other system architecture artifacts.\n\n· Update the solutions documentation throughout the company systems development & support lifecycles in accordance with the Company standards on the subject.\n\n· Archive and keep available all as-build solutions documents and artifacts.\n\nAct as an SME for the future domain specific implementations\n\n· Implement the best practices for all Group Digital Advanced Automations solutions, and services implementations\n\n· Plan and undertake the deployment of the required new software releases.\n\n· Provide the required training and support to users during and after deployment.\n\nSupervision\n\n· Plan, supervise and coordinate all domain activities in the assigned area to meet functional objectives.\n\n· Train and develop the assigned staff on relevant skills to enable them to become proficient on the job and deliver the respective business objectives.\n\nBudgets\n\n· Provide input for preparation of the Function / Division / Department / Section budgets, assist in the implementation of the approved Budget, and work plans to deliver business objectives.\n\n· Investigate and highlight any significant variances to support effective performance and cost control.\n\nPolicies, Systems, Processes & Procedures\n\n· Implement approved Function/ Division/ Department/ Section policies, processes, systems, standards and procedures in order to support execution of the work programs in line with Company and International standards.\n\nPerformance Management\n\n· Contribute to the achievement of the approved Performance Objectives for the Function/ Division / Department/ Section in line with the Company Performance framework.\n\nInnovation and Continuous Improvement\n\n· Design and implement new tools and techniques to improve the quality and efficiency of operational processes.\n\n· Identify improvements in internal processes against best practices in pursuit of greater efficiency in line with best industry standards to define intelligent solutions for issues confronting the function.\n\nHealth, Safety, Environment (HSE) and Sustainability\n\n· Comply with relevant HSE policies, procedures, controls, applicable legislation, and sustainability guidelines in line with international standards, best practices and ADNOC Code of Practices.\n\nReports\n\n· Provide inputs to prepare MIS and progress reports for Company Management.\n\nCOMMUNICATIONS & WORKING RELATIONSHIPS:\n\nInternal\n\n· Regular contacts with Digital Management Team across ADNOC Group on services delivery, services operations, services governance, and other related matters.\n\n· Frequent contacts with Programs / Projects Managers and Architects on matters related to roadmaps developments and projects and programs delivery.\n\n· Regular contacts with the counterparts in ADNOC Group Companies on Digital Strategy, Planning and Quality Assurance matters.\n\nExternal\n\n· Frequent contacts with external auditors, local / international vendors, consultants, and Digital professional organizations to facilitate quality and cost-effective service delivery.\n\n· Occasional contacts with counterparts in regional and international oil companies for exchange of information / benchmarking / study visits and other programs.\n\n· Regular contacts with local and international Digital service providers on matters related to Digital services and strategic directions.\n\nQUALIFICATIONS, EXPERIENCE, KNOWLEDGE & SKILLS:\n\nMinimum Qualification\n\n· Bachelor's degree in information technology, Computer Science, or equivalent.\n\nMinimum Experience & Knowledge & Skills\n\n· 10 years of relevant IT experience including at least 6 years in positions of progressively increasing technical and managerial responsibilities in AI and Machine Learning Solutions\n\n· Deep Knowledge of Machine learning, deep learning, NLP, Python, NoSQL, RDBMS,\n\n· Experience in application development, preferably in an oil industry environment.\n\nProfessional Certifications\n\n· Certification in Machine Learning / Artificial Intelligence (Desired)\n\n· Certification in PMP (Desired)\n\nTECHNICAL COMPETENCIES:\n\n· As per the approved competency dictionary\n\nBEHAVIOURAL COMPETENCIES:\n\n· As per the approved competency dictionary"
   },
   {
    "id": "eand:11490",
@@ -1193,7 +1375,7 @@
    "source": "accenture",
    "company": "Accenture",
    "via": "",
-   "title": "IT, Finance & HR Intern (UAE Nationals Only)",
+   "title": "Early Careers Internship | HR, IT & Finance (UAE Nationals Only) | Dubai Office",
    "field": "Other IT",
    "country_code": "AE",
    "country": "United Arab Emirates",
@@ -1394,75 +1576,6 @@
    "url": "https://careers.astratech.ae/jobs/8497029-product-designer-cards-digital-wallets",
    "first_seen": "2026-10-11T18:34:47Z",
    "description": "Product Designer - botim\n\nLocation: Abu Dhabi\n\nRole Summary\n\nWe are looking for a Product Designer to shape the user experience of botim, an AI-native fintech platform serving millions of users across payments, financial services, communications, and platform capabilities.\n\nYou will design complex, high-impact fintech experiences where trust, speed, and scalability matter. Working with Product, Engineering, Data, Risk, and Growth, you will own the design of your product area end to end, and help define not just how our products look and feel, but what we build and why.\n\nResponsibilities\n\n• Own product work end to end, from problem framing and concepting through launch and iteration. Stay involved through launch, not just handoff.\n\n• Design user journeys for AI-driven fintech products including payments, wallets, onboarding, lending, and platform services.\n\n• Turn regulatory and system complexity into intuitive workflows. Translate product strategy, user needs, data, and compliance requirements into clear flows and high-quality UI.\n\n• Own the product copy for the flows you design. This includes the Arabic version, which you take through our content tooling and a native review step.\n\n• Use AI as a core part of your workflow. Prototype, explore, and iterate with AI-assisted tools, and bring the results into Figma for systems and polish.\n\n• Collaborate closely with engineers in agile teams, including rapid prototyping to validate ideas quickly.\n\n• Contribute to and evolve botim's design system, establishing patterns that scale across products.\n\n• Validate with research and experimentation. Use qualitative and quantitative signals to inform decisions and evaluate impact.\n\n• Share work regularly in design reviews and contribute to a strong culture of feedback and iteration.\n\n• Deliver production-ready work across mobile and web, with attention to states, edge cases, dark mode, localisation and RTL considered by default.\n\nArabic language skills are not required. Designers run the localisation process; they do not translate.\n\nRequirements\n\n• 3+ years of experience as a Product Designer working on digital consumer products.\n\n• A portfolio showing end-to-end ownership, problem-solving, and measurable product impact. This is a mandatory requirement.\n\n• Experience designing in regulated or highly complex environments, where compliance, risk, or legacy systems shape the product.\n\n• Strong craft across interaction design, visual design, and prototyping in Figma.\n\n• Working proficiency with AI design tools applied to real product work.\n\n• Proven ability to collaborate with Product Managers, Engineers, Data, and Risk teams.\n\n• Excellent written and verbal communication, able to articulate the reasoning behind design decisions.\n\n• Comfort working in fast-paced, ambiguous environments with evolving requirements.\n\nPreferred\n\n• Experience designing for a fintech product, such as payments, wallets, lending, or banking.\n\n• Experience with super-apps or platform products."
-  },
-  {
-   "id": "accenture:R00363411",
-   "source": "accenture",
-   "company": "Accenture",
-   "via": "",
-   "title": "OT Cybersecurity Associate Manager",
-   "field": "Cybersecurity",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai, One Za'abeel Tower"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-10-11",
-   "summary": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dubai-One-Zaabeel-Tower/OT-Cybersecurity-Associate-Manager_R00363411",
-   "first_seen": "2026-10-11T08:09:55Z",
-   "description": "Role Overview:\n\nAs an Associate Manager in our OT Cybersecurity team, you’ll lead and support the delivery of consulting engagements across the full lifecycle — from strategy and risk assessment through to architecture, solution design, and implementation. You’ll work directly with clients, vendor teams, and technical specialists, bringing structure to complex problems and turning security requirements into practical outcomes.\n\nThis isn’t a back-office role. You’ll be in client environments, running workshops, shaping solutions, and owning quality deliverables.\n\nWhat You’ll Do\n\n• Lead and support end-to-end OT cybersecurity engagements — covering maturity assessments, gap analysis, risk reviews, and control evaluations\n• Develop cybersecurity strategies, roadmaps, operating models, policies, and transformation plans\n• Design security architectures and produce technical artefacts including HLDs, LLDs, solution specifications, and implementation plans\n• Support configuration, integration, and deployment of cybersecurity technologies and solutions\n• Translate business and security requirements into practical, implementable technical solutions\n• Facilitate client workshops, technical discussions, and stakeholder presentations\n• Coordinate with vendors, system integrators, and client technical teams throughout design and implementation phases\n• Produce high-quality deliverables — assessment reports, architectures, roadmaps, and technical documentation\n• Support testing, integration, and operational handover activities\n• Contribute to proposals, RFP responses, and cybersecurity thought leadership\n• Stay current with emerging threats, technologies, standards, and industry practices\n\nExperience\n\n• 8–13years of cybersecurity experience, preferably within a consulting or professional services environment\n• Demonstrated experience supporting cybersecurity consulting, advisory, engineering, design, or implementation engagements\n• Practical experience designing or implementing cybersecurity solutions across client environments\n• Experience developing HLDs, LLDs, technical architectures, and implementation documentation\n\nKnowledge & Skills\n\n• Good understanding of cybersecurity strategy, risk, governance, architecture, and technology\n• Strong analytical and problem-solving skills — able to break down complex requirements and communicate solutions clearly\n• Confident presenter and communicator, comfortable in client-facing and stakeholder settings\n• Ability to work effectively within multidisciplinary consulting teams\n\nCertifications (Desirable)\n\n• CISSP, CISM, CRISC, Security+, or equivalent\n\nAdditional Domains (Advantageous)\n\n• Exposure across cloud security, network security, IAM, SOC, application security, data security, or GRC\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
-  },
-  {
-   "id": "adnoc:17941",
-   "source": "adnoc",
-   "company": "ADNOC",
-   "via": "",
-   "title": "Graduate Trainee - Technology (UAE Nationals)",
-   "field": "Other IT",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "External",
-   "category": "Graduate Trainee Program",
-   "posted_date": "2023-09-06",
-   "summary": "We are recruiting a Graduate Trainee - Technology to support the ADNOC Group’s technology initiatives. This role offers hands-on experience and training for UAE Nationals, focusing on developing technical skills and gaining exposure to the organisation’s culture. Ideal for recent graduates in technology-related fields seeking to build a career within the UAE energy sector.",
-   "url": "https://jobs.adnoc.ae/us/en/job/17941",
-   "first_seen": "2026-10-10T18:10:49Z",
-   "description": "Technology Graduates\n\nThe ADNOC Group recognizes the importance of having a skilled and engaged workforce in order to maintain and improve the levels of service that ADNOC Group provides globally. In order to achieve its progressive agenda, ADNOC Group provides rigorous training and development at all levels within the organisation especially for UAE National Fresh Graduates.\n\nThe ADNOC Fresh Graduate Program is a key initiative focused on developing the knowledge of its Trainees who may then become a permanent part of the ADNOC Group at the end of the program.\n\nObjectives\n\n• To Provide Fresh Graduates with the opportunity to develop their skills and expertise while working for the ADNOC Group as Trainees;\n• To select top-tier candidates for the ADNOC Group future talent pool through competency assessments and performance reviews during the Trainee’s program;\n• To facilitate the transition from Trainee to Employee and to expose Trainees to the culture of the ADNOC Group before potentially being offered permanent employment as a direct hire employee;\n• To provide valuable real-life work experience and on-the-job training within the ADNOC Group even for those that are not able to join permanently.\n\nMajors Include:\n\n• Computer, Software or Network Engineering\n• Computer Science\n• Database Management\n• Information Technology\n• Cyber Security\n• Automation in Data Science\n• Machine Learning\n• Management Information Systems\n• Web Development\n• and other technology related disciplines\n\nEligibility Criteria\n\nTo be eligible for consideration for the ADNOC Group Fresh Graduates Program, candidates are required to meet all of the following criteria in addition to any job specific criteria deemed necessary by ADNOC:\n\n• This program is reserved for UAE Nationals;\n• Medical fitness in accordance with the work environment of the role;\n• Government clearances including certificate of good conduct from Ministry of Interior;\n• Completion of all entry Assessments and interviews, including but not limited to, personality and ability assessments; and\n• Successful completion of National Service, unless exempted by UAE law.\n\nPlease note that Trainees who successfully complete the program are not necessarily guaranteed a permanent contract with ADNOC Group.\n\nIf you meet the eligibility criteria and would like to register in the program, Click Apply.\n\nWhat is next:\n\nRecruitment Team will review all the applications against the job requirements & will update the applicants.\n\nFor more information about AGFGP, click here."
-  },
-  {
-   "id": "adnoc:17941",
-   "source": "adnoc",
-   "company": "ADNOC",
-   "via": "",
-   "title": "Graduate Trainee - Technology (UAE Nationals)",
-   "field": "Other IT",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "External",
-   "category": "Graduate Trainee Program",
-   "posted_date": "2023-09-06",
-   "summary": "We are recruiting a Graduate Trainee - Technology to support the ADNOC Group’s technology initiatives. This role offers hands-on experience and training for UAE Nationals, focusing on developing technical skills and gaining exposure to the organisation’s culture. Ideal for recent graduates in technology-related fields seeking to build a career within the UAE energy sector.",
-   "url": "https://jobs.adnoc.ae/us/en/job/17941",
-   "first_seen": "2026-10-10T18:10:49Z",
-   "description": "Technology Graduates\n\nThe ADNOC Group recognizes the importance of having a skilled and engaged workforce in order to maintain and improve the levels of service that ADNOC Group provides globally. In order to achieve its progressive agenda, ADNOC Group provides rigorous training and development at all levels within the organisation especially for UAE National Fresh Graduates.\n\nThe ADNOC Fresh Graduate Program is a key initiative focused on developing the knowledge of its Trainees who may then become a permanent part of the ADNOC Group at the end of the program.\n\nObjectives\n\n• To Provide Fresh Graduates with the opportunity to develop their skills and expertise while working for the ADNOC Group as Trainees;\n• To select top-tier candidates for the ADNOC Group future talent pool through competency assessments and performance reviews during the Trainee’s program;\n• To facilitate the transition from Trainee to Employee and to expose Trainees to the culture of the ADNOC Group before potentially being offered permanent employment as a direct hire employee;\n• To provide valuable real-life work experience and on-the-job training within the ADNOC Group even for those that are not able to join permanently.\n\nMajors Include:\n\n• Computer, Software or Network Engineering\n• Computer Science\n• Database Management\n• Information Technology\n• Cyber Security\n• Automation in Data Science\n• Machine Learning\n• Management Information Systems\n• Web Development\n• and other technology related disciplines\n\nEligibility Criteria\n\nTo be eligible for consideration for the ADNOC Group Fresh Graduates Program, candidates are required to meet all of the following criteria in addition to any job specific criteria deemed necessary by ADNOC:\n\n• This program is reserved for UAE Nationals;\n• Medical fitness in accordance with the work environment of the role;\n• Government clearances including certificate of good conduct from Ministry of Interior;\n• Completion of all entry Assessments and interviews, including but not limited to, personality and ability assessments; and\n• Successful completion of National Service, unless exempted by UAE law.\n\nPlease note that Trainees who successfully complete the program are not necessarily guaranteed a permanent contract with ADNOC Group.\n\nIf you meet the eligibility criteria and would like to register in the program, Click Apply.\n\nWhat is next:\n\nRecruitment Team will review all the applications against the job requirements & will update the applicants.\n\nFor more information about AGFGP, click here."
   },
   {
    "id": "amazon:10574531",
@@ -2889,29 +3002,6 @@
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nThe Senior MBE Engineer for Halcon will support the development and implementation of Model-Based Engineering and Model-Based Systems Engineering, creating and maintaining system models, requirements traceability, Digital Thread integration, verification, and engineering automation.\n\nRESPONSIBILITIES\n\r\n\n• Develop and maintain SysML system/subsystem models, interfaces, parameters, baselines, and model-based engineering deliverables.\n\n• Manage requirements, model, and verification traceability, including change impact analysis across requirements, models, and test cases.\n\n• Support the Digital Thread across requirements management, ALM, PLM, and configuration management tools, including automation using Python or MATLAB.\n\n• Lead small technical activities, conduct model reviews, and mentor junior engineers on MBE processes, standards, and modeling tools.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor’s degree in Systems, Electrical, Mechanical, Computer, Software Engineering, or a relevant engineering discipline.\n\n• Minimum 5 years of experience in systems or product development, with exposure to model-based system or subsystem engineering.\n\n• Practical knowledge of SysML/SysML v2, systems engineering processes, requirements management, verification, and traceability.\n\n• Experience using requirements management and SysML/modeling tools, with scripting knowledge in Python and/or MATLAB for automation and reporting\n\nPREFERRED QUALIFICATIONS\n\r\n\n• 2+ years of hands-on Model-Based Engineering/MBSE experience, with demonstrated contribution to subsystem or domain-level models and knowledge of the Digital Thread.\n\n• INCOSE ASEP or equivalent certification, with exposure to defence/aerospace standards such as ARP4754A, ARP4761, DO-178C, and DO-254.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
   },
   {
-   "id": "edge:733533022",
-   "source": "edge",
-   "company": "EDGE · ADASI",
-   "via": "",
-   "title": "Principal Software Test Engineer",
-   "field": "QA & Testing",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "ADASI",
-   "posted_date": "2026-10-08",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Principal-Software-Test-Engineer-Abu/733533022/",
-   "first_seen": "2026-10-09T07:32:04Z",
-   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nWe are seeking a highly experienced Principal Software Tester with a strong background in embedded systems and aviation-related software testing. The ideal candidate will have extensive experience in managing software testing teams, writing and executing test cases, and be familiar with industry standards such as RTCA DO-178C. Experience in UAV systems and the QT framework is preferred. This role involves leading a team of software testers, ensuring adherence to software engineering processes, and delivering high-quality testing solutions.\n\nRESPONSIBILITIES\n\r\n\n• Lead and manage the software testing team to ensure timely and accurate delivery of test cases and execution.\n\n• Design, write, and maintain comprehensive test cases based on software requirements and design documents.\n\n• Execute test cases manually and through automation, ensuring that the software meets the functional, performance, and safety requirements.\n\n• Collaborate closely with software development and product teams to understand and evaluate software systems.\n\n• Ensure compliance with industry standards such as RTCA DO-178C, especially in safety-critical software environments.\n\n• Manage the testing lifecycle from test planning, test execution, defect reporting, and test completion.\n\n• Oversee testing processes in embedded systems and ensure compatibility with avionics or aviation-related systems.\n\n• Provide leadership and mentorship to the testing team, encouraging best practices in test automation and continuous integration.\n\n• Implement quality assurance strategies and continuously improve testing methodologies.\n\n• Coordinate with cross-functional teams to support system integration and validation efforts.\n\n• Foster a collaborative, transparent, and goal-oriented work environment.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's degree in Engineering (Computer Science, Electronics, or related field).\n\n• Minimum 10 years of experience in software testing, with a focus on embedded systems.\n\n• Proficiency in writing and executing test cases for both manual and automated testing.\n\n• Experience working in embedded systems and familiarity with the QT framework.\n\n• Strong understanding of software engineering processes (requirements, design, development, verification).\n\n• In-depth knowledge of RTCA DO-178C and its application in safety-critical software testing.\n\n• Experience with UAV systems (Unmanned Aerial Vehicles) is preferred.\n\n• Proven experience in aviation software testing or embedded systems in aerospace applications.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Technical and line management experience\n\n• Knowledge of automated testing frameworks and tools.\n\n• Familiarity with Agile methodologies and test-driven development.\n\n• Strong analytical and problem-solving skills.\n\n• Excellent communication and organizational skills.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
-  },
-  {
    "id": "edge:733532822",
    "source": "edge",
    "company": "EDGE · ADASI",
@@ -3002,6 +3092,29 @@
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Embedded-Software-Engineer-Abu/733531522/",
    "first_seen": "2026-10-09T07:32:04Z",
    "description": "External Job Description\n\r\n\nEmbedded Software Engineer\n\nLocation: Abu Dhabi\n\nAbout ADASI: ADASI is a leading aerospace company dedicated to advancing the aerospace industry through innovative technology solutions. Our mission is to enhance the safety, efficiency, and sustainability of airspace management. We are seeking a talented Embedded Software Developer to join our team and contribute to our mission.\n\nRole Overview:\nDevelop and maintain embedded software for aerospace and UAV systems, ensuring high performance, reliability, and compliance with safety standards.\n\nKey Responsibilities:\n\n• Design, develop, and test embedded software in C/C++.\n\n• Develop software for real-time and safety-critical systems.\n\n• Integrate software with hardware components, sensors, and actuators.\n\n• Implement control algorithms and optimize code performance.\n\n• Perform debugging, troubleshooting, and system testing.\n\n• Maintain technical documentation and support certification activities.\n\n• Collaborate with hardware, systems, and QA teams.\n\nRequirements:\n\n• Bachelor's degree in Computer Science, Electrical Engineering, or related field.\n\n• 5–7+ years of embedded software development experience.\n\n• Strong proficiency in C/C++ and embedded systems.\n\n• Experience with RTOS (e.g., FreeRTOS, VxWorks, QNX).\n\n• Knowledge of hardware-software integration and communication protocols (SPI, I2C, UART, CAN).\n\n• Familiarity with aerospace/safety standards such as DO-178C and DO-254.\n\n• Experience with Git and software debugging tools.\n\n• Strong problem-solving and teamwork skills.\n\nPreferred:\n\n• Aerospace, defense, automotive, or other safety-critical industry experience.\n\n• Relevant embedded systems or aerospace certifications."
+  },
+  {
+   "id": "edge:733533022",
+   "source": "edge",
+   "company": "EDGE · ADASI",
+   "via": "",
+   "title": "Principal Software Test Engineer",
+   "field": "QA & Testing",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "ADASI",
+   "posted_date": "2026-10-08",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Principal-Software-Test-Engineer-Abu/733533022/",
+   "first_seen": "2026-10-09T07:32:04Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nWe are seeking a highly experienced Principal Software Tester with a strong background in embedded systems and aviation-related software testing. The ideal candidate will have extensive experience in managing software testing teams, writing and executing test cases, and be familiar with industry standards such as RTCA DO-178C. Experience in UAV systems and the QT framework is preferred. This role involves leading a team of software testers, ensuring adherence to software engineering processes, and delivering high-quality testing solutions.\n\nRESPONSIBILITIES\n\r\n\n• Lead and manage the software testing team to ensure timely and accurate delivery of test cases and execution.\n\n• Design, write, and maintain comprehensive test cases based on software requirements and design documents.\n\n• Execute test cases manually and through automation, ensuring that the software meets the functional, performance, and safety requirements.\n\n• Collaborate closely with software development and product teams to understand and evaluate software systems.\n\n• Ensure compliance with industry standards such as RTCA DO-178C, especially in safety-critical software environments.\n\n• Manage the testing lifecycle from test planning, test execution, defect reporting, and test completion.\n\n• Oversee testing processes in embedded systems and ensure compatibility with avionics or aviation-related systems.\n\n• Provide leadership and mentorship to the testing team, encouraging best practices in test automation and continuous integration.\n\n• Implement quality assurance strategies and continuously improve testing methodologies.\n\n• Coordinate with cross-functional teams to support system integration and validation efforts.\n\n• Foster a collaborative, transparent, and goal-oriented work environment.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's degree in Engineering (Computer Science, Electronics, or related field).\n\n• Minimum 10 years of experience in software testing, with a focus on embedded systems.\n\n• Proficiency in writing and executing test cases for both manual and automated testing.\n\n• Experience working in embedded systems and familiarity with the QT framework.\n\n• Strong understanding of software engineering processes (requirements, design, development, verification).\n\n• In-depth knowledge of RTCA DO-178C and its application in safety-critical software testing.\n\n• Experience with UAV systems (Unmanned Aerial Vehicles) is preferred.\n\n• Proven experience in aviation software testing or embedded systems in aerospace applications.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Technical and line management experience\n\n• Knowledge of automated testing frameworks and tools.\n\n• Familiarity with Agile methodologies and test-driven development.\n\n• Strong analytical and problem-solving skills.\n\n• Excellent communication and organizational skills.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
   },
   {
    "id": "edge:733531822",
@@ -6291,29 +6404,6 @@
    "url": "https://jobs.smartrecruiters.com/ifs1/744000148919429",
    "first_seen": "2026-10-04T17:59:24Z",
    "description": "Job Description\nThe role of IFS Lead Cloud Performance Engineer exists within the Unified Support organization/division. As part of a shift operation, they will contribute towards providing 24x7x365 support to IFS customers across the globe within the Aerospace & Defense (A&D) industry vertical.\n\nThis position sits within the Unified Support Performance Team dedicated to our Ultra High Availability (Ultra HA) on Oracle Exadata customers. The team owns proactive performance monitoring, deep-dive diagnostics, tuning and capacity management across the full stack Oracle Database on Exadata, the IFS application tiers, and the supporting cloud and network infrastructure to keep these mission-critical environments fast, stable and continuously available. \n\nAs Lead Cloud Performance Engineer, you will be responsible for handling performance-related technical issues reported by customers, service requests, and problem and change management. You will lead performance investigations end to end from detection in the monitoring and observability platforms, through root cause analysis on the Oracle Database and application tiers, to the permanent fix or tuning recommendation. This role involves collaborating with various internal and external stakeholders to ensure problem-solution fits, which ultimately leads toward customer success. You will also play a crucial role in development and maintenance of IFS's products and internal systems.\n\n• Work with other Service Center functions and appropriate stakeholders to resolve long running, complex or major incidents.\n• Create and update relevant SOPs, FAQs and other documentation to address known issues, workarounds, and service requests.\n• Manage an incoming queue of cases, incidents, and service requests within SLA, OLA and KPI targets.\n• Support the event management team and their work to enhance the related event processes and tools.\n• Proactively monitor the performance and availability of Ultra HA on Exadata environments, and detect, triage and resolve degradation before it impacts the customer's Moment of Service.\n• Perform deep-dive Oracle Database performance troubleshooting wait event and AWR/ASH analysis, SQL and execution plan tuning, RAC and Data Guard behavior, storage and I/O bottlenecks on Exadata.\n• Analyze end-to-end application performance across the IFS application tiers using APM and observability tooling, correlating application traces with database and infrastructure telemetry.\n• Build and maintain dashboards, alerts and SLO/SLI reporting in Elasticsearch, Grafana and Open Telemetry-based tooling, and continuously reduce alert noise and false positives.\n• Lead performance root cause analysis for major incidents and produce tuning, configuration and capacity recommendations for customers and internal stakeholders.\n• Contribute to capacity planning, load and stress testing, and pre-upgrade or pre-release performance validation for Ultra HA customers.\n• Boost productivity significantly with AI by reducing redundant, admin‑heavy tasks and enabling teams to focus on higher‑value work.\n• Liaise with IFS R&D and Unified Support Engineering organizations for automation requirements to support cloud-based applications.\n• Liaise with IFS R&D and Unified Support Engineering organizations for knowledge sharing with Unified Support Service Operations groups in relation to cloud-based applications.\n• Identifying knowledge gaps and compile/ update internal Knowledge Based Articles (KBA) to guide Unified Support Service Operations groups in relation to supporting cloud-based applications.\n• Identify and communicate improvement points related to Standard Operating Procedures (SOP) and Processes to the relevant process owners.\n\nQualifications\n• A university degree or an equivalent professional qualification in Software Engineering, Computer Science, Information Technology or similar.\n• Experience in a modern ticket/service desk tooling such as ServiceNow, Jira Service Desk, or a similar tool.\n• Experience in ITIL, ISO 20000, or a similar IT service delivery framework.\n\nMandatory Skills\n\n• At least 7+ years’ experience in cloud computing services, enterprise IT delivery services or similar, including demonstrable experience troubleshooting performance in production Oracle Database and enterprise application environments.\n• Understanding the low-level concepts in Cloud computing.\n\nOracle Database performance monitoring and troubleshooting, together with application performance monitoring, are essential for this role. The successful candidate will additionally have at least half of the remaining skills below, or a suitable professional grade qualification.\n\n• Cloud service administration and operations (Azure, AWS & GCP).\n• Demonstrate proficiency in debugging complex applications.\n• Linux Server administration.\n• Network administration.\n• Oracle Database administration, with strong monitoring, performance diagnostics and troubleshooting skills (AWR/ASH/Statspack, SQL and execution plan tuning, wait event analysis, Oracle Enterprise Manager).\n• Working knowledge of Oracle Exadata and high-availability architectures (RAC, Data Guard, ASM), including their performance characteristics.\n• Application performance monitoring and observability instrumenting, analyzing and tuning application-tier performance.\n• Hands-on experience with Elasticsearch, Grafana, Open Telemetry or comparable APM/observability tooling (for example Dynatrace, AppDynamics, New Relic, Prometheus).\n• Web Server administration (Wildfly, WebLogic & Nginx).\n• Kubernetes/Docker operations and administration.\n• BASH/PowerShell/Terraform/Ansible scripting usage.\n\nSoft Skills\n\n• Ability to work to deadlines and targets.\n• Ability to manage own time efficiently and effectively.\n• Ability to work in international, multi-disciplined, cross-functional teams.\n• Flexibility to work to deadlines and needs of the role.\n• Ability to read and understand technical documentation written in English.\n• Ability to mentor and provide a good role model for junior team members.\n• Problem-solving skills and the ability to change approach based on information gathered during the process.\n• Good communication and interpersonal skills.\n• Strong organizational skills and ability to multi-task.\n• A positive team player with a can-do attitude.\n• Excellent verbal and written communication skills in English.\n• Ability to self-learn and quickly understand new and changing technologies in a fast-moving service driven technology landscape.\n• Proactivity and ownership of work items in all aspects of the technical and team role.\n\nAdditional Information\nWe embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships."
-  },
-  {
-   "id": "accenture:R00329168",
-   "source": "accenture",
-   "company": "Accenture",
-   "via": "",
-   "title": "Technology Strategy Consultant - Emiratization & UAE Talent Development | Strategy & Consulting",
-   "field": "IT Consulting",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, Sowwah Square - Al Sila Tower"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-09-10",
-   "summary": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/Technology-Strategy-Consultant---Emiratization---UAE-Talent-Development---Strategy---Consulting_R00329168",
-   "first_seen": "2026-10-04T17:59:24Z",
-   "description": "About Accenture\n\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovative-led company with approximately 784,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at www.accenture.com.\n\nKey Responsibilities\n\n•\nDrive rigorous and structured approach to identifying and solving complex technology business problems that leads to strategic insights\n\n•\nIdentify/prioritize value creation opportunities at the intersection of business and technology based on assessment activities and an understanding of high-level visions, performance gaps, and needs\n\n•\nLead independently small engagements or stream of work end-to-end across all delivery components: client satisfaction, value delivered, teams management, financials, etc.\n\n•\nIdentify and nurture pull-through business opportunities, support business development effort with client and Accenture teams until successful sale closure\n\n•\nCollaborate with clients and within Accenture to align their business and technology priorities\n\n•\nDevelop content knowledge and share through pro-active involvement in technology strategy operations and community of practices\n\n•\nLead the creation of well-articulated thought leadership assets that present innovative insights, knowledge, guidance and recommendations on a specific market-relevant technology strategy domain\n\n•\nInteraction with senior management at a client and/or Accenture to steer recommendations and obtain buy-in on matters that may require alternate approach\n\n•\nProven experience in IT/Digital technology strategy\n\n•\nProven and relevant past consulting experience; alternatively strong in-house IT & Digital strategy / enterprise architecture division / advanced startup / pre-sales roles (and demonstration of intrinsic consulting skills)\n\n•\nArabic speaking must and fluent English.\n\n•\nStrong data-driven consulting with focus on business and technology value architecting and realization\n\n•\nAbility to act independently to determine methods and procedures on assignments\n\n•\nManagement of team efforts at a client or within Accenture\n\n•\nAbility to pull-through business opportunities\n\n•\nExperience and understanding of core technology strategy offerings – IT & Digital technology strategy, enterprise architecture, operating model, data & analytics, cloud\n\n•\nExperience in technology advisory and/or implementation\n\n•\nAbility to operate cross industry, with preferred experience in Banking, Telcos, Oil&Gas, and/or Government\n\n•\nPro-actively acquired business knowledge beyond technical role or via business school i.e. MBA\n\nWhy join us?\n\n•\nWe offer a transparent, fast paced career progression, with a focus on your strengths and continuous coaching from senior colleagues\n\n•\nYou will benefit from working alongside Accenture experts who are solving some of the biggest industry challenges with innovative thinking and pioneering tools\n\n•\nFlexible work arrangements and a range of benefits including competitive rewards\n\n•\nYou will have access to state-of-the-art technology that will give you the opportunity to deepen your existing skills even as you help create the latest business trends\n\n•\nYou will also have opportunities to make a difference to the communities in which we work and live\n\n•\nTo learn more about life @AccentureMiddleEast, follow us on social media and keep up with our latest news.\n\nAccenture Middle East: LinkedIn, Instagram, Facebook, Twitter, YouTube\n\nNext Steps\n\nIf this sounds like the ideal role, career and company for you, click below to apply.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
   },
   {
    "id": "accenture:14158269",
