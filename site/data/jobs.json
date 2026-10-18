@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T06:53:01Z",
+ "updated_at": "2026-10-18T17:02:29Z",
  "fields": [
   "Cybersecurity",
   "Data & AI",
@@ -21,9 +21,9 @@
    "id": "eand",
    "company": "e& (Etisalat)",
    "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 2,
    "listed": 7,
    "in_location": 7,
@@ -34,9 +34,9 @@
    "id": "fortinet",
    "company": "Fortinet",
    "careers_page": "https://www.fortinet.com/corporate/careers",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 16,
    "listed": 1025,
    "in_location": 25,
@@ -47,9 +47,9 @@
    "id": "g42",
    "company": "G42",
    "careers_page": "https://careers.g42.ai/global/en/home",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 39,
    "listed": 49,
    "in_location": 41,
@@ -60,9 +60,9 @@
    "id": "ifs",
    "company": "IFS",
    "careers_page": "https://www.ifs.com/en/about/careers",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 27,
    "listed": 249,
    "in_location": 44,
@@ -73,35 +73,35 @@
    "id": "accenture",
    "company": "Accenture",
    "careers_page": "https://www.accenture.com/ae-en/careers",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
-   "it_jobs": 31,
+   "last_ok_at": "2026-10-18T17:02:29Z",
+   "it_jobs": 32,
    "listed": 35,
    "in_location": 35,
-   "it": 31,
+   "it": 32,
    "new": 1
   },
   {
    "id": "syscolabs",
    "company": "Sysco LABS",
    "careers_page": "https://syscolabs.lk/careers",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
-   "it_jobs": 33,
-   "listed": 41,
-   "in_location": 41,
-   "it": 33,
+   "last_ok_at": "2026-10-18T17:02:29Z",
+   "it_jobs": 30,
+   "listed": 38,
+   "in_location": 38,
+   "it": 30,
    "new": 0
   },
   {
    "id": "presight",
    "company": "Presight",
    "careers_page": "https://careers.presight.ai/",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 1,
    "listed": 1,
    "in_location": 1,
@@ -112,9 +112,9 @@
    "id": "khazna",
    "company": "Khazna Data Centers",
    "careers_page": "https://khaznadatacenters.com/careers/",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 0,
    "listed": 7,
    "in_location": 7,
@@ -125,9 +125,9 @@
    "id": "m42",
    "company": "M42",
    "careers_page": "https://careers.m42.ae/jobs",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 2,
    "listed": 86,
    "in_location": 80,
@@ -138,22 +138,22 @@
    "id": "astratech",
    "company": "Astra Tech",
    "careers_page": "https://careers.astratech.ae/jobs",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
-   "it_jobs": 4,
-   "listed": 20,
-   "in_location": 15,
-   "it": 4,
-   "new": 0
+   "last_ok_at": "2026-10-18T17:02:29Z",
+   "it_jobs": 5,
+   "listed": 21,
+   "in_location": 16,
+   "it": 5,
+   "new": 1
   },
   {
    "id": "amazon",
    "company": "Amazon",
    "careers_page": "https://www.amazon.jobs/content/en/locations/united-arab-emirates",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 31,
    "listed": 135,
    "in_location": 135,
@@ -164,11 +164,11 @@
    "id": "apple",
    "company": "Apple",
    "careers_page": "https://jobs.apple.com/en-ae/search?location=united-arab-emirates-ARE",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 0,
-   "listed": 51,
+   "listed": 54,
    "in_location": 27,
    "it": 0,
    "new": 0
@@ -177,9 +177,9 @@
    "id": "edge",
    "company": "EDGE",
    "careers_page": "https://careers.edgegroup.ae/go/View-All-Jobs/4166222/",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 57,
    "listed": 213,
    "in_location": 213,
@@ -190,12 +190,12 @@
    "id": "adnoc",
    "company": "ADNOC",
    "careers_page": "https://jobs.adnoc.ae/us/en/search-results",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 6,
-   "listed": 91,
-   "in_location": 91,
+   "listed": 92,
+   "in_location": 92,
    "it": 6,
    "new": 0
   },
@@ -203,9 +203,9 @@
    "id": "michaelpage",
    "company": "Michael Page (recruiter)",
    "careers_page": "https://www.michaelpage.ae/jobs/technology/united-arab-emirates",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 15,
    "listed": 22,
    "in_location": 22,
@@ -216,9 +216,9 @@
    "id": "fab",
    "company": "First Abu Dhabi Bank (FAB)",
    "careers_page": "https://www.bankfab.com/en-ae/about-fab/careers",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 13,
    "listed": 114,
    "in_location": 111,
@@ -229,9 +229,9 @@
    "id": "altayer",
    "company": "Al Tayer Group",
    "careers_page": "https://www.altayer.com/careers",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 1,
    "listed": 61,
    "in_location": 61,
@@ -242,22 +242,22 @@
    "id": "maf",
    "company": "Majid Al Futtaim",
    "careers_page": "https://careers.majidalfuttaim.com/global/en/home",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
-   "it_jobs": 21,
-   "listed": 237,
-   "in_location": 158,
-   "it": 21,
-   "new": 0
+   "last_ok_at": "2026-10-18T17:02:29Z",
+   "it_jobs": 18,
+   "listed": 245,
+   "in_location": 154,
+   "it": 18,
+   "new": 2
   },
   {
    "id": "nyuad",
    "company": "NYU Abu Dhabi",
    "careers_page": "https://nyuad.nyu.edu/en/about/careers.html",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 0,
    "listed": 26,
    "in_location": 26,
@@ -268,9 +268,9 @@
    "id": "salt",
    "company": "SALT (recruiter)",
    "careers_page": "https://welovesalt.com/job-category/united-arab-emirates",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 18,
    "listed": 19,
    "in_location": 19,
@@ -281,9 +281,9 @@
    "id": "charterhouse",
    "company": "Charterhouse (recruiter)",
    "careers_page": "https://www.charterhouseme.ae/jobs/information-technology",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 1,
    "listed": 1,
    "in_location": 1,
@@ -294,9 +294,9 @@
    "id": "nvidia",
    "company": "NVIDIA",
    "careers_page": "https://jobs.nvidia.com/careers",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 2,
    "listed": 2,
    "in_location": 2,
@@ -307,9 +307,9 @@
    "id": "enec",
    "company": "ENEC",
    "careers_page": "https://careers.enec.ae/search/",
-   "checked_at": "2026-10-18T06:53:01Z",
+   "checked_at": "2026-10-18T17:02:29Z",
    "ok": true,
-   "last_ok_at": "2026-10-18T06:53:01Z",
+   "last_ok_at": "2026-10-18T17:02:29Z",
    "it_jobs": 7,
    "listed": 55,
    "in_location": 55,
@@ -318,6 +318,98 @@
   }
  ],
  "jobs": [
+  {
+   "id": "accenture:14832936",
+   "source": "accenture",
+   "company": "Accenture",
+   "via": "",
+   "title": "Cybersecurity DFIR",
+   "field": "Cybersecurity",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-10-18",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Cybersecurity-DFIR_14832936",
+   "first_seen": "2026-10-18T17:02:29Z",
+   "description": "Experience in incident response plan, and knowledge in SOC policy, process and procedure, Create and develop Cyber security center processes and procedures.\n\nExperience in Security Information and Event Management (SIEM). Work with SIEM engineer and other security teams developing and refining correlation rules.\n\nExperience in IR tools & solutions related to detection, investigation and response, analyze security event and provide guidance to team members.\n\nExcellent verbal and written communication skills including the ability to clearly articulate technical and strategic level cyber matters to a variety of audiences.\n\nProduces cyber intelligence reports communicating technical issues to a broad audience including information security staff, non-technical business representatives, and senior management.\n\nStrong analytical and organizational skills, leadership skills, the ability to lead cyber team and provide on call support after business hours.\n\nAdministration of EDR (Endpoint Detection and Response) Technology.\n\nDeploy, upgrade, and maintain EDR agents across Windows, macOS, and Linux.\n\nMonitor agent health and troubleshoot where agents are not reporting.\n\nDevelop and manage EDR policies.\n\nIntegration of EDR with SIEM and other Security tools.\n\nAdministration of NDR (Endpoint Detection and Response) Technology\n\nDevelop and manage NDR policies.\n\nIntegration of NDR with SIEM and other Security tools.\n\nCreate and add custom correlation rules for EDR/NDR.\n\nPeriodically review existing EDR/NDR Configurations and propose any new enhancements as applicable.\n\nManage support tickets with EDR/NDR support, as necessary.\n\nPreferred candidates with certifications like GIAC GCIH, GMON, GCFA, or similar certificate.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
+  {
+   "id": "maf:22924",
+   "source": "maf",
+   "company": "Majid Al Futtaim",
+   "via": "",
+   "title": "Manager - Data Analytics | Emirati Talent",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai"
+   ],
+   "workplace_type": "Regular",
+   "category": "Other",
+   "posted_date": "2026-10-07",
+   "summary": "Join us as Manager - Data Analytics to lead the analytics agenda for a business domain, partnering with stakeholders to deliver actionable insights and drive measurable business impact. Oversee analytics quality and adoption, and mentor a high-performing analytics team. Ideal for experienced analytics professionals with strong leadership and stakeholder management skills.",
+   "url": "https://careers.majidalfuttaim.com/global/en/job/22924",
+   "first_seen": "2026-10-18T17:02:29Z",
+   "description": "ROLE SUMMARY\nThe Manager - Data Analytics leads the end-to-end analytics agenda for a business domain, partnering with stakeholders to prioritize needs, deliver actionable insights, and drive measurable business impact. The role is accountable for analytics quality, adoption, and value realization while contributing to Majid Al Futtaim's Data & AI growth and innovation agenda.\n\nROLE PROFILE\n\n• Own the end-to-end analytics agenda for a business domain, partnering with senior stakeholders to align analytics initiatives with business strategy and priorities.\n• Translate business challenges into a prioritized portfolio of analytics use cases with clear objectives, success measures, and value targets.\n• Lead analytics projects from scoping to implementation, ensuring timely delivery of high-quality insights and recommendations.\n• Drive adoption and business impact by embedding analytics solutions into decision-making processes and tracking realized outcomes.\n• Develop actionable insights through advanced analysis, data storytelling, and performance reporting for operational and executive stakeholders.\n• Establish and uphold analytics standards, governance, data quality controls, and compliance with data privacy and responsible AI requirements.\n• Build scalable analytics capabilities through reusable assets, innovation, emerging technologies, and continuous process improvement.\n• Lead, mentor, and develop the analytics team, fostering a high-performance culture while supporting talent growth and organizational objectives.\n\nREQUIREMENTS\n\n• Bachelor’s degree in a quantitative field (Master’s preferred), 6-9 years of analytics experience, 2+ years of team leadership, strong stakeholder management skills, and exposure to retail, FMCG, e-commerce, customer analytics, pricing, inventory etc..\n• Lead the analytics strategy and roadmap for a business domain, aligning high-value analytics initiatives with business objectives, stakeholder priorities, and measurable outcomes.\n• Build strong senior stakeholder partnerships, influencing decision-making through data-driven insights, executive-level communication, and impactful storytelling.\n• Drive end-to-end analytics delivery, translating complex business problems into actionable solutions while ensuring adoption, governance, and realized business impact.\n• Provide technical and analytical leadership, leveraging expertise in SQL, Python/R, BI platforms, cloud data technologies, statistical modeling, experimentation, and AI-enabled analytics.\n• Champion data quality, governance, privacy, and responsible AI, ensuring analytical rigor, compliance, reproducibility, and continuous improvement across the analytics lifecycle.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
+  },
+  {
+   "id": "maf:22924",
+   "source": "maf",
+   "company": "Majid Al Futtaim",
+   "via": "",
+   "title": "Manager - Data Analytics | Emirati Talent",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai"
+   ],
+   "workplace_type": "Regular",
+   "category": "Other",
+   "posted_date": "2026-10-07",
+   "summary": "Join us as Manager - Data Analytics to lead the analytics agenda for a business domain, partnering with stakeholders to deliver actionable insights and drive measurable business impact. Oversee analytics quality and adoption, and mentor a high-performing analytics team. Ideal for experienced analytics professionals with strong leadership and stakeholder management skills.",
+   "url": "https://careers.majidalfuttaim.com/global/en/job/22924",
+   "first_seen": "2026-10-18T17:02:29Z",
+   "description": "ROLE SUMMARY\nThe Manager - Data Analytics leads the end-to-end analytics agenda for a business domain, partnering with stakeholders to prioritize needs, deliver actionable insights, and drive measurable business impact. The role is accountable for analytics quality, adoption, and value realization while contributing to Majid Al Futtaim's Data & AI growth and innovation agenda.\n\nROLE PROFILE\n\n• Own the end-to-end analytics agenda for a business domain, partnering with senior stakeholders to align analytics initiatives with business strategy and priorities.\n• Translate business challenges into a prioritized portfolio of analytics use cases with clear objectives, success measures, and value targets.\n• Lead analytics projects from scoping to implementation, ensuring timely delivery of high-quality insights and recommendations.\n• Drive adoption and business impact by embedding analytics solutions into decision-making processes and tracking realized outcomes.\n• Develop actionable insights through advanced analysis, data storytelling, and performance reporting for operational and executive stakeholders.\n• Establish and uphold analytics standards, governance, data quality controls, and compliance with data privacy and responsible AI requirements.\n• Build scalable analytics capabilities through reusable assets, innovation, emerging technologies, and continuous process improvement.\n• Lead, mentor, and develop the analytics team, fostering a high-performance culture while supporting talent growth and organizational objectives.\n\nREQUIREMENTS\n\n• Bachelor’s degree in a quantitative field (Master’s preferred), 6-9 years of analytics experience, 2+ years of team leadership, strong stakeholder management skills, and exposure to retail, FMCG, e-commerce, customer analytics, pricing, inventory etc..\n• Lead the analytics strategy and roadmap for a business domain, aligning high-value analytics initiatives with business objectives, stakeholder priorities, and measurable outcomes.\n• Build strong senior stakeholder partnerships, influencing decision-making through data-driven insights, executive-level communication, and impactful storytelling.\n• Drive end-to-end analytics delivery, translating complex business problems into actionable solutions while ensuring adoption, governance, and realized business impact.\n• Provide technical and analytical leadership, leveraging expertise in SQL, Python/R, BI platforms, cloud data technologies, statistical modeling, experimentation, and AI-enabled analytics.\n• Champion data quality, governance, privacy, and responsible AI, ensuring analytical rigor, compliance, reproducibility, and continuous improvement across the analytics lifecycle.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
+  },
+  {
+   "id": "astratech:7891227",
+   "source": "astratech",
+   "company": "Astra Tech",
+   "via": "",
+   "title": "Scrum master",
+   "field": "Product & Project",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "Hybrid",
+   "category": "PMO",
+   "posted_date": "2026-06-11",
+   "summary": "",
+   "url": "https://careers.astratech.ae/jobs/7891227-scrum-master",
+   "first_seen": "2026-10-18T17:02:29Z",
+   "description": "Role Summary\n\nWe are looking for an experienced Scrum Master with a strong background in consumer technology and communication platforms to drive agile delivery across our cross-functional product and engineering teams. In this role, you will act as a servant leader and agile coach, ensuring teams deliver high-quality software on time, within scope, and with a focus on continuous improvement. The ideal candidate will bring a deep understanding of agile frameworks, experience scaling complex digital products within a fast-paced startup or scale-up consumer platform environment, and familiarity navigating regulatory and compliance processes in financial software delivery. Additionally, you should possess prior exposure to API-driven architectures and technical delivery, alongside hands-on proficiency with tools like Jira, Confluence, Miro, Azure DevOps, or similar.\n\nResponsibilities\n\n•\nLead and facilitate all Scrum ceremonies — daily stand-ups, sprint planning, backlog refinement, sprint reviews, and retrospectives.\n\n•\nPartner with Product Owners and Engineering Managers to ensure clear prioritization and alignment of sprint goals.\n\n•\nRemove blockers, manage dependencies, and drive continuous improvement in delivery processes.\n\n•\nEnsure adherence to agile principles and best practices across teams.\n\n•\nFoster a culture of transparency, accountability, and collaboration.\n\n•\nTrack and analyze sprint metrics (velocity, burn-downs, cycle time) to help teams improve efficiency and predictability.\n\n•\nGuide teams in adopting agile tools (e.g., Jira, Confluence) and techniques that best fit fintech product cycles.\n\n•\nCollaborate closely with compliance, security, and data teams to ensure agile delivery.\n\n•\nSupport multiple squads working on communications, AI, platform, customer service and experience\n\n•\nCoach and mentor team members and stakeholders in agile mindset and practices.\nRequirements\n\n•\nBachelor’s degree in Computer Science, Engineering, Business, or related field (Master’s preferred).\n\n•\nCertified Scrum Master (CSM, PSM I/II) or equivalent agile certification.\n\n•\n4+ years of experience as a Scrum Master in agile software development environments.\n\n•\nProven experience working in consumer platforms\n\n•\nStrong understanding of agile frameworks (Scrum, Kanban, SAFe) and DevOps practices.\n\n•\nExceptional facilitation, communication, and stakeholder management skills.\n\n•\nComfortable working with distributed or cross-functional teams.\n\n•\nData-driven mindset with experience using delivery metrics to drive improvement."
+  },
   {
    "id": "accenture:14840492",
    "source": "accenture",
@@ -337,101 +429,9 @@
    "category": "",
    "posted_date": "2026-10-18",
    "summary": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/OT-Security-Manager_14840492",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/OT-Security-Manager_14840492",
    "first_seen": "2026-10-18T06:53:01Z",
    "description": "Role Overview\n\nLead Operational Technology (OT) and Industrial Cybersecurity consulting engagements, helping clients protect critical industrial environments while maintaining safety, availability and operational resilience. The role combines deep OT/ICS cybersecurity expertise with consulting leadership, client advisory, delivery management and business development.\n\nThe OT Cybersecurity Manager will lead programs spanning OT security strategy, architecture, risk assessment, IT/OT convergence and security implementation across complex industrial and critical infrastructure environments.\n\nKey Responsibilities\n\n• Lead end-to-end OT/ICS cybersecurity consulting engagements, from assessment and strategy through architecture, remediation and implementation.\n• Assess and secure industrial environments including ICS, SCADA, DCS, PLC, HMI, engineering workstations, historians, industrial networks and connected IIoT assets.\n• Lead OT cybersecurity maturity assessments, risk assessments, gap assessments and site-level security reviews.\n• Develop OT cybersecurity strategies, transformation roadmaps, governance models and multi-year remediation programs.\n• Design secure OT network architectures, including segmentation, security zones and conduits, industrial DMZs and controlled IT/OT connectivity.\n• Advise clients on OT asset discovery and inventory, vulnerability management, secure remote access, privileged access, industrial network monitoring and endpoint protection.\n• Lead the design and implementation of cybersecurity controls while ensuring solutions respect production availability, process safety and operational requirements.\n• Develop OT incident response, monitoring and cyber-resilience capabilities, including integration between plant environments and enterprise security operations.\n• Assess legacy industrial systems and develop practical risk-treatment approaches where patching, upgrading or replacing assets may be operationally constrained.\n• Provide leadership on IT/OT convergence, ensuring enterprise cybersecurity controls are appropriately adapted for operational environments.\n• Apply OT security standards and frameworks including ISA/IEC 62443 and NIST guidance for ICS/OT environments.\n• Lead multidisciplinary teams comprising OT security specialists, cybersecurity architects, engineers and consultants, ensuring delivery quality and client outcomes.\n• Build trusted relationships with CISOs, CIOs, OT leaders, engineering teams, plant management and security stakeholders.\n• Facilitate client workshops, architecture reviews, risk discussions and executive presentations.\n• Support proposals, RFPs, solution development and client pursuits for OT cybersecurity and critical infrastructure transformation.\n• Contribute to the development of Accenture's OT security capabilities, methodologies and market offerings.\n\nDesired Experience & Qualifications\n\n• 8–12+ years of cybersecurity, industrial automation or OT experience, with significant hands-on exposure to OT/ICS cybersecurity.\n• Strong practical knowledge of industrial environments including SCADA, DCS, PLCs, HMIs, historians and industrial control networks.\n• Demonstrated experience delivering OT security assessments, architecture, transformation or implementation programs.\n• Strong understanding of IT/OT network segmentation, industrial DMZs, firewalls, remote access, asset discovery, vulnerability management and OT security monitoring.\n• Experience applying ISA/IEC 62443 within industrial environments. The standard provides a cybersecurity framework specifically covering industrial automation and control environments. IEC guidance on cybersecurity for operational technology.\n• Understanding of the cybersecurity considerations associated with legacy systems, industrial availability and process safety.\n• Experience within Energy, Oil & Gas, Utilities, Manufacturing, Chemicals, Transportation or other critical infrastructure sectors is strongly preferred.\n• Strong consulting, stakeholder management and executive communication capabilities.\n• Proven ability to lead multidisciplinary technical teams and complex client engagements.\n• Experience supporting proposals, RFP responses, solution shaping and business development.\n• Relevant certifications such as ISA/IEC 62443, GICSP, CISSP, CISM or equivalent are advantageous.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
-  },
-  {
-   "id": "maf:21805",
-   "source": "maf",
-   "company": "Majid Al Futtaim",
-   "via": "",
-   "title": "Emirati Talent- Manager, Mechanical Design",
-   "field": "Architecture",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai"
-   ],
-   "workplace_type": "Regular",
-   "category": "Architecture, Engineering & Project Management",
-   "posted_date": "2026-10-13",
-   "summary": "We are seeking a Mechanical Design Manager to review, coordinate, and optimise mechanical system designs for Majid Al Futtaim developments. Oversee design quality, constructability, and compliance with standards, supporting projects from concept to handover. Ideal for candidates with significant mechanical design experience and expertise in UAE regulations.",
-   "url": "https://careers.majidalfuttaim.com/global/en/job/21805",
-   "first_seen": "2026-10-17T16:48:07Z",
-   "description": "JOB TITLE\n\nEmirati Talent- Manager, Mechanical Design | Majid Al Futtaim - Development\n\nROLE SUMMARY\n\nThe Mechanical Design Manager, reporting to the MEP Design Lead, is responsible for reviewing, coordinating, and optimizing mechanical system designs across Majid Al Futtaim developments. The role ensures design quality, constructability, sustainability, and compliance with Majid Al Futtaim standards and applicable codes. Supporting projects from concept through handover, the position drives innovation, digital design, operational efficiency, and sustainability initiatives in line with Majid Al Futtaim developments Net Zero targets.\n\nROLE PROFILE\n\n• Review and ensure the quality, completeness, and technical accuracy of mechanical designs, including HVAC, plumbing, drainage, firefighting, and gas systems.\n• Coordinate mechanical systems with architectural, structural, and other MEP disciplines to ensure seamless integration.\n• Review BIM models, drawings, and clash detection outputs using Navisworks and other coordination tools.\n• Ensure compliance with project briefs, Majid Al Futtaim design standards, and applicable local and international codes and regulations.\n• Evaluate design constructability and provide value engineering solutions to optimize cost, performance, efficiency, and sustainability outcomes.\n• Review technical documentation, including specifications, calculations, reports, shop drawings, material submissions, and method statements.\n• Support construction activities through site visits, technical guidance, issue resolution, and review of mock-ups to ensure alignment with approved designs.\n• Collaborate with consultants and internal stakeholders, manage design risks, participate in coordination meetings, and contribute to continuous improvement and innovation within the mechanical discipline.\n\nREQUIREMENTS\n\n• Bachelor’s degree in Mechanical or Electrical Engineering or a related discipline.\n• 5 - 7 years of mechanical design experience across retail, residential, mixed-use, and large-scale developments.\n• Proven experience across the full project lifecycle, including design review, coordination, and construction support.\n• Strong knowledge of UAE regulations and mechanical design standards; GCC/MENA experience is preferred.\n• Membership in a recognized professional body (e.g., CIBSE, ASHRAE) is preferred.\n• LEED, BREEAM, or other sustainability certifications are advantageous.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
-  },
-  {
-   "id": "maf:21805",
-   "source": "maf",
-   "company": "Majid Al Futtaim",
-   "via": "",
-   "title": "Emirati Talent- Manager, Mechanical Design",
-   "field": "Architecture",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai"
-   ],
-   "workplace_type": "Regular",
-   "category": "Architecture, Engineering & Project Management",
-   "posted_date": "2026-10-13",
-   "summary": "We are seeking a Mechanical Design Manager to review, coordinate, and optimise mechanical system designs for Majid Al Futtaim developments. Oversee design quality, constructability, and compliance with standards, supporting projects from concept to handover. Ideal for candidates with significant mechanical design experience and expertise in UAE regulations.",
-   "url": "https://careers.majidalfuttaim.com/global/en/job/21805",
-   "first_seen": "2026-10-17T16:48:07Z",
-   "description": "JOB TITLE\n\nEmirati Talent- Manager, Mechanical Design | Majid Al Futtaim - Development\n\nROLE SUMMARY\n\nThe Mechanical Design Manager, reporting to the MEP Design Lead, is responsible for reviewing, coordinating, and optimizing mechanical system designs across Majid Al Futtaim developments. The role ensures design quality, constructability, sustainability, and compliance with Majid Al Futtaim standards and applicable codes. Supporting projects from concept through handover, the position drives innovation, digital design, operational efficiency, and sustainability initiatives in line with Majid Al Futtaim developments Net Zero targets.\n\nROLE PROFILE\n\n• Review and ensure the quality, completeness, and technical accuracy of mechanical designs, including HVAC, plumbing, drainage, firefighting, and gas systems.\n• Coordinate mechanical systems with architectural, structural, and other MEP disciplines to ensure seamless integration.\n• Review BIM models, drawings, and clash detection outputs using Navisworks and other coordination tools.\n• Ensure compliance with project briefs, Majid Al Futtaim design standards, and applicable local and international codes and regulations.\n• Evaluate design constructability and provide value engineering solutions to optimize cost, performance, efficiency, and sustainability outcomes.\n• Review technical documentation, including specifications, calculations, reports, shop drawings, material submissions, and method statements.\n• Support construction activities through site visits, technical guidance, issue resolution, and review of mock-ups to ensure alignment with approved designs.\n• Collaborate with consultants and internal stakeholders, manage design risks, participate in coordination meetings, and contribute to continuous improvement and innovation within the mechanical discipline.\n\nREQUIREMENTS\n\n• Bachelor’s degree in Mechanical or Electrical Engineering or a related discipline.\n• 5 - 7 years of mechanical design experience across retail, residential, mixed-use, and large-scale developments.\n• Proven experience across the full project lifecycle, including design review, coordination, and construction support.\n• Strong knowledge of UAE regulations and mechanical design standards; GCC/MENA experience is preferred.\n• Membership in a recognized professional body (e.g., CIBSE, ASHRAE) is preferred.\n• LEED, BREEAM, or other sustainability certifications are advantageous.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
-  },
-  {
-   "id": "maf:22380",
-   "source": "maf",
-   "company": "Majid Al Futtaim",
-   "via": "",
-   "title": "Manager - BI Development",
-   "field": "Data & AI",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai"
-   ],
-   "workplace_type": "Regular",
-   "category": "Other",
-   "posted_date": "2026-08-24",
-   "summary": "We are looking for a Manager - BI Development to lead the design and delivery of business intelligence solutions for MAF Retail. Oversee project execution, collaborate with business and data teams, and ensure compliance with BI standards. Ideal for experienced BI professionals with strong technical expertise and leadership in enterprise environments.",
-   "url": "https://careers.majidalfuttaim.com/global/en/job/22380",
-   "first_seen": "2026-10-17T16:48:07Z",
-   "description": "BUSINESS INTRODUCTION\nMajid Al Futtaim Holding is the leading shopping mall, retail, communities, entertainment developer and operator in the Middle East, North Africa, and Central Asia regions. With over 43,000 people, revenues of over US$ 11 Billion, and operations in 18 countries. Some of the iconic brands we carry include Mall of the Emirates, Carrefour, All Saints, Lego, City Center, Abercrombie & Fitch, & Vox Cinemas. We believe in making Great Moments for Everyone, Every day.\n\nJOB TITLE\nBI Development Manager | MAF Retail | Corporate Head Office UAE\n\nROLE SUMMARY\nThe Manager – BI Development is responsible for designing, executing, and delivering end-to-end solutions based on MAF Retail business intelligence and automation delivery and Insights roadmap, in close collaboration with the business functions, and data engineers.\n\nROLE PROFILE\n\n• Lead Business Intelligence projects design, execution and delivery ensuring compliance and consistency with MAFR BI delivery standards and data governance.\n• Lead the collaboration with MAFR Functions to identify key business challenges and how to tackle them through business intelligence and data analytics and actionable projects.\n• Supervise the design, development, maintenance & real-time update, CI/CD, and governance compliance of Power BI workspaces, applications, datasets, flows, dashboards, reports, performance metrics, monitor key performance indicators (KPIs).\n• Lead the development and maintenance of MAFR Business Intelligence glossary book for all BI activities (KPIs, measures, variables, tables, views, dimensions, naming conventions …etc.).\n• Lead MAFR BI RLS, PLS, and OLS design, architecture, and ensure complete automated execution flow through close cooperation with Data-Engineering and Data Architecture.\n• Co-Design with the Cloud Architecture team a unified framework for XMLA (read/write) including policy & procedures to ensure governance compliance, quality, and seamless process for the frequent data read/update on all platforms.\n• Utilize advanced SQL, DAX, and M techniques to extract insights from large datasets and run regular quality checks to ensure maintaining the minimum data quality threshold.\n• Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability.\n\nREQUIREMENTS\n\n• Bachelor’s Degree in a computer science/engineering/math or related technical discipline\n• 7+ years in as a senior BI developer role in an international environment; creating and building complex BI solutions at enterprise level. analyses and evaluation tools for assessing/tracking performance and learning associated user behaviours with the\n• 2+ years in the retail/FMCG business is preferred\n• Proficient in various statistical programming languages is a must, such as R/Python/SQL, etc.\n• Strong experience in several visualization tools such as Tableau, PowerBI, etc. supporting data dashboarding and reporting\n• Good knowledge of algorithm/modelling techniques is a must, such as Logistic Regression, Linear Regression, Clustering, Decision Trees, Random Forest, SVM, KNN etc.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
-  },
-  {
-   "id": "maf:22380",
-   "source": "maf",
-   "company": "Majid Al Futtaim",
-   "via": "",
-   "title": "Manager - BI Development",
-   "field": "Data & AI",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai"
-   ],
-   "workplace_type": "Regular",
-   "category": "Other",
-   "posted_date": "2026-08-24",
-   "summary": "We are looking for a Manager - BI Development to lead the design and delivery of business intelligence solutions for MAF Retail. Oversee project execution, collaborate with business and data teams, and ensure compliance with BI standards. Ideal for experienced BI professionals with strong technical expertise and leadership in enterprise environments.",
-   "url": "https://careers.majidalfuttaim.com/global/en/job/22380",
-   "first_seen": "2026-10-17T16:48:07Z",
-   "description": "BUSINESS INTRODUCTION\nMajid Al Futtaim Holding is the leading shopping mall, retail, communities, entertainment developer and operator in the Middle East, North Africa, and Central Asia regions. With over 43,000 people, revenues of over US$ 11 Billion, and operations in 18 countries. Some of the iconic brands we carry include Mall of the Emirates, Carrefour, All Saints, Lego, City Center, Abercrombie & Fitch, & Vox Cinemas. We believe in making Great Moments for Everyone, Every day.\n\nJOB TITLE\nBI Development Manager | MAF Retail | Corporate Head Office UAE\n\nROLE SUMMARY\nThe Manager – BI Development is responsible for designing, executing, and delivering end-to-end solutions based on MAF Retail business intelligence and automation delivery and Insights roadmap, in close collaboration with the business functions, and data engineers.\n\nROLE PROFILE\n\n• Lead Business Intelligence projects design, execution and delivery ensuring compliance and consistency with MAFR BI delivery standards and data governance.\n• Lead the collaboration with MAFR Functions to identify key business challenges and how to tackle them through business intelligence and data analytics and actionable projects.\n• Supervise the design, development, maintenance & real-time update, CI/CD, and governance compliance of Power BI workspaces, applications, datasets, flows, dashboards, reports, performance metrics, monitor key performance indicators (KPIs).\n• Lead the development and maintenance of MAFR Business Intelligence glossary book for all BI activities (KPIs, measures, variables, tables, views, dimensions, naming conventions …etc.).\n• Lead MAFR BI RLS, PLS, and OLS design, architecture, and ensure complete automated execution flow through close cooperation with Data-Engineering and Data Architecture.\n• Co-Design with the Cloud Architecture team a unified framework for XMLA (read/write) including policy & procedures to ensure governance compliance, quality, and seamless process for the frequent data read/update on all platforms.\n• Utilize advanced SQL, DAX, and M techniques to extract insights from large datasets and run regular quality checks to ensure maintaining the minimum data quality threshold.\n• Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability.\n\nREQUIREMENTS\n\n• Bachelor’s Degree in a computer science/engineering/math or related technical discipline\n• 7+ years in as a senior BI developer role in an international environment; creating and building complex BI solutions at enterprise level. analyses and evaluation tools for assessing/tracking performance and learning associated user behaviours with the\n• 2+ years in the retail/FMCG business is preferred\n• Proficient in various statistical programming languages is a must, such as R/Python/SQL, etc.\n• Strong experience in several visualization tools such as Tableau, PowerBI, etc. supporting data dashboarding and reporting\n• Good knowledge of algorithm/modelling techniques is a must, such as Logistic Regression, Linear Regression, Clustering, Decision Trees, Random Forest, SVM, KNN etc.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
   },
   {
    "id": "g42:3175",
@@ -2634,29 +2634,6 @@
    "description": "JOB TITLE\nOfficer - Information Technology | MAF Retail | Hypermarket Kuwait\n\nROLE SUMMARY\nThe Associate – Info. Tech is responsible for providing the highest quality service with excellent customer care in receiving, prioritizing, documenting, and actively resolving requests from our clients in a timely manner. The role holder is also responsible for talking to users on the telephone working in a busy helpdesk environment.\n\nROLE PROFILE\n\n• Provide first-level IT support to all business units for IT-related requests.\n• Deliver hotline support during non-office hours, weekends, and holidays when required.\n• Coordinate, test, and review system change requests submitted by business users.\n• Troubleshoot IT products and services and resolve user technical issues efficiently.\n• Record incidents, requests, and problem details accurately in the Service Desk tool.\n• Update and manage support tickets, ensuring proper documentation and timely closure.\n• Follow up with users to verify that implemented solutions have resolved issues effectively.\n• Support IT initiatives and action plans that enhance operational productivity, performance, and effectiveness.\n\nREQUIREMENTS\n\n• Bachelor's Degree in Computer Science or an equivalent field.\n• 0-2 years of experience within an IT department or IT support function.\n• Strong business communication and presentation skills.\n• Highly organized with the ability to handle multiple tasks simultaneously.\n• Good time management and prioritization skills.\n• Strong problem-solving abilities with high attention to detail.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
   },
   {
-   "id": "maf:22832",
-   "source": "maf",
-   "company": "Majid Al Futtaim",
-   "via": "",
-   "title": "Officer - Information Technology",
-   "field": "Other IT",
-   "country_code": "KW",
-   "country": "Kuwait",
-   "countries": [
-    "Kuwait"
-   ],
-   "locations": [
-    "Kuwait"
-   ],
-   "workplace_type": "Regular",
-   "category": "Other",
-   "posted_date": "2026-09-27",
-   "summary": "Become part of our team as an Officer - Information Technology, providing first-level IT support and resolving user technical issues in a busy helpdesk environment. You will coordinate system change requests and ensure accurate documentation. Ideal for candidates with a background in Computer Science and strong organisational and communication skills.",
-   "url": "https://careers.majidalfuttaim.com/global/en/job/22832",
-   "first_seen": "2026-10-09T07:50:03Z",
-   "description": "JOB TITLE\nOfficer - Information Technology | MAF Retail | Hypermarket Kuwait\n\nROLE SUMMARY\nThe Associate – Info. Tech is responsible for providing the highest quality service with excellent customer care in receiving, prioritizing, documenting, and actively resolving requests from our clients in a timely manner. The role holder is also responsible for talking to users on the telephone working in a busy helpdesk environment.\n\nROLE PROFILE\n\n• Provide first-level IT support to all business units for IT-related requests.\n• Deliver hotline support during non-office hours, weekends, and holidays when required.\n• Coordinate, test, and review system change requests submitted by business users.\n• Troubleshoot IT products and services and resolve user technical issues efficiently.\n• Record incidents, requests, and problem details accurately in the Service Desk tool.\n• Update and manage support tickets, ensuring proper documentation and timely closure.\n• Follow up with users to verify that implemented solutions have resolved issues effectively.\n• Support IT initiatives and action plans that enhance operational productivity, performance, and effectiveness.\n\nREQUIREMENTS\n\n• Bachelor's Degree in Computer Science or an equivalent field.\n• 0-2 years of experience within an IT department or IT support function.\n• Strong business communication and presentation skills.\n• Highly organized with the ability to handle multiple tasks simultaneously.\n• Good time management and prioritization skills.\n• Strong problem-solving abilities with high attention to detail.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
-  },
-  {
    "id": "salt:715375",
    "source": "salt",
    "company": "SALT (recruiter)",
@@ -4651,29 +4628,6 @@
    "description": "• Design ultra-scale distributed systems handling massive throughput\n• Own architecture, performance and reliability in a lean environment\n\nAbout Our Client\n\nOur client is a technology-led financial services organisation building highly sophisticated platforms that operate at significant scale.\n\nJob Description\n\n• Architect and build large-scale distributed systems capable of supporting millions of users and tens of thousands of requests per second.\n• Design event-driven architectures, partitioning strategies, and highly scalable data platforms with a focus on reliability and fault tolerance.\n• Lead performance optimisation initiatives across application, infrastructure, storage, networking, and caching layers.\n• Own systems end-to-end, from architecture and development through production operations and continuous improvement.\n• Evaluate and adopt emerging technologies, including AI-driven capabilities, to solve complex engineering and business challenges.\n\nThe Successful Applicant\n\n• Extensive backend engineering experience building highly scalable, distributed systems in production environments.\n• Proven experience operating services handling 20,000-30,000+ requests per second and large-scale user traffic.\n• Deep expertise in system design, distributed architecture, concurrency, partitioning, consistency models, and performance engineering.\n• Demonstrated success solving complex scaling, latency, reliability, and availability challenges in mission-critical platforms.\n• Strong technical curiosity with the ability to rapidly learn new technologies, domains, and AI capabilities independently.\n\nWhat's on Offer\n\n• Opportunity to solve genuinely complex engineering problems at significant scale within a highly technical environment.\n• Competitive compensation package alongside strong career growth and exposure to cutting-edge platform engineering challenges."
   },
   {
-   "id": "g42:1714",
-   "source": "g42",
-   "company": "G42 · CPX",
-   "via": "",
-   "title": "Lead SOC Engineer (SIEM & SOAR)",
-   "field": "Cybersecurity",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "MBZ City, Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "Information Technology Operations",
-   "posted_date": "2026-10-08",
-   "summary": "Become part of our team as a Lead SOC Engineer, delivering SIEM and SOAR management services within the Security Operations Centre. Oversee Splunk SIEM and SOAR, collaborate with internal and external stakeholders, and ensure optimal system performance. Ideal for experienced SOC professionals with strong Splunk expertise.",
-   "url": "https://careers.g42.ai/global/en/job/1714",
-   "first_seen": "2026-10-08T19:37:17Z",
-   "description": "Overview:\n\r\n\nThe Lead Engineer – SOC (SIEM & SOAR) is a critical role responsible for delivering SIEM /SOAR management services, particularly focusing on Splunk SIEM and SOAR, within the Security Operations Center (SOC). This role encompasses working closely with the SOC Internal and external teams to facilitate onboarding new log sources, enhancing and optimizing telemetry, ensuring system updates, resolving issues, and maintaining SIEM performance, automation and orchestration, designing playbooks according to best practices achieved through SOAR Solution.\n\nResponsibilities:\n\r\n\nKey Responosibilities\n\n• Deliver Splunk SIEM /SOAR management services within the SOC environment.\n• Collaborate with the asset owner, client stakeholder, and SOC, in onboarding new log sources to the SIEM/SOAR platform.\n• Maintain and govern SOC critical log sources, ensuring their proper functionality and integration with Splunk SIEM /SOAR.\n• Detect log source issues, coordinate with customers to diagnose and resolve them in a timely manner.\n• Enhance and optimize telemetry within the Splunk environment to improve data collection, correlation, and reporting.\n• Perform regular system updates to ensure Splunk functionality and security are up to date.\n• Resolve Splunk-related issues promptly and efficiently.\n• Proficiency in field extractions, data normalization, and CIM (Common Information Model) compliance.\n• Maintain the performance of the Splunk SIEM /SOAR according to established best practices.\n• Design SOAR Playbooks to enhance automation and orchestration of incidents.\n• Connect SOAR with SIEM, ticketing systems (e.g., ServiceNow), threat intelligence platforms, and endpoint tools.\n• Experience with platforms like Splunk SOAR (Phantom), Forti SOAR, or Cortex XSOAR.\n• Participate in continuous process improvements to increase SOC efficiency and effectiveness.\n• Provide regular and accurate reports on Splunk services and SOC operations to relevant stakeholders.\n• Contribute to SOC architecture strategy and implementation initiatives related to Splunk.\n• Assist in the mentorship and development of junior SOC engineers.\n\nCharacteristics:\n\n• Profound knowledge and hands-on experience with Splunk SIEM/SOAR and other related technologies like CRIBL.\n• Understanding of SOC workflows, MITRE ATT&CK framework, and threat detection methodologies.\n• Ability to correlate data across multiple sources to identify patterns and anomalies.\n• Strong understanding of cloud and network technologies, essential for efficient log source onboarding.\n• Proven technical capabilities in a complex, fast-paced SOC environment.\n• Ability to diagnose and troubleshoot log source issues related to cloud and network infrastructures.\n• Strong understanding of SOC operations, cybersecurity principles, and best practices.\n• Excellent problem-solving skills and the ability to make decisions under pressure.\n• Ability to collaborate effectively with a variety of team members, including interfacing with customers to resolve issues.\n• High proficiency in written and verbal communication.\n\nQualifications:\n\r\n\nSkills/Certifications\n\n• Splunk Certified Architect or Splunk Certified Administrator.\n• Mastery of SPL (Search Processing Language) for complex queries, dashboards, and reports.\n• Python scripting skills.\n• Experience with platforms like Forti SOAR, Splunk SOAR (Phantom), Cortex XSOAR etc.\n• Cloud-related certifications like AWS Certified Solutions Architect, Google Professional Cloud Architect, or Microsoft Certified: Azure Solutions Architect Expert.\n• Certified Information Systems Security Professional (CISSP), GIAC is preferred\n• Networking certifications such as CCNA or CCNP are advantageous.\n\nMinimum Work Experience\n\nA minimum of 8 years of experience in SOC operations, with significant experience in Splunk SIEM management.\n\nPrior experience in a technical role within a SOC or similar cybersecurity environment.\n\nEducation\n\nBachelor’s degree in computer science, Information Technology, Cybersecurity, or a related field."
-  },
-  {
    "id": "g42:3255",
    "source": "g42",
    "company": "G42 · Inception42",
@@ -4695,6 +4649,29 @@
    "url": "https://careers.g42.ai/global/en/job/3255",
    "first_seen": "2026-10-08T19:37:17Z",
    "description": "Inception, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview:\n\r\n\nThe ITSM Manager will lead the design, implementation, and continuous improvement of ITIL-based processes across the enterprise. This individual will be responsible for establishing and maturing ITSM frameworks from the ground up, ensuring operational excellence, compliance, and service quality throughout Inception's AI-driven ecosystem of partners, suppliers, and enterprise customers.\n\nResponsibilities:\n\r\n\n- Establish, design, and implement enterprise-wide ITIL processes including Incident, Problem, Change, Release, and Knowledge Management.\n\n- Drive end-to-end ITSM transformation initiatives, ensuring integration with the organization’s technology and business vision.\n\n- Develop and maintain ITSM policies and procedures aligned with ISO and audit requirements to ensure full auditability at all times.\n\n- Champion ITIL awareness programs, internal trainings, and enterprise roadshows to promote adoption and process discipline.\n\n- Collaborate with Engineering, Product, Security, and Customer Success teams to embed ITSM principles into AI product development and delivery workflows.\n\n- Provide leadership and direction for continuous service improvement initiatives through measurable KPIs and governance metrics.\n\n- Act as a key influencer in driving cultural change and process standardization across global teams.\n\n- Support ITSM tool selection, configuration, and optimization aligned to defined process needs.\n\n- Partner with audit and compliance stakeholders to ensure adherence to ISO 20000, ISO 27001, and other quality frameworks.\n\nQualifications:\n\r\n\n- Bachelor in Computer Science, Information Technology, Business Administration, or Computer Information Systems.\n\n- Minimum 15 years of overall IT experience, with at least 10 years in ITSM or ITIL leadership roles within large enterprise environments.\n\n- Proven success in establishing ITSM frameworks and achieving process maturity from inception.\n\n- Strong technical understanding of AI-driven product development, cloud infrastructure, and enterprise platforms.\n\n- Advanced knowledge of Microsoft Azure and cloud-based service delivery models.\n\n- Deep familiarity with ITIL processes such as Incident, Change, Release, Problem, and Knowledge Management.\n\n- Experience managing complex partner, supplier, and customer ecosystems within a technology product organization.\n\n- Excellent leadership, stakeholder management, and communication skills with the ability to influence across business and technical\n\nCertifications\n\n- Mandatory: ITIL Certification (v4 Managing Professional or equivalent)\n\n- Mandatory: SCRUM and Agile Certifications\n\n- Optional: PMP or PRINCE2 Certification\n\n- Cloud certifications in Azure / AWS/GCP.\n\nKey Attributes\n\n- Strategic and process-driven mindset with hands-on execution capability.\n\n- Strong technical appreciation of product lifecycle, DevOps, and cloud operations.\n\n- Passionate communicator and trainer, capable of simplifying complex process concepts.\n\n- Committed to operational excellence, continuous improvement, and service quality.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception community.\n\nWhat Working At Inception Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
+  },
+  {
+   "id": "g42:1714",
+   "source": "g42",
+   "company": "G42 · CPX",
+   "via": "",
+   "title": "Lead SOC Engineer (SIEM & SOAR)",
+   "field": "Cybersecurity",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "MBZ City, Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "Information Technology Operations",
+   "posted_date": "2026-10-08",
+   "summary": "Become part of our team as a Lead SOC Engineer, delivering SIEM and SOAR management services within the Security Operations Centre. Oversee Splunk SIEM and SOAR, collaborate with internal and external stakeholders, and ensure optimal system performance. Ideal for experienced SOC professionals with strong Splunk expertise.",
+   "url": "https://careers.g42.ai/global/en/job/1714",
+   "first_seen": "2026-10-08T19:37:17Z",
+   "description": "Overview:\n\r\n\nThe Lead Engineer – SOC (SIEM & SOAR) is a critical role responsible for delivering SIEM /SOAR management services, particularly focusing on Splunk SIEM and SOAR, within the Security Operations Center (SOC). This role encompasses working closely with the SOC Internal and external teams to facilitate onboarding new log sources, enhancing and optimizing telemetry, ensuring system updates, resolving issues, and maintaining SIEM performance, automation and orchestration, designing playbooks according to best practices achieved through SOAR Solution.\n\nResponsibilities:\n\r\n\nKey Responosibilities\n\n• Deliver Splunk SIEM /SOAR management services within the SOC environment.\n• Collaborate with the asset owner, client stakeholder, and SOC, in onboarding new log sources to the SIEM/SOAR platform.\n• Maintain and govern SOC critical log sources, ensuring their proper functionality and integration with Splunk SIEM /SOAR.\n• Detect log source issues, coordinate with customers to diagnose and resolve them in a timely manner.\n• Enhance and optimize telemetry within the Splunk environment to improve data collection, correlation, and reporting.\n• Perform regular system updates to ensure Splunk functionality and security are up to date.\n• Resolve Splunk-related issues promptly and efficiently.\n• Proficiency in field extractions, data normalization, and CIM (Common Information Model) compliance.\n• Maintain the performance of the Splunk SIEM /SOAR according to established best practices.\n• Design SOAR Playbooks to enhance automation and orchestration of incidents.\n• Connect SOAR with SIEM, ticketing systems (e.g., ServiceNow), threat intelligence platforms, and endpoint tools.\n• Experience with platforms like Splunk SOAR (Phantom), Forti SOAR, or Cortex XSOAR.\n• Participate in continuous process improvements to increase SOC efficiency and effectiveness.\n• Provide regular and accurate reports on Splunk services and SOC operations to relevant stakeholders.\n• Contribute to SOC architecture strategy and implementation initiatives related to Splunk.\n• Assist in the mentorship and development of junior SOC engineers.\n\nCharacteristics:\n\n• Profound knowledge and hands-on experience with Splunk SIEM/SOAR and other related technologies like CRIBL.\n• Understanding of SOC workflows, MITRE ATT&CK framework, and threat detection methodologies.\n• Ability to correlate data across multiple sources to identify patterns and anomalies.\n• Strong understanding of cloud and network technologies, essential for efficient log source onboarding.\n• Proven technical capabilities in a complex, fast-paced SOC environment.\n• Ability to diagnose and troubleshoot log source issues related to cloud and network infrastructures.\n• Strong understanding of SOC operations, cybersecurity principles, and best practices.\n• Excellent problem-solving skills and the ability to make decisions under pressure.\n• Ability to collaborate effectively with a variety of team members, including interfacing with customers to resolve issues.\n• High proficiency in written and verbal communication.\n\nQualifications:\n\r\n\nSkills/Certifications\n\n• Splunk Certified Architect or Splunk Certified Administrator.\n• Mastery of SPL (Search Processing Language) for complex queries, dashboards, and reports.\n• Python scripting skills.\n• Experience with platforms like Forti SOAR, Splunk SOAR (Phantom), Cortex XSOAR etc.\n• Cloud-related certifications like AWS Certified Solutions Architect, Google Professional Cloud Architect, or Microsoft Certified: Azure Solutions Architect Expert.\n• Certified Information Systems Security Professional (CISSP), GIAC is preferred\n• Networking certifications such as CCNA or CCNP are advantageous.\n\nMinimum Work Experience\n\nA minimum of 8 years of experience in SOC operations, with significant experience in Splunk SIEM management.\n\nPrior experience in a technical role within a SOC or similar cybersecurity environment.\n\nEducation\n\nBachelor’s degree in computer science, Information Technology, Cybersecurity, or a related field."
   },
   {
    "id": "ifs:744000154383130",
@@ -5438,29 +5415,6 @@
    "description": "Consulting Systems Engineer\n\nWe are seeking a Consulting Systems Engineer to support, evolve, and automate solutions and tools that optimize pre-sales department workflows. This role blends cybersecurity expertise, systems engineering, and software development, with a strong focus on automation, reliability, and secure-by-design solutions.\n\nYou will work closely with pre-sales stakeholders and internal systems engineers to design, build, and operate scalable platforms that improve efficiency, reduce manual effort, and enable secure technical operations across the organization.\n\nResponsibilities\n\nSolution & Platform Engineering\n\n• Support, maintain, and continuously improve internal solutions and tools used across sales and pre-sales organizations.\n• Design and implement automation-first solutions to streamline workflows, reduce operational friction, and improve consistency.\n• Own solutions across the full software development lifecycle (SDLC): requirements, design, development, testing, deployment, and maintenance.\n\nSecurity & Systems Operations\n\n• Troubleshoot complex security, network, and system issues in primarily Linux-based environments.\n• Contribute to secure system architectures involving virtualization, containers, and networked services.\n• Lead firewall management, including policy design, rule optimization, auditing, and advanced troubleshooting.\n\nSoftware Development & Automation\n\n• Develop and enhance internal platforms, APIs, and automation using Python (Django) and Ruby on Rails.\n• Apply secure coding practices, code reviews, and automated testing to ensure reliability and maintainability.\n• Integrate solutions with existing infrastructure, tools, and services across Linux, Windows, and macOS environments.\n\nEnablement & Collaboration\n\n• Participate in solution validation, internal demonstrations, and technical enablement activities.\n• Collaborate with stakeholders to translate operational and security needs into scalable technical solutions.\n• Produce clear documentation and operational runbooks to support adoption and long-term maintainability.\n\nRequired Skills & Experience\n\n• Senior-level experience in cybersecurity, with strong expertise in firewalls, network security, and incident troubleshooting.\n• Strong background in automation and software engineering, including proficiency in Python (Django) and Ruby on Rails.\n• Solid understanding of SDLC best practices, including version control (git and mecurial), testing, and deployment strategies.\n• Advanced Linux system administration skills; ability to integrate with Windows and macOS environments when required.\n• Strong troubleshooting skills across infrastructure, network, and application layers.\n• Hands-on experience with virtualization and container technologies.\n\nSoft Skills\n\n• Strong problem-solver with a hands-on, analytical mindset.\n• Motivated and curious, with a continuous learning attitude and interest in new technologies.\n• Open-minded and adaptable when working with evolving requirements and diverse stakeholders.\n• Patient and methodical, especially when troubleshooting complex systems and security issues.\n• Autonomous, able to take ownership of tasks and drive solutions end-to-end.\n• Fluent in English, with the ability to communicate clearly in both written and verbal contexts.\n\nNice to Have\n\n• Experience with DevSecOps, CI/CD pipelines, and infrastructure-as-code.\n•\nExposure to data science or AI applied to security analytics or workflow optimization.\n\nFor this position, we aren't able to support visa sponsorship\n\n#LI-NC1"
   },
   {
-   "id": "g42:3019",
-   "source": "g42",
-   "company": "G42 · Inception42",
-   "via": "",
-   "title": "Director - Research and Development",
-   "field": "Data & AI",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "Data Analytics/Business Intelligence and Data Science",
-   "posted_date": "2026-10-05",
-   "summary": "We are looking for an accomplished Director of R&D to lead applied AI research at Inception42 in Abu Dhabi. Oversee flagship programmes in foundation language models and multi-agent systems, direct client delivery, and represent the technical direction at executive and Board levels. Ideal for experienced leaders in AI research with a strong publication record.",
-   "url": "https://careers.g42.ai/global/en/job/3019",
-   "first_seen": "2026-10-05T21:29:20Z",
-   "description": "Inception, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview:\n\r\n\nAbu Dhabi\n\nInception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception42 functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception42 is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview\n\nInception is seeking an accomplished Director of R&D in Applied AI, with a proven track record of directing multi-program applied research portfolios, to lead our applied AI research function. This role offers the rare opportunity to set the technical direction across multiple flagship programs in parallel — including a foundation language model family and multi-agent and agentic systems research— while providing oversight to high-stakes client delivery tracks that bring those research outputs into production.\n\nResponsibilities:\n\r\n\nWhat You’ll Own\n\nIn the Director of R&D role you will own the active applied research portfolio of the function, set its technical direction, and represent it at executive and Board level. You will direct concurrent flagship programs in foundation language models and multi-agent systems, while overseeing client delivery tracks that productize those research outputs. You will be the named technical arbiter on release, IP and prioritization decisions, and the senior point of contact for our most strategic external partners.\n\no Own the active R&D portfolio end-to-end — research roadmap, milestones, resource allocation and quarterly reviews.\n\no Direct the foundation language model program end-to-end — pre-training, post-training (instruction tuning, alignment), evaluation (language quality, multilingual performance, and safety posture), and release.\n\no Provide oversight to high-stakes client and delivery tracks and run regular reviews with R&D team covering progress, blockers, and re-allocation decisions across active programs.\n\no Represent Inception R&D in CEO-, group-executive- and Board-level forums, with the ability to make impactful presentations.\n\no Own the most strategic external partnerships academic research partners, frontier-model labs, the hyperscaler partnership cadence, sister-organization safety teams, and evaluation and red-teaming vendors — and lead joint workstreams to closure.\n\no Lead a team of applied scientists and senior applied scientists through technical mentorship, performance and growth, hiring, and defining team shape and talent strategy.\n\no Set and enforce R&D quality standards across projects and teams.\n\nQualifications:\n\r\n\nWhat We’re Looking For\n\nThe criteria for your success would include the maturity of the R&D portfolio you direct, foundation-model releases shipped under your sign-off, the health and growth of the Applied Science team, the depth of strategic partnerships sustained, and the readiness of research outputs for executive and Board consumption.\n\no M.Sc. or Ph.D. degree in Computer Science, Engineering, or an AI-related field. Specialization in NLP, large language models, or applied ML is highly desirable.\n\no Minimum 10 years of experience in AI / ML, with at least 4 years in a technical leadership or director-level role directing multiple concurrent research programs.\n\no Demonstrated ownership of at least one production foundation-model release end-to-end.\n\no Strong publication record in major NLP / ML venues, or an equivalent product-driven research and IP-filing track record.\n\no Production experience with Arabic or other lower-resource-language NLP at scale.\n\no Experience deploying AI Models into regulated or government contexts, including content moderation and policy-aligned guardrails.\n\no Hands-on familiarity with agentic-AI architectures — planning, tool use, multi-agent simulation.\n\no Excellent written and verbal communication.\n\nWhy Inception42\n\nInception42 is building AI systems designed for practical deployment at scale — across industries, infrastructure, and national-level initiatives.\n\nIf you want to work close to both advanced AI capability and real-world execution, we’d like to hear from you.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception community.\n\nWhat Working At Inception Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
-  },
-  {
    "id": "g42:3422",
    "source": "g42",
    "company": "G42 · Inception42",
@@ -5482,6 +5436,29 @@
    "url": "https://careers.g42.ai/global/en/job/3422",
    "first_seen": "2026-10-05T21:29:20Z",
    "description": "Inception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inception42.ai\n\nOverview:\n\r\n\nInception is seeking a highly proficient and accomplished Sr. Applied Scientist, with a proven track record, todevelop efficient deep-learning and generative AI algorithms and conceive innovative AI-centric models. This roleoffers a unique opportunity to work closely with our product development teams, applying emerging technologiesacross a diverse range of applications.\n\nResponsibilities:\n\r\n\nIn the Sr. Applied Scientist role you will play a crucial part in pioneering research and development across variousfacets of AI, including but not limited to computer vision, natural language processing, and audio signalprocessing. Your work will involve the creation and optimization of cutting-edge AI algorithms and deep learningmodels, contributing to advancements in areas such as semantic understanding, multidimensional datainterpretation, and human-machine interactions. Furthermore, your innovative efforts will be applied to a spectrumof practical use cases, serving pivotal industries such as finance, oil and gas, environmental science, andhealthcare, thereby driving forward the frontier of impactful AI solutions in real-world scenarios.\n\n• Engage in the design, analysis and optimization of foundational and applied research to power the state-of-the-art AI algorithms and model capabilities at Inception. This will involve staying well-informed of emergingtrends, understanding and manipulating complex datasets, and conceptualizing models that are both innovativeand applicable to real-world scenarios.\n• Work on comprehensive solutions that integrate various modalities, including text, audio, and visual data,enhancing the AI's ability to understand and interpret human interaction in a more nuanced manner.\n• Collaborate with researchers and engineers across teams at Inception for the design, development, andcontinual improvement of AI algorithms, ensuring the implementations of such algorithms are optimized forefficiency, reliability, and scalability.\n• Work alongside product development teams to integrate new algorithms and models into broader productofferings, and conduct proofs of concept (POC) as per client needs, ensuring that these innovations translate intotangible benefits for users and stakeholders.\n• Propose scenarios where AI techniques could improve the efficiency of the customer’s business.\n• Provide pre-sales and post-sales technical support to the business development team.\n\nQualifications:\n\r\n\nSkills and attributes for success\n\nThe criteria for your success would include cost savings achieved, number of use cases investigated & datasetsmined, number of innovations/POCs deployed, number of existing processes optimized, and customer NPS.\n\nTo qualify, you must have\n\n• M.Sc. or Ph.D. degree in computer science, engineering, or AI-related field. Specialization in Computer Vision,Natural Language Processing or Speech and Audio are highly desirable.\n• Minimum 8 years of experience in developing AI algorithms for various modalities\n• Track record of conducting high-level research, preferably evidenced by publications in peer-reviewed journalsor a history of product-driven research and development.\n\nIdeally, you’ll also need\n\n• A highly curious and inquisitive approach to problem-solving\n• In-depth knowledge of the latest developments in AI and machine learning\n• Excellent communication skills\n\nWhat we look for\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception community.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception42 community.\n\nWhat Working At Inception42 Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
+  },
+  {
+   "id": "g42:3019",
+   "source": "g42",
+   "company": "G42 · Inception42",
+   "via": "",
+   "title": "Director - Research and Development",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "Data Analytics/Business Intelligence and Data Science",
+   "posted_date": "2026-10-05",
+   "summary": "We are looking for an accomplished Director of R&D to lead applied AI research at Inception42 in Abu Dhabi. Oversee flagship programmes in foundation language models and multi-agent systems, direct client delivery, and represent the technical direction at executive and Board levels. Ideal for experienced leaders in AI research with a strong publication record.",
+   "url": "https://careers.g42.ai/global/en/job/3019",
+   "first_seen": "2026-10-05T21:29:20Z",
+   "description": "Inception, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview:\n\r\n\nAbu Dhabi\n\nInception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception42 functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception42 is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview\n\nInception is seeking an accomplished Director of R&D in Applied AI, with a proven track record of directing multi-program applied research portfolios, to lead our applied AI research function. This role offers the rare opportunity to set the technical direction across multiple flagship programs in parallel — including a foundation language model family and multi-agent and agentic systems research— while providing oversight to high-stakes client delivery tracks that bring those research outputs into production.\n\nResponsibilities:\n\r\n\nWhat You’ll Own\n\nIn the Director of R&D role you will own the active applied research portfolio of the function, set its technical direction, and represent it at executive and Board level. You will direct concurrent flagship programs in foundation language models and multi-agent systems, while overseeing client delivery tracks that productize those research outputs. You will be the named technical arbiter on release, IP and prioritization decisions, and the senior point of contact for our most strategic external partners.\n\no Own the active R&D portfolio end-to-end — research roadmap, milestones, resource allocation and quarterly reviews.\n\no Direct the foundation language model program end-to-end — pre-training, post-training (instruction tuning, alignment), evaluation (language quality, multilingual performance, and safety posture), and release.\n\no Provide oversight to high-stakes client and delivery tracks and run regular reviews with R&D team covering progress, blockers, and re-allocation decisions across active programs.\n\no Represent Inception R&D in CEO-, group-executive- and Board-level forums, with the ability to make impactful presentations.\n\no Own the most strategic external partnerships academic research partners, frontier-model labs, the hyperscaler partnership cadence, sister-organization safety teams, and evaluation and red-teaming vendors — and lead joint workstreams to closure.\n\no Lead a team of applied scientists and senior applied scientists through technical mentorship, performance and growth, hiring, and defining team shape and talent strategy.\n\no Set and enforce R&D quality standards across projects and teams.\n\nQualifications:\n\r\n\nWhat We’re Looking For\n\nThe criteria for your success would include the maturity of the R&D portfolio you direct, foundation-model releases shipped under your sign-off, the health and growth of the Applied Science team, the depth of strategic partnerships sustained, and the readiness of research outputs for executive and Board consumption.\n\no M.Sc. or Ph.D. degree in Computer Science, Engineering, or an AI-related field. Specialization in NLP, large language models, or applied ML is highly desirable.\n\no Minimum 10 years of experience in AI / ML, with at least 4 years in a technical leadership or director-level role directing multiple concurrent research programs.\n\no Demonstrated ownership of at least one production foundation-model release end-to-end.\n\no Strong publication record in major NLP / ML venues, or an equivalent product-driven research and IP-filing track record.\n\no Production experience with Arabic or other lower-resource-language NLP at scale.\n\no Experience deploying AI Models into regulated or government contexts, including content moderation and policy-aligned guardrails.\n\no Hands-on familiarity with agentic-AI architectures — planning, tool use, multi-agent simulation.\n\no Excellent written and verbal communication.\n\nWhy Inception42\n\nInception42 is building AI systems designed for practical deployment at scale — across industries, infrastructure, and national-level initiatives.\n\nIf you want to work close to both advanced AI capability and real-world execution, we’d like to hear from you.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception community.\n\nWhat Working At Inception Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
   },
   {
    "id": "syscolabs:R269289",
@@ -6657,29 +6634,6 @@
    "description": "Accenture is hiring a passionate and skilled Network Security Engineering to join our team. In this role, you will be responsible for the day-to-day operation and support of network security services, ensuring the secure and reliable functioning of our network infrastructure and threat management solutions.\n\nKey Responsibilities:\n\n• Operate and support Network Security tools (such as: Firewalls, Mail gateway, Proxy, NAC solutions and other Network Security tools).\n• Firewall Policy Creation and Change Management: Leveraging AlgoSec for firewall policy reviews and validations.\n• Administer and Troubleshoot network security devices and platforms, ensuring secure configurations, availability, and performance are achieved across both on-premises environment.\n• Support troubleshooting of network and security issues, including traffic analysis and packet capture, to ensure quick and effective resolutions.\n• Support audit and reporting activities to provide transparency into network security operations.\n• Escalate complex issues or potential threats as necessary, ensuring that they are addressed efficiently and effectively.\n\n• Bachelor’s degree in Computer Science, Information Technology, Cybersecurity, or equivalent work experience.\n• Strong understanding of network security protocols and concepts, including firewalls, intrusion detection/prevention, malware analysis, and threat detection.\n• Hands-on experience with Firewalls, WAF, API Security, DDoS, IPS, Mail gateway, Proxy, NAC solutions.\n• Knowledge of on-premise, including secure configurations and operational management.\n• Practical experience in network troubleshooting, including traffic analysis and packet capture techniques.\n• Excellent problem-solving and analytical skills with a proactive and continuous improvement mindset.\n• Strong communication and documentation skills, with the ability to support audits and generate actionable reports.\n\nPreferred Certifications:\n\n• Industry certifications like CCNA Security or CCNP Security or PNSCE or NSE4 or NSE7 are highly desirable.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
   },
   {
-   "id": "syscolabs:R241696",
-   "source": "syscolabs",
-   "company": "Sysco LABS",
-   "via": "",
-   "title": "Senior Analyst - Data & AI Governance",
-   "field": "Data & AI",
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "countries": [
-    "Sri Lanka"
-   ],
-   "locations": [
-    "Sysco LABS  -  Sri Lanka"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-09-07",
-   "summary": "",
-   "url": "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Analyst---Data---AI-Governance_R241696",
-   "first_seen": "2026-10-04T17:59:24Z",
-   "description": "JOB DESCRIPTION\n\nSenior Analyst - Data & AI Governance\n\nThe Big Picture\n\nSysco LABS is the Global In-House Center of Sysco Corporation (NYSE: SYY), the world’s largest foodservice company. Sysco ranks 55th in the Fortune 500 list and is the global leader in the trillion-dollar foodservice industry.\n\nSysco operates 333 distribution centers across 10 countries, with 75,000 colleagues serving approximately 670,000 customer locations, including restaurants, healthcare and educational facilities, lodging establishments, entertainment venues and more. For fiscal year 2026, which ended June 27, 2026, the company generated sales of more than $84 billion.\n\nSysco LABS Sri Lanka delivers the technology that powers Sysco’s end-to-end operations.\n\nSysco LABS’ enterprise technology is present in the end-to-end foodservice journey, enabling the sourcing of food products, merchandising, storage and warehouse operations, order placement and pricing algorithms, the delivery of food and supplies to Sysco’s global network and the in-restaurant dining experience of the end-customer.\n\nFor more information visit: www.syscolabs.lk\n\nJob Summary\n\nSupports the organization's data governance program by executing day-to-day metadata management operations within the enterprise Data Catalog. Works directly with data owners, stewards, and domain stakeholders to ensure data assets are accurately described, classified, and assigned appropriate ownership. Partners with data stewards to define and implement data quality rules that improve the reliability and trustworthiness of critical data assets across the organization.\n\nDuties and Responsibilities:\n\n• Execute Metadata Management Operations: Own and execute the end-to-end process of cataloging data assets in Alation (or comparable tool), including assuring completeness of asset descriptions, assigning data owners and stewards, and classification tags in alignment with established data governance standards and taxonomies.\n\n• Support Data Quality Rule Development: Partner with data stewards and domain owners to identify relevant data quality dimensions—completeness, accuracy, consistency, timeliness—and help define, document, and configure corresponding data quality rules within governance tooling. Track rule violations and coordinate with stewards on resolution.\n\n• Maintain Data Catalog Hygiene: Conduct ongoing audits of catalog entries to identify gaps, inconsistencies, and stale metadata. Prioritize and remediate issues in coordination with data owners and the Data & Records Management Engineer, who provides automated discovery to complement manual curation efforts.\n\n• Collaborate Across Governance Operations: Serve as the operational hub between engineering automation and risk compliance. Surface metadata coverage gaps and data quality trends to the Data & AI Risk Analyst, whose compliance assessments depend on accurate catalog coverage and quality metrics as evidence of control effectiveness.\n\n• Facilitate Stewardship Activities: Support data steward communities by preparing materials, tracking stewardship assignments, and ensuring accountability for metadata completeness targets across business domains. Help onboard new stewards by explaining catalog workflows and quality rule processes.\n\n• Document Standards and Procedures: Develop and maintain documentation for metadata management workflows, business glossary standards, classification taxonomies, and data quality rule libraries to support consistency, scalability, and onboarding of future team members.\n\nQualifications:\n\n• Education Required: Bachelor's degree from an accredited institution in a relevant field such as Information Systems, Computer Science, Data Management, or Business Analytics.\n\n• Experience Required: Three (3) to five (5) years of experience in data management, data governance, or analytics roles.\n• Demonstrated experience working with enterprise data catalog tools—Alation strongly preferred; Collibra, Atlan, or similar are acceptable.\n• Hands-on experience writing and optimizing SQL queries across relational or cloud-based data environments.\n• Experience collaborating with business stakeholders to document data definitions, business rules, and data quality criteria.\n\nTechnical Skills and Abilities:\n\n• SQL Proficiency: Strong working knowledge of SQL for data exploration, profiling, and quality validation across enterprise data environments, including cloud platforms such as GCP BigQuery.\n• Python (Preferred): Familiarity with Python for data profiling, automation of repetitive metadata tasks, or quality rule scripting is a meaningful plus.\n• Data Catalog Tooling: Practical knowledge of catalog features including lineage visualization, business glossary management, stewardship workflows, and classification frameworks.\n• Analytical Mindset: Ability to assess data quality metrics, identify root causes of data issues, and communicate findings clearly to both technical and non-technical audiences.\n• Attention to Detail: Demonstrated precision in maintaining metadata records, documentation, and governance artifacts at scale.\n\nBenefits\n\n• Performance-based annual bonus\n• Recognition and rewards programs\n• Agile Benefits – special allowances for Health, Wellness & Academic purposes\n• Paid birthday leave\n• Team engagement allowance\n• Comprehensive health & life insurance cover (extendable to parents and in-laws)\n• Hybrid work arrangement"
-  },
-  {
    "id": "accenture:14350946",
    "source": "accenture",
    "company": "Accenture",
@@ -6726,29 +6680,6 @@
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24009",
    "first_seen": "2026-10-04T17:59:24Z",
    "description": "Systems Engineer – OT/Cyber\n\nLocation – Kuwait (North/South Gulf region)\n\nWe are looking for a Systems Engineer to work closely with a sales representative in a defined territory. The Systems Engineer's main mission will be to support the sales organization in all technical matters regarding OT/Cyber Security, pre-sales, sales calls, and post-sales.\n\nThis exciting role will require an OT/Cyber Security technical expert, who will have a focused messaging, proactively approach customer OT buying centres, create positive awareness around Fortinet OT proposition. You will support your Sales colleagues to develop and close OT opportunities.\n\nWith us you will\n\n• Lead all technical aspects of a sales cycle with the Enterprise customers, from the initial RFIs, through to RFPs & RFQs when required. This includes the project management and active participation in POCs in partnership with the relevant teams both internally and within the customer and/or commercial partner.\n• Have the ability to listen and to understand the technical requirements of the customer, reading between the lines to build a solution which outperforms the competitor offering.\n• Be the primary technical point of contact for the customer(s) and partners in close collaboration with your sales partner.\n• Continuously strive to improve knowledge around the Fortinet products and solutions, along with maintaining a deep understanding of the competitive landscape and Fortinet’s ability to provide long lasting protection against the ever-evolving threats.\n• Have a strong ability to position Fortinet solutions to the customer, whether this be remotely or in person. This requires strong communication skills and the ability to confidently present through whiteboarding, technical white papers, technical plans or customer discussions.\n• Manage your time effectively when working on multiple deals simultaneously, ensuring a positive customer experience is maintained.\n• Maintain accurate activity, contact, and account technical information of all customers and prospects in our CRM (Salesforce).\n\nApply if you\n\n• Have a high aptitude for security technology, specifically encryption, authentication, with further knowledge of network security, intrusion detection, anti-virus, routing, switching, LAN and WAN being desirable. The CISSP accreditation would also be beneficial.\n• Are currently or have previously worked in a pre-sales engineer role, managing end to end technical aspects of deals, through to technical closure.\n• Can demonstrate your problem solving skills and how this has impacted key wins within your current organisation.\n• Understand and can demonstrate your ability to build and maintain customer relationships, including your ability to effectively communicate technically to a range of both external and internal stakeholders.\n• Have a strong understanding of RADIUS, PKI, IKE, Certificates, L2TP, IPSEC, FIREWALL, 802.1Q, MD5, SSH, SSL, SHA1, DES, 3DES\n\nWhat you can expect from us\n\n• Excellent training and development opportunities, providing you with all the tools you need to be successful.\n• An open working environment, sharing knowledge and information collaboratively and transparently, with respect to everyone’s thoughts and opinions.\n• The opportunity to be part of an innovative, collaborative and winning team.\n• A competitive salary and incentive compensation package, including stock awards, health and welfare benefits.\n\nFrom the start, the Fortinet vision has been to deliver broad, truly integrated, high-performance security across the IT infrastructure. Today, we secure the largest enterprises, service providers and government organizations around the world.\n\nFortinet empowers its customers with intelligent, seamless protection across the expanding attack surface and the power to take on ever-increasing performance requirements of the borderless network – today and into the future. We have proven to be a truly innovative technology driven network security company with over 619 registered Global Patents. This is over 3 times more than our closest most innovative competitor!\n\nWhy Join Us:\n\nAt Fortinet, we embrace diversity and inclusivity. We encourage applications from diverse backgrounds and identities. Explore our welcoming work environment designed for a rewarding career journey with an attractive Total Rewards package to support you with your overall health and financial well-being. Join us in bringing solutions that make a meaningful and lasting impact to our 660,000+ customers around the globe.\n\nWe will only notify shortlisted candidates.\n\nFortinet will not entertain any unsolicited resumes, please refrain from sending them to any Fortinet employees or Fortinet email aliases. Should any Agency submit any resumes to Fortinet, these resumes if considered, will be assumed to have been given by the Agency free of any related fees/charges"
-  },
-  {
-   "id": "g42:1336",
-   "source": "g42",
-   "company": "G42 · Inception42",
-   "via": "",
-   "title": "Senior Applied Scientist",
-   "field": "Data & AI",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "Data Analytics/Business Intelligence and Data Science",
-   "posted_date": "2026-09-04",
-   "summary": "Join our team as a Senior Applied Scientist to drive innovation in AI and deep learning, developing advanced algorithms and models for diverse applications. Collaborate with product teams and contribute to impactful research. Ideal for experienced professionals with a strong background in AI research and development.",
-   "url": "https://careers.g42.ai/global/en/job/1336",
-   "first_seen": "2026-10-04T17:59:24Z",
-   "description": "Overview:\n\r\n\nInception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception42 functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception42 is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview\n\nInception is seeking a highly proficient and accomplished Sr. Applied Scientist, with a proven track record, to develop efficient deep-learning and generative AI algorithms and conceive innovative AI-centric models. This role offers a unique opportunity to work closely with our product development teams, applying emerging technologies across a diverse range of applications.\n\nResponsibilities:\n\r\n\nWhat You’ll Own\n\nIn the Sr. Applied Scientist role you will play a crucial part in pioneering research and development across various facets of AI, including but not limited to computer vision, natural language processing, and audio signal processing. Your work will involve the creation and optimization of cutting-edge AI algorithms and deep learning models, contributing to advancements in areas such as semantic understanding, multidimensional data interpretation, and human-machine interactions. Furthermore, your innovative efforts will be applied to a spectrum of practical use cases, serving pivotal industries such as finance, oil and gas, environmental science, and healthcare, thereby driving forward the frontier of impactful AI solutions in real-world scenarios.\n\no Engage in the design, analysis and optimization of foundational and applied research to power the state-of-the-art AI algorithms and model capabilities at Inception. This will involve staying well-informed of emerging trends, understanding and manipulating complex datasets, and conceptualizing models that are both innovative and applicable to real-world scenarios.\n\no Work on comprehensive solutions that integrate various modalities, including text, audio, and visual data, enhancing the AI's ability to understand and interpret human interaction in a more nuanced manner.\n\no Collaborate with researchers and engineers across teams at Inception for the design, development, and continual improvement of AI algorithms, ensuring the implementations of such algorithms are optimized for efficiency, reliability, and scalability.\n\no Work alongside product development teams to integrate new algorithms and models into broader product offerings, and conduct proofs of concept (POC) as per client needs, ensuring that these innovations translate into tangible benefits for users and stakeholders.\n\no Propose scenarios where AI techniques could improve the efficiency of the customer’s business.\n\no Provide pre-sales and post-sales technical support to the business development team.\n\nQualifications:\n\r\n\nWhat We’re Looking For\n\n• M.Sc. or Ph.D. degree in computer science, engineering, or AI-related field. Specialization in Computer Vision, Natural Language Processing or Speech and Audio are highly desirable.\n• Minimum 8 years of experience in developing AI algorithms for various modalities\n• Knowledge on Agentic AI designs and protocols (MCP, A2A, agentic orchestration)\n• Hands on experience with python for prototyping and implementing GenAI solutions\n• Expertise optimizing advanced RAG architectures and designing information retrieval system\n• Experience integrating Agentic solutions on enterprise data platforms (Fabric, Snowflake, Databricks..)\n• Understanding on the latest Agentic and RAG research and innovation areas\n• Track record of conducting high-level research, preferably evidenced by publications in peer-reviewed journals or a history of product-driven research and development.\n\nIdeally, you’ll also need\n\nA highly curious and inquisitive approach to problem-solving\n\nIn-depth knowledge of the latest developments in AI and machine learning\n\nWhy Inception42\n\nInception42 is building AI systems designed for practical deployment at scale — across industries, infrastructure, and national-level initiatives.\n\nIf you want to work close to both advanced AI capability and real-world execution, we’d like to hear from you."
   },
   {
    "id": "g42:592",
@@ -6820,11 +6751,11 @@
    "description": "Overview:\n\r\n\nAbu Dhabi\n\nInception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception42 functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception42 is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview\n\nInception is seeking a highly proficient and accomplished Sr. Applied Scientist, with a proven track record, to develop efficient deep-learning and generative AI algorithms and conceive innovative AI-centric models. This role offers a unique opportunity to work closely with our product development teams, applying emerging technologies across a diverse range of applications.\n\nResponsibilities:\n\r\n\nWhat You’ll Own\n\nIn the Sr. Applied Scientist role you will play a crucial part in pioneering research and development across various facets of AI, including but not limited to computer vision, natural language processing, and audio signal processing. Your work will involve the creation and optimization of cutting-edge AI algorithms and deep learning models, contributing to advancements in areas such as semantic understanding, multidimensional data interpretation, and human-machine interactions. Furthermore, your innovative efforts will be applied to a spectrum of practical use cases, serving pivotal industries such as finance, oil and gas, environmental science, and healthcare, thereby driving forward the frontier of impactful AI solutions in real-world scenarios.\n\no Engage in the design, analysis and optimization of foundational and applied research to power the state-of-the-art AI algorithms and model capabilities at Inception. This will involve staying well-informed of emerging trends, understanding and manipulating complex datasets, and conceptualizing models that are both innovative and applicable to real-world scenarios.\n\no Work on comprehensive solutions that integrate various modalities, including text, audio, and visual data, enhancing the AI's ability to understand and interpret human interaction in a more nuanced manner.\n\no Collaborate with researchers and engineers across teams at Inception for the design, development, and continual improvement of AI algorithms, ensuring the implementations of such algorithms are optimized for efficiency, reliability, and scalability.\n\no Work alongside product development teams to integrate new algorithms and models into broader product offerings, and conduct proofs of concept (POC) as per client needs, ensuring that these innovations translate into tangible benefits for users and stakeholders.\n\no Propose scenarios where AI techniques could improve the efficiency of the customer’s business.\n\no Provide pre-sales and post-sales technical support to the business development team.\n\nQualifications:\n\r\n\nWhat We’re Looking For\n\nThe criteria for your success would include cost savings achieved, number of use cases investigated & datasets mined, number of innovations/POCs deployed, number of existing processes optimized, and customer NPS.\n\nTo qualify, you must have\n\no M.Sc. or Ph.D. degree in computer science, engineering, or AI-related field. Specialization in Computer Vision, Natural Language Processing or Speech and Audio are highly desirable.\n\no Minimum 8 years of experience in developing AI algorithms for various modalities\n\no Track record of conducting high-level research, preferably evidenced by publications in peer-reviewed journals or a history of product-driven research and development.\n\nIdeally, you’ll also need\n\no A highly curious and inquisitive approach to problem-solving\n\no In-depth knowledge of the latest developments in AI and machine learning\n\no Excellent communication skills\n\nWhy Inception42\n\nInception42 is building AI systems designed for practical deployment at scale — across industries, infrastructure, and national-level initiatives.\n\nIf you want to work close to both advanced AI capability and real-world execution, we’d like to hear from you."
   },
   {
-   "id": "g42:3243",
+   "id": "g42:1336",
    "source": "g42",
    "company": "G42 · Inception42",
    "via": "",
-   "title": "Lead Applied Scientist",
+   "title": "Senior Applied Scientist",
    "field": "Data & AI",
    "country_code": "AE",
    "country": "United Arab Emirates",
@@ -6835,12 +6766,12 @@
     "Abu Dhabi, Abu Dhabi, United Arab Emirates"
    ],
    "workplace_type": "",
-   "category": "Information Technology Operations",
+   "category": "Data Analytics/Business Intelligence and Data Science",
    "posted_date": "2026-09-04",
-   "summary": "Join our team as a Lead Applied Scientist to drive advanced AI research and lead teams in developing transformative deep-learning and generative AI solutions. Shape research strategy, architect next-generation AI systems, and mentor multidisciplinary teams. Ideal for experienced AI professionals with a strong technical foundation and proven leadership in AI research.",
-   "url": "https://careers.g42.ai/global/en/job/3243",
+   "summary": "Join our team as a Senior Applied Scientist to drive innovation in AI and deep learning, developing advanced algorithms and models for diverse applications. Collaborate with product teams and contribute to impactful research. Ideal for experienced professionals with a strong background in AI research and development.",
+   "url": "https://careers.g42.ai/global/en/job/1336",
    "first_seen": "2026-10-04T17:59:24Z",
-   "description": "Inception, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview:\n\r\n\nAbu Dhabi\n\nInception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception42 functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception42 is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview\n\nInception is seeking an exceptional and visionary Lead Applied Scientist to spearhead advanced AI research and guide teams in developing transformative deep-learning and generative AI solutions. This leadership role calls for a seasoned expert with a strong technical foundation and proven ability to translate cutting-edge research into scalable, high-impact applications. As a Lead Applied Scientist, you will architect next-generation AI systems, drive innovation pipelines, and mentor a team of scientists and engineers to deliver breakthroughs aligned with Inception’s mission.\n\nResponsibilities:\n\r\n\nWhat You’ll Own\n\nAs a Lead Applied Scientist, you will play a pivotal role in shaping Inception’s research strategy and leading teams to deliver state-of-the-art AI systems. Your focus will be on innovation leadership, strategic execution, and advancing foundational AI capabilities across multimodal domains.\n\nStrategic Research Leadership: Define and drive Inception’s applied AI research roadmap, identifying emerging technologies and methodologies that strengthen the company’s position as a regional AI leader.\n\nModel Innovation & System Design: Architect and oversee the development of next-generation generative and deep-learning models that integrate multiple modalities (vision, language, audio, and sensor data).\n\nTeam Leadership & Mentorship: Lead, mentor, and inspire a multidisciplinary team of scientists and engineers to achieve ambitious R&D milestones and foster a culture of curiosity, collaboration, and excellence.\n\nCross-Functional Collaboration: Partner with product, engineering, and business teams to translate research into deployable AI systems and enterprise-grade products.\n\nScalable Deployment: Ensure model scalability, reliability, and efficiency through rigorous experimentation, model optimization, and operational excellence.\n\nInnovation Advocacy: Represent Inception in external forums, research partnerships, and conferences, advancing thought leadership and collaborative engagements with universities and industry partners.\n\nImpact Measurement: Evaluate project success through measurable outcomes such as innovation impact, deployment efficiency, IP generation, and customer satisfaction.\n\nQualifications:\n\r\n\nWhat We’re Looking For\n\n• Ph.D. or M.Sc. in Computer Science, Engineering, or AI-related discipline, with specialization in Machine Learning, Computer Vision, NLP, or Multimodal AI.\n• Minimum 10–12 years of experience in AI research and product development, with at least 3 years leading R&D teams or major AI projects.\n• Demonstrated expertise in designing and deploying large-scale AI models and systems.\n• Proven record of research contributions—publications, patents, or industry innovation initiatives.\n\nIdeally, you’ll also need:\n\n• Deep understanding of emerging AI paradigms including foundation models, generative architectures, and reasoning systems.\n• Strong strategic thinking, project management, and leadership skills.\n• Excellent communication and stakeholder management capabilities.\n• Experience in AI commercialization, from research conceptualization to production deployment.\n\nWhy Inception42\n\nInception42 is building AI systems designed for practical deployment at scale — across industries, infrastructure, and national-level initiatives.\n\nIf you want to work close to both advanced AI capability and real-world execution, we’d like to hear from you.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception community.\n\nWhat Working At Inception Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
+   "description": "Overview:\n\r\n\nInception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception42 functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception42 is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview\n\nInception is seeking a highly proficient and accomplished Sr. Applied Scientist, with a proven track record, to develop efficient deep-learning and generative AI algorithms and conceive innovative AI-centric models. This role offers a unique opportunity to work closely with our product development teams, applying emerging technologies across a diverse range of applications.\n\nResponsibilities:\n\r\n\nWhat You’ll Own\n\nIn the Sr. Applied Scientist role you will play a crucial part in pioneering research and development across various facets of AI, including but not limited to computer vision, natural language processing, and audio signal processing. Your work will involve the creation and optimization of cutting-edge AI algorithms and deep learning models, contributing to advancements in areas such as semantic understanding, multidimensional data interpretation, and human-machine interactions. Furthermore, your innovative efforts will be applied to a spectrum of practical use cases, serving pivotal industries such as finance, oil and gas, environmental science, and healthcare, thereby driving forward the frontier of impactful AI solutions in real-world scenarios.\n\no Engage in the design, analysis and optimization of foundational and applied research to power the state-of-the-art AI algorithms and model capabilities at Inception. This will involve staying well-informed of emerging trends, understanding and manipulating complex datasets, and conceptualizing models that are both innovative and applicable to real-world scenarios.\n\no Work on comprehensive solutions that integrate various modalities, including text, audio, and visual data, enhancing the AI's ability to understand and interpret human interaction in a more nuanced manner.\n\no Collaborate with researchers and engineers across teams at Inception for the design, development, and continual improvement of AI algorithms, ensuring the implementations of such algorithms are optimized for efficiency, reliability, and scalability.\n\no Work alongside product development teams to integrate new algorithms and models into broader product offerings, and conduct proofs of concept (POC) as per client needs, ensuring that these innovations translate into tangible benefits for users and stakeholders.\n\no Propose scenarios where AI techniques could improve the efficiency of the customer’s business.\n\no Provide pre-sales and post-sales technical support to the business development team.\n\nQualifications:\n\r\n\nWhat We’re Looking For\n\n• M.Sc. or Ph.D. degree in computer science, engineering, or AI-related field. Specialization in Computer Vision, Natural Language Processing or Speech and Audio are highly desirable.\n• Minimum 8 years of experience in developing AI algorithms for various modalities\n• Knowledge on Agentic AI designs and protocols (MCP, A2A, agentic orchestration)\n• Hands on experience with python for prototyping and implementing GenAI solutions\n• Expertise optimizing advanced RAG architectures and designing information retrieval system\n• Experience integrating Agentic solutions on enterprise data platforms (Fabric, Snowflake, Databricks..)\n• Understanding on the latest Agentic and RAG research and innovation areas\n• Track record of conducting high-level research, preferably evidenced by publications in peer-reviewed journals or a history of product-driven research and development.\n\nIdeally, you’ll also need\n\nA highly curious and inquisitive approach to problem-solving\n\nIn-depth knowledge of the latest developments in AI and machine learning\n\nWhy Inception42\n\nInception42 is building AI systems designed for practical deployment at scale — across industries, infrastructure, and national-level initiatives.\n\nIf you want to work close to both advanced AI capability and real-world execution, we’d like to hear from you."
   },
   {
    "id": "g42:3302",
@@ -6864,6 +6795,29 @@
    "url": "https://careers.g42.ai/global/en/job/3302",
    "first_seen": "2026-10-04T17:59:24Z",
    "description": "Inception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inception42.ai\n\nOverview:\n\r\n\nWe are looking for a Data Engineer who can build scalable data pipelines while also developing intelligent AI solutions using Azure Agent Foundry, OpenAI services, LangChain, Databricks, and modern cloud architectures. The ideal candidate has strong data engineering foundations combined with hands-on experience designing and deploying enterprise-grade AI systems.\n\nResponsibilities:\n\r\n\nWhat You’ll Own\n\n• Develop and deploy AI agents using Azure Agent Foundry, OpenAI, LangChain, and N8N.\n• Build RAG pipelines, embeddings, vector database integrations, and knowledge graph solutions.\n• Design and maintain scalable data pipelines, ETL/ELT workflows, and data architectures.\n• Build and maintain APIs and data services supporting AI and analytics workloads.Optimize ML workflows on Azure Databricks and integrate with Azure Fabric.\n• Ensure data quality, reliability, governance, and compliance across all systems.\n• Collaborate with data scientists, ML engineers, and product teams to deliver intelligent features.\n• Support MLOps and DevOps processes including CI/CD, model lifecycle management, and containerized deployments.\n\nQualifications:\n\r\n\nWhat We’re Looking For\n\n• Bachelor’s in Computer Science, Engineering, Data Science, or related field.\n• 3+ years experience in Data Engineering, AI Engineering, or ML Engineering roles.\n• Experience delivering scalable AI/data solutions in cloud environments (Azure preferred).\n• Strong proficiency in Python, SQL, PySpark, and ML/AI frameworks.\n• Experience with Azure Agent Foundry, OpenAI APIs, LLMOps, RAG systems, and vector databases.\n• Hands-on experience with Azure Databricks, Azure cloud services, and data platforms.Knowledge of big data tools (Spark, Hadoop, Flink) and modern data storage (SQL, NoSQL).\n• Experience with REST/GraphQL APIs, Kafka/RabbitMQ, Docker/Kubernetes.\n• Solid understanding of data modeling, ETL, and data quality best practices.Strong problem-solving, communication, and cross-functional collaboration skills.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception42 community.\n\nWhat Working At Inception42 Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
+  },
+  {
+   "id": "g42:3243",
+   "source": "g42",
+   "company": "G42 · Inception42",
+   "via": "",
+   "title": "Lead Applied Scientist",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "Information Technology Operations",
+   "posted_date": "2026-09-04",
+   "summary": "Join our team as a Lead Applied Scientist to drive advanced AI research and lead teams in developing transformative deep-learning and generative AI solutions. Shape research strategy, architect next-generation AI systems, and mentor multidisciplinary teams. Ideal for experienced AI professionals with a strong technical foundation and proven leadership in AI research.",
+   "url": "https://careers.g42.ai/global/en/job/3243",
+   "first_seen": "2026-10-04T17:59:24Z",
+   "description": "Inception, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview:\n\r\n\nAbu Dhabi\n\nInception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception42 functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception42 is committed to creating positive societal impact. For more information, please visit www.inceptionai.ai\n\nOverview\n\nInception is seeking an exceptional and visionary Lead Applied Scientist to spearhead advanced AI research and guide teams in developing transformative deep-learning and generative AI solutions. This leadership role calls for a seasoned expert with a strong technical foundation and proven ability to translate cutting-edge research into scalable, high-impact applications. As a Lead Applied Scientist, you will architect next-generation AI systems, drive innovation pipelines, and mentor a team of scientists and engineers to deliver breakthroughs aligned with Inception’s mission.\n\nResponsibilities:\n\r\n\nWhat You’ll Own\n\nAs a Lead Applied Scientist, you will play a pivotal role in shaping Inception’s research strategy and leading teams to deliver state-of-the-art AI systems. Your focus will be on innovation leadership, strategic execution, and advancing foundational AI capabilities across multimodal domains.\n\nStrategic Research Leadership: Define and drive Inception’s applied AI research roadmap, identifying emerging technologies and methodologies that strengthen the company’s position as a regional AI leader.\n\nModel Innovation & System Design: Architect and oversee the development of next-generation generative and deep-learning models that integrate multiple modalities (vision, language, audio, and sensor data).\n\nTeam Leadership & Mentorship: Lead, mentor, and inspire a multidisciplinary team of scientists and engineers to achieve ambitious R&D milestones and foster a culture of curiosity, collaboration, and excellence.\n\nCross-Functional Collaboration: Partner with product, engineering, and business teams to translate research into deployable AI systems and enterprise-grade products.\n\nScalable Deployment: Ensure model scalability, reliability, and efficiency through rigorous experimentation, model optimization, and operational excellence.\n\nInnovation Advocacy: Represent Inception in external forums, research partnerships, and conferences, advancing thought leadership and collaborative engagements with universities and industry partners.\n\nImpact Measurement: Evaluate project success through measurable outcomes such as innovation impact, deployment efficiency, IP generation, and customer satisfaction.\n\nQualifications:\n\r\n\nWhat We’re Looking For\n\n• Ph.D. or M.Sc. in Computer Science, Engineering, or AI-related discipline, with specialization in Machine Learning, Computer Vision, NLP, or Multimodal AI.\n• Minimum 10–12 years of experience in AI research and product development, with at least 3 years leading R&D teams or major AI projects.\n• Demonstrated expertise in designing and deploying large-scale AI models and systems.\n• Proven record of research contributions—publications, patents, or industry innovation initiatives.\n\nIdeally, you’ll also need:\n\n• Deep understanding of emerging AI paradigms including foundation models, generative architectures, and reasoning systems.\n• Strong strategic thinking, project management, and leadership skills.\n• Excellent communication and stakeholder management capabilities.\n• Experience in AI commercialization, from research conceptualization to production deployment.\n\nWhy Inception42\n\nInception42 is building AI systems designed for practical deployment at scale — across industries, infrastructure, and national-level initiatives.\n\nIf you want to work close to both advanced AI capability and real-world execution, we’d like to hear from you.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception community.\n\nWhat Working At Inception Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
   },
   {
    "id": "g42:3334",
@@ -7002,29 +6956,6 @@
    "url": "https://jobs.smartrecruiters.com/ifs1/744000143758225",
    "first_seen": "2026-10-04T17:59:24Z",
    "description": "Job Description\nWe're looking for an Engineering Leader who is equal parts technical leader and people leader — and who sees AI as a fundamental part of how modern software is built, not a bolt-on. This is a player-coach role — you'll lead one or more autonomous product teams while maintaining the technical depth of a Principal Engineer or Architect. You won't just manage engineers; you'll guide architectural decisions, set the technical bar, and help shape how we build enterprise software at IFS.\n\nAI fluency is central to this role. You'll be expected to drive AI adoption across your teams — from AI-assisted development workflows that accelerate delivery, to AI-powered product capabilities that create customer value. You need to understand AI/ML integration patterns (RAG, agentic architectures, evaluation harnesses), guide your engineers in using AI tools effectively and responsibly, and ensure your teams can build, test, and validate AI-driven features. This isn't about hype — it's about making AI a practical, embedded part of how your teams work and what they ship.\n\nYour teams own the full delivery lifecycle — design, development, testing, deployment, and operations. You'll ensure they have the clarity, context, and conditions to deliver great work, while taking direct responsibility for hiring, developing, and retaining the engineers on your teams.\n\nThis is not a role for managers who have left the code behind. You'll be expected to participate in design reviews, evaluate architectural trade-offs, unblock complex technical problems, and stay hands-on with modern engineering practices — including the AI tools and techniques your teams use daily.\n\nWhat You'll Do\n\n• Lead and grow engineers — hire, onboard, coach, and develop Software Engineers across the full career ladder, from associate through to senior lead level\n• Own delivery outcomes — ensure your teams deliver high-quality software at a sustainable pace, balancing technical quality with business value\n• Drive technical quality — participate in architectural reviews, guide technology choices, and ensure teams follow modern engineering practices (CI/CD, automated testing, observability, infrastructure as code)\n• Champion AI fluency — drive adoption of AI-assisted development across your teams, ensure engineers can build and validate AI-powered product features, and foster a culture where AI is a practical tool, not a buzzword\n• Remove obstacles — resolve cross-team dependencies, shield teams from organizational noise, and ensure engineers can focus on what matters\n• Shape engineering culture — foster continuous learning, healthy debate, and a \"you build it, you run it\" mindset\n• Partner cross-functionally — work closely with Product Management, Design, Architecture, and senior leadership to align technical execution with product strategy\n• Develop specialisms — help engineers identify and grow deep expertise in areas such as front-end, back-end, data engineering, applied AI, platform/SRE, security, and more\n\nQualifications\nRequired Qualifications\n\n• Significant experience in software engineering, with a track record of operating at Principal Engineer or Architect level — system design, cross-team architectural thinking, and technology strategy\n• Proven experience managing and developing engineering teams (typically 5+ engineers), including hiring, performance management, and career development\n• Strong hands-on background in modern software development: cloud-native architectures, microservices, API-first design, CI/CD, containerization, and infrastructure as code\n• Proficiency in one or more modern programming languages (e.g., Go, Python, Java, C#, TypeScript) — you should be able to read, review, and reason about production code\n• Demonstrated AI fluency — hands-on experience with AI-assisted development tools, understanding of AI/ML integration patterns (RAG, agents, prompt engineering, evaluation), and a track record of driving AI adoption within engineering teams\n• Experience leading teams that own the full delivery lifecycle: development, testing, deployment, and production operations\n• Excellent communication skills — able to articulate technical concepts to non-technical stakeholders and translate business needs into engineering direction\n• A coaching mindset — you measure your success by the growth and output of your team, not your personal technical contributions\n\nPreferred Qualifications\n\n• Experience in enterprise software or SaaS product development at scale\n• Experience building or leading teams that build AI-powered product capabilities — MLOps pipelines, AI safety and governance practices, or AI evaluation frameworks\n• Background in multiple engineering disciplines (e.g., front-end and back-end, or platform and application development)\n• Experience with event-driven architectures, message brokers, and streaming platforms\n• Track record of modernising legacy systems or migrating to cloud-native architectures\n• Experience engaging directly with enterprise customers in technical discussions, workshops, or co-creation sessions\n• Familiarity with security practices (OWASP, threat modelling, security tooling in CI/CD)\n• Experience with organizational design — team structures, team topologies, and scaling engineering organizations\n\nWhat We're Looking For in You\n\n• You're technically deep but your ambition is to multiply the impact of others, not just your own\n• You lead with context, not control — you set direction and trust your teams to execute\n• You're comfortable with healthy tension and constructive debate; you optimize for better decisions, not comfortable meetings\n• You're AI-native — you use AI tools in your own work and you're energized by helping others do the same\n• You stay curious — you're continuously learning and you expect the same from your teams\n• You've got grit — you navigate ambiguity, remove blockers, and keep teams moving forward\n\nAdditional Information\nWe embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships."
-  },
-  {
-   "id": "syscolabs:R263032",
-   "source": "syscolabs",
-   "company": "Sysco LABS",
-   "via": "",
-   "title": "Intern - Software Engineering",
-   "field": "Software Development",
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "countries": [
-    "Sri Lanka"
-   ],
-   "locations": [
-    "Sysco LABS  -  Sri Lanka"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-08-14",
-   "summary": "",
-   "url": "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Software-Engineering_R263032",
-   "first_seen": "2026-10-04T17:59:24Z",
-   "description": "JOB DESCRIPTION\n\nIntern – Software Engineering\n\nThe Big Picture\n\nSysco LABS is the Global In-House Center of Sysco Corporation (NYSE: SYY), the world’s largest foodservice company. Sysco ranks 56th in the Fortune 500 list and is the global leader in the trillion-dollar foodservice industry. \n\nSysco employs over 75,000 associates, has 337 smart distribution facilities worldwide and over 14,000 IoT-enabled trucks serving 730,000 customer locations. For fiscal year 2025 that ended June 29, 2025, the company generated sales of more than $81.4 billion. \n\nSysco LABS Sri Lanka delivers the technology that powers Sysco’s end-to-end operations. Sysco LABS’ enterprise technology is present in the end-to-end foodservice journey, enabling the sourcing of food products, merchandising, storage and warehouse operations, order placement and pricing algorithms, the delivery of food and supplies to Sysco’s global network and the in-restaurant dining experience of the end-customer. \n\nResponsibilities:\n\n•\nDesigning scalable, robust and cost-effective solutions, in collaboration with the senior engineering staff\n\n•\nImplementing solutions based on the design, adhering to engineering best practices, Continuous Integration and Continuous Delivery\n\n•\nWriting unit, integration, and functional tests for the solutions\n\n•\nWorking collaboratively in a cross functional team environment\n\n•\nAdhering to DevOps principles and being involved with projects during their full software lifecycle from development, QA, and deployment\n\nRequirements:\n\n•\nSound knowledge of Object-Oriented Programming using Java\n\n•\nSound knowledge of the fundamentals of JavaScript\n\n•\nA basic working proficiency of RDBMS technology\n\n•\nKnowledge of NodeJS would be an added advantage\n\nBenefits: \n\n•\nAn attractive allowance \n\n•\nPaid birthday leave \n\n•\nExposure to the corporate culture of a Fortune 100 company \n\n•\nAn opportunity to work with and learn from industry specialists, and develop professionally in your chosen field \n\n•\nOpportunities to network and build lasting professional relationships \n\n•\nA progressive culture that promotes work-life harmony and personal development \n\nSysco LABS is an Equal Opportunity Employer"
   },
   {
    "id": "accenture:13825607-1",
@@ -7393,29 +7324,6 @@
    "url": "https://careers.g42.ai/global/en/job/3210",
    "first_seen": "2026-10-04T17:59:24Z",
    "description": "We are seeking highly skilled Engineers / / Senior Engineer / Lead Engineer to support the implementation of OT Cybersecurity solutions across utility environment and master control centers. The role involves hands-on deployment, configuration, and integration of cybersecurity technologies, infrastructure design, commissioning, and documentation. Candidates must have a strong background in operational technology (OT), instrumentation, and experience working in high and low voltage substations.\n\nOverview:\n\r\n\nResponsibilities:\n\r\n\nQualifications:\n\r\n\nSkills/Certifications (Technical & Non-Technical)\n\nTechnical Skills / Core Competencies\n\n• Demonstrated on-site execution in brownfield substations / utility environments (HV/LV interfaces awareness, safe work in operational sites).\n• Strong capability in panel/cabinet build supervision, cabling, termination practices, labeling, testing, and as-built documentation.\n• Proven ability to prepare HLD/LLD, implementable drawings, and engineering documentation packs.\n• Understanding of OT network architecture principles (segmentation, zones/conducts), and integration constraints in utilities.\n• Experience supporting FAT/SAT and commissioning activities with structured evidence and acceptance documentation.\n• HSE / Compliance (Mandatory or Highly Preferred)\n• Strong working knowledge of PTW systems, method statements and risk assessments for live utility sites\n• Familiarity with UAE utility HSE expectations including OSHAD-aligned requirements and client safety governance.\n• Utility Competency Certificate (e.g., Transco Competent Person or equivalent) OR demonstrable eligibility to obtain (substation experience, PTW exposure, toolbox talks, etc.).\n• NEBOSH IGC (or equivalent) and OSHAD registration card\n• First Aid / Fire Fighting certificates (as commonly requested for utility site roles).\n• Strong ownership mindset, coordination with multiple stakeholders (client/OEM/subcontractors), and ability to execute under schedule constraints.\n• High attention to detail in drawings, cabling schedules, labeling, and evidence packs.\n• Clear communication and disciplined reporting for site progress, risks, and dependencies\n\nMinimum Work Experience\n\n• 7–12 years in cyber infrastructure / OT infrastructure / electrical-telecom execution in utilities, substations, rail, or industrial environments.\n• Proven track record delivering brownfield site implementation including cabling/panels and commissioning support.\n• Experience in data center infrastructure (rack/cabling/network build) supporting cyber platforms is a strong advantage.\n\nEducation\n\n• Bachelor’s degree in electrical engineering / Electronics / Instrumentation / Telecom / Computer Engineering (or equivalent relevant discipline)..\n• Relevant OT cybersecurity certifications (at least one):\n\n• ISA 62443 , GICSP ,CISSP"
-  },
-  {
-   "id": "syscolabs:R256591",
-   "source": "syscolabs",
-   "company": "Sysco LABS",
-   "via": "",
-   "title": "Intern - Software Engineering",
-   "field": "Software Development",
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "countries": [
-    "Sri Lanka"
-   ],
-   "locations": [
-    "Sysco LABS  -  Sri Lanka"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-06-30",
-   "summary": "",
-   "url": "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Software-Engineering_R256591",
-   "first_seen": "2026-10-04T17:59:24Z",
-   "description": "JOB DESCRIPTION\n\nIntern – Software Engineering\n\nThe Big Picture\n\nSysco LABS is the Global In-House Center of Sysco Corporation (NYSE: SYY), the world’s largest foodservice company. Sysco ranks 56th in the Fortune 500 list and is the global leader in the trillion-dollar foodservice industry. \n\nSysco employs over 75,000 associates, has 337 smart distribution facilities worldwide and over 14,000 IoT-enabled trucks serving 730,000 customer locations. For fiscal year 2025 that ended June 29, 2025, the company generated sales of more than $81.4 billion. \n\nSysco LABS Sri Lanka delivers the technology that powers Sysco’s end-to-end operations. Sysco LABS’ enterprise technology is present in the end-to-end foodservice journey, enabling the sourcing of food products, merchandising, storage and warehouse operations, order placement and pricing algorithms, the delivery of food and supplies to Sysco’s global network and the in-restaurant dining experience of the end-customer. \n\nResponsibilities:\n\n•\nDesigning scalable, robust and cost-effective solutions, in collaboration with the senior engineering staff\n\n•\nImplementing solutions based on the design, adhering to engineering best practices, Continuous Integration and Continuous Delivery\n\n•\nWriting unit, integration, and functional tests for the solutions\n\n•\nWorking collaboratively in a cross functional team environment\n\n•\nAdhering to DevOps principles and being involved with projects during their full software lifecycle from development, QA, and deployment\n\nRequirements:\n\n•\nSound knowledge of Object-Oriented Programming using Java\n\n•\nSound knowledge of the fundamentals of JavaScript\n\n•\nA basic working proficiency of RDBMS technology\n\n•\nKnowledge of NodeJS would be an added advantage\n\nBenefits: \n\n•\nAn attractive allowance \n\n•\nPaid birthday leave \n\n•\nExposure to the corporate culture of a Fortune 100 company \n\n•\nAn opportunity to work with and learn from industry specialists, and develop professionally in your chosen field \n\n•\nOpportunities to network and build lasting professional relationships \n\n•\nA progressive culture that promotes work-life harmony and personal development \n\nSysco LABS is an Equal Opportunity Employer"
   },
   {
    "id": "g42:3198",
