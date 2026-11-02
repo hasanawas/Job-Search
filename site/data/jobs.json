@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T08:44:58Z",
+ "updated_at": "2026-11-02T22:33:19Z",
  "fields": [
   "Cybersecurity",
   "Data & AI",
@@ -21,9 +21,9 @@
    "id": "eand",
    "company": "e& (Etisalat)",
    "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 1,
    "listed": 7,
    "in_location": 7,
@@ -34,12 +34,12 @@
    "id": "fortinet",
    "company": "Fortinet",
    "careers_page": "https://www.fortinet.com/corporate/careers",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 13,
-   "listed": 1052,
-   "in_location": 20,
+   "listed": 1056,
+   "in_location": 21,
    "it": 13,
    "new": 0
   },
@@ -47,74 +47,74 @@
    "id": "g42",
    "company": "G42",
    "careers_page": "https://careers.g42.ai/global/en/home",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
-   "it_jobs": 44,
-   "listed": 54,
-   "in_location": 46,
-   "it": 44,
-   "new": 0
+   "last_ok_at": "2026-11-02T22:33:19Z",
+   "it_jobs": 45,
+   "listed": 55,
+   "in_location": 47,
+   "it": 45,
+   "new": 1
   },
   {
    "id": "ifs",
    "company": "IFS",
    "careers_page": "https://www.ifs.com/en/about/careers",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
-   "it_jobs": 26,
-   "listed": 256,
-   "in_location": 40,
-   "it": 26,
-   "new": 1
+   "last_ok_at": "2026-11-02T22:33:19Z",
+   "it_jobs": 27,
+   "listed": 251,
+   "in_location": 41,
+   "it": 27,
+   "new": 2
   },
   {
    "id": "accenture",
    "company": "Accenture",
    "careers_page": "https://www.accenture.com/ae-en/careers",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
-   "it_jobs": 30,
-   "listed": 32,
-   "in_location": 32,
-   "it": 30,
-   "new": 2
+   "last_ok_at": "2026-11-02T22:33:19Z",
+   "it_jobs": 31,
+   "listed": 35,
+   "in_location": 35,
+   "it": 31,
+   "new": 1
   },
   {
    "id": "syscolabs",
    "company": "Sysco LABS",
    "careers_page": "https://syscolabs.lk/careers",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 35,
    "listed": 42,
    "in_location": 42,
    "it": 35,
-   "new": 1
+   "new": 0
   },
   {
    "id": "presight",
    "company": "Presight",
    "careers_page": "https://careers.presight.ai/",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 1,
    "listed": 2,
    "in_location": 2,
    "it": 1,
-   "new": 0
+   "new": 1
   },
   {
    "id": "khazna",
    "company": "Khazna Data Centers",
    "careers_page": "https://khaznadatacenters.com/careers/",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 0,
    "listed": 7,
    "in_location": 7,
@@ -125,12 +125,12 @@
    "id": "m42",
    "company": "M42",
    "careers_page": "https://careers.m42.ae/jobs",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 2,
-   "listed": 93,
-   "in_location": 87,
+   "listed": 95,
+   "in_location": 89,
    "it": 2,
    "new": 0
   },
@@ -138,35 +138,35 @@
    "id": "astratech",
    "company": "Astra Tech",
    "careers_page": "https://careers.astratech.ae/jobs",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 5,
-   "listed": 28,
-   "in_location": 23,
+   "listed": 27,
+   "in_location": 22,
    "it": 5,
-   "new": 1
+   "new": 0
   },
   {
    "id": "amazon",
    "company": "Amazon",
    "careers_page": "https://www.amazon.jobs/content/en/locations/united-arab-emirates",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 30,
-   "listed": 138,
-   "in_location": 138,
+   "listed": 141,
+   "in_location": 141,
    "it": 30,
-   "new": 2
+   "new": 0
   },
   {
    "id": "apple",
    "company": "Apple",
    "careers_page": "https://jobs.apple.com/en-ae/search?location=united-arab-emirates-ARE",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 0,
    "listed": 54,
    "in_location": 27,
@@ -177,35 +177,35 @@
    "id": "edge",
    "company": "EDGE",
    "careers_page": "https://careers.edgegroup.ae/go/View-All-Jobs/4166222/",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
-   "it_jobs": 46,
-   "listed": 176,
-   "in_location": 176,
-   "it": 46,
-   "new": 1
+   "last_ok_at": "2026-11-02T22:33:19Z",
+   "it_jobs": 48,
+   "listed": 179,
+   "in_location": 179,
+   "it": 48,
+   "new": 2
   },
   {
    "id": "adnoc",
    "company": "ADNOC",
    "careers_page": "https://jobs.adnoc.ae/us/en/search-results",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
-   "it_jobs": 7,
-   "listed": 87,
-   "in_location": 87,
-   "it": 7,
-   "new": 0
+   "last_ok_at": "2026-11-02T22:33:19Z",
+   "it_jobs": 10,
+   "listed": 77,
+   "in_location": 77,
+   "it": 10,
+   "new": 3
   },
   {
    "id": "michaelpage",
    "company": "Michael Page (recruiter)",
    "careers_page": "https://www.michaelpage.ae/jobs/technology/united-arab-emirates",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 16,
    "listed": 26,
    "in_location": 26,
@@ -216,25 +216,25 @@
    "id": "fab",
    "company": "First Abu Dhabi Bank (FAB)",
    "careers_page": "https://www.bankfab.com/en-ae/about-fab/careers",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
-   "it_jobs": 7,
-   "listed": 81,
-   "in_location": 79,
-   "it": 7,
-   "new": 0
+   "last_ok_at": "2026-11-02T22:33:19Z",
+   "it_jobs": 8,
+   "listed": 84,
+   "in_location": 82,
+   "it": 8,
+   "new": 1
   },
   {
    "id": "altayer",
    "company": "Al Tayer Group",
    "careers_page": "https://www.altayer.com/careers",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 3,
-   "listed": 61,
-   "in_location": 61,
+   "listed": 62,
+   "in_location": 62,
    "it": 3,
    "new": 0
   },
@@ -242,12 +242,12 @@
    "id": "maf",
    "company": "Majid Al Futtaim",
    "careers_page": "https://careers.majidalfuttaim.com/global/en/home",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 16,
-   "listed": 248,
-   "in_location": 156,
+   "listed": 252,
+   "in_location": 158,
    "it": 16,
    "new": 0
   },
@@ -255,9 +255,9 @@
    "id": "nyuad",
    "company": "NYU Abu Dhabi",
    "careers_page": "https://nyuad.nyu.edu/en/about/careers.html",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 1,
    "listed": 25,
    "in_location": 25,
@@ -268,22 +268,22 @@
    "id": "salt",
    "company": "SALT (recruiter)",
    "careers_page": "https://welovesalt.com/job-category/united-arab-emirates",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
-   "it_jobs": 21,
-   "listed": 21,
-   "in_location": 21,
-   "it": 21,
-   "new": 0
+   "last_ok_at": "2026-11-02T22:33:19Z",
+   "it_jobs": 22,
+   "listed": 22,
+   "in_location": 22,
+   "it": 22,
+   "new": 1
   },
   {
    "id": "charterhouse",
    "company": "Charterhouse (recruiter)",
    "careers_page": "https://www.charterhouseme.ae/jobs/information-technology",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 0,
    "listed": 0,
    "in_location": 0,
@@ -294,9 +294,9 @@
    "id": "nvidia",
    "company": "NVIDIA",
    "careers_page": "https://jobs.nvidia.com/careers",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 2,
    "listed": 2,
    "in_location": 2,
@@ -307,9 +307,9 @@
    "id": "enec",
    "company": "ENEC",
    "careers_page": "https://careers.enec.ae/search/",
-   "checked_at": "2026-11-02T08:44:58Z",
+   "checked_at": "2026-11-02T22:33:19Z",
    "ok": true,
-   "last_ok_at": "2026-11-02T08:44:58Z",
+   "last_ok_at": "2026-11-02T22:33:19Z",
    "it_jobs": 6,
    "listed": 55,
    "in_location": 55,
@@ -318,6 +318,282 @@
   }
  ],
  "jobs": [
+  {
+   "id": "g42:3492",
+   "source": "g42",
+   "company": "G42 · CPX",
+   "via": "",
+   "title": "Manager - AI & Automation",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "MBZ City, Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "Information Technology Operations",
+   "posted_date": "2026-11-02",
+   "summary": "Take on the role of Manager - AI & Automation to lead the design, development, and deployment of AI and automation solutions within a Managed Security Service Provider. Oversee multidisciplinary teams, drive security-focused AI initiatives, and ensure robust, secure, and scalable AI-enabled security operations. Ideal for experienced leaders in AI, automation, and security operations.",
+   "url": "https://careers.g42.ai/global/en/job/3492",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "Overview:\n\r\n\nThe Manager - AI & Automation is responsible for leading the design, development, deployment, governance, and continuous improvement of AI and automation capabilities within a multi-customer Managed Security Service Provider, or MSSP, Security Operations Center.\n\nThe role combines technical leadership, security operations, AI engineering, service management, customer engagement, and people management. The manager will lead a multidisciplinary team responsible for developing and operating AI agents, agentic workflows, security automation, SOAR playbooks, detection engineering solutions, and AI-assisted incident response capabilities.\n\nThe role has two primary areas of focus:\n\n• AI for Security: Applying AI, agents, automation, orchestration, and machine learning to improve alert triage, investigation, threat hunting, detection engineering, incident response, reporting, and SOC efficiency.\n• Security for AI: Protecting AI applications, agents, models, retrieval systems, APIs, tools, data, and supporting infrastructure against misuse, unauthorized access, data leakage, prompt injection, excessive agency, model manipulation, and supply-chain risks.\n\nThe manager is accountable for ensuring that AI-enabled SOC capabilities are secure, reliable, explainable, auditable, cost-effective, tenant-aware, and governed through appropriate Human-in-the-Loop and Human-on-the-Loop controls.\n\nResponsibilities:\n\r\n\nAI and Automation Service Leadership\n\n• • Translate the AI and automation strategy into roadmaps, engineering backlogs, delivery plans, and measurable outcomes.\n• Manage the delivery and continuous improvement of AI agents, agentic workflows, integrations, SOAR playbooks, and security automation.\n• Prioritize initiatives based on security value, customer impact, operational risk, analyst effort, scalability, complexity, and cost.\n\nVendor-Agnostic Agent Engineering\n\n• Lead the architecture and hands-on development of enterprise-grade AI agents and agentic workflows for security operations.\n• Build agents from scratch using a vendor-agnostic approach, avoiding unnecessary dependency on a single model provider, cloud platform, orchestration product, or security vendor.\n• Design solutions that allow models, tools, data sources, prompts, and orchestration components to be replaced or upgraded with limited impact.\n• Apply abstraction layers, standard interfaces, structured outputs, reusable tools, model gateways, and portable integration patterns.\n• Evaluate and select agent development frameworks based on the use case, security requirements, maintainability, performance, licensing, and operational cost.\n• Develop agents using common frameworks such as Agno, LangChain, LangGraph, Google Agent Development Kit, OpenAI Agents SDK, and Mastra.\n• Guide the design of single-agent and multi-agent architectures for triage, enrichment, investigation, threat hunting, detection engineering, case management, reporting, and response recommendations.\n• Ensure agents preserve customer context, tenant boundaries, evidence traceability, and decision history.\n• Integrate agents with SIEM, SOAR, EDR/XDR, NDR, cloud security, identity, email security, threat intelligence, vulnerability management, ITSM, and collaboration platforms.\n\nSecure Development and Production Operations\n\n• Establish secure development practices covering version control, peer review, automated testing, secrets management, CI/CD, staged deployment, change control, and rollback.\n• Define evaluation criteria for accuracy, groundedness, consistency, evidence quality, tool selection, action success, latency, resilience, security, and cost.\n• Ensure agents are tested against incomplete, ambiguous, conflicting, malicious, and customer-specific inputs.\n• Implement production safeguards such as execution boundaries, approval gates, rate limits, timeouts, circuit breakers, kill switches.\n\nQualifications:"
+  },
+  {
+   "id": "ifs:744000159100950",
+   "source": "ifs",
+   "company": "IFS",
+   "via": "",
+   "title": "Senior UX Designer - Research-Led (IGT1)",
+   "field": "UI/UX Design",
+   "country_code": "LK",
+   "country": "Sri Lanka",
+   "countries": [
+    "Sri Lanka"
+   ],
+   "locations": [
+    "Port City, Western Province, Sri Lanka"
+   ],
+   "workplace_type": "Hybrid",
+   "category": "Design",
+   "posted_date": "2026-11-02",
+   "summary": "",
+   "url": "https://jobs.smartrecruiters.com/IFS1/744000159100950--senior-ux-designer-research-led-igt1-",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "Job Description\nAbout the role:\n\nWe're looking for a UX Designer who thrives on understanding people. You're at your best when talking to users, uncovering their needs, and translating those insights into better products. Research isn't just part of your process, it's what drives your decisions.\n\nIn this role, you'll lead the research side of our design practice, from planning studies and running usability tests to uncovering insights that directly influence our product direction. You'll also help shape how AI can enhance research by making it faster, more scalable, and more effective, while ensuring that human judgment remains at the center of every decision.\n\nKey Responsibilities:\n\nWhat you'll do\n\n• Lead user research activities, including interviews, contextual inquiries, field studies, and usability testing (moderated and unmoderated).\n• Design and execute research plans that answer real product questions, from participant recruitment and study design to scripts, tasks, and analysis.\n• Turn qualitative and quantitative findings into clear insights, customer journeys, opportunities, and actionable recommendations.\n• Validate concepts, designs, and prototypes early and frequently, then measure success through post-release research.\n• Leverage AI throughout the research process, including transcription, tagging, clustering, synthesis, interview preparation, and test design, while critically evaluating outputs and safeguarding participant privacy.\n• Build and maintain a scalable research practice through templates, research repositories, standards, and shared ways of working.\n• Collaborate closely with product owners, developers, and designers in an agile environment, ensuring the voice of the user is represented in product decisions, refinements, and roadmap discussions.\n• Advocate for evidence-based decision making and help foster a culture of continuous learning and user-centered design.\n\nQualifications\n• 3+ years of experience in UX Research, or UX Design with a strong research focus.\n• A bachelor’s in Human-Computer Interaction (HCI), User Experience Design, Interaction Design, Design Research, or a related field. Equivalent practical experience will also be considered.\n• Strong expertise across a variety of research methods and the ability to choose the right approach for the problem at hand.\n• Proven ability to transform complex and sometimes ambiguous user feedback into compelling insights and clear recommendations.\n• Practical experience using AI tools to support research workflows, combined with a healthy skepticism and understanding of their limitations.\n• Solid understanding of research ethics, informed consent, accessibility, and data privacy regulations such as GDPR.\n• Strong prototyping and design skills, with experience using tools such as Figma to explore, test, and validate ideas.\n• Excellent communication and storytelling skills, enabling you to influence stakeholders across disciplines.\n• Fluency in English, both written and spoken.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
+  },
+  {
+   "id": "ifs:744000159088559",
+   "source": "ifs",
+   "company": "IFS",
+   "via": "",
+   "title": "Copy of Forward Deployed AI Engineer - IFS Loops",
+   "field": "Data & AI",
+   "country_code": "LK",
+   "country": "Sri Lanka",
+   "countries": [
+    "Sri Lanka"
+   ],
+   "locations": [
+    "Colombo, Western Province, Sri Lanka"
+   ],
+   "workplace_type": "Hybrid",
+   "category": "Marketing",
+   "posted_date": "2026-11-02",
+   "summary": "",
+   "url": "https://jobs.smartrecruiters.com/IFS1/744000159088559-copy-of-forward-deployed-ai-engineer-ifs-loops",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "Job Description\nAbout the Role\n\nAs a Forward Deployed AI Engineer, you’ll work directly with enterprise customers to deliver custom, production-ready AI solutions that solve real-world problems. You’ll lead the design and deployment of intelligent agents across customer workflows—owning everything from discovery and prototyping to configuration, testing, and launch.\n\nThis is a fast-paced, hands-on role that combines engineering, customer collaboration, and applied AI. You will serve as a critical link between our product and the customer’s needs—ensuring rapid value delivery and laying the foundation for long-term success.\n\nWhat You’ll Do\n\n• Partner with enterprise customers to scope and implement AI Agent use cases across complex workflows\n• Integrate IFS Loops platform with customer systems\n• Tune agent behavior and logic to deliver measurable outcomes (e.g., lower costs, increase in efficiency, fewer errors)\n• Troubleshoot deployments and iterate quickly to ensure performance, accuracy, and user adoption\n• Collaborate closely with Product, Engineering, and Customer Success to feed customer insights into the roadmap\n• Document technical decisions and hand off stable deployments to customer engineering or support teams\n\nQualifications\nWhat We’re Looking For\n\n• 2–5 years of experience in a software engineering, solutions engineering, or ML deployment role\n• Proficiency in Python and working knowledge of AI/ML frameworks (e.g. OpenAI, Hugging Face, LangChain, Pinecone, Weaviate, etc.)\n• Familiarity with building LLM applications, RAG systems, or conversational AI workflows\n• Experience integrating with enterprise systems via APIs or middleware (e.g. Salesforce, ServiceNow, SAP, Oracle)\n• Ability to translate business problems into technical solutions—and deliver them fast\n• Strong interpersonal skills; you’re just as comfortable on a whiteboard with a customer as you are in code\n• Bias toward action, ownership, and continuous learning in dynamic environments\n\nNice to Have\n\n• Background in SaaS, customer experience, support operations, or manufacturing systems\n• Experience deploying AI in mission-critical environments\n• Prior work with enterprise AI platforms or multi-agent orchestration\n\nAdditional Information\nWe embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships."
+  },
+  {
+   "id": "accenture:R00364640",
+   "source": "accenture",
+   "company": "Accenture",
+   "via": "",
+   "title": "Security Delivery SOC L1",
+   "field": "Cybersecurity",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Jeddah"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-02",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jeddah/Security-Delivery-SOC-L1_R00364640",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "Role Summary\n\nResponsible for monitoring security events, triaging alerts, conducting initial investigations, responding to security incidents, and escalating advanced threats to senior SOC analysts.\n\nKey Responsibilities\n\nMonitor and analyze security alerts from SOC monitoring tools.\n\nPerform initial triage, investigation, and incident validation.\n\nExecute containment actions for low-complexity incidents.\n\nEscalate complex security events to L2/L3 teams.\n\nDocument incidents and maintain accurate case records.\n\nEducation: Bachelor’s degree in Cybersecurity, Computer Science, Information Technology, or any other related field.\n\nExperience: Fresh graduates to 3 years of experience in cybersecurity, preferably within a SOC environment.\n\nTechnical Knowledge: Basic understanding of cybersecurity concepts, including networking, operating systems (Windows/Linux), security threats, vulnerabilities, and incident response fundamentals.\n\nSecurity Tools: Basic familiarity with SIEM solutions (e.g., Splunk, Microsoft Sentinel, QRadar) and security monitoring tools is preferred.\n\nCore Skills: Basic log analysis, alert triage, incident identification, and investigation capabilities.\n\nCertifications (Preferred): Security+, SC-200, CEH, or other entry-level cybersecurity certifications.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
+  {
+   "id": "presight:3412",
+   "source": "presight",
+   "company": "Presight",
+   "via": "",
+   "title": "Senior Engineer - Full Stack",
+   "field": "Software Development",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "On-site",
+   "category": "",
+   "posted_date": "2026-11-02",
+   "summary": "",
+   "url": "https://iaambv.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3412",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "Role: Senior Engineer - Full Stack\n\nLocation: Abu Dhabi\n\nAbout Presight\n\nPresight is an ADX-listed public company with Abu Dhabi based G42 as its majority shareholder and is the region’s leading big data analytics company powered by GenAI. It combines big data, analytics, and AI expertise to serve every sector, of every scale, to create business and positive societal impact. Presight excels at all-source data interpretation to support insight-driven decision-making that shapes policy and creates safer, healthier, happier, and more sustainable societies. Today, through its range of GenAI-driven products and solutions, Presight is bringing Applied AI to the private and public sector, enabling them to realize their AI strategy and ambitions faster.\n\nThe Opportunity:\n\nPresight is seeking a strongly customer-focused, self-driven and results-oriented Senior Full Stack Engineer.\n\nResponsibilities\nKey Responsibilities:\n\nAs a Senior Full Stack Engineer, you will work within the development team to build the annotation platform on both sides front-end and back-end. Collaborating with Product Managers, Architects and Software Engineers to research, design, implement and improve functionalities of the annotation platform as part of a Big Data analytic system.\n\nFunctional\n\n• Own scoped features end to end: from requirements and technical design through implementation, testing, release, and production follow-up.\n• Build responsive, accessible interfaces for annotation and data-review workflows.\n• Develop backend services, RESTful APIs, data models, and asynchronous workflows.\n• Collaborate with Product, Design, and Engineering to clarify requirements, address edge cases, and deliver complete user journeys.\n• Use AI development tools to accelerate implementation, testing, debugging, and documentation while remaining accountable for quality.\n• Write automated tests, participate in code reviews, and apply security, privacy, performance, and reliability practices.\n• Troubleshoot issues across the stack and improve features based on production behavior and user feedback.\n• Follow applicable company policies and engineering standards.\n• Comply with QHSE (Quality Health Safety and Environment), Business Continuity, Information Security, Privacy, Risk, Compliance Management and Governance of Organizations policies, procedures, plans and related risk assessments.\n\nQualifications\nRequirements:\n\n•\nBachelor’s degree in information technology, Computer Science, Engineering or related field.\n\n•\nStrong computer science and basic algorithms knowledge.\n\n•\n7+ years of professional software development experience, including delivering features across frontend and backend.\n\n•\nA full-stack ownership mindset, with the ability to move between application layers and follow work through to production.\n\n•\nStrong JavaScript and TypeScript skills, alongside HTML, CSS, and web fundamentals.\n\n•\nExperience with component-based frontend development, preferably React and Next.js, including state management, data fetching, and client/server rendering concepts.\n\n•\nStrong backend development experience with Java and Spring Boot, alongside working proficiency in Python for AI agent orchestration, LLM integrations, and supporting backend services.\n\n•\nPractical knowledge of OOP concepts, SOLID principles, and modular design.\n\n•\nUnderstanding of modular monoliths and microservices, including service boundaries and architectural trade-offs.\n\n•\nWorking knowledge of relational databases, data modelling, RESTful APIs, authentication, and authorization.\n\n•\nFamiliarity with message brokers, such as RabbitMQ or Kafka, and asynchronous processing concepts, including retries and idempotency.\n\n•\nExperience with automated testing, Git, code reviews, and debugging across the stack.\n\n•\nAn AI-driven development mindset, with practical experience using coding assistants or agents and independently reviewing and validating their outputs.\n\n•\nClear communication, collaborative problem-solving, and the ability to explain technical trade-offs, raise risks early, and work effectively with product, design, and engineering teams.\n\nIdeally, you’ll also need\n\n• Experience building data-intensive applications.\n• Experience integrating AI or LLM capabilities into applications.\n• Familiarity with UI component libraries and design systems, such as Ant Design.\n• Experience with CI/CD pipelines, Docker, cloud platforms, and application monitoring.\n\nJoin us at Presight, where we offer a culture of innovation, outstanding career growth opportunities, and competitive rewards. If you're eager to conquer new frontiers in AI and thrive in a dynamic environment, we welcome you to our community.\n\nWhat working at Presight offers:\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Accelerate your career through high-impact projects and access to resources for continuous growth and learning opportunities.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more."
+  },
+  {
+   "id": "edge:733613122",
+   "source": "edge",
+   "company": "EDGE · ADASI",
+   "via": "",
+   "title": "Senior Systems Engineer - System Safety Analysis",
+   "field": "Systems & Infrastructure",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "ADASI",
+   "posted_date": "2026-11-02",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Systems-Engineer-System-Safety-Analysis-Abu/733613122/",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAbout ADASI"
+  },
+  {
+   "id": "edge:733615022",
+   "source": "edge",
+   "company": "EDGE · ADASI",
+   "via": "",
+   "title": "Senior System Engineer - Test Equipment Development",
+   "field": "Systems & Infrastructure",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "ADASI",
+   "posted_date": "2026-11-02",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-System-Engineer-Test-Equipment-Development-Abu/733615022/",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAbout ADASI"
+  },
+  {
+   "id": "adnoc:32438",
+   "source": "adnoc",
+   "company": "ADNOC",
+   "via": "",
+   "title": "Specialist, Business Development (LNG, LPG & Infrastructure)",
+   "field": "Systems & Infrastructure",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "External",
+   "category": "Other",
+   "posted_date": "2026-11-02",
+   "summary": "Become part of our team as a Specialist, Business Development (LNG, LPG & Infrastructure), where you will analyse business data to assess performance and support strategic planning. Ideal candidates bring strong analytical skills and experience in business performance analysis within the energy or logistics sector.",
+   "url": "https://jobs.adnoc.ae/us/en/job/32438",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "About the Company:\n\r\n\nWe are a global energy maritime logistics leader with a world-class asset base. We are the dedicated and vital logistics arm for ADNOC Group, providing mission critical and highly specialized services across ADNOC’s entire value chain. We also provide market-leading, cost-competitive maritime and logistics solutions to over 100 global customers and ship to more than 50 countries across the world.\n\nAs a global energy maritime logistics leader and the dedicated and vital logistics arm for ADNOC Group, we are driven to set the highest standards in shipping and maritime operations, pushing boundaries and pioneering new frontiers in sustainability. We are committed to delivering world-class solutions that are innovative and efficient, while always putting safety first.\n\nAbout the Job:\n\r\n\nAnalyse business data to assess performance of business lines. To enable business units to monitor their performance. Increase data availability through gathering multiple sources and ensure data quality. Diagnose business performance issues through data analysis of business operations generated data and recommend corrective measures and support BU’s during the implementation phase. Provide support for strategic and operational planning through Data analysis of historical business transactional data, market trends and develop factual business scenarios for senior management decision making.\n\nJob Specific Accountabilities:\n\r\n\n• Development of dashboards and business reports for the organization: Support the business intelligence team of ITD in developing and maintaining the right dashboards and business performance reports.\n\n• Decision making support: coordinate with different BU and governmental agencies in gathering data and information that relate to our business and ensure data quality.\n\n• Help in developing sales budget forecasts by coordinating with Business units in gathering the right market intelligence that help fine tune mathematical forecasts to set BU targets as per the requirements.\n\n• Collaborate with all business units in ADNOC L&S and commercial, Operations, Asset Integrity, Legal, Finance and HSE to develop Initiatives.\n\n• Continuously conduct macro, trends, market, competitor, and business development analysis; develop financial models to assess the viability of various business cases.\n\n• Follow up with Business Units management on status and issues related to Business Support studies and support businesses in implementing recommendations/corrective actions and gather any new requirement to improve business performance issues.\n\n• Work with Policy, BPR, Business Development and Market research team and provide support in data analysis and development of mathematical models and creation of the business scenarios.\n\n• Recommend policy / procedure / systemic interventions, wherever necessary and provide insights drawn out of actual and real time data for formulation of right policy.\n\nMinimum Requirements:\n\r\n\n• Bachelor’s in Business Economics/ Mathematics is must, MBA is preferable. Very strong and proven high level analytical and mathematical/statistical skills essential\n\n• 6 years of experience in information analysis and business performance.\n\n• Knowledge of statistical techniques, modelling, research design and analysis is a must.\n\n• Knowledge of SAS or any statistical software is an advantage.\n\n• Training/presentation and communication skills.\n\n• Fluency in English, both written and verbal.\n\n• Knowledge of Arabic would be advantageous."
+  },
+  {
+   "id": "fab:2800",
+   "source": "fab",
+   "company": "First Abu Dhabi Bank (FAB)",
+   "via": "",
+   "title": "AVP, Screening Optimization & Analytics",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-02",
+   "summary": "",
+   "url": "https://ehjd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/2800",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "JOB SUMMARY / INTRODUCTION\n\nTo support the Tuning, Calibration & Analytics function within Financial Crime Operations by performing tuning, calibration, optimization and analytics activities across the Group’s sanctions screening and AML monitoring platforms. The role deploys and maintains fit-for-purpose screening and monitoring configurations, carries out periodic tuning and calibration to improve the quality and effectiveness of alerts while reducing false positives, and produces analytics and management information for defined stakeholders, taking into account global regulatory requirements and the Bank’s policies.\n\nKEY RESPONSIBILITIES\n\nJob Specific Accountabilities\n\nPolicies, Systems, Process & Procedures\n\n• Follow all relevant departmental policies, processes, standard operating procedures, and instructions so that the work is carried out in a controlled and consistent manner.\n• Continuous Improvement\n• Support the Tuning, Calibration & Analytics function within Financial Crime Operations in identifying continuous improvement and sustainability opportunities across the related systems, processes and practices.\n• Support the implementation of the Group’s sanctions screening and AML monitoring systems roadmap as agreed with Financial Crime Operations management and keep the VP & Head of Tuning, Calibration & Analytics updated.\n• Work proactively with Group IT and other stakeholders on screening and monitoring system projects to draw up BRD/FSD documentation and ensure fit-for-purpose sanctions screening and AML monitoring systems are designed.\n• Deliver mandated sanctions screening and AML monitoring tuning and optimization projects, coordinating with relevant stakeholders to ensure smooth and proper delivery, and provide periodic status updates to the VP & Head of Tuning, Calibration & Analytics.\n• Deliver relevant user training to all the affected users to ensure smooth go live.\n• Ensure all relevant screening and monitoring system changes required in the existing platforms as per business requirements are well co-ordinated a change requests with Group IT, setting timelines, creating programme structures and installing/updating systems architecture where appropriate to support financial crime control capabilities for major changes.\n•\nEnsure fit-for-purpose algorithms, parameters, thresholds and rules are deployed for the Group as agreed with the VP & Head of Tuning, Calibration & Analytics and relevant stakeholders, and drive continuous tuning and calibration of screening and AML monitoring systems to improve the quality of alerts.\nEnsure sanctions screening systems effectively screen information against Bank-approved global lists and individual country lists for all FAB locations locally and internationally.\n\nTechnology\n\n• Assist in producing procedures and processes aligned to Group Policy for the Tuning, Calibration & Analytics function within Financial Crime Operations.\n• Assist in exercises such as the design and system architecture of sanctions screening and AML monitoring systems by consulting with relevant business users.\n•\nEnsure proper UAT sessions and exercises for sanctions screening and AML monitoring system implementations.\nManage periodic testing of screening and AML monitoring systems, including data testing, quality and completeness, underlying models, logic, thresholds and rules etc.\n\nData Analysis\n\n• Perform periodic testing of payment/customer screening and AML monitoring systems to identify, record, risk assess and close gaps found.\nCarry out ongoing tuning and calibration of payment/customer screening and AML monitoring systems to maintain consistency, appropriate efficiency and effectiveness.\n• In conjunction with the VP & Head of Tuning, Calibration & Analytics, provide support to all FAB’s local and international locations for country-specific configuration and the related performance of screening and monitoring systems, understanding and adequately addressing their requirements with regard to international sanctions and AML.\n• Advise and partner with related IT teams on system selections, minor or major systemic changes or upgrades, new system implementations, and any initiatives impacting the performance of the sanctions screening and AML monitoring systems.\nReporting\n• Collaborate with Financial Crime Operations SMEs to develop tuning, calibration and analytics MI dashboards.\n• Develop periodic reporting plan and maintain the schedule and workflow for multiple reports.\n• Populate management information dashboards by extracting relevant data from source systems including using logical queries and basic programming.\n• Collaborate with Financial Crime Operations colleagues to obtain information to populate dashboards.\n•\nSubmit MI dashboards to the VP & Head of Tuning, Calibration & Analytics for review.\n\nREQUIREMENTS / QUALIFICATIONS\n\n• Bachelor’s degree in Computer Science/Technology, Data Analytics or a related discipline.\n• At least 4 years of experience in data analysis, data management and sanctions screening and/or AML monitoring systems, including tuning, calibration and threshold management.\n• Strong knowledge of sanctions, AML monitoring concepts and financial crime control environments.\n• Strong knowledge and experience of screening and monitoring platforms (e.g. Fircosoft filter, Firco Utilities and backends, or equivalent screening/AML monitoring tools).\n•\nGood knowledge of SQL and Power BI.\n\nPreferred / Beneficial\n\n• ICA, CAMS or equivalent Financial Crime Compliance certification is an advantage.\n•\nScripting languages (Python, Bash, KSH, PowerShell) and exposure to machine learning or advanced analytics are a plus.\n\nSkills\n\n• Data analysis\n• Data management\n• Sanctions screening\n• AML monitoring systems\n• Tuning\n• Calibration\n• Threshold management\n• Sanctions\n• AML monitoring concepts\n• Financial crime control environments\n• Screening and monitoring platforms\n• Fircosoft filter\n• Firco Utilities and backends\n• SQL\n• Power BI\n• Python\n• Bash\n• KSH\n• PowerShell\n• Machine learning\n• Advanced analytics"
+  },
+  {
+   "id": "salt:715813",
+   "source": "salt",
+   "company": "SALT (recruiter)",
+   "via": "",
+   "title": "Machine Learning Operations Engineer",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "United Arab Emirates, Dubai"
+   ],
+   "workplace_type": "",
+   "category": "DevOps & Automation",
+   "posted_date": "2026-11-02",
+   "summary": "",
+   "url": "https://welovesalt.com/jobs/machine-learning-operations-engineer-715813",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "Job Purpose Develop, productionize and operate machine learning solutions across the full lifecycle, from problem framing and model development through deployment, monitoring and continuous improvement. The role bridges Data Science and MLOps, with greater emphasis on hands-on machine learning, Python engineering and practical model delivery than on deep infrastructure or platform administration. Ideally, they are looking for candidates with a strong Data Science / Machine Learning background, with hands-on experience in developing ML models and deploying them into production. Key Responsibilities: Design, develop and validate machine learning models for banking and customer-focused use cases. Work with business and product stakeholders to translate requirements into measurable ML solutions and success criteria. Prepare data, engineer features, select appropriate algorithms and conduct robust model evaluation and explainability analysis. Convert notebooks and prototypes into modular, tested and maintainable Python code suitable for production. Build reproducible training and inference pipelines for batch and, where required, real-time use cases. Deploy models on AWS using appropriate managed services, containers, APIs or scheduled processing patterns. Implement model versioning, experiment tracking, approval gates and release processes in collaboration with MLOps and platform teams. Monitor model performance, data quality, drift, service health and business outcomes; support retraining and remediation when required. Create clear technical documentation covering assumptions, methodology, validation evidence, deployment design and operational controls. Follow information security, data privacy, Responsible AI, model risk and audit requirements applicable to a regulated banking environment. Collaborate with Data Scientists, Data Engineers, MLOps Engineers, Architecture, Information Security and Model Validation teams The ideal profile should be somewhere between a Data Scientist and an MLOps Engineer, with the following skills: Strong ML and Data Science background, including hands-on model development. Strong Python skills and experience deploying ML models into production. Good AWS knowledge, preferably with SageMaker experience. Dataiku experience is a plus, but not mandatory. Banking experience is preferred, but not mandatory. Deep expertise in Kubernetes, infrastructure engineering or platform administration is no longer a priority. Required Skills: Strong hands-on Python for machine learning and production-quality software development. Solid knowledge of supervised and unsupervised learning, feature engineering, model selection, cross-validation, and performance metrics. Practical experience with common ML libraries such as scikit-learn, XGBoost, LightGBM, pandas and NumPy, deep learning frameworks where relevant. Good SQL skills and experience working with large, complex datasets. Experience productionizing models, including packaging, APIs, batch inference, containers, and automated pipelines. Hands-on AWS knowledge, preferably including SageMaker, S3, ECR, ECS/EKS or Lambda, Step Functions and CloudWatch. Experience with Git-based development, code reviews, automated testing, and CI/CD fundamentals. Understanding of model monitoring, data/model drift, explainability, reproducibility and model lifecycle governance. Ability to communicate technical findings clearly to both technical and business stakeholders. 6-7+ years across Data Science, Machine Learning Engineering, or applied ML roles, with evidence of models deployed into production. Experience delivering end-to-end ML use cases rather than working only on infrastructure or platform administration. Experience in banking, financial services or another regulated industry is preferred. Understanding of model governance, validation and documentation expectations in controlled environments is advantageous. Key Deliverables: Production-ready ML models aligned with agreed business and technical requirements. Reproducible training, validation and inference pipelines with appropriate testing and version control. Deployed batch or real-time inference solutions integrated with the target AWS and enterprise environment. Model monitoring, alerting and retraining approach covering performance, drift and operational health. Complete technical, deployment, and model governance documentation to support validation, approval and production support. Reusable ML engineering components and practical knowledge transfer to internal teams. Salt is acting as an Employment Business in relation to this vacancy."
+  },
+  {
+   "id": "adnoc:33766",
+   "source": "adnoc",
+   "company": "ADNOC",
+   "via": "",
+   "title": "Senior Engineer, Projects QA&QC",
+   "field": "QA & Testing",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "External",
+   "category": "Projects, Engineering & Operations",
+   "posted_date": "2026-10-28",
+   "summary": "Exciting opportunity for a Senior Engineer, Projects QA&QC to provide expertise in developing and implementing quality management requirements for assigned projects. Oversee QA/QC activities, ensure compliance with ISO 9000 and company standards, and supervise project teams. Ideal for candidates with significant QA/QC experience in engineering.",
+   "url": "https://jobs.adnoc.ae/us/en/job/33766",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "Job Purpose\n\r\n\nAbout Company:\n\nFounded in 1971, ADNOC is a leading diversified energy group, wholly owned by the Abu Dhabi Government. Our network of fully integrated businesses operates across the energy value chain, helping us to responsibly meet the demands of an ever-changing energy market.\n\nAlready in the top tier of the lowest carbon intensity oil and gas producers in the world, we are taking significant steps to make today’s energy cleaner while investing in the clean energies of tomorrow, strengthening our position as a reliable and responsible global energy provider.\n\nWe are allocating an initial $23 billion to advance and accelerate lower-carbon solutions, investing in new energies and decarbonization technologies to enable our net zero by 2045 ambition and our commitment to zero methane emissions by 2030.\n\nJob Specific Accountabilities (Part 1)\n\r\n\nAbout the Role:\n\nProvides expertise for the development and implementation of Quality Management requirements on assigned projects. Ensures that the project quality systems meet the requirements of ISO 9000 series and company policies to achieve compliance with agreement, technical integrity and fit for purpose in overall engineering, materials, equipment and constructions.\n\n• Reviews and develops quality specific requirements to be assured by contractors and PMC during design, development, construction and commissioning and ensure preventing non-conformity at all stages of the project.\n\n• Review contractors’ QA/QC plans and procedures as well as inspection, testing procedure and plans to ensure the compatibility of the design, construction with company requirements.\n\n• Monitors implementation of QA/QC activities throughout the projects phases to initiate preventive action and application of effective control.\n\n• Participates in developing company strategy related to vendor and field inspection and selection of TPI agency to ensure that the quality of critical equipment and material are within company specified acceptance criteria.\n\n• Reviews and monitors the performance of PMC control on TPI agencies and prepares feedback on area of concern for appropriate remedial action to ensure the adequacy of utilization and control of TPI resources.\n\n• Handles technical and compliance audit, PMT/audit team and arranges interview and visits for physical verification to ensure that the company quality requirements are established, implemented and evaluated.\n\n• Reviews contractors’ internal / external audit programme. Participates in Contractors audit and provides an independent assessment of audit effectiveness.\n\nSupervision\n\n• Plan, supervise and coordinate all activities in the assigned area to meet functional objectives.\n\n• Train and develop the assigned staff on relevant skills to enable them to become proficient on the job and deliver the respective section objectives.\n\nBudgets\n\n• Provide input for preparation of the Department/ Section budgets and assist in the implementation of the approved Budget and work plans to deliver Section objectives.\n\n• Investigate and highlight any significant variances to support effective performance and cost control.\n\nPolicies, Systems, Processes & Procedures\n\n• Implement approved Department / Section policies, processes, systems, standards and procedures in order to support execution of the Department / Section’s work programs in line with Company and International standards.\n\n• Comply with all applicable legislation and legal regulations.\n\nPerformance Management\n\n• Contribute to the achievement of the approved Performance Objectives for the Department / Section in line with the Company Performance framework.\n\nInnovation and Continuous Improvement\n\n• Design and implement new tools and techniques to improve the quality and efficiency of operational processes.\n\n• Identify improvements in internal processes against best practices in pursuit of greater efficiency in line with ISO standards in order to define intelligent solutions for issues confronting the function.\n\nHealth, Safety, Environment (HSE) and Sustainability\n\n• Comply with relevant HSE policies, procedures & controls and applicable legislation and sustainability guidelines in line with international standards, best practices and ADNOC Code of Practices\n\nReports\n\n• Provide inputs to prepare Section MIS and progress reports for Company Management\n\nMinimum Qualification\n\r\n\nQualification & Experience:\n\nBachelor Degree in Mechanical/Civil or equivalent Engineering Discipline.\n\n6 years of experience, including experience in Quality Assurance/Quality Control (QA/QC)."
+  },
+  {
+   "id": "adnoc:33766",
+   "source": "adnoc",
+   "company": "ADNOC",
+   "via": "",
+   "title": "Senior Engineer, Projects QA&QC",
+   "field": "QA & Testing",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "External",
+   "category": "Projects, Engineering & Operations",
+   "posted_date": "2026-10-28",
+   "summary": "Exciting opportunity for a Senior Engineer, Projects QA&QC to provide expertise in developing and implementing quality management requirements for assigned projects. Oversee QA/QC activities, ensure compliance with ISO 9000 and company standards, and supervise project teams. Ideal for candidates with significant QA/QC experience in engineering.",
+   "url": "https://jobs.adnoc.ae/us/en/job/33766",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "Job Purpose\n\r\n\nAbout Company:\n\nFounded in 1971, ADNOC is a leading diversified energy group, wholly owned by the Abu Dhabi Government. Our network of fully integrated businesses operates across the energy value chain, helping us to responsibly meet the demands of an ever-changing energy market.\n\nAlready in the top tier of the lowest carbon intensity oil and gas producers in the world, we are taking significant steps to make today’s energy cleaner while investing in the clean energies of tomorrow, strengthening our position as a reliable and responsible global energy provider.\n\nWe are allocating an initial $23 billion to advance and accelerate lower-carbon solutions, investing in new energies and decarbonization technologies to enable our net zero by 2045 ambition and our commitment to zero methane emissions by 2030.\n\nJob Specific Accountabilities (Part 1)\n\r\n\nAbout the Role:\n\nProvides expertise for the development and implementation of Quality Management requirements on assigned projects. Ensures that the project quality systems meet the requirements of ISO 9000 series and company policies to achieve compliance with agreement, technical integrity and fit for purpose in overall engineering, materials, equipment and constructions.\n\n• Reviews and develops quality specific requirements to be assured by contractors and PMC during design, development, construction and commissioning and ensure preventing non-conformity at all stages of the project.\n\n• Review contractors’ QA/QC plans and procedures as well as inspection, testing procedure and plans to ensure the compatibility of the design, construction with company requirements.\n\n• Monitors implementation of QA/QC activities throughout the projects phases to initiate preventive action and application of effective control.\n\n• Participates in developing company strategy related to vendor and field inspection and selection of TPI agency to ensure that the quality of critical equipment and material are within company specified acceptance criteria.\n\n• Reviews and monitors the performance of PMC control on TPI agencies and prepares feedback on area of concern for appropriate remedial action to ensure the adequacy of utilization and control of TPI resources.\n\n• Handles technical and compliance audit, PMT/audit team and arranges interview and visits for physical verification to ensure that the company quality requirements are established, implemented and evaluated.\n\n• Reviews contractors’ internal / external audit programme. Participates in Contractors audit and provides an independent assessment of audit effectiveness.\n\nSupervision\n\n• Plan, supervise and coordinate all activities in the assigned area to meet functional objectives.\n\n• Train and develop the assigned staff on relevant skills to enable them to become proficient on the job and deliver the respective section objectives.\n\nBudgets\n\n• Provide input for preparation of the Department/ Section budgets and assist in the implementation of the approved Budget and work plans to deliver Section objectives.\n\n• Investigate and highlight any significant variances to support effective performance and cost control.\n\nPolicies, Systems, Processes & Procedures\n\n• Implement approved Department / Section policies, processes, systems, standards and procedures in order to support execution of the Department / Section’s work programs in line with Company and International standards.\n\n• Comply with all applicable legislation and legal regulations.\n\nPerformance Management\n\n• Contribute to the achievement of the approved Performance Objectives for the Department / Section in line with the Company Performance framework.\n\nInnovation and Continuous Improvement\n\n• Design and implement new tools and techniques to improve the quality and efficiency of operational processes.\n\n• Identify improvements in internal processes against best practices in pursuit of greater efficiency in line with ISO standards in order to define intelligent solutions for issues confronting the function.\n\nHealth, Safety, Environment (HSE) and Sustainability\n\n• Comply with relevant HSE policies, procedures & controls and applicable legislation and sustainability guidelines in line with international standards, best practices and ADNOC Code of Practices\n\nReports\n\n• Provide inputs to prepare Section MIS and progress reports for Company Management\n\nMinimum Qualification\n\r\n\nQualification & Experience:\n\nBachelor Degree in Mechanical/Civil or equivalent Engineering Discipline.\n\n6 years of experience, including experience in Quality Assurance/Quality Control (QA/QC)."
+  },
   {
    "id": "ifs:744000159061950",
    "source": "ifs",
@@ -337,7 +613,7 @@
    "category": "Consulting",
    "posted_date": "2026-11-02",
    "summary": "",
-   "url": "https://jobs.smartrecruiters.com/IFS1/744000159061950-service-delivery-manager",
+   "url": "https://jobs.smartrecruiters.com/ifs1/744000159061950",
    "first_seen": "2026-11-02T08:44:58Z",
    "description": "Job Description\nThe Service Delivery Manager is responsible for advising, guiding and delivering the desired outcome for the Customer/Partner in obtaining the most value out of the IFS Success Service. This role involves comprehensive service planning from an end-to-end delivery perspective. Additionally, the Service Delivery Manager will proactively advise their respective Customers/Partners to make efficient use of the IFS Success Service, identify opportunities to improve processes, practices, and business adoption, and lead service governance for IFS in partnership with Success Managers and executive stakeholders of the Customer/Partner. This process forms the foundation for successful engagements, ultimately leading to customer advocacy and value realization for both the Customer and Partner.\n\nQualifications\n• A university degree or an equivalent professional qualification\n• Minimum of 5 years of experience in service delivery management, preferably within IT services\n• Familiarity with enterprise software solutions is essential\n• An understanding of IFS Applications and/or FSM/PSO APPs, as well as the delivery of the IFS Service Portfolio, is a significant advantage\n• Extensive service experience in working directly with customers at all levels of the customer organization\n• Strong leadership skills\n• A service mindset with commercial thinking\n• Excellent communication and negotiation skills\n• Advanced problem-solving and decision-making abilities along with good situational handling skills\n• The ability to read and understand customer contracts and deliver them in collaboration with IFS Service Teams\n• Ability to work in a fast-paced environment and adapt to changing priorities\n\nAdditional Information\nWe embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships."
   },
@@ -360,7 +636,7 @@
    "category": "",
    "posted_date": "2026-11-02",
    "summary": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/SAP-Solutions-Analyst_R00363436",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/SAP-Solutions-Analyst_R00363436",
    "first_seen": "2026-11-02T08:44:58Z",
    "description": "Role Overview\n\nWe are seeking an experienced SAP Consultant to lead and support the design, implementation, and optimisation of SAP solutions. The successful candidate will bring deep functional and/or technical expertise across SAP modules relevant to operations, including logistics, asset management, procurement, finance, and human resources. You will work closely with client stakeholders, programme managers, and technical teams to deliver mission-critical SAP solutions.\n\nKey Responsibilities\n\n• Lead end-to-end SAP implementation and support projects\n• Gather and translate complex business requirements into SAP functional and technical specifications\n• Configure, test, and deploy SAP modules in line with SAP standards and regulatory frameworks\n• Provide subject matter expertise across relevant SAP modules (listed below)\n• Liaise with stakeholders to manage expectations and drive solution adoption\n• Conduct workshops, training sessions, and user acceptance testing (UAT)\n• Ensure data integrity, security compliance, and audit readiness across all SAP environments\n• Contribute to solution architecture design and continuous improvement initiatives\n• Manage and mentor junior consultants and client-side SAP teams\n\nSAP Modules – Required Knowledge\n\nFinance & Controlling\n\n• SAP FI (Financial Accounting) – General ledger, accounts payable/receivable, asset accounting for assets\n• SAP CO (Controlling) – Cost centre accounting, internal orders, project cost tracking\n• SAP FM (Funds Management) – Budget management, commitment accounting aligned to regulatory spending controls\n• SAP GM (Grants Management) – Funding from agencies\n• SAP PSM (Public Sector Management) –Budget execution and compliance\n\nLogistics & Supply Chain\n\n• SAP MM (Materials Management) – Procurement, inventory management, catalogue management\n• SAP WM / EWM (Warehouse / Extended Warehouse Management) – Depot management, spare parts logistics\n• SAP IM (Inventory Management) – Stock control including serialised and batch-managed items\n• SAP SD (Sales & Distribution) – Inter-agency sales, cross-charging, equipment loans and returns\n• SAP TM (Transportation Management) – Movement of equipment, vehicles, and materiel\n• SAP GTS (Global Trade Services) – Export controls, dual-use goods compliance, ITAR/EAR adherence\n\nPlant Maintenance & Asset Management\n\n• SAP PM (Plant Maintenance) – Equipment maintenance scheduling, corrective and preventive maintenance\n• SAP EAM (Enterprise Asset Management) – Full lifecycle management of assets\n• SAP CS (Customer Service) – Equipment repair and return management\n\nProject & Programme Management\n\n• SAP PS (Project System) – Management of acquisition projects, capital programmes, and R&D\n• SAP PPM (Portfolio & Project Management) – Programme, resource planning, and milestone tracking\n\nHuman Resources & Workforce\n\n• SAP HCM (Human Capital Management) – personnel records, payroll, absence management\n• SAP SuccessFactors – Talent acquisition, performance management, and workforce planning\n\nQuality & Compliance\n\n• SAP QM (Quality Management) – Inspection lots, quality control, supplier qualification\n• SAP GRC (Governance, Risk & Compliance) – Access control, audit management, segregation of duties, regulatory compliance\n\nAnalytics & Reporting\n\n• SAP BW/4HANA – operational reporting and data warehousing\n• SAP Analytics Cloud (SAC) – Dashboards, KPIs, and mission readiness reporting\n\nTechnology & Integration\n\n• SAP S/4HANA – Core ERP platform (on-premise or private cloud for classified environments)\n• SAP BTP (Business Technology Platform) – Integration, automation, and app development\n• SAP PI/PO / Integration Suite – Middleware integration\n• SAP Fiori – Role-based UX for field and operational users\n\nEssential Requirements\n\n• Proven experience (5+ years) delivering SAP solutions in highly regulated environments\n• Deep functional expertise in at least three of the above SAP modules\n• Understanding of procurement frameworks\n• Strong stakeholder management and communication skills at senior/executive level\n• SAP certification in one or more relevant modules (desirable)\n\nDesirable Requirements\n\n• Knowledge of ITIL, PRINCE2, or Agile delivery methodologies\n• Experience with SAP RISE or private cloud deployment\n• Background in logistics, engineering, or programme management\n\nWhat We Offer\n\n• Opportunity to work on high-impact programmes\n• Professional development and SAP certification support\n• [Pension / benefits / flexible working as applicable]\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
   },
@@ -383,7 +659,7 @@
    "category": "",
    "posted_date": "2026-11-02",
    "summary": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/SAP-Solutions-Analyst_R00363432",
+   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/SAP-Solutions-Analyst_R00363432",
    "first_seen": "2026-11-02T08:44:58Z",
    "description": "Role Overview\n\nWe are seeking an experienced SAP Consultant to lead and support the design, implementation, and optimisation of SAP solutions. The successful candidate will bring deep functional and/or technical expertise across SAP modules relevant to operations, including logistics, asset management, procurement, finance, and human resources. You will work closely with client stakeholders, programme managers, and technical teams to deliver mission-critical SAP solutions.\n\nKey Responsibilities\n\n• Lead end-to-end SAP implementation and support projects\n• Gather and translate complex business requirements into SAP functional and technical specifications\n• Configure, test, and deploy SAP modules in line with SAP standards and regulatory frameworks\n• Provide subject matter expertise across relevant SAP modules (listed below)\n• Liaise with stakeholders to manage expectations and drive solution adoption\n• Conduct workshops, training sessions, and user acceptance testing (UAT)\n• Ensure data integrity, security compliance, and audit readiness across all SAP environments\n• Contribute to solution architecture design and continuous improvement initiatives\n• Manage and mentor junior consultants and client-side SAP teams\n\nSAP Modules – Required Knowledge\n\nFinance & Controlling\n\n• SAP FI (Financial Accounting) – General ledger, accounts payable/receivable, asset accounting for assets\n• SAP CO (Controlling) – Cost centre accounting, internal orders, project cost tracking\n• SAP FM (Funds Management) – Budget management, commitment accounting aligned to regulatory spending controls\n• SAP GM (Grants Management) – Funding from agencies\n• SAP PSM (Public Sector Management) –Budget execution and compliance\n\nLogistics & Supply Chain\n\n• SAP MM (Materials Management) – Procurement, inventory management, catalogue management\n• SAP WM / EWM (Warehouse / Extended Warehouse Management) – Depot management, spare parts logistics\n• SAP IM (Inventory Management) – Stock control including serialised and batch-managed items\n• SAP SD (Sales & Distribution) – Inter-agency sales, cross-charging, equipment loans and returns\n• SAP TM (Transportation Management) – Movement of equipment, vehicles, and materiel\n• SAP GTS (Global Trade Services) – Export controls, dual-use goods compliance, ITAR/EAR adherence\n\nPlant Maintenance & Asset Management\n\n• SAP PM (Plant Maintenance) – Equipment maintenance scheduling, corrective and preventive maintenance\n• SAP EAM (Enterprise Asset Management) – Full lifecycle management of assets\n• SAP CS (Customer Service) – Equipment repair and return management\n\nProject & Programme Management\n\n• SAP PS (Project System) – Management of acquisition projects, capital programmes, and R&D\n• SAP PPM (Portfolio & Project Management) – Programme, resource planning, and milestone tracking\n\nHuman Resources & Workforce\n\n• SAP HCM (Human Capital Management) – personnel records, payroll, absence management\n• SAP SuccessFactors – Talent acquisition, performance management, and workforce planning\n\nQuality & Compliance\n\n• SAP QM (Quality Management) – Inspection lots, quality control, supplier qualification\n• SAP GRC (Governance, Risk & Compliance) – Access control, audit management, segregation of duties, regulatory compliance\n\nAnalytics & Reporting\n\n• SAP BW/4HANA – operational reporting and data warehousing\n• SAP Analytics Cloud (SAC) – Dashboards, KPIs, and mission readiness reporting\n\nTechnology & Integration\n\n• SAP S/4HANA – Core ERP platform (on-premise or private cloud for classified environments)\n• SAP BTP (Business Technology Platform) – Integration, automation, and app development\n• SAP PI/PO / Integration Suite – Middleware integration\n• SAP Fiori – Role-based UX for field and operational users\n\nEssential Requirements\n\n• Proven experience (5+ years) delivering SAP solutions in highly regulated environments\n• Deep functional expertise in at least three of the above SAP modules\n• Understanding of procurement frameworks\n• Strong stakeholder management and communication skills at senior/executive level\n• SAP certification in one or more relevant modules (desirable)\n\nDesirable Requirements\n\n• Knowledge of ITIL, PRINCE2, or Agile delivery methodologies\n• Experience with SAP RISE or private cloud deployment\n• Background in logistics, engineering, or programme management\n\nWhat We Offer\n\n• Opportunity to work on high-impact programmes\n• Professional development and SAP certification support\n• [Pension / benefits / flexible working as applicable]\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
   },
@@ -406,7 +682,7 @@
    "category": "",
    "posted_date": "2026-11-02",
    "summary": "",
-   "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Site-Reliability-Engineering_R273165",
+   "url": "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Site-Reliability-Engineering_R273165",
    "first_seen": "2026-11-02T08:44:58Z",
    "description": "JOB DESCRIPTION\n\nIntern – Site Reliability Engineering\n\nThe Big Picture\n\nAbout Sysco LABS:\n\nSysco LABS is the Global In-House Center of Sysco Corporation (NYSE: SYY), the world’s largest foodservice company. Sysco ranks 55th in the Fortune 500 list and is the global leader in the trillion-dollar foodservice industry.\n\nSysco operates 333 distribution centers across 10 countries, with 75,000 colleagues serving approximately 670,000 customer locations, including restaurants, healthcare and educational facilities, lodging establishments, entertainment venues and more. For fiscal year 2026, which ended June 27, 2026, the company generated sales of more than $84 billion.\n\nSysco LABS Sri Lanka delivers the technology that powers Sysco’s end-to-end operations.\n\nSysco LABS’ enterprise technology is present in the end-to-end foodservice journey, enabling the sourcing of food products, merchandising, storage and warehouse operations, order placement and pricing algorithms, the delivery of food and supplies to Sysco’s global network and the in-restaurant dining experience of the end-customer.\n\nThe Opportunity\n\nWe are currently on the lookout for an Intern – Site Reliability Engineering to join our team. Join Sysco Shop’s Site Reliability Engineering Internship Program designed to transform our current L2 Support Team into a proactive, development-minded SRE team. This internship offers IT undergraduates a unique opportunity to gain hands-on experience maintaining the reliability of a billion-dollar application, performing incident management, root cause analysis (RCA), and postmortems.\n\nResponsibilities:\n\n• Taking ownership of a core engineering domain (e.g., User & Permissions), embedded within the product/engineering team\n\n• Troubleshooting and resolving production issues, improving system reliability and performance\n\n• Collaborating with Engineering and SRE/Operations teams to automate repetitive tasks and improve operational processes\n\n• Conducting deep root cause analysis by diving into logs and system performance diagnostics\n\n• Contributing to documentation and runbooks to improve team knowledge and response times\n\n• Supporting IT Service Management (ITSM) processes including incident and change management\n\n• Balancing your time between traditional L2 support and proactive reliability engineering tasks\n\nRequirements:\n\n• Currently pursuing a degree in IT, Computer Science, or a related field\n\n• No prior professional experience required—this internship is designed to teach and grow your skills\n\n• Must be curious and eager to learn about software engineering, DevOps, and operations\n\n• An analytical mindset with an interest in troubleshooting and problem-solving\n\n• Strong communication skills and ability to collaborate across teams\n\nBenefits:\n\n• An attractive allowance\n\n• Paid birthday leave\n\n• Exposure to the corporate culture of a Fortune 100 company\n\n• An opportunity to work with and learn from industry specialists, and develop professionally in your chosen field\n\n• Opportunities to network and build lasting professional relationships\n\n• A progressive culture that promotes work-life harmony and personal development\n\nSysco LABS is an Equal Opportunity Employer."
   },
@@ -1651,29 +1927,6 @@
    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---UX-UI-Engineering_R271758",
    "first_seen": "2026-10-28T19:15:22Z",
    "description": "JOB DESCRIPTION\n\nIntern - UX/UI Engineering\n\nThe Big Picture\n\nAbout Sysco LABS:\n\nSysco LABS is the Global In-House Center of Sysco Corporation (NYSE: SYY), the world’s largest foodservice company. Sysco ranks 55th in the Fortune 500 list and is the global leader in the trillion-dollar foodservice industry.\n\nSysco operates 333 distribution centers across 10 countries, with 75,000 colleagues serving approximately 670,000 customer locations, including restaurants, healthcare and educational facilities, lodging establishments, entertainment venues and more. For fiscal year 2026, which ended June 27, 2026, the company generated sales of more than $84 billion.\n\nSysco LABS Sri Lanka delivers the technology that powers Sysco’s end-to-end operations.\n\nSysco LABS’ enterprise technology is present in the end-to-end foodservice journey, enabling the sourcing of food products, merchandising, storage and warehouse operations, order placement and pricing algorithms, the delivery of food and supplies to Sysco’s global network and the in-restaurant dining experience of the end-customer.\n\nResponsibilities:\n\n• Should have a good working knowledge of Figma and Adobe suite of tools such as Photoshop and illustrator.\n• Will be required to assist or carry out variety of design tasks under guidance or independently. Which may include the following\n\n• Carry out design of UI mockups\n• Carry out basic branding tasks and promotional materials\n• Carry out enhancements to slide decks, and other project related activities\n\n• Will be required to work on converting specific UI designs to code under guidance or independently\n\n• HTML/CSS/SASS/SCSS\n• React Components (would be a helpful addition).\n\n• Will be required to perform certain UX research activities.\n• Basic understanding of design systems is a plus.\n• Basic understanding of how to effectively use AI for design. (optional)\n\nRequirements:\n\n• Require a design portfolio (preferably on Behance or dribbble) with any design work carried out independently or with university work. Include any type of design work (UI, Paintings /drawings, sketches, Video, 3D, crafts etc)\n• A passion for learning about UX and UI Development.\n• A good sense of color coordination.\n• Be able to take on feedback in many iterations and collaboratively work towards delivering good solutions.\n\nBenefits:\n\n• An attractive allowance \n\n• Paid birthday leave \n\n• Exposure to the corporate culture of a Fortune 100 company \n\n• An opportunity to work with and learn from industry specialists, and develop professionally in your chosen field\n\n• Opportunities to network and build lasting professional relationships \n\n• A progressive culture that promotes work-life harmony and personal development \n\n \n\n Sysco LABS is an Equal Opportunity Employer."
-  },
-  {
-   "id": "presight:3407",
-   "source": "presight",
-   "company": "Presight",
-   "via": "",
-   "title": "Engineer - Full Stack",
-   "field": "Software Development",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-10-28",
-   "summary": "",
-   "url": "https://iaambv.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3407",
-   "first_seen": "2026-10-28T19:15:22Z",
-   "description": "Job Description: Engineer - Full Stack\n\nLocation: Abu Dhabi\n\nAbout Presight\n\nPresight is an ADX-listed public company with Abu Dhabi based G42 as its majority shareholder and is the region’s leading big data analytics company powered by GenAI. It combines big data, analytics, and AI expertise to serve every sector, of every scale, to create business and positive societal impact. Presight excels at all-source data interpretation to support insight-driven decision-making that shapes policy and creates safer, healthier, happier, and more sustainable societies. Today, through its range of GenAI-driven products and solutions, Presight is bringing Applied AI to the private and public sector, enabling them to realize their AI strategy and ambitions faster.\n\nThe Opportunity:\n\nPresight is seeking a strongly customer-focused, self-driven and results-oriented Full Stack Engineer.\n\nResponsibilities\nKey Responsibilities:\n\nAs a Full Stack Engineer, you will work within the development team to build the annotation platform on both sides front-end and back-end. Collaborating with Product Managers, Architects and Software Engineers to research, design, implement and improve functionalities of the annotation platform as part of a Big Data analytic system.\n\nFunctional\n\n• Own scoped features end to end: from requirements and technical design through implementation, testing, release, and production follow-up.\n• Build responsive, accessible interfaces for annotation and data-review workflows.\n• Develop backend services, RESTful APIs, data models, and asynchronous workflows.\n• Collaborate with Product, Design, and Engineering to clarify requirements, address edge cases, and deliver complete user journeys.\n• Use AI development tools to accelerate implementation, testing, debugging, and documentation while remaining accountable for quality.\n• Write automated tests, participate in code reviews, and apply security, privacy, performance, and reliability practices.\n• Troubleshoot issues across the stack and improve features based on production behavior and user feedback.\n• Follow applicable company policies and engineering standards.\n• Comply with QHSE (Quality Health Safety and Environment), Business Continuity, Information Security, Privacy, Risk, Compliance Management and Governance of Organizations policies, procedures, plans and related risk assessments.\n\nQualifications\nRequirements:\n\n• Bachelor’s degree in information technology, Computer Science, Engineering or related field.\n• Strong computer science and basic algorithms knowledge.\n• 3+ years of professional software development experience, including delivering features across frontend and backend.\n• A full-stack ownership mindset, with the ability to move between application layers and follow work through to production.\n• Strong JavaScript and TypeScript skills, alongside HTML, CSS, and web fundamentals.\n• Experience with component-based frontend development, preferably React and Next.js, including state management, data fetching, and client/server rendering concepts.\n• Strong backend development experience with Java and Spring Boot, alongside working proficiency in Python for AI agent orchestration, LLM integrations, and supporting backend services.\n• Practical knowledge of OOP concepts, SOLID principles, and modular design.\n• Understanding of modular monoliths and microservices, including service boundaries and architectural trade-offs.\n• Working knowledge of relational databases, data modelling, RESTful APIs, authentication, and authorization.\n• Familiarity with message brokers, such as RabbitMQ or Kafka, and asynchronous processing concepts, including retries and idempotency.\n• Experience with automated testing, Git, code reviews, and debugging across the stack.\n• An AI-driven development mindset, with practical experience using coding assistants or agents and independently reviewing and validating their outputs.\n• Clear communication, collaborative problem-solving, and the ability to explain technical trade-offs, raise risks early, and work effectively with product, design, and engineering teams.\n\nIdeally, you’ll also need\n\n• Experience building data-intensive applications.\n• Experience integrating AI or LLM capabilities into applications.\n• Familiarity with UI component libraries and design systems, such as Ant Design.\n• Experience with CI/CD pipelines, Docker, cloud platforms, and application monitoring.\n\nJoin us at Presight, where we offer a culture of innovation, outstanding career growth opportunities, and competitive rewards. If you're eager to conquer new frontiers in AI and thrive in a dynamic environment, we welcome you to our community.\n\nWhat working at Presight offers:\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Accelerate your career through high-impact projects and access to resources for continuous growth and learning opportunities.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more."
   },
   {
    "id": "edge:733602622",
@@ -3487,7 +3740,7 @@
    "source": "amazon",
    "company": "Amazon",
    "via": "",
-   "title": "Senior Finance Analyst, Data Centre Finance - EMEA",
+   "title": "Senior Finance Analyst (Saudi National Only), Data Centre Finance - EMEA",
    "field": "Systems & Infrastructure",
    "country_code": "SA",
    "country": "Saudi Arabia",
@@ -3501,9 +3754,9 @@
    "category": "Finance & Accounting",
    "posted_date": "2026-10-19",
    "summary": "Do you want to directly influence the future of some of the most successful products in cloud computing? Come join Amazon Web Services Finance! Amazon Web Services (AWS) is a highly reliable, scalable,",
-   "url": "https://www.amazon.jobs/en/jobs/10582845/senior-finance-analyst-data-centre-finance-emea",
+   "url": "https://www.amazon.jobs/en/jobs/10582845/senior-finance-analyst-saudi-national-only-data-centre-finance-emea",
    "first_seen": "2026-10-19T19:36:17Z",
-   "description": "Do you want to directly influence the future of some of the most successful products in cloud computing? Come join Amazon Web Services Finance! Amazon Web Services (AWS) is a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of enterprise, government and start-up business and organizations in over 190 countries around the world. Launched in 2006, Amazon Web Services officially began offering developer customers access to web services – now widely known as cloud computing – based on Amazon’s own back-end technology platform.\n\nOn the AWS Finance team you will be surrounded by people that are exceptionally talented, bright, and driven, and believe that world class support is critical to customer success. To support this quickly growing business, you must be highly analytical and possess a strong passion for analytics and accountability, setting high standards, and razor-sharp accuracy. We take working hard, having fun, and making history seriously and you should too!\n\nWe provide end-to-end financial support driving AWS to be the low cost provider in Cloud computing and leader in customer experience. This includes supporting business owners in building, operating and innovating our Cloud datacenters. We support operations, business development, and engineering. You should be passionate about producing financial analysis enabling management to make breakthrough decisions, drive cash flow, and ultimately delight our customers.\n\nWe are growing rapidly in existing regions as well as expanding into new regions.\n\nAt Amazon, we believe that in-person collaboration is essential to our culture and innovation. While we allow flexibility for personal circumstances, we generally expect employees to work from our offices five days a week. This approach has consistently shown that spontaneous interactions, rapid problem-solving, and the energy of in-person teamwork lead to better results for our customers. In particular, our data shows that teams working together in person are more effective at making complex decisions, onboarding new team members, and fostering the kind of creative collaboration that has driven Amazon's success. The serendipitous hallway conversations and impromptu whiteboarding sessions that happen naturally in an office environment have proven invaluable to our invention process and maintaining our high bar for excellence.\n\nKey job responsibilities\n\n- Serve as a key business partner working directly with regional AWS management and other internal stakeholders to provide financial recommendations\n\n- Report weekly and monthly financial and operating metrics\n\n- Manage the financial planning process. Model, analyze and forecast metrics that drive budgeting, forecasting and business decisions\n\n- Be an integral member in the monthly financial close process and perform ad-hoc projects and analysis as needed\n\n- Analyze business results for key takeaways to achieve business objectives\n\n- Monitor compliance with controls and systems, and developing new processes to support the fast-growing, global AWS business\n\n- Preparing detailed financial models for business segments, drive business initiatives, and identify, implement, and deliver key operational efficiencies\n\nBasic qualifications\n- Bachelor's degree in accounting, information systems, finance, or equivalent\n\n- Experience applying key financial performance indicators (KPIs) to analyses\n\n- Experience in financial modeling, P&L management or analysis\n\n- Experience in creating process improvements with automation and analysis\n\n- Experience in identifying, leading, and executing opportunities to improve, automate, standardize or simplify finance or business tools and processes\n\n- Experience in commercial finance business partnering or FP&A, or experience or equivalent experience in finance roles\n\nPreferred qualifications\n- MBA, or CPA\n\n- Experience participating in continuous improvement projects in your team to scale and improve controllership with measurable results\n\n- Experience with advanced use of SQL for data mining and business intelligence\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
+   "description": "Do you want to directly influence the future of some of the most successful products in cloud computing? Come join Amazon Web Services Finance! Amazon Web Services (AWS) is a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of enterprise, government and start-up business and organizations in over 190 countries around the world. Launched in 2006, Amazon Web Services officially began offering developer customers access to web services – now widely known as cloud computing – based on Amazon’s own back-end technology platform.\n\nOn the AWS Finance team you will be surrounded by people that are exceptionally talented, bright, and driven, and believe that world class support is critical to customer success. To support this quickly growing business, you must be highly analytical and possess a strong passion for analytics and accountability, setting high standards, and razor-sharp accuracy. We take working hard, having fun, and making history seriously and you should too!\n\nWe provide end-to-end financial support driving AWS to be the low cost provider in Cloud computing and leader in customer experience. This includes supporting business owners in building, operating and innovating our Cloud datacenters. We support operations, business development, and engineering. You should be passionate about producing financial analysis enabling management to make breakthrough decisions, drive cash flow, and ultimately delight our customers.\n\nWe are growing rapidly in existing regions as well as expanding into new regions.\n\nAt Amazon, we believe that in-person collaboration is essential to our culture and innovation. While we allow flexibility for personal circumstances, we generally expect employees to work from our offices five days a week. This approach has consistently shown that spontaneous interactions, rapid problem-solving, and the energy of in-person teamwork lead to better results for our customers. In particular, our data shows that teams working together in person are more effective at making complex decisions, onboarding new team members, and fostering the kind of creative collaboration that has driven Amazon's success. The serendipitous hallway conversations and impromptu whiteboarding sessions that happen naturally in an office environment have proven invaluable to our invention process and maintaining our high bar for excellence.\n\nKey job responsibilities\n\n- Serve as a key business partner working directly with regional AWS management and other internal stakeholders to provide financial recommendations\n\n- Report weekly and monthly financial and operating metrics\n\n- Manage the financial planning process. Model, analyze and forecast metrics that drive budgeting, forecasting and business decisions\n\n- Be an integral member in the monthly financial close process and perform ad-hoc projects and analysis as needed\n\n- Analyze business results for key takeaways to achieve business objectives\n\n- Monitor compliance with controls and systems, and developing new processes to support the fast-growing, global AWS business\n\n- Preparing detailed financial models for business segments, drive business initiatives, and identify, implement, and deliver key operational efficiencies\n\nBasic qualifications\n- Bachelor's degree in accounting, information systems, finance, or equivalent\n\n- Experience applying key financial performance indicators (KPIs) to analyses\n\n- Experience in financial modeling, P&L management or analysis\n\n- Experience in creating process improvements with automation and analysis\n\n- Experience in identifying, leading, and executing opportunities to improve, automate, standardize or simplify finance or business tools and processes\n\n- Experience in commercial finance business partnering or FP&A, or experience or equivalent experience in finance roles\n\nPreferred qualifications\n- MBA, or CPA\n\n- Experience participating in continuous improvement projects in your team to scale and improve controllership with measurable results\n\n- Experience with advanced use of SQL for data mining and business intelligence\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nnull"
   },
   {
    "id": "salt:715632",
@@ -5045,29 +5298,6 @@
    "url": "https://jobs.smartrecruiters.com/ifs1/744000154586520",
    "first_seen": "2026-10-09T07:32:04Z",
    "description": "Job Description\nAbout the role:\n\nUltimo is using AI to transform how their own internal teams work across Sales, Services, Support, HR, Finance and Marketing. As Senior AI Business Analyst, you'll own our internal AI products and agents end-to-end from discovery through delivery, launch and adoption. We are not just adding AI to our processes; we are transforming the way our company works.\n\nThe Senior AI Business Analyst turns business problems into valuable and usable AI solutions. Working within the AI Transformation Team, you will work with business stakeholders and technical teams to identify opportunities, define product requirements, prioritise the backlog, and guide AI products from idea to launch and continuous improvement.\n\nKey Responsibilities:\n\n• Collaborating and establishing a clear product vision for the internal AI solutions together with leadership aligned with organizations’ business objectives.\n• Working with internal business stakeholders to understand processes, challenges, and opportunities where AI can create meaningful value.\n• Translating business needs into clear, practical product requirements and solutions.\n• Managing and continuously refining a goal-oriented AI product backlog, prioritising items based on value, impact, risks, and dependencies.\n• Delivering AI product increments in close collaboration with technical teams.\n• Defining clear acceptance criteria and ensuring solutions meet the intended business needs.\n• Supporting the launch and adoption of AI solutions by communicating their purpose, capabilities, and value to users.\n• Gathering feedback and usage insights to continuously improve AI products and identify new opportunities.\n• Keeping up to date with relevant AI developments, including enterprise AI, and identifying practical opportunities to apply them within the business.\n\nQualifications\n• A degree in Computer Science, Information Technology, Business IT & Management, or a comparable field.\n• 4+ years of experience as a Project Manager, Business Analyst, Product Owner, or similar role.\n• Strong experience in requirements analysis, backlog management, and Agile ways of working.\n• Excellent verbal and written communication skills.\n• Experience working in multidisciplinary teams and managing internal and external stakeholders.\n• Strong understanding of business processes and the ability to translate business needs into practical solutions.\n• Demonstrates critical thinking, analytical decision-making, and a value-driven mindset.\n• Experience presenting solutions, facilitating discussions, and gathering feedback from stakeholders.\n• Good understanding of AI concepts and their practical application in business.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
-  },
-  {
-   "id": "ifs:744000154586549",
-   "source": "ifs",
-   "company": "IFS",
-   "via": "",
-   "title": "UX Designer - Research-Led (IGT1)",
-   "field": "UI/UX Design",
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "countries": [
-    "Sri Lanka"
-   ],
-   "locations": [
-    "Port City, Western Province, Sri Lanka"
-   ],
-   "workplace_type": "Hybrid",
-   "category": "Design",
-   "posted_date": "2026-10-09",
-   "summary": "",
-   "url": "https://jobs.smartrecruiters.com/ifs1/744000154586549",
-   "first_seen": "2026-10-09T07:32:04Z",
-   "description": "Job Description\nAbout the role:\n\nWe're looking for a UX Designer who thrives on understanding people. You're at your best when talking to users, uncovering their needs, and translating those insights into better products. Research isn't just part of your process, it's what drives your decisions.\n\nIn this role, you'll lead the research side of our design practice, from planning studies and running usability tests to uncovering insights that directly influence our product direction. You'll also help shape how AI can enhance research by making it faster, more scalable, and more effective, while ensuring that human judgment remains at the center of every decision.\n\nKey Responsibilities:\n\nWhat you'll do\n\n• Lead user research activities, including interviews, contextual inquiries, field studies, and usability testing (moderated and unmoderated).\n• Design and execute research plans that answer real product questions, from participant recruitment and study design to scripts, tasks, and analysis.\n• Turn qualitative and quantitative findings into clear insights, customer journeys, opportunities, and actionable recommendations.\n• Validate concepts, designs, and prototypes early and frequently, then measure success through post-release research.\n• Leverage AI throughout the research process, including transcription, tagging, clustering, synthesis, interview preparation, and test design, while critically evaluating outputs and safeguarding participant privacy.\n• Build and maintain a scalable research practice through templates, research repositories, standards, and shared ways of working.\n• Collaborate closely with product owners, developers, and designers in an agile environment, ensuring the voice of the user is represented in product decisions, refinements, and roadmap discussions.\n• Advocate for evidence-based decision making and help foster a culture of continuous learning and user-centered design.\n\nQualifications\n• 3+ years of experience in UX Research, or UX Design with a strong research focus.\n• A bachelor’s in Human-Computer Interaction (HCI), User Experience Design, Interaction Design, Design Research, or a related field. Equivalent practical experience will also be considered.\n• Strong expertise across a variety of research methods and the ability to choose the right approach for the problem at hand.\n• Proven ability to transform complex and sometimes ambiguous user feedback into compelling insights and clear recommendations.\n• Practical experience using AI tools to support research workflows, combined with a healthy skepticism and understanding of their limitations.\n• Solid understanding of research ethics, informed consent, accessibility, and data privacy regulations such as GDPR.\n• Strong prototyping and design skills, with experience using tools such as Figma to explore, test, and validate ideas.\n• Excellent communication and storytelling skills, enabling you to influence stakeholders across disciplines.\n• Fluency in English, both written and spoken.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
   },
   {
    "id": "edge:733535822",
