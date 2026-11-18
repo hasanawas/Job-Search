@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T21:58:42Z",
+ "updated_at": "2026-11-18T09:38:16Z",
  "fields": [
   "Cybersecurity",
   "Data & AI",
@@ -21,25 +21,25 @@
    "id": "eand",
    "company": "e& (Etisalat)",
    "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 17,
-   "listed": 36,
-   "in_location": 36,
+   "listed": 40,
+   "in_location": 40,
    "it": 17,
-   "new": 5
+   "new": 0
   },
   {
    "id": "fortinet",
    "company": "Fortinet",
    "careers_page": "https://www.fortinet.com/corporate/careers",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 15,
-   "listed": 1083,
-   "in_location": 25,
+   "listed": 1079,
+   "in_location": 26,
    "it": 15,
    "new": 0
   },
@@ -47,12 +47,12 @@
    "id": "g42",
    "company": "G42",
    "careers_page": "https://careers.g42.ai/global/en/home",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 33,
-   "listed": 47,
-   "in_location": 34,
+   "listed": 48,
+   "in_location": 35,
    "it": 33,
    "new": 0
   },
@@ -60,48 +60,48 @@
    "id": "ifs",
    "company": "IFS",
    "careers_page": "https://www.ifs.com/en/about/careers",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 27,
-   "listed": 261,
+   "listed": 260,
    "in_location": 38,
    "it": 27,
-   "new": 0
+   "new": 1
   },
   {
    "id": "accenture",
    "company": "Accenture",
    "careers_page": "https://www.accenture.com/ae-en/careers",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
-   "it_jobs": 30,
-   "listed": 34,
-   "in_location": 34,
-   "it": 30,
+   "last_ok_at": "2026-11-18T09:38:16Z",
+   "it_jobs": 29,
+   "listed": 33,
+   "in_location": 33,
+   "it": 29,
    "new": 0
   },
   {
    "id": "syscolabs",
    "company": "Sysco LABS",
    "careers_page": "https://syscolabs.lk/careers",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
-   "it_jobs": 40,
-   "listed": 47,
-   "in_location": 47,
-   "it": 40,
+   "last_ok_at": "2026-11-18T09:38:16Z",
+   "it_jobs": 41,
+   "listed": 48,
+   "in_location": 48,
+   "it": 41,
    "new": 1
   },
   {
    "id": "presight",
    "company": "Presight",
    "careers_page": "https://careers.presight.ai/",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 2,
    "listed": 4,
    "in_location": 4,
@@ -112,9 +112,9 @@
    "id": "khazna",
    "company": "Khazna Data Centers",
    "careers_page": "https://khaznadatacenters.com/careers/",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 0,
    "listed": 8,
    "in_location": 8,
@@ -125,9 +125,9 @@
    "id": "m42",
    "company": "M42",
    "careers_page": "https://careers.m42.ae/jobs",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 3,
    "listed": 106,
    "in_location": 100,
@@ -138,11 +138,11 @@
    "id": "astratech",
    "company": "Astra Tech",
    "careers_page": "https://careers.astratech.ae/jobs",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 5,
-   "listed": 26,
+   "listed": 24,
    "in_location": 21,
    "it": 5,
    "new": 0
@@ -151,12 +151,12 @@
    "id": "amazon",
    "company": "Amazon",
    "careers_page": "https://www.amazon.jobs/content/en/locations/united-arab-emirates",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 27,
-   "listed": 137,
-   "in_location": 137,
+   "listed": 136,
+   "in_location": 136,
    "it": 27,
    "new": 0
   },
@@ -164,9 +164,9 @@
    "id": "apple",
    "company": "Apple",
    "careers_page": "https://jobs.apple.com/en-ae/search?location=united-arab-emirates-ARE",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 0,
    "listed": 54,
    "in_location": 27,
@@ -177,35 +177,35 @@
    "id": "edge",
    "company": "EDGE",
    "careers_page": "https://careers.edgegroup.ae/go/View-All-Jobs/4166222/",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 42,
-   "listed": 183,
-   "in_location": 183,
+   "listed": 181,
+   "in_location": 181,
    "it": 42,
-   "new": 1
+   "new": 0
   },
   {
    "id": "adnoc",
    "company": "ADNOC",
    "careers_page": "https://jobs.adnoc.ae/us/en/search-results",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
-   "it_jobs": 5,
-   "listed": 59,
-   "in_location": 59,
-   "it": 5,
-   "new": 0
+   "last_ok_at": "2026-11-18T09:38:16Z",
+   "it_jobs": 6,
+   "listed": 64,
+   "in_location": 64,
+   "it": 6,
+   "new": 1
   },
   {
    "id": "michaelpage",
    "company": "Michael Page (recruiter)",
    "careers_page": "https://www.michaelpage.ae/jobs/technology/united-arab-emirates",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 15,
    "listed": 25,
    "in_location": 25,
@@ -216,25 +216,25 @@
    "id": "fab",
    "company": "First Abu Dhabi Bank (FAB)",
    "careers_page": "https://www.bankfab.com/en-ae/about-fab/careers",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
-   "it_jobs": 7,
-   "listed": 85,
-   "in_location": 81,
-   "it": 7,
-   "new": 0
+   "last_ok_at": "2026-11-18T09:38:16Z",
+   "it_jobs": 8,
+   "listed": 87,
+   "in_location": 83,
+   "it": 8,
+   "new": 1
   },
   {
    "id": "altayer",
    "company": "Al Tayer Group",
    "careers_page": "https://www.altayer.com/careers",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 1,
-   "listed": 97,
-   "in_location": 97,
+   "listed": 98,
+   "in_location": 98,
    "it": 1,
    "new": 0
   },
@@ -242,22 +242,22 @@
    "id": "maf",
    "company": "Majid Al Futtaim",
    "careers_page": "https://careers.majidalfuttaim.com/global/en/home",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
-   "it_jobs": 17,
-   "listed": 256,
-   "in_location": 163,
-   "it": 17,
-   "new": 2
+   "last_ok_at": "2026-11-18T09:38:16Z",
+   "it_jobs": 16,
+   "listed": 258,
+   "in_location": 162,
+   "it": 16,
+   "new": 0
   },
   {
    "id": "nyuad",
    "company": "NYU Abu Dhabi",
    "careers_page": "https://nyuad.nyu.edu/en/about/careers.html",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 2,
    "listed": 24,
    "in_location": 24,
@@ -268,9 +268,9 @@
    "id": "salt",
    "company": "SALT (recruiter)",
    "careers_page": "https://welovesalt.com/job-category/united-arab-emirates",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 11,
    "listed": 11,
    "in_location": 11,
@@ -281,9 +281,9 @@
    "id": "charterhouse",
    "company": "Charterhouse (recruiter)",
    "careers_page": "https://www.charterhouseme.ae/jobs/information-technology",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 1,
    "listed": 1,
    "in_location": 1,
@@ -294,9 +294,9 @@
    "id": "nvidia",
    "company": "NVIDIA",
    "careers_page": "https://jobs.nvidia.com/careers",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 2,
    "listed": 2,
    "in_location": 2,
@@ -307,9 +307,9 @@
    "id": "enec",
    "company": "ENEC",
    "careers_page": "https://careers.enec.ae/search/",
-   "checked_at": "2026-11-17T21:58:42Z",
+   "checked_at": "2026-11-18T09:38:16Z",
    "ok": true,
-   "last_ok_at": "2026-11-17T21:58:42Z",
+   "last_ok_at": "2026-11-18T09:38:16Z",
    "it_jobs": 6,
    "listed": 56,
    "in_location": 56,
@@ -318,6 +318,98 @@
   }
  ],
  "jobs": [
+  {
+   "id": "ifs:744000162221919",
+   "source": "ifs",
+   "company": "IFS",
+   "via": "",
+   "title": "DevOps Engineer - Platform",
+   "field": "DevOps & Cloud",
+   "country_code": "LK",
+   "country": "Sri Lanka",
+   "countries": [
+    "Sri Lanka"
+   ],
+   "locations": [
+    "Colombo, Western Province, Sri Lanka"
+   ],
+   "workplace_type": "",
+   "category": "Information Technology",
+   "posted_date": "2026-11-18",
+   "summary": "",
+   "url": "https://jobs.smartrecruiters.com/IFS1/744000162221919-devops-engineer-platform",
+   "first_seen": "2026-11-18T09:38:16Z",
+   "description": "Job Description\nWe are looking for a highly motivated individual who is willing to adapt with the changing demands with technologies and tools to get the effective outcomes. In addition to typical devops this role demands the knowledge of microservices(go), customer focused problem solving and platform engineering\n\n• Design, implement, and maintain scalable cloud infrastructure solutions (Azure), monitoring systems and microservices.\n• Proven experience with AI tooling and the effective outcome based delivarables.\n• Identify opportunities for new or enhanced automations to drive organizational efficiencies; produce designs and plans to address those opportunities, and drive the maintenance and expansion of existing automations and related processes\n• Collaborate with development teams to optimize application performance, resource utilization, and system security\n• Evaluate and implement new technologies to enhance infrastructure and platform capabilities\n• Troubleshoot complex infrastructure and platform issues, participating in on-call rotations for critical system support\n• Engage with relevant stakeholders to align infrastructure and automation initiatives with organizational goals\n• Create documentation, presentations, and training materials; share knowledge, guide, and upskill colleagues\n\nQualifications\n• Degree in Computer Science, Software Engineering, Information Technology, or a related field, with a minimum of 2 years (Devops/Senior Devops Engineer) hands-on experience in a DevOps or platform engineering role\n• Proven track record of practical problem-solving in complex, production-grade environments\n• Strong scripting and automation skills across multiple languages (e.g., PowerShell, Bash, Go, Ansible), with the ability to design and deliver robust automation solutions\n• Deep expertise in container orchestration and associated tooling, including Kubernetes, Helm, and Terraform\n• Solid experience designing, implementing microservices and core principles\n• Advanced knowledge of Docker and containerization best practices\n• Hands-on experience leveraging modern AI tools to drive practical efficiency improvements across workflows.\n• Strong working knowledge of Linux, Unix, and Windows operating systems\n• Ability to independently prioritise competing demands, manage ambiguity, and deliver outcomes with minimal supervision\n• Excellent communication skills with the ability to engage technical and non-technical stakeholders effectively\n• Naturally curious and self-driven, with a continuous desire to learn, evaluate, and adopt emerging technologies and practices\n• Demonstrates initiative, ownership, and accountability; willing to take on challenges with a high level of enthusiasm and an innovative mindset\n\nAdditional Information\nWe embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships."
+  },
+  {
+   "id": "syscolabs:R274986",
+   "source": "syscolabs",
+   "company": "Sysco LABS",
+   "via": "",
+   "title": "Engineer - DevOps",
+   "field": "DevOps & Cloud",
+   "country_code": "LK",
+   "country": "Sri Lanka",
+   "countries": [
+    "Sri Lanka"
+   ],
+   "locations": [
+    "Sysco LABS  -  Sri Lanka"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-18",
+   "summary": "",
+   "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Engineer---DevOps_R274986",
+   "first_seen": "2026-11-18T09:38:16Z",
+   "description": "JOB DESCRIPTION"
+  },
+  {
+   "id": "adnoc:32388",
+   "source": "adnoc",
+   "company": "ADNOC",
+   "via": "",
+   "title": "Senior Specialist, AI Infrastructure",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "External",
+   "category": "Other",
+   "posted_date": "2026-11-18",
+   "summary": "Join our team as a Senior Specialist, AI Infrastructure to lead the development and optimisation of advanced AI solutions supporting strategic business objectives. Drive innovation, ensure system reliability, and collaborate with cross-functional teams. Ideal for experienced professionals with deep expertise in AI infrastructure management.",
+   "url": "https://jobs.adnoc.ae/us/en/job/32388",
+   "first_seen": "2026-11-18T09:38:16Z",
+   "description": "JOB PURPOSE:\n\nResponsible for leading the development, implementation, and optimization of advanced AI infrastructure\nsolutions to support the organization's strategic objectives. Ensures the scalability, reliability, and efficiency of AI\nsystems while driving innovation and continuous improvement. Collaborate with cross-functional teams to\nintegrate AI technologies seamlessly into existing systems and processes, ensuring alignment with business\ngoals. Has a deep understanding of AI technologies, infrastructure management, and strategic planning to\ndeliver high-quality solutions that enhance operational performance and decision-making capabilities. Play a\nkey role in mentoring junior team members and fostering a culture of innovation and excellence within the\norganization.\n\nKEY ACCOUNTABILITIES:\nJob Specific:\n• Lead the design, development, and implementation of AI infrastructure solutions to support organizational goals.\n• Develop and optimize scalable and reliable AI systems to enhance operational efficiency and decisionmaking.\n• Collaborate with cross-functional teams to integrate AI technologies into existing systems and processes.\n• Conduct in-depth analyses to identify opportunities for AI-driven improvements and innovations.\n• Ensure compliance with industry standards and best practices in AI infrastructure management.\n• Develop and maintain documentation for AI systems, including architecture, processes, and protocols.\n• Monitor and evaluate the performance of AI systems, implementing improvements as needed.\n• Provide technical leadership and mentorship to junior team members, fostering a culture of innovation and excellence.\n• Stay updated on emerging AI technologies and trends to ensure the organization remains at the forefront of innovation.\n\nJOB DESCRIPTION\n\n• Collaborate with stakeholders to align AI infrastructure initiatives with business objectives and strategic goals.\n\nGeneric:\nSupervision\n\n• Plan, supervise and coordinate all activities in the assigned area to meet functional objectives.\n• Train and develop the assigned staff on relevant skills to enable them to become proficient on the job and deliver the respective business objectives.\n\nBudgets\n• Provide input for preparation of the Function / Division / Department / Section budgets, assist in the implementation of the approved Budget, and work plans to deliver business objectives.\n• Investigate and highlight any significant variances to support effective performance and cost control.\n\nPolicies, Systems, Processes & Procedures\n\n• Implement approved Function/ Division/ Department/ Section policies, processes, systems, standards and procedures in order to support execution of the work programs in line with Company and International standards.\n\nPerformance Management\n\n• Contribute to the achievement of the approved Performance Objectives for the Function/ Division / Department/ Section in line with the Company Performance framework.\n\nInnovation and Continuous Improvement\n\n• Design and implement new tools and techniques to improve the quality and efficiency of operational processes.\n• Identify improvements in internal processes against best practices in pursuit of greater efficiency in line with best industry standards in order to define intelligent solutions for issues confronting the function.\n\nHealth, Safety, Environment (HSE) and Sustainability\n• Comply with relevant HSE policies, procedures, controls, applicable legislation, and sustainability guidelines in line with international standards, best practices and ADNOC Code of Practices.\n\nReports\n• Provide inputs to prepare MIS and progress reports for Company Management.\n\nCOMMUNICATION & WORKING RELATIONSHIP:\nInternal:\n• Collaborate with cross-functional teams to ensure seamless integration of AI technologies.\n• Provide regular updates and reports to senior management on AI infrastructure initiatives.\n• Facilitate knowledge sharing and training sessions to enhance team capabilities.\n• Coordinate with internal stakeholders to align AI infrastructure projects with business objectives.\n• Participate in internal meetings to discuss progress, challenges, and opportunities.\n\nExternal:\n• Engage with external vendors and partners to evaluate and integrate AI technologies.\n• Represent the organization in industry forums and conferences to stay updated on emerging trends.\n• Collaborate with external stakeholders to ensure compliance with industry standards and regulations.\n• Build and maintain strategic relationships with external partners to support AI initiatives.\n• Communicate the organization's AI capabilities and achievements to external audiences.\n\nQUALIFICATIONS, EXPERIENCE, KNOWLEDGE & SKILLS:\nMinimum Qualification\n\n• Bachelor’s degree in Engineering, Computer Science, or a related field.\n\nMinimum Experience & Knowledge & Skills\n\n• 10 years of experience in AI infrastructure development and management, with at least 5 years in a specialist role."
+  },
+  {
+   "id": "fab:2166",
+   "source": "fab",
+   "company": "First Abu Dhabi Bank (FAB)",
+   "via": "",
+   "title": "Officer, Data Entry (Emiratized Role)",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-18",
+   "summary": "FAB, the UAE's largest bank and one of the world's most secure financial institutions, is dedicated to creating value for its employees, customers, shareholders, and communities. Through innovation, agility, and differentiation, FAB is committed to fostering growth.",
+   "url": "https://ehjd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/2166",
+   "first_seen": "2026-11-18T09:38:16Z",
+   "description": "Job Purpose:\n\nTo complete the data entry of Customer details on to the CAS system from the application form & other documents provided. Assist in office work in SLU.\n\nKey Accountabilities:\n\nCore responsibilities\n\n•\nComplete the data entry of Customer details on the CAS system from the application form and other documents provided\n\n•\nEnsure timely and accurate Productivity reports are maintained and forwarded on timely basis to reporting Manager.\n\n•\nAssist manager in office work and daily documents & requirements.\n\nPolicies, Systems, Processes, & Procedures\n\n•\nEnsures to comply with audit requirements, internal and external reporting obligations in line with the policy guidelines, to ensure high standards of uniformity and consistency across FAB.\n\nSelf- Management Responsibilities\n\n•\nDefines performance goals at the start of the year in discussion with the reporting manager and ensures that the goals are achieved during the course of the year.\n\n•\nIdentifies training and development requirements for self and agrees on them with the reporting manager to ensure that the required trainings are arranged and attended.\n\nPeople\n\n•\nMaintain professionalism and effective communication with colleagues within the Unit and all other Departments\n\nAdhere to your individual duties and responsibilities at all times.\n\nJob Context:\n\nSpecific Accountability\n\n•\nTAT of data entry is maintained with zero error\n\n•\nAdherence to policies, processes, and procedures of FAB\n\n•\nFollow and adhere to Credit SOP\n\nMinimum Qualification\n\n•\nBachelor’s degree in Banking, or any related discipline.\n\n•\nQuick data entry skills"
+  },
   {
    "id": "eand:11134",
    "source": "eand",
@@ -452,7 +544,7 @@
    "category": "",
    "posted_date": "2026-11-17",
    "summary": "",
-   "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Technical-Lead---Data-Engineering_R271194",
+   "url": "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Technical-Lead---Data-Engineering_R271194",
    "first_seen": "2026-11-17T21:58:42Z",
    "description": "JOB DESCRIPTION\n\nTechnical Lead - Data Engineering (Technical Product Owner – Data & Analytics)\n\nThe Big Picture \n\nSysco LABS is the Global In-House Center of Sysco Corporation (NYSE: SYY), the world’s largest foodservice company. Sysco ranks 55th in the Fortune 500 list and is the global leader in the trillion-dollar foodservice industry.\n\nSysco operates 333 distribution centers across 10 countries, with 75,000 colleagues serving approximately 670,000 customer locations, including restaurants, healthcare and educational facilities, lodging establishments, entertainment venues and more. For fiscal year 2026, which ended June 27, 2026, the company generated sales of more than $84 billion.\n\nSysco LABS Sri Lanka delivers the technology that powers Sysco’s end-to-end operations.\n\nSysco LABS’ enterprise technology is present in the end-to-end foodservice journey, enabling the sourcing of food products, merchandising, storage and warehouse operations, order placement and pricing algorithms, the delivery of food and supplies to Sysco’s global network and the in-restaurant dining experience of the end-customer.\n\nThe Opportunity\n\nWe are looking for Technical Lead - Data Engineering (Technical Product Owner – Data & Analytics) to join our team.\n\nResponsibilities:\n\n• Act as the primary point of contact between Business stakeholders and the Data Organization, understanding business objectives and translating them into data, reporting and analytics requirements.\n\n• Hold ownership of data and reporting requirements, driving prioritization, requirement clarity and end-to-end delivery in alignment with business objectives and agreed priorities.\n\n• Gather, analyze and document business requirements, translating them into clear functional specifications, user stories and acceptance criteria.\n\n• Own and prioritize the product backlog, managing competing business demands based on business value, urgency and technical feasibility.\n\n• Work closely with Data Engineers, BI Developers, Data Scientists, Business Analysts and Quality Engineers to drive end-to-end delivery of data and reporting solutions.\n\n• Collaborate with technical teams to understand data architecture, data pipelines, data models and BI solutions, ensuring business requirements are effectively translated into technical deliverables.\n\n• Oversee delivery progress, proactively address dependencies and blockers, and ensure solutions meet agreed requirements and quality expectations.\n\n• Coordinate business reviews, solution demonstrations, User Acceptance Testing (UAT) and stakeholder signoffs.\n\n• Identify opportunities to improve existing reports, automate processes, standardize business metrics and enhance data-driven decision-making.\n\n• Communicate delivery progress, priorities, risks and outcomes effectively to business stakeholders and management.\n\nRequirements:\n\n• Bachelor's degree in IT, Computer Science, Engineering, Business Management or a related discipline.\n\n• 6+ years of experience in Product Ownership, Business Analysis, BI Development, Data Analytics or a related technology role.\n\n• Strong experience in gathering business requirements, stakeholder management, requirement prioritization and product backlog ownership.\n\n• Previous exposure to Data Engineering, BI Development or Data Analytics, preferably with hands-on experience in a technical data-related role.\n\n• Good working knowledge of SQL, Data Warehousing, data modelling, ETL/ELT processes and data pipelines.\n\n• Practical exposure to BI and reporting tools such as Tableau, Power BI or similar platforms.\n\n• Understanding of data architecture, reporting solutions, data quality and data governance principles.\n\n• Experience working with cross-functional Agile teams and managing end-to-end delivery of technology or data initiatives.\n\n• Strong analytical, problem-solving, communication and stakeholder management skills.\n\n• Ability to bridge the gap between business and technical teams, effectively translating business needs into actionable technical requirements.\n\n• Strong ownership, leadership and organizational skills, with the ability to manage competing priorities and drive delivery independently.\n\n• Professional certifications such as CSPO, PSPO, CBAP or PMP, and exposure to cloud data platforms such as BigQuery, Snowflake or Redshift, will be an added advantage.\n\nBenefits:\n\n• Performance-based annual bonus\n\n• Performance rewards and recognition\n\n• Agile Benefits - special allowances for Health, Wellness & Academic purposes\n\n• Entertainment allowance\n\n• Team engagement allowance\n\n• Comprehensive Health & Life Insurance Cover - extendable to parents and in-laws\n\n• Hybrid work arrangement\n•\n\nSysco LABS is an Equal Opportunity Employer"
   },
@@ -478,29 +570,6 @@
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Systems-Engineer-Gas-Turbines-Abu/733657022/",
    "first_seen": "2026-11-17T21:58:42Z",
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAbout ADASI"
-  },
-  {
-   "id": "maf:22104",
-   "source": "maf",
-   "company": "Majid Al Futtaim",
-   "via": "",
-   "title": "Emirati Talent - Senior Associate, Data Analyst",
-   "field": "Data & AI",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai"
-   ],
-   "workplace_type": "Regular",
-   "category": "Digital & Technology",
-   "posted_date": "2026-10-29",
-   "summary": "We are recruiting a Senior Associate, Data Analyst to support the Sales Operations team by analysing business data and providing actionable insights. You will identify trends, monitor key metrics, and develop dashboards. Ideal for candidates with strong analytical skills and experience in data analysis within a retail or sales environment.",
-   "url": "https://careers.majidalfuttaim.com/global/en/job/22104",
-   "first_seen": "2026-11-17T21:58:42Z",
-   "description": "JOB TITLE\nSenior Associate- Data Analyst | Majid Al Futtaim- Development\nROLE SUMMARY\nSupport the Sales Operations team by owning and analyzing business data across sales, collections, broker performance, and customer transactions. The role focuses on turning data into meaningful insights, identifying trends, and supporting decision-making through clear reporting and presentations.\n\nROLE PROFILE\n\n• Analyze sales, collections, broker activity, and customer data to identify trends, risks, and opportunities\n• Develop dashboards and presentations highlighting key insights and actionable recommendations\n• Monitor key metrics such as sales conversion, collections, defaulters, and broker performance\n• Ensure accuracy and integrity of data across CRM systems (sales, customer, broker records)\n• Identify data gaps and inconsistencies, and drive improvements in data quality\n• Support forecasting, performance tracking, and periodic reporting for leadership reviews\n• Collaborate with Sales, Finance, Legal, and CRM teams to validate data and ensure alignment\n• Enhance reporting efficiency through process improvements, automation, and documentation of data standards\n\nREQUIREMENTS\n\n• Bachelor’s degree with 1–3 years of relevant experience\n• Strong analytical skills with the ability to interpret data, identify trends, and translate insights into actionable outcomes\n• Advanced Excel skills (pivot tables, lookups, basic modelling)\n• Working knowledge of CRM tools (e.g., Salesforce)\n• Ability to create clear, structured presentations from data (PowerPoint)\n• Understanding of sales cycles, collections tracking, and performance metrics\n• Detail-oriented, reliable, and highly organized"
   },
   {
    "id": "maf:22104",
@@ -1220,7 +1289,7 @@
    "source": "m42",
    "company": "M42",
    "via": "",
-   "title": "Officer, Lab Technical Support (Emirati Talent)",
+   "title": "Officer, Lab Technical Support",
    "field": "IT Support",
    "country_code": "AE",
    "country": "United Arab Emirates",
@@ -2017,29 +2086,6 @@
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAt FADA we are looking for an experienced Configuration and Data Management (CADM) Specialist to lead and enforce CADM processes across complex, multi-stakeholder space and defense programs. This is a high-impact role where you will ensure consistency, compliance, and traceability of configuration items and program data across the full system lifecycle.\n\nThe ideal candidate will have strong experience in aerospace, defense, or space systems, and be confident managing the technical baseline, ensuring configuration control, and working closely with internal teams, suppliers, and partners to meet both technical and contractual data requirements.\n\nRESPONSIBILITIES\n\r\n\nConfiguration Management"
   },
   {
-   "id": "g42:3472",
-   "source": "g42",
-   "company": "G42 · Inception42",
-   "via": "",
-   "title": "Principal Product Designer",
-   "field": "UI/UX Design",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "Information Technology Operations",
-   "posted_date": "2026-10-23",
-   "summary": "We are currently hiring a Principal Product Designer to lead the design of AI-native products, shaping intuitive interfaces and autonomous systems. Drive end-to-end product strategy and manage a design team, leveraging your expertise in user research and interaction design. Ideal for experienced professionals with a strong background in AI product design.",
-   "url": "https://careers.g42.ai/global/en/job/3472",
-   "first_seen": "2026-11-08T18:36:43Z",
-   "description": "Inception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inception42.ai\n\nOverview:\n\r\n\nWe are looking for a hands-on Principal Product Designer to lead design work and manage a design pod across our AI-native portfolio: personal AI agents, executive intelligence, agentic workflows, governance platforms, and domain-specific solutions.\n\nThis is a role for an inventor. Your central job is to translate abstract vision — an executive ambition, a policy goal, a model capability that appeared six months ago — into concrete, innovative products that people trust and use every day. Your work will define how people should delegate real work to autonomous systems, and stay in control of the outcomes achieved by AI that are inherently non-deterministic.\n\nYou will own design from discovery through delivery, set the craft bar and the design systems across multiple products, and redefine the product design best practices at Inception42. You will work at the boundary of design, product, and applied AI — shaping not only the interface, but how the AI behaves with it.\n\nResponsibilities:\n\r\n\nVision and strategy\n\n• Define the design vision, experience principles and quality standards across Inception42’s AI product portfolio.\n\n• Translate business ambitions, government requirements and emerging AI capabilities into practical product concepts and shipped experiences.\n\n• Partner with Product, Engineering and Science to shape near- and long-term roadmaps, strengthen design thinking and improve delivery processes.\n\nEnd-to-end AI product design\n\n• Lead discovery, user research, journey mapping, interaction design, prototyping, usability testing and production, owning design from strategy through launch.\n\n• Manage multiple projects in a fast-moving environment, balancing ambiguity, stakeholder input, functional requirements and timelines.\n\n• Design intuitive agents, copilots, multi-agent systems, dashboards, conversational interfaces and workflows, including memory, citations and long-running actions.\n\n• Design for uncertainty and failure, including incorrect or fabricated outputs, incomplete information, refusals, streaming, latency, tool errors and unpredictable behaviour.\n\n• Make AI capabilities and limitations clear, helping users judge reliability, delegate work confidently and retain control over outcomes.\n\n• Collaborate on prompts, system behaviour, tone of voice, output structure, content standards and guardrails so AI behaviour supports the intended experience.\n\n• Define good output from the user’s perspective and contribute to evaluation rubrics, test sets and human review loops.\n\n• Ground decisions in user and market research, behavioural data, telemetry and stakeholder feedback.\n\n• Define and measure adoption, task success, time-to-value, correction and abandonment rates, and users’ ability to judge when to trust AI.\n\nDesign systems and quality\n\n• Establish and govern reusable design systems across web, mobile, conversational, voice and workflow experiences.\n\n• Use Figma, prototyping tools and AI tools to explore ideas quickly; use working prototypes to test concepts and align stakeholders.\n\n• Maintain clear design specifications and uphold consistent standards for interaction, visual design, content and usability through delivery.\n\n• Support English and Arabic experiences, including right-to-left layouts, bilingual typography and cultural context.\n\n• Embed responsible and sovereign AI requirements, including AI disclosure, privacy, data residency, auditability and human oversight.\n\nLeadership and influence\n\n• Lead a design pod while remaining hands-on with the most complex design challenges.\n\n• Recruit, mentor and develop permanent and contract designers, strengthening craft, critique and product thinking.\n\n• Present design concepts and decisions clearly to Product, Engineering, Science, leadership, government stakeholders, enterprise customers and partners.\n\n• Translate high-level feedback into actionable improvements and explain complex ideas effectively to executives, engineers and domain experts.\n\nQualifications:\n\r\n\n• 10+ years of product design experience, with experience managing teams for major design initiatives.\n• An online portfolio demonstrating end-to-end product ownership, interaction design, visual craft, and measurable outcomes. Case studies should show your process and your decisions, not only final screens.\n• Experience with best practices for user interface design, information architecture, and interaction design.\n• Experience with life-cycle design projects, from design strategy through to execution.\n• Experience designing complex enterprise, SaaS, workflow, operational, or data-rich products.\n• Strong expertise in user research, information architecture, prototyping, usability testing, and design systems.\n• Expert proficiency in Figma and other design and prototyping tools.\n• Experience designing AI-powered products such as agents, copilots, conversational UIs, intelligent workflows.\n• Practical understanding of human–AI interaction, explainability, trust, confidence, user control, and HITL.\n• Familiarity with AI concepts such as prompts, context, RAG, citations, memory, evaluations\n• Experience using AI-assisted design, coding, research, or prototyping tools in your day-to-day work.\n• Strong leadership, stakeholder management, communication, and presentation skills,\n• Ability to work with ambiguity and to find clarity in a fast-pacing and changing environment\n• Bachelor’s or Master’s degree in Product Design, Interaction Design, Human–Computer Interaction, or related fields\n\nPreferred qualifications\n\n• Experience with AI governance, workflow builders, decision-intelligence products, or enterprise AI platforms.\n• Experience designing bilingual Arabic and English products; Arabic language ability is a plus but not required\n• Familiarity with frontend technologies or design-to-code workflows, and the ability to prototype in code.\n• Solid grasp of conversational and voice design fundamentals.\n• Experience working directly with senior executives, government stakeholders, and enterprise customers.\n• Experience in regulated domains such as healthcare, energy, financial services, or the public sector.\n• Experience building or scaling a design function from a small base.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception42 community.\n\nWhat Working At Inception42 Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
-  },
-  {
    "id": "g42:3470",
    "source": "g42",
    "company": "G42 · Inception42",
@@ -2061,6 +2107,29 @@
    "url": "https://careers.g42.ai/global/en/job/3470",
    "first_seen": "2026-11-08T18:36:43Z",
    "description": "Inception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inception42.ai\n\nOverview:\n\r\n\nWe are looking for a hands-on Product Director with deep FinTech expertise to lead Alpha, Inception42's investment and credit AI product. You will own strategy, roadmap, and outcomes for institutional investors, lenders, and financial analysts.\n\nTranslate emerging AI capabilities into investment research, due diligence, underwriting support, and portfolio monitoring workflows. Turn fragmented information into reviewable analysis, with clear evidence and user control. Success means accurate work, sustained adoption, and measurable customer value.\n\nYou will lead cross-functional teams spanning Design, Engineering, Science, domain experts, and Growth. You will make difficult trade-offs, stay close to customers and product details, and mentor product managers.\n\nResponsibilities:\n\r\n\nProduct strategy and discovery\n\n• Define Alpha’s vision, target markets, differentiation and roadmap, aligning customer needs with emerging AI capabilities.\n\n• Engage investment analysts, portfolio managers, credit teams and senior decision-makers to understand workflows, buying criteria and adoption barriers.\n\n• Assess competitors and alternatives; validate demand through research, AI-assisted prototypes and pilots. Prioritise by customer value, commercial potential, feasibility and risk, coordinating shared capabilities with Catalyst.\n\nInvestment and credit workflows\n\n• Own requirements for opportunity screening, company and sector research, due diligence, valuation support and investment committee materials.\n\n• Develop workflows for financial statement analysis, cash-flow and debt-service assessment, downside scenarios, credit memos, covenant review and portfolio monitoring.\n\n• Define AI behaviour and acceptance criteria, enabling analyst review, collaboration, versioning and approval, with Excel, Word and PowerPoint outputs.\n\n• Prioritise integrations with filings, transcripts, market and credit data, internal research and deal rooms; guide licensing, access rights and build-versus-partner decisions.\n\nAI development, quality and governance\n\n• Partner with Science and Engineering on models, retrieval-augmented generation, prompts, context, memory, tools and agent orchestration.\n\n• Ensure accurate extraction and reconciliation across documents and tables, accounting for entities, periods, currencies, units, metric definitions, freshness and conflicting evidence.\n\n• Make outputs traceable to sources, separating reported facts, calculations, assumptions and AI interpretations, with reliable calculation tools and reviewable inputs.\n\n• Own evaluation frameworks, test sets, analyst reviews and release thresholds for numerical accuracy, citations, completeness, financial reasoning and task success; monitor regressions and feedback.\n\n• Define safeguards for fabricated outputs, missing evidence, tool failures and long-running actions, with intervention, recovery and approval paths.\n\n• Embed AI disclosure, permissions, audit trails and sovereign data residency. Partner with Security, Legal, Risk and Compliance on confidentiality, material non-public information and information barriers.\n\n• Agree approved uses and validation evidence with customer governance teams; assess English and Arabic content for language quality, numerical fidelity and localisation.\n\nDelivery and commercial outcomes\n\n• Lead discovery, launch and iteration across Design, Engineering, Science, domain experts and Growth, balancing scope, readiness, quality, reliability, latency and cost.\n\n• Own the business case and product performance; support pricing, packaging, positioning and enterprise sales, accounting for data, inference, review and support costs.\n\n• Convert pilots into sustained adoption through repeatable onboarding, workflow templates and training.\n\n• Track task success, time to validated analysis, errors, corrections and abandonment alongside adoption, conversion, retention, expansion and unit economics.\n\nLeadership\n\n• Align technical, financial and commercial stakeholders on priorities and trade-offs; communicate effectively with customers and leadership.\n\n• Mentor product managers, support hiring and strengthen discovery, evaluation and product reviews while remaining hands-on with experiments, feedback and production performance.\n\nQualifications:\n\r\n\nWhat We’re Looking For\n\n• 10+ years in product management or closely related roles, with substantial ownership of complex products at senior or principal level and a record of launching and scaling financial technology.\n\n• Knowledge of institutional investment or credit workflows, with working fluency across both.\n\n• Experience building products for analysts, investment teams, lenders, or risk professionals.\n\n• Strong understanding of financial statements, valuation, leverage, and credit risk.\n\n• Ability to interrogate financial models and challenge analytical assumptions.\n\n• Experience delivering enterprise software with measurable adoption and commercial impact, including direct customer discovery and engagement with senior financial stakeholders.\n\n• Experience taking AI-powered products, such as agents, copilots, or intelligent workflows, from concept to production and measurable adoption.\n\n• Practical fluency in large language models, retrieval-augmented generation, context, memory, tool use, and evaluations. Ability to reason with technical teams about quality, latency, reliability, and cost.\n\n• Hands-on use of AI tools to prototype workflows, test model behaviour, and accelerate research, analysis, or delivery.\n\n• Strong analytical and commercial skills, including hands-on use of Excel, SQL, or comparable tools to investigate data, test hypotheses, and measure outcomes.\n\n• Clear written and verbal communication, leadership across functions, and sound judgement in ambiguous environments where accuracy and customer trust are critical.\n\n• A bachelor's degree in finance, economics, computer science, engineering, business, or a related field, or equivalent practical experience.\n\n• Sound product judgement and financial rigour: test assumptions against customer evidence, check the numbers, and change direction when warranted.\n\n• Hands-on ownership and collaborative leadership: experiment to resolve uncertainty, welcome challenge, and stay accountable for outcomes beyond launch.\n\nNice to Have\n\n• Prior investment banking, asset management, private equity, private credit, corporate lending, or credit research experience alongside product leadership.\n\n• Experience with financial data providers, document intelligence, financial modelling tools, or enterprise integrations and data-access controls.\n\n• Experience with financial institutions, sovereign deployment, and regulated enterprise procurement. Arabic language ability and bilingual product experience are advantages.\n\n• CFA, FRM, or another relevant finance qualification; or similar practical depth in investment or credit analysis.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception42 community.\n\nWhat Working At Inception42 Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
+  },
+  {
+   "id": "g42:3472",
+   "source": "g42",
+   "company": "G42 · Inception42",
+   "via": "",
+   "title": "Principal Product Designer",
+   "field": "UI/UX Design",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "Information Technology Operations",
+   "posted_date": "2026-10-23",
+   "summary": "We are currently hiring a Principal Product Designer to lead the design of AI-native products, shaping intuitive interfaces and autonomous systems. Drive end-to-end product strategy and manage a design team, leveraging your expertise in user research and interaction design. Ideal for experienced professionals with a strong background in AI product design.",
+   "url": "https://careers.g42.ai/global/en/job/3472",
+   "first_seen": "2026-11-08T18:36:43Z",
+   "description": "Inception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inception42.ai\n\nOverview:\n\r\n\nWe are looking for a hands-on Principal Product Designer to lead design work and manage a design pod across our AI-native portfolio: personal AI agents, executive intelligence, agentic workflows, governance platforms, and domain-specific solutions.\n\nThis is a role for an inventor. Your central job is to translate abstract vision — an executive ambition, a policy goal, a model capability that appeared six months ago — into concrete, innovative products that people trust and use every day. Your work will define how people should delegate real work to autonomous systems, and stay in control of the outcomes achieved by AI that are inherently non-deterministic.\n\nYou will own design from discovery through delivery, set the craft bar and the design systems across multiple products, and redefine the product design best practices at Inception42. You will work at the boundary of design, product, and applied AI — shaping not only the interface, but how the AI behaves with it.\n\nResponsibilities:\n\r\n\nVision and strategy\n\n• Define the design vision, experience principles and quality standards across Inception42’s AI product portfolio.\n\n• Translate business ambitions, government requirements and emerging AI capabilities into practical product concepts and shipped experiences.\n\n• Partner with Product, Engineering and Science to shape near- and long-term roadmaps, strengthen design thinking and improve delivery processes.\n\nEnd-to-end AI product design\n\n• Lead discovery, user research, journey mapping, interaction design, prototyping, usability testing and production, owning design from strategy through launch.\n\n• Manage multiple projects in a fast-moving environment, balancing ambiguity, stakeholder input, functional requirements and timelines.\n\n• Design intuitive agents, copilots, multi-agent systems, dashboards, conversational interfaces and workflows, including memory, citations and long-running actions.\n\n• Design for uncertainty and failure, including incorrect or fabricated outputs, incomplete information, refusals, streaming, latency, tool errors and unpredictable behaviour.\n\n• Make AI capabilities and limitations clear, helping users judge reliability, delegate work confidently and retain control over outcomes.\n\n• Collaborate on prompts, system behaviour, tone of voice, output structure, content standards and guardrails so AI behaviour supports the intended experience.\n\n• Define good output from the user’s perspective and contribute to evaluation rubrics, test sets and human review loops.\n\n• Ground decisions in user and market research, behavioural data, telemetry and stakeholder feedback.\n\n• Define and measure adoption, task success, time-to-value, correction and abandonment rates, and users’ ability to judge when to trust AI.\n\nDesign systems and quality\n\n• Establish and govern reusable design systems across web, mobile, conversational, voice and workflow experiences.\n\n• Use Figma, prototyping tools and AI tools to explore ideas quickly; use working prototypes to test concepts and align stakeholders.\n\n• Maintain clear design specifications and uphold consistent standards for interaction, visual design, content and usability through delivery.\n\n• Support English and Arabic experiences, including right-to-left layouts, bilingual typography and cultural context.\n\n• Embed responsible and sovereign AI requirements, including AI disclosure, privacy, data residency, auditability and human oversight.\n\nLeadership and influence\n\n• Lead a design pod while remaining hands-on with the most complex design challenges.\n\n• Recruit, mentor and develop permanent and contract designers, strengthening craft, critique and product thinking.\n\n• Present design concepts and decisions clearly to Product, Engineering, Science, leadership, government stakeholders, enterprise customers and partners.\n\n• Translate high-level feedback into actionable improvements and explain complex ideas effectively to executives, engineers and domain experts.\n\nQualifications:\n\r\n\n• 10+ years of product design experience, with experience managing teams for major design initiatives.\n• An online portfolio demonstrating end-to-end product ownership, interaction design, visual craft, and measurable outcomes. Case studies should show your process and your decisions, not only final screens.\n• Experience with best practices for user interface design, information architecture, and interaction design.\n• Experience with life-cycle design projects, from design strategy through to execution.\n• Experience designing complex enterprise, SaaS, workflow, operational, or data-rich products.\n• Strong expertise in user research, information architecture, prototyping, usability testing, and design systems.\n• Expert proficiency in Figma and other design and prototyping tools.\n• Experience designing AI-powered products such as agents, copilots, conversational UIs, intelligent workflows.\n• Practical understanding of human–AI interaction, explainability, trust, confidence, user control, and HITL.\n• Familiarity with AI concepts such as prompts, context, RAG, citations, memory, evaluations\n• Experience using AI-assisted design, coding, research, or prototyping tools in your day-to-day work.\n• Strong leadership, stakeholder management, communication, and presentation skills,\n• Ability to work with ambiguity and to find clarity in a fast-pacing and changing environment\n• Bachelor’s or Master’s degree in Product Design, Interaction Design, Human–Computer Interaction, or related fields\n\nPreferred qualifications\n\n• Experience with AI governance, workflow builders, decision-intelligence products, or enterprise AI platforms.\n• Experience designing bilingual Arabic and English products; Arabic language ability is a plus but not required\n• Familiarity with frontend technologies or design-to-code workflows, and the ability to prototype in code.\n• Solid grasp of conversational and voice design fundamentals.\n• Experience working directly with senior executives, government stakeholders, and enterprise customers.\n• Experience in regulated domains such as healthcare, energy, financial services, or the public sector.\n• Experience building or scaling a design function from a small base.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception42 community.\n\nWhat Working At Inception42 Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
   },
   {
    "id": "g42:3414",
@@ -2360,29 +2429,6 @@
    "url": "https://careers.g42.ai/global/en/job/3418",
    "first_seen": "2026-11-07T08:10:13Z",
    "description": "Overview:\n\r\n\nThe Senior SOC Engineer is responsible for managing SIEM services within the Security Operations Center, with a primary focus on Splunk SIEM and Splunk UEBA. This role involves onboarding new log sources, optimizing telemetry, ensuring system updates, troubleshooting issues, and maintaining SIEM performance. Additionally, the engineer will support SIEM architecture improvements and deployments aligned with business requirements.\n\nResponsibilities:\n\r\n\nKey Responsibilities:\n\n• Manage Splunk SIEM services within the SOC environment.\n• Implement scalable Splunk-based SIEM solutions following best practices.\n• Define data ingestion strategies, parsing logic, and correlation rules.\n• Onboard new log sources and ensure proper integration with Splunk SIEM.\n• Monitor and maintain critical log sources; troubleshoot and resolve issues promptly.\n• Optimize telemetry for improved data collection, correlation, and reporting.\n• Collaborate with SOC and threat intelligence teams to develop detection use cases.\n• Create dashboards, alerts, and reports for proactive threat monitoring.\n• Perform system updates, version upgrades, and feature rollouts.\n• Ensure CIM compliance, field extractions, and data normalization.\n• Maintain SIEM performance and troubleshoot Splunk-related issues.\n• Evaluate and deploy Splunk apps and add-ons as needed.\n• Document SIEM workflows, configurations, and operational procedures.\n• Support continuous process improvements to enhance SOC efficiency. Work cross-functionally with IT, DevOps, and security teams.\n\nCharacteristics:\n\n• Profound knowledge and hands-on experience with Splunk SIEM, UEBA and other related technologies like CRIBL.\n• Understanding of SOC workflows, MITRE ATT&CK framework, and threat detection methodologies.\n• Ability to correlate data across multiple sources to identify patterns and anomalies.\n• Strong understanding of cloud and network technologies, essential for efficient log source onboarding.\n• Proven technical capabilities in a complex, fast-paced SOC environment.\n• Ability to diagnose and troubleshoot log source issues related to cloud and network infrastructures.\n• Strong understanding of SOC operations, cybersecurity principles, and best practices.\n• Excellent problem-solving skills and the ability to make decisions under pressure.\n• Ability to collaborate effectively with a variety of team members, including interfacing with customers to resolve issues.\n• High proficiency in written and verbal communication\n\nQualifications:\n\r\n\nSkills/Certifications (Technical & Non-Technical)\n\n• Splunk Certified Administrator.\n• Mastery of SPL (Search Processing Language) for complex queries, dashboards, and reports.\n• Scripting skills (Python, Bash, PowerShell)\n• Cloud-related certifications like AWS Certified Solutions Architect, Google Professional Cloud Architect, or Microsoft Certified: Azure Solutions Architect Expert.\n• Certified Information Systems Security Professional (CISSP), GIAC is preferred.\n• Excellent communication and documentation skills\n• Ability to lead technical initiatives and work independently\n\nMinimum Work Experience\n\n• A minimum of 3-5 years of experience in SOC operations, with significant experience in Splunk SIEM management.\n• Prior experience in a technical role within a SOC or similar cybersecurity environment.\n\nEducation\n\n• Bachelor’s degree in computer science, Information Technology, Cybersecurity, or a related field."
-  },
-  {
-   "id": "ifs:744000160174819",
-   "source": "ifs",
-   "company": "IFS",
-   "via": "",
-   "title": "DevOps Engineer/Senior DevOps Engineer - Platform",
-   "field": "DevOps & Cloud",
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "countries": [
-    "Sri Lanka"
-   ],
-   "locations": [
-    "Colombo, Western Province, Sri Lanka"
-   ],
-   "workplace_type": "",
-   "category": "Information Technology",
-   "posted_date": "2026-11-06",
-   "summary": "",
-   "url": "https://jobs.smartrecruiters.com/ifs1/744000160174819",
-   "first_seen": "2026-11-06T20:12:31Z",
-   "description": "Job Description\nWe are on the lookout for dynamic, experienced tech enthusiasts to join our growing R&D - Cloud Engineering team.\n\nDevOps engineers are the ones that ensure that what we develop at IFS R&D can also run effectively in production and at the same time drive automation of processes spanning from framework development to customer deployment.\n\nA DevOps Engineer will take the lead in designing, developing, deploying and maintaining new and existing tooling/automation solutions to enable IFS to further drive the reliability and efficiency of its operation platforms. A DevOps Engineer at IFS is a driver of further automation in the area in which the person is working and ensures continued robustness of the team’s daily operations. This work is focused on ensuring that continuous integration, testing, and deployment is facilitated using industry DevOps best-practices and tools.\n\nA DevOps Engineer uses their technical know-how to support the entire IFS organization to develop services in such a way that they always can be deployed and tested with a high degree of automation. They demonstrate a strong commitment to the service and process quality and take proactive action to prevent issues from arising and resolve them quickly and effectively when they still do occur.\n\nDuties and Accountabilities\n\n• Identify opportunities for new or enhanced automations to drive efficiencies within the organization, producing designs and plans to address those opportunities\n• Implementing GitOps / DevOps based automation to the IFS shared multi-tenant cloud-platform, supporting new application deployments and rollouts.\n• Drive the maintenance and expansion of existing automations and related processes in the organization.\n• Create documentation, presentation, and training material\n• Engage with relevant stakeholders\n• Share knowledge, guide, and train colleagues\n• Contribute to activities related to market research and competitive analysis\n\nQualifications\n• Demonstrable enterprise level experience in these areas:\n\n• Building large globally deployed multi-tenant cloud systems for high-availability and scalability\n• Designing and building DevOps / GitOps automation to support platform/application, using tools such as ArgoCD and Crossplane or equivalents\n\n• 3-8 years of demonstrable enterprise level knowledge in\n\n• CICD Experience (e.g. GitLab, Bitbucket, GitHub Actions, ADO, Jenkins, Bamboo or similar)\n• Container orchestration (K8s, helm)\n• Infra as Code / Config. Mgmt (terraform, ansible)\n• Containerization (Docker)\n• Scripting (Bash, PowerShell, Python, GoLang)\n• Working with cloud-based infrastructure in Azure (specifically AKS), AWS or GCP\n\n• Azure sepcific areas (or equivalent): AKS, Azure Networking, Azure Firewalls, Azure Front Door, Azure Container Registry, Azure Managed Identities, Azure Storage, Azure AI Services\n\n• 5+ years of knowledge in Linux/Unix/Windows\n• GitOps practices with tools such as ArgoCD and CrossPlane.\n• Other relevant technical experience:\n\n• Full-stack experience across databases, application/web tier, networking/proxies/firewalls etc\n• MongoDB (Atlas)\n• Kafka (Confluent Kafka)\n\n• Quality assurance experience; Testing, Automation and Test data management skills (desirable)\n• Should be a good communicator, competent in effectively communicating with all technical and nontechnical teams.\n• Learn new technologies and theories and apply them when necessary.\n• Should be a good team player and have experience working with a geographically dispersed team.\n• Willingness to accept challenges and show high level of enthusiasm.\n• A University degree, or equivalent professional qualifications, in software/system engineering is essential.\n\nAdditional Information\nWe embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships."
   },
   {
    "id": "syscolabs:R263727",
@@ -3028,29 +3074,6 @@
    "url": "https://careers.astratech.ae/jobs/8636602-offensive-security-ai-security-senior-expert",
    "first_seen": "2026-11-02T08:44:58Z",
    "description": "Job Summary\n\nWe are seeking a highly experienced, hands-on Senior Cybersecurity Architect/Engineer specialising in Offensive Security, Red Team operations, AI Security, and Enterprise Security Architecture.\n\nThe successful candidate will combine strong offensive security expertise with the ability to design, implement, and validate enterprise-wide security controls across cloud-native environments, applications, infrastructure, and AI-enabled platforms.\n\nResponsibilities\n\n1. Offensive Security, Red Team & Purple Team Operations\n\n•\nLead Red Team engagements, including planning, scoping, execution, resource allocation, quality assurance, and reporting.\n\n•\nManage internal Red Team resources and external penetration testing and vulnerability assessment (VAPT) providers.\n\n•\nExecute adversarial simulations covering initial access, privilege escalation, lateral movement, identity compromise, and Active Directory attack paths.\n\n•\nConduct penetration testing across web applications, infrastructure, networks, and enterprise environments.\n\n•\nLead Purple Team exercises to validate detection and response capabilities and identify gaps in existing security controls.\n\n•\nTranslate offensive security findings into actionable remediation plans and improvements to detection engineering.\n\n•\nDevelop or adapt attack scripts, automation, and custom tooling to simulate advanced adversarial scenarios.\n\n2. DevSecOps & Secure Engineering\n\n•\nIntegrate security testing into CI/CD pipelines, including Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Software Composition Analysis (SCA), and Infrastructure as Code (IaC) scanning.\n\n•\nImplement automated security gates, policy-as-code, and security validation workflows.\n\n•\nEstablish secure development practices across containerised environments, including Docker, Kubernetes, and artifact registries.\n\n•\nCollaborate with software engineering and platform teams to embed security controls throughout the software development lifecycle.\n\n•\nAutomate security checks, compliance validation, and remediation processes wherever possible.\n\n3. Cloud & Enterprise Security Architecture\n\n•\nDesign and implement security architecture and guardrails across cloud, on-premises, and hybrid environments.\n\n•\nDefine controls for identity and access management, privileged access, network segmentation, encryption, secrets management, and workload protection.\n\n•\nEstablish secure configuration baselines and integrate security requirements into cloud adoption and infrastructure deployment.\n\n•\nAssess cloud environments against recognised security frameworks and benchmarks, prioritising risks and coordinating remediation.\n\n•\nDesign and validate disaster recovery, high availability, and resilience strategies across infrastructure, identity, networks, and applications.\n\n•\nConduct recovery and failover testing to validate security controls and identify weaknesses in backup, recovery, and resilience mechanisms.\n\n4. Security Operations, Threat Detection & Incident Response\n\n•\nImprove security monitoring and threat detection capabilities across cloud and on-premises environments.\n\n•\nDevelop and optimise SIEM detection rules, log ingestion, alert triage, and threat-hunting processes.\n\n•\nLead incident response activities, including investigation, containment, eradication, recovery, and post-incident reviews.\n\n•\nIntegrate threat intelligence and adversary techniques into detection engineering and proactive threat hunting.\n\n•\nWork closely with Red and Blue Teams to improve detection coverage, response effectiveness, and overall security maturity.\n\n5. AI Security Architecture & Implementation\n\n•\nDesign and implement security controls across the AI/ML lifecycle, including data protection, model access, application security, and AI supply-chain risk.\n\n•\nAssess the security of LLM-powered applications, AI agents, and AI platforms.\n\n•\nIdentify and mitigate AI-specific threats, including prompt injection, insecure output handling, data leakage, excessive agency, and model-related vulnerabilities.\n\n•\nImplement AI security guardrails, monitoring, adversarial testing, and secure integration patterns for AI-enabled applications.\n\n•\nTranslate emerging AI security risks, standards, and regulatory requirements into practical architecture, policies, and engineering controls.\n\n•\nSupport the secure adoption of AI technologies across enterprise environments.\n\n6. Data Security, Privacy & Governance\n\n•\nDesign and implement data security controls covering data classification, discovery, inventory, retention, and secure handling.\n\n•\nImplement encryption, key management, tokenisation, data loss prevention (DLP), and data access governance.\n\n•\nStrengthen security across databases, storage platforms, and structured and unstructured data environments.\n\n•\nCollaborate with privacy, legal, and business stakeholders to ensure data processing complies with relevant regulatory and contractual obligations.\n\n•\nSupport privacy impact assessments and the implementation of appropriate technical safeguards.\n\n7. Security Risk, Compliance & Governance\n\n•\nConduct security risk assessments, control reviews, and compliance gap assessments.\n\n•\nSupport compliance with applicable frameworks and regulations, including ISO 27001, NIST, CIS Controls, PCI DSS, GDPR, and relevant UAE regulatory requirements.\n\n•\nTranslate business and regulatory obligations into practical technical security controls.\n\n•\nTrack remediation of audit findings, vulnerabilities, risk exceptions, and control gaps.\n\n•\nProvide clear reporting on security risks, remediation progress, and control effectiveness to technical and business stakeholders.\n\nRequirements\n\n•\nBachelor's degree or higher in Computer Science, Information Security, Cybersecurity, or a related discipline.\n\n•\n8+ years of hands-on cybersecurity engineering or architecture experience.\n\n•\nAt least 5 years of experience leading or managing offensive security engagements, Red Team operations, or equivalent security assessment activities.\n\n•\nDemonstrable experience coordinating Red Team, Blue Team, and Purple Team activities.\n\n•\nStrong technical understanding of common attack techniques, including SQL injection, cross-site scripting (XSS), server-side request forgery (SSRF), remote code execution (RCE), and insecure direct object references (IDOR).\n\n•\nExperience assessing Windows and Linux environments, enterprise networks, identity systems, privilege escalation, lateral movement, and attack paths.\n\n•\nPractical familiarity with offensive security tools such as Burp Suite, Metasploit, Nmap, and Nessus.\n\n•\nExperience with DevSecOps practices, CI/CD security integration, container security, and infrastructure-as-code scanning.\n\n•\nStrong understanding of cloud security architecture, preferably within Microsoft Azure, with AWS or multi-cloud experience also beneficial.\n\n•\nExperience designing or implementing AI security controls for LLM applications, AI agents, or AI platforms.\n\n•\nKnowledge of data protection, encryption, secrets management, identity security, and privacy controls.\n\n•\nAbility to lead complex security projects from architecture and implementation through testing, delivery, and operational handover.\n\n•\nStrong communication skills, with the ability to explain technical security risks and solutions to engineering teams and senior stakeholders."
-  },
-  {
-   "id": "accenture:14854186",
-   "source": "accenture",
-   "company": "Accenture",
-   "via": "",
-   "title": "Oracle Solution Architect",
-   "field": "ERP & Business Apps",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai, One Za'abeel Tower"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-01",
-   "summary": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dubai-One-Zaabeel-Tower/Oracle-Solution-Architect_14854186",
-   "first_seen": "2026-11-01T18:42:47Z",
-   "description": "Accenture Technology Overview\n\nAccenture Technology helps organizations build their digital core, optimize operations, accelerate growth, and enhance services through the power of technology, data, and AI.\n\nOur Oracle practice combines deep industry expertise, transformation consulting, and Oracle application and technology capabilities to help organizations modernize and transform their businesses across HCM, Finance, EPM, Procurement, Project Management, Supply Chain, Manufacturing, CX, Analytics, Integration, Oracle Cloud Infrastructure (OCI), AI, and industry solutions.\n\nJob Summary\n\nAs an Oracle Solution Architect, you will play a key role in shaping and delivering Oracle-enabled business transformation programs. You will combine strong Oracle expertise with business consulting, solution architecture, and leadership capabilities to translate complex business requirements into scalable, integrated Oracle solutions.\n\nYou will work closely with stakeholders, account teams, and delivery teams to define solution strategies, transformation roadmaps, and architectures that deliver measurable business value.\n\nAdditional Key Responsibilities\n\n• Design end-to-end Oracle solutions that support business transformation and operational objectives.\n• Translate business requirements into scalable Oracle solution architectures across relevant functional and technical areas.\n• Ensure business processes, integrations, data, reporting, analytics, and security components work together effectively within the overall solution.\n• Lead discovery sessions, architecture discussions, solution design workshops, and executive-level presentations.\n• Develop Oracle-enabled transformation strategies and implementation roadmaps.\n• Partner with project and delivery teams throughout solution design and implementation.\n• Build trusted relationships with stakeholders and provide strategic guidance on Oracle solutions.\n• Support sales and solution pursuits, including solution development, estimation, proposals, demonstrations, and presentations.\n• Provide solution architecture leadership across complex Oracle transformation initiatives.\n• Identify opportunities to leverage Oracle Cloud, analytics, data, integration, and AI capabilities to enhance business outcomes.\n\nJob Qualifications\n\n• 12+ years of strong experience with Oracle solutions and enterprise transformation programs.\n• Experience designing and architecting end-to-end Oracle solutions across one or more areas such as: Oracle HCM Oracle ERP / Financials Oracle EPM Procurement Project Management Supply Chain and Manufacturing Oracle CX, Sales, Service, Marketing, or Commerce Analytics and Data Integration Oracle Cloud Infrastructure (OCI) AI and industry-specific Oracle solutions\n• Strong understanding of solution architecture principles, including business processes, integrations, data, reporting, and security.\n• Experience translating business requirements into functional and technical solution designs.\n• Experience leading client workshops, discovery sessions, architecture discussions, and solution presentations.\n• Experience supporting solutioning and sales pursuits, including estimation, proposals, and demonstrations.\n• Strong stakeholder management, consulting, communication, and presentation skills.\n• Ability to collaborate effectively with business, functional, technical, and delivery teams.\n• Strong problem-solving skills with the ability to operate in complex transformation environments.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
   },
   {
    "id": "accenture:14438486",
@@ -4845,29 +4868,6 @@
    "description": "Job Description\nAsset-intensive industry is entering an AI-enabled, data-driven, increasingly autonomous era — and nowhere is the value more concentrated than in shutdowns, turnarounds, outages, maintenance campaigns, and major capital builds, where scope, readiness, cost, and safety decide success. This role sits at the centre of that shift.\n\nAs a Principal Product Manager for Enterprise Asset Management, you'll own products that maximise asset value, reliability, and uptime while reducing risk and total cost of ownership across the full asset lifecycle — from capital build through operation, maintenance, and turnaround. You bring deep insight into project-based work — shutdowns and turnarounds (STO), campaigns of work, and major capital projects — and you champion high AI agency, treating agentic AI as a core capability, not a feature.\n\nYou'll serve asset-intensive operators across IFS's key industries- Energy, Utilities & Resources, Manufacturing, Construction & Engineering, Communication, Aerospace & Defence, and Service Industries.\n\nCore Responsibilities\n\n•\nStrategy & Vision — Set a clear product vision and roadmap tied to measurable outcomes: asset availability, reliability, maintenance cost, and turnaround schedule and budget adherence. Build strong investment cases and drive growth across core and AI revenue streams, aligned with the Asset Lifecycle Management portfolio.\n\n•\nCustomer Discovery — Lead discovery with maintenance, reliability, operations, turnaround/STO, and capital-planning leaders. Go deep on scope challenge and optimisation, readiness, resource mobilisation, scheduling, and cost/risk control. Prioritise ruthlessly on measurable value.\n\n•\nHigh AI Agency & Agentic Innovation — Embed agentic AI into project-based work: autonomously assembling and challenging turnaround scope, optimising campaign and outage schedules, surfacing readiness gaps, and continuously replanning as conditions change. Operate with high personal agency in your own use of AI to prototype and validate fast.\n\n•\nEnd-to-End Ownership — Own the lifecycle from concept to launch to scale. Remove blockers and drive to outcomes — including the hard schedule and cost deadlines that govern turnarounds and capital projects. Keep Engineering, Design, Marketing, Sales, and Customer Success aligned.\n\n•\nCommercial Impact & GTM — Define differentiation and value for asset-intensive buyers and event leaders. Support pricing, packaging, launches, and customer presentations. Own adoption as a core metric.\n\nQualifications\nEssential\n\n• Proven experience (6+ years) in Product Management within SaaS, platform, or enterprise software environments.\n• Deep knowledge of shutdown, turnaround, major capital investment projects or similar activities in the context of EAM.\n• Experienced and knowledgeable in the domain of Enterprise Asset Management, maintenance & reliability, or asset-intensive operations, with hands-on exposure to one or more of IFS's core industries (Aerospace & Defence, Energy/Utilities & Resources, Manufacturing, Construction & Engineering, Telecommunications, Service Industries).\n• Demonstrated ability to define and execute product strategy, vision, and measurable outcomes.\n• Hands-on experience in customer discovery, prototyping, and validating solutions.\n• Proven track record of launching and scaling products from concept to adoption, delivering measurable customer value.\n• Exceptional communication, stakeholder management, and prioritisation skills.\n• Data-informed decision-making mindset, using analytics, experimentation, and evidence to guide direction.\n• AI-curious.\n\nDesirable\n\n• Familiarity with asset management standards and practices (e.g., ISO 55000, RCM, EHS/compliance) and asset data models (work orders, asset hierarchies, condition/IoT data).\n• Experience with developer platforms, application frameworks, data services, or AI/ML-enabled enterprise applications.\n• Prior exposure to commercial responsibilities such as pricing, monetisation, or P&L ownership.\n• Experience working in global, distributed organisations and partnering across geographies\n\nAdditional Information\nWe embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships."
   },
   {
-   "id": "edge:733541722",
-   "source": "edge",
-   "company": "EDGE · HALCON",
-   "via": "",
-   "title": "Senior Engineer - Embedded Software Developer",
-   "field": "Software Development",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "HALCON",
-   "posted_date": "2026-10-12",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Engineer-Embedded-Software-Developer-Abu/733541722/",
-   "first_seen": "2026-10-12T08:26:37Z",
-   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nHalcon is seeking a talented Senior Engineer: Software (Embedded Software Engineer) to develop, integrate, test, and verify safety-critical real-time embedded software solutions for advanced defense and aerospace platforms.The successful candidate will contribute throughout the software development lifecycle, from requirements analysis and architecture design to implementation, integration, verification, and technical documentation\n\nRESPONSIBILITIES\n\r\n\n• Develop and implement robust real-time embedded software using C/C++, RTOS, and bare-metal architectures.\n\n• Derive low-level software requirements and design software modules based on system and software specifications.\n\n• Perform hardware-software integration, including BSP development, device drivers, and communication interfaces such as SPI, I2C, UART, CAN, and Ethernet.\n\n• Execute software verification and validation activities, including Software-in-the-Loop (SIL), Hardware-in-the-Loop (HIL), debugging, testing, and participation in technical design reviews.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's degree in Electronic Engineering, Computer Engineering, Software Engineering, or a related discipline.\n\n• Minimum 8 years of experience in embedded software development with strong proficiency in C/C++.\n\n• Solid experience with RTOS, bare-metal systems, embedded architectures, and software debugging tools.\n\n• Experience within defense, aerospace, aviation, or other safety-critical engineering environments, with knowledge of requirements and configuration management tools such as JAMA, DOORS, Git, SVN, or JIRA.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Experience with DO-178C safety-critical software development and MISRA C/C++ coding standards.\n\n• Experience in Missile Systems, UAVs, Avionics, or other high-integrity embedded systems, including support for formal design reviews and certification activities.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
-  },
-  {
    "id": "edge:733541522",
    "source": "edge",
    "company": "EDGE · HALCON",
@@ -4889,6 +4889,29 @@
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Principal-Engineer-System-Engineer-Abu/733541522/",
    "first_seen": "2026-10-12T08:26:37Z",
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nHalcon is seeking an experienced Principal Engineer: Software (Embedded Software System Engineer) to lead the definition, architecture, and integration of high-performance real-time embedded software systems.\nThe role serves as the technical authority bridging system requirements, software architecture, hardware interfaces, and software development teams.The successful candidate will drive software system engineering activities, ensure compliance with system requirements, mentor engineers, and support the development of scalable and safety-critical embedded solutions for advanced defense and aerospace platforms.\n\nRESPONSIBILITIES\n\r\n\n• Translate high-level system requirements into detailed software requirements and maintain end-to-end requirements traceability.\n\n• Define software architectures, interface control documents, and hardware/software integration strategies for real-time embedded systems.\n\n• Act as the technical authority and liaison between software engineers, systems engineers, hardware engineers, and project stakeholders.\n\n• Lead software system engineering activities, technical reviews, mentoring, and capability development of junior engineers\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's degree in Electronic Engineering, Computer Engineering, Software Engineering, or a related engineering discipline.\n\n• Minimum 15 years of experience in embedded software engineering, preferably within defense, military, aerospace, or aviation environments.\n\n• Minimum 3 years of experience as a Software Architect, Software System Engineer, or Technical Lead.\n\n• Strong knowledge of software system engineering, requirements management, traceability tools (e.g., Jama), and embedded hardware/software integration.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Proven experience in certifying safety-critical software to DO-178C Level A or equivalent standards.\n\n• Expertise in Model-Based Systems Engineering (MBSE), SCADE, safety-critical middleware, FPGA interfacing, and embedded communication protocols.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
+  },
+  {
+   "id": "edge:733541722",
+   "source": "edge",
+   "company": "EDGE · HALCON",
+   "via": "",
+   "title": "Senior Engineer - Embedded Software Developer",
+   "field": "Software Development",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "HALCON",
+   "posted_date": "2026-10-12",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Engineer-Embedded-Software-Developer-Abu/733541722/",
+   "first_seen": "2026-10-12T08:26:37Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nHalcon is seeking a talented Senior Engineer: Software (Embedded Software Engineer) to develop, integrate, test, and verify safety-critical real-time embedded software solutions for advanced defense and aerospace platforms.The successful candidate will contribute throughout the software development lifecycle, from requirements analysis and architecture design to implementation, integration, verification, and technical documentation\n\nRESPONSIBILITIES\n\r\n\n• Develop and implement robust real-time embedded software using C/C++, RTOS, and bare-metal architectures.\n\n• Derive low-level software requirements and design software modules based on system and software specifications.\n\n• Perform hardware-software integration, including BSP development, device drivers, and communication interfaces such as SPI, I2C, UART, CAN, and Ethernet.\n\n• Execute software verification and validation activities, including Software-in-the-Loop (SIL), Hardware-in-the-Loop (HIL), debugging, testing, and participation in technical design reviews.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's degree in Electronic Engineering, Computer Engineering, Software Engineering, or a related discipline.\n\n• Minimum 8 years of experience in embedded software development with strong proficiency in C/C++.\n\n• Solid experience with RTOS, bare-metal systems, embedded architectures, and software debugging tools.\n\n• Experience within defense, aerospace, aviation, or other safety-critical engineering environments, with knowledge of requirements and configuration management tools such as JAMA, DOORS, Git, SVN, or JIRA.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Experience with DO-178C safety-critical software development and MISRA C/C++ coding standards.\n\n• Experience in Missile Systems, UAVs, Avionics, or other high-integrity embedded systems, including support for formal design reviews and certification activities.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
   },
   {
    "id": "edge:733062122",
@@ -5422,52 +5445,6 @@
    "description": "Job Description\nAbout the role:\n\nUltimo is using AI to transform how their own internal teams work across Sales, Services, Support, HR, Finance and Marketing. As Senior AI Business Analyst, you'll own our internal AI products and agents end-to-end from discovery through delivery, launch and adoption. We are not just adding AI to our processes; we are transforming the way our company works.\n\nThe Senior AI Business Analyst turns business problems into valuable and usable AI solutions. Working within the AI Transformation Team, you will work with business stakeholders and technical teams to identify opportunities, define product requirements, prioritise the backlog, and guide AI products from idea to launch and continuous improvement.\n\nKey Responsibilities:\n\n• Collaborating and establishing a clear product vision for the internal AI solutions together with leadership aligned with organizations’ business objectives.\n• Working with internal business stakeholders to understand processes, challenges, and opportunities where AI can create meaningful value.\n• Translating business needs into clear, practical product requirements and solutions.\n• Managing and continuously refining a goal-oriented AI product backlog, prioritising items based on value, impact, risks, and dependencies.\n• Delivering AI product increments in close collaboration with technical teams.\n• Defining clear acceptance criteria and ensuring solutions meet the intended business needs.\n• Supporting the launch and adoption of AI solutions by communicating their purpose, capabilities, and value to users.\n• Gathering feedback and usage insights to continuously improve AI products and identify new opportunities.\n• Keeping up to date with relevant AI developments, including enterprise AI, and identifying practical opportunities to apply them within the business.\n\nQualifications\n• A degree in Computer Science, Information Technology, Business IT & Management, or a comparable field.\n• 4+ years of experience as a Project Manager, Business Analyst, Product Owner, or similar role.\n• Strong experience in requirements analysis, backlog management, and Agile ways of working.\n• Excellent verbal and written communication skills.\n• Experience working in multidisciplinary teams and managing internal and external stakeholders.\n• Strong understanding of business processes and the ability to translate business needs into practical solutions.\n• Demonstrates critical thinking, analytical decision-making, and a value-driven mindset.\n• Experience presenting solutions, facilitating discussions, and gathering feedback from stakeholders.\n• Good understanding of AI concepts and their practical application in business.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
   },
   {
-   "id": "edge:733531522",
-   "source": "edge",
-   "company": "EDGE · ADASI",
-   "via": "",
-   "title": "Senior Embedded Software Engineer",
-   "field": "Software Development",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "ADASI",
-   "posted_date": "2026-10-08",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Embedded-Software-Engineer-Abu/733531522/",
-   "first_seen": "2026-10-09T07:32:04Z",
-   "description": "External Job Description\n\r\n\nEmbedded Software Engineer\n\nLocation: Abu Dhabi\n\nAbout ADASI: ADASI is a leading aerospace company dedicated to advancing the aerospace industry through innovative technology solutions. Our mission is to enhance the safety, efficiency, and sustainability of airspace management. We are seeking a talented Embedded Software Developer to join our team and contribute to our mission.\n\nRole Overview:\nDevelop and maintain embedded software for aerospace and UAV systems, ensuring high performance, reliability, and compliance with safety standards.\n\nKey Responsibilities:\n\n• Design, develop, and test embedded software in C/C++.\n\n• Develop software for real-time and safety-critical systems.\n\n• Integrate software with hardware components, sensors, and actuators.\n\n• Implement control algorithms and optimize code performance.\n\n• Perform debugging, troubleshooting, and system testing.\n\n• Maintain technical documentation and support certification activities.\n\n• Collaborate with hardware, systems, and QA teams.\n\nRequirements:\n\n• Bachelor's degree in Computer Science, Electrical Engineering, or related field.\n\n• 5–7+ years of embedded software development experience.\n\n• Strong proficiency in C/C++ and embedded systems.\n\n• Experience with RTOS (e.g., FreeRTOS, VxWorks, QNX).\n\n• Knowledge of hardware-software integration and communication protocols (SPI, I2C, UART, CAN).\n\n• Familiarity with aerospace/safety standards such as DO-178C and DO-254.\n\n• Experience with Git and software debugging tools.\n\n• Strong problem-solving and teamwork skills.\n\nPreferred:\n\n• Aerospace, defense, automotive, or other safety-critical industry experience.\n\n• Relevant embedded systems or aerospace certifications."
-  },
-  {
-   "id": "edge:733532822",
-   "source": "edge",
-   "company": "EDGE · ADASI",
-   "via": "",
-   "title": "Senior Software Test Engineer",
-   "field": "QA & Testing",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "ADASI",
-   "posted_date": "2026-10-08",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Software-Test-Engineer-Abu/733532822/",
-   "first_seen": "2026-10-09T07:32:04Z",
-   "description": "External Job Description\n\r\n\nSoftware Test Engineer II\n\nPosition Overview: We're seeking an experienced Software Test Engineer with a strong background in embedded systems and aviation software testing.\n\nKey Responsibilities:\n\n• Design and maintain test cases from requirements and design docs\n\n• Execute manual and automated tests against functional, performance, and safety requirements\n\n• Ensure compliance with RTCA DO-178C in safety-critical environments\n\n• Manage the full testing lifecycle: planning, execution, defect reporting, completion\n\n• Oversee testing for embedded and avionics-related systems\n\n• Mentor the team on test automation and CI best practices\n\n• Drive continuous improvement in QA strategies and methodologies\n\n• Collaborate with cross-functional teams on system integration and validation\n\nQualifications:\n\n• Education: Bachelor’s degree in Computer Science, Software Engineering, Electrical Engineering, or related field.\n\n• Experience: Minimum of 5 years of experience in software testing for embedded systems in the aerospace or defence industry.\n\n• Technical Skills:\n\n• Strong experience with RTCA DO-178C standards and regulatory compliance.\n\n• Proven ability to develop and execute test cases, test plans, and test procedures.\n\n• Proficiency with test automation tools; experience with the Rapita Verification Suite is preferred.\n\n• Strong working knowledge of JIRA and the Atlassian suite for defect tracking and team collaboration.\n\nPreferred Skills:\n\n• Technical and line management experience\n\n• Automated testing frameworks and tools\n\n• Agile and TDD familiarity\n\n• Strong analytical and communication skills"
-  },
-  {
    "id": "edge:733531822",
    "source": "edge",
    "company": "EDGE · ADASI",
@@ -5491,12 +5468,12 @@
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nEmbedded Software Engineer\n\nRole Overview:\nDevelop and maintain embedded software for aerospace and UAV systems, ensuring high performance, reliability, and compliance with safety standards.\n\nRESPONSIBILITIES\n\r\n\n• Design, develop, and test embedded software in C/C++.\n\n• Develop software for real-time and safety-critical systems.\n\n• Integrate software with hardware components, sensors, and actuators.\n\n• Implement control algorithms and optimize code performance.\n\n• Perform debugging, troubleshooting, and system testing.\n\n• Maintain technical documentation and support certification activities.\n\n• Collaborate with hardware, systems, and QA teams.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's degree in Computer Science, Electrical Engineering, or related field.\n\n• 5–7+ years of embedded software development experience.\n\n• Strong proficiency in C/C++ and embedded systems.\n\n• Experience with RTOS (e.g., FreeRTOS, VxWorks, QNX).\n\n• Knowledge of hardware-software integration and communication protocols (SPI, I2C, UART, CAN).\n\n• Familiarity with aerospace/safety standards such as DO-178C and DO-254.\n\n• Experience with Git and software debugging tools.\n\n• Strong problem-solving and teamwork skills.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Aerospace, defense, automotive, or other safety-critical industry experience.\n\n• Relevant embedded systems or aerospace certifications.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
   },
   {
-   "id": "edge:733532422",
+   "id": "edge:733532822",
    "source": "edge",
    "company": "EDGE · ADASI",
    "via": "",
-   "title": "Senior Embedded Software Engineer",
-   "field": "Software Development",
+   "title": "Senior Software Test Engineer",
+   "field": "QA & Testing",
    "country_code": "AE",
    "country": "United Arab Emirates",
    "countries": [
@@ -5509,9 +5486,9 @@
    "category": "ADASI",
    "posted_date": "2026-10-08",
    "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Embedded-Software-Engineer-Abu/733532422/",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Software-Test-Engineer-Abu/733532822/",
    "first_seen": "2026-10-09T07:32:04Z",
-   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nEmbedded Software Engineer\n\nRole Overview:\nDevelop and maintain embedded software for aerospace and UAV systems, ensuring high performance, reliability, and compliance with safety standards.\n\nRESPONSIBILITIES\n\r\n\n• Design, develop, and test embedded software in C/C++.\n\n• Develop software for real-time and safety-critical systems.\n\n• Integrate software with hardware components, sensors, and actuators.\n\n• Implement control algorithms and optimize code performance.\n\n• Perform debugging, troubleshooting, and system testing.\n\n• Maintain technical documentation and support certification activities.\n\n• Collaborate with hardware, systems, and QA teams.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's degree in Computer Science, Electrical Engineering, or related field.\n\n• 5–7+ years of embedded software development experience.\n\n• Strong proficiency in C/C++ and embedded systems.\n\n• Experience with RTOS (e.g., FreeRTOS, VxWorks, QNX).\n\n• Knowledge of hardware-software integration and communication protocols (SPI, I2C, UART, CAN).\n\n• Familiarity with aerospace/safety standards such as DO-178C and DO-254.\n\n• Experience with Git and software debugging tools.\n\n• Strong problem-solving and teamwork skills.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Aerospace, defense, automotive, or other safety-critical industry experience.\n\n• Relevant embedded systems or aerospace certifications.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
+   "description": "External Job Description\n\r\n\nSoftware Test Engineer II\n\nPosition Overview: We're seeking an experienced Software Test Engineer with a strong background in embedded systems and aviation software testing.\n\nKey Responsibilities:\n\n• Design and maintain test cases from requirements and design docs\n\n• Execute manual and automated tests against functional, performance, and safety requirements\n\n• Ensure compliance with RTCA DO-178C in safety-critical environments\n\n• Manage the full testing lifecycle: planning, execution, defect reporting, completion\n\n• Oversee testing for embedded and avionics-related systems\n\n• Mentor the team on test automation and CI best practices\n\n• Drive continuous improvement in QA strategies and methodologies\n\n• Collaborate with cross-functional teams on system integration and validation\n\nQualifications:\n\n• Education: Bachelor’s degree in Computer Science, Software Engineering, Electrical Engineering, or related field.\n\n• Experience: Minimum of 5 years of experience in software testing for embedded systems in the aerospace or defence industry.\n\n• Technical Skills:\n\n• Strong experience with RTCA DO-178C standards and regulatory compliance.\n\n• Proven ability to develop and execute test cases, test plans, and test procedures.\n\n• Proficiency with test automation tools; experience with the Rapita Verification Suite is preferred.\n\n• Strong working knowledge of JIRA and the Atlassian suite for defect tracking and team collaboration.\n\nPreferred Skills:\n\n• Technical and line management experience\n\n• Automated testing frameworks and tools\n\n• Agile and TDD familiarity\n\n• Strong analytical and communication skills"
   },
   {
    "id": "edge:733532022",
@@ -5556,6 +5533,52 @@
    "posted_date": "2026-10-08",
    "summary": "",
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Principal-Embedded-Software-Engineer-Abu/733532222/",
+   "first_seen": "2026-10-09T07:32:04Z",
+   "description": "External Job Description\n\r\n\nEmbedded Software Engineer\n\nLocation: Abu Dhabi\n\nAbout ADASI: ADASI is a leading aerospace company dedicated to advancing the aerospace industry through innovative technology solutions. Our mission is to enhance the safety, efficiency, and sustainability of airspace management. We are seeking a talented Embedded Software Developer to join our team and contribute to our mission.\n\nRole Overview:\nDevelop and maintain embedded software for aerospace and UAV systems, ensuring high performance, reliability, and compliance with safety standards.\n\nKey Responsibilities:\n\n• Design, develop, and test embedded software in C/C++.\n\n• Develop software for real-time and safety-critical systems.\n\n• Integrate software with hardware components, sensors, and actuators.\n\n• Implement control algorithms and optimize code performance.\n\n• Perform debugging, troubleshooting, and system testing.\n\n• Maintain technical documentation and support certification activities.\n\n• Collaborate with hardware, systems, and QA teams.\n\nRequirements:\n\n• Bachelor's degree in Computer Science, Electrical Engineering, or related field.\n\n• 5–7+ years of embedded software development experience.\n\n• Strong proficiency in C/C++ and embedded systems.\n\n• Experience with RTOS (e.g., FreeRTOS, VxWorks, QNX).\n\n• Knowledge of hardware-software integration and communication protocols (SPI, I2C, UART, CAN).\n\n• Familiarity with aerospace/safety standards such as DO-178C and DO-254.\n\n• Experience with Git and software debugging tools.\n\n• Strong problem-solving and teamwork skills.\n\nPreferred:\n\n• Aerospace, defense, automotive, or other safety-critical industry experience.\n\n• Relevant embedded systems or aerospace certifications."
+  },
+  {
+   "id": "edge:733532422",
+   "source": "edge",
+   "company": "EDGE · ADASI",
+   "via": "",
+   "title": "Senior Embedded Software Engineer",
+   "field": "Software Development",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "ADASI",
+   "posted_date": "2026-10-08",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Embedded-Software-Engineer-Abu/733532422/",
+   "first_seen": "2026-10-09T07:32:04Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nEmbedded Software Engineer\n\nRole Overview:\nDevelop and maintain embedded software for aerospace and UAV systems, ensuring high performance, reliability, and compliance with safety standards.\n\nRESPONSIBILITIES\n\r\n\n• Design, develop, and test embedded software in C/C++.\n\n• Develop software for real-time and safety-critical systems.\n\n• Integrate software with hardware components, sensors, and actuators.\n\n• Implement control algorithms and optimize code performance.\n\n• Perform debugging, troubleshooting, and system testing.\n\n• Maintain technical documentation and support certification activities.\n\n• Collaborate with hardware, systems, and QA teams.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's degree in Computer Science, Electrical Engineering, or related field.\n\n• 5–7+ years of embedded software development experience.\n\n• Strong proficiency in C/C++ and embedded systems.\n\n• Experience with RTOS (e.g., FreeRTOS, VxWorks, QNX).\n\n• Knowledge of hardware-software integration and communication protocols (SPI, I2C, UART, CAN).\n\n• Familiarity with aerospace/safety standards such as DO-178C and DO-254.\n\n• Experience with Git and software debugging tools.\n\n• Strong problem-solving and teamwork skills.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Aerospace, defense, automotive, or other safety-critical industry experience.\n\n• Relevant embedded systems or aerospace certifications.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
+  },
+  {
+   "id": "edge:733531522",
+   "source": "edge",
+   "company": "EDGE · ADASI",
+   "via": "",
+   "title": "Senior Embedded Software Engineer",
+   "field": "Software Development",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "ADASI",
+   "posted_date": "2026-10-08",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Embedded-Software-Engineer-Abu/733531522/",
    "first_seen": "2026-10-09T07:32:04Z",
    "description": "External Job Description\n\r\n\nEmbedded Software Engineer\n\nLocation: Abu Dhabi\n\nAbout ADASI: ADASI is a leading aerospace company dedicated to advancing the aerospace industry through innovative technology solutions. Our mission is to enhance the safety, efficiency, and sustainability of airspace management. We are seeking a talented Embedded Software Developer to join our team and contribute to our mission.\n\nRole Overview:\nDevelop and maintain embedded software for aerospace and UAV systems, ensuring high performance, reliability, and compliance with safety standards.\n\nKey Responsibilities:\n\n• Design, develop, and test embedded software in C/C++.\n\n• Develop software for real-time and safety-critical systems.\n\n• Integrate software with hardware components, sensors, and actuators.\n\n• Implement control algorithms and optimize code performance.\n\n• Perform debugging, troubleshooting, and system testing.\n\n• Maintain technical documentation and support certification activities.\n\n• Collaborate with hardware, systems, and QA teams.\n\nRequirements:\n\n• Bachelor's degree in Computer Science, Electrical Engineering, or related field.\n\n• 5–7+ years of embedded software development experience.\n\n• Strong proficiency in C/C++ and embedded systems.\n\n• Experience with RTOS (e.g., FreeRTOS, VxWorks, QNX).\n\n• Knowledge of hardware-software integration and communication protocols (SPI, I2C, UART, CAN).\n\n• Familiarity with aerospace/safety standards such as DO-178C and DO-254.\n\n• Experience with Git and software debugging tools.\n\n• Strong problem-solving and teamwork skills.\n\nPreferred:\n\n• Aerospace, defense, automotive, or other safety-critical industry experience.\n\n• Relevant embedded systems or aerospace certifications."
   },
@@ -5673,29 +5696,6 @@
    "description": "• Lead enterprise infrastructure, cloud and cybersecurity strategy\n• Drive resilience, compliance and technology innovation\n\nAbout Our Client\n\nOur client is a well-established organisation operating in a dynamic and growth-focused environment. Committed to operational excellence and continuous innovation, the business invests in technology to support its long-term strategic objectiv\n\nJob Description\n\n• Lead the design, implementation and continuous improvement of enterprise IT infrastructure, networks and cloud environments.\n• Develop and maintain cybersecurity governance, incident response processes, vulnerability management programmes and disaster recovery capabilities.\n• Ensure compliance with regulatory requirements, internal policies and industry best practices while proactively managing technology risk.\n• Evaluate emerging technologies and provide strategic recommendations to enhance operational efficiency, security and scalability.\n• Manage vendor relationships, monitor service delivery and contribute to budgeting, reporting and performance optimisation initiatives\n\nThe Successful Applicant\n\n• Bachelor's degree in Computer Science, Information Technology or a related discipline.\n• 7-10+ years of experience in IT infrastructure, cybersecurity or related technology leadership roles.\n• Strong expertise across networks, servers, cloud platforms, infrastructure operations and security technologies.\n• Professional certifications such as CISSP, CISM, CEH, ITIL and/or Microsoft Azure certification are highly desirable.\n• Demonstrated project delivery, stakeholder management, leadership and problem-solving capabilities\n\nWhat's on Offer\n\n• Opportunity to lead critical infrastructure and cybersecurity initiatives within a growing organisation.\n• Exposure to enterprise-wide technology transformation projects and strategic decision-making."
   },
   {
-   "id": "edge:732890522",
-   "source": "edge",
-   "company": "EDGE · Advance Concepts",
-   "via": "",
-   "title": "Senior Engineer (C&E) - RF Signal Processing Software",
-   "field": "Networking & Telecom",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "Advance Concepts",
-   "posted_date": "2026-10-03",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Engineer-%28C&amp;E%29-RF-Signal-Processing-Software-Abu/732890522/",
-   "first_seen": "2026-10-09T07:32:04Z",
-   "description": "ADVANCED CONCEPTS is an entity within EDGE dedicated to the design and deployment of advanced, innovative technologies.\n\nADVANCED CONCEPTS is fast-tracking the development of high-technology autonomous systems, including three Medium Endurance, High Altitude, fixed-wing unmanned aerial systems, a family of precision loitering munitions, a cost- effective family of cruise missiles, and a range of guided artillery munitions.\n\nCore Accountabilities:\n\n• Implement OSI: PHY/layer 1 and layer 2 radio for running on Microcontroller or FPGA\n\n• Develop embedded software for RF systems, including signal processing for data‑links\n\n• Write device drivers and low level software for RF-chipsets and modules\n\n• Develop and maintain bare-metal firmware for microcontrollers based on ARM Cortex-M architectures\n\n• Develop and maintain firmware with RTOS on microcontrollers\n\n• Integrate various communication protocols like I2C, UART, SPI, CAN and ETH in both Linux and microcontroller environments\n\n• Use of programming languages for Microcontrollers such as C/C++ and Assembly\n\n• Design and generation of Board Support Packages\n\n• Participate in code reviews, ensure code quality, and follow established coding standards.\n\n• Stay up-to-date with advancements in embedded technologies and best practices.\n\n• Analyse and improve the performance of the developed RF systems in terms of throughput , latency, power consumption, and signal quality.\n\n• Build of Linux images such as Yocto and FreeRTOS.\n\n• Use of version controlled environment such as Git or SVN\n\n• Use of code writing style guides (as for example pep8 for python)\n\n• Implement Linux drivers and kernel modules for custom hardware components\n\n• Implement Linux client/server against UDP, TCP or IP\n\n• Excellent problem-solving, analytical, and debugging skills\n\n• Conduct testing and troubleshooting of both software and hardware\n\n• Support, lead and mentor junior engineers and share knowledge\n\nQualifications / Experience:\n\n• Bachelor’s or Master's degree in computer science, communication, electronic, software engineering.\n\n• Minimum 8 years of experience in embedded software engineering, C and C++ and Assembler\n\n• Knowledge and understanding of OSI model: PHY/layer 1 and layer 2\n\n• Strong understanding of ARM and Cortex-M architectures.\n\n• Knowledge in Linux driver and kernel development.\n\n• Knowledge with bare-metal firmware development for microcontrollers\n\n• Knowledge with RTOS on microcontrollers.\n\n• Knowledge of I2C, UART, SPI, and CAN protocols and their implementation in both Linux and microcontrollers.\n\n• Understanding of RF principles, including modulation, coding, and signal processing.\n\n• Experience with RF hardware, including transceivers, power amplifier, and antenna systems.\n\n• Ability to design and implement efficient algorithms for real time RF systems.\n\n• Strong problem-solving, analytical, and debugging skills.\n\n• Strong communication and interpersonal skills, with the ability to collaborate effectively with engineers and other stakeholders.\n\n• Proven ability to work independently and manage multiple projects simultaneously."
-  },
-  {
    "id": "edge:733278122",
    "source": "edge",
    "company": "EDGE · HALCON",
@@ -5717,6 +5717,29 @@
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Engineer%2C-Software-Abu/733278122/",
    "first_seen": "2026-10-09T07:32:04Z",
    "description": "External Job Description\n\r\n\nSenior Engineer – EECE\nDepartment: Electrical, Electronics & Computer Engineering\n\nRole Purpose\nLead cross‑functional engineering teams in the development, integration, and qualification of RF systems, power electronics, embedded systems, software, and AI solutions. Drive innovation through system‑level design, testing, and validation. Ensure technical excellence, project alignment, and high‑impact delivery across advanced industrial and defense technologies.\n\n• Key Accountabilities\nTechnical Leadership — Guide hardware/firmware design teams, ensuring compliance with international standards and qualification requirements.\n\n• Design Reviews — Organize and chair multidisciplinary reviews; enforce MIL‑STD, IEEE/IEC, DO‑178C, and best engineering practices.\n\n• System Architecture — Define system requirements and integrate RF, digital hardware, AI, and embedded control into unified product platforms.\n\n• Hardware Development — Lead simulation, testing, and qualification of power electronics, RF systems, and high‑speed digital hardware.\n\n• Embedded Software — Oversee firmware/software lifecycle from requirements to verification, ensuring maintainability and certification compliance.\n\n• AI/ML Integration — Design and integrate AI/ML/CV/NLP solutions for real‑time analytics, automation, and intelligent decision‑making.\n\n• R&D Innovation — Lead advanced R&D initiatives and promote MBSE and emerging technologies.\n\n• Documentation — Ensure traceable, complete technical documentation across hardware and software domains.\n\n• Mentorship — Coach junior engineers and drive capability development.\n\n• Strategic Planning — Support technology roadmaps, resource planning, recruitment, and budget alignment.\n\nExperience\n8+ years in technical project management or embedded electronics development within defense/aerospace, ideally missile systems.\n\n• Proven leadership of cross‑functional engineering teams.\n\n• Experience delivering electronics sub‑assemblies or complex systems across full lifecycle.\n\n• Strong understanding of missile/weapon system development and production.\n\n• Ability to operate in fast‑paced, regulated environments.\n\nQualifications\nBachelor’s degree in Electrical/Electronics Engineering or related field; Master’s preferred.\n\n• PMP certification desirable.\n\n• Knowledge of hardware, firmware, integration, qualification, V&V, and production transition.\n\n• Familiarity with configuration management, technical reviews, milestones, and documentation in regulated environments.\n\n#Halcon"
+  },
+  {
+   "id": "edge:732890522",
+   "source": "edge",
+   "company": "EDGE · Advance Concepts",
+   "via": "",
+   "title": "Senior Engineer (C&E) - RF Signal Processing Software",
+   "field": "Networking & Telecom",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "Advance Concepts",
+   "posted_date": "2026-10-03",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Engineer-%28C&amp;E%29-RF-Signal-Processing-Software-Abu/732890522/",
+   "first_seen": "2026-10-09T07:32:04Z",
+   "description": "ADVANCED CONCEPTS is an entity within EDGE dedicated to the design and deployment of advanced, innovative technologies.\n\nADVANCED CONCEPTS is fast-tracking the development of high-technology autonomous systems, including three Medium Endurance, High Altitude, fixed-wing unmanned aerial systems, a family of precision loitering munitions, a cost- effective family of cruise missiles, and a range of guided artillery munitions.\n\nCore Accountabilities:\n\n• Implement OSI: PHY/layer 1 and layer 2 radio for running on Microcontroller or FPGA\n\n• Develop embedded software for RF systems, including signal processing for data‑links\n\n• Write device drivers and low level software for RF-chipsets and modules\n\n• Develop and maintain bare-metal firmware for microcontrollers based on ARM Cortex-M architectures\n\n• Develop and maintain firmware with RTOS on microcontrollers\n\n• Integrate various communication protocols like I2C, UART, SPI, CAN and ETH in both Linux and microcontroller environments\n\n• Use of programming languages for Microcontrollers such as C/C++ and Assembly\n\n• Design and generation of Board Support Packages\n\n• Participate in code reviews, ensure code quality, and follow established coding standards.\n\n• Stay up-to-date with advancements in embedded technologies and best practices.\n\n• Analyse and improve the performance of the developed RF systems in terms of throughput , latency, power consumption, and signal quality.\n\n• Build of Linux images such as Yocto and FreeRTOS.\n\n• Use of version controlled environment such as Git or SVN\n\n• Use of code writing style guides (as for example pep8 for python)\n\n• Implement Linux drivers and kernel modules for custom hardware components\n\n• Implement Linux client/server against UDP, TCP or IP\n\n• Excellent problem-solving, analytical, and debugging skills\n\n• Conduct testing and troubleshooting of both software and hardware\n\n• Support, lead and mentor junior engineers and share knowledge\n\nQualifications / Experience:\n\n• Bachelor’s or Master's degree in computer science, communication, electronic, software engineering.\n\n• Minimum 8 years of experience in embedded software engineering, C and C++ and Assembler\n\n• Knowledge and understanding of OSI model: PHY/layer 1 and layer 2\n\n• Strong understanding of ARM and Cortex-M architectures.\n\n• Knowledge in Linux driver and kernel development.\n\n• Knowledge with bare-metal firmware development for microcontrollers\n\n• Knowledge with RTOS on microcontrollers.\n\n• Knowledge of I2C, UART, SPI, and CAN protocols and their implementation in both Linux and microcontrollers.\n\n• Understanding of RF principles, including modulation, coding, and signal processing.\n\n• Experience with RF hardware, including transceivers, power amplifier, and antenna systems.\n\n• Ability to design and implement efficient algorithms for real time RF systems.\n\n• Strong problem-solving, analytical, and debugging skills.\n\n• Strong communication and interpersonal skills, with the ability to collaborate effectively with engineers and other stakeholders.\n\n• Proven ability to work independently and manage multiple projects simultaneously."
   },
   {
    "id": "edge:733058022",
@@ -5763,29 +5786,6 @@
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAs an ERP Process Engineer, you will work closely with production, engineering, supply chain, quality, and IT teams to analyze operational workflows, improve business processes, and support the implementation and enhancement of enterprise systems.\n\nRESPONSIBILITIES\n\r\n\nBusiness Process Analysis\n\nAnalyze and evaluate manufacturing processes, including production, planning, inventory management, engineering, and quality functions.\nConduct workshops and stakeholder interviews to gather business requirements.\nPerform gap analysis between current and future-state processes and identify opportunities for improvement.\nSolution Design & Implementation\n\nTranslate business requirements into ERP and PLM system solutions.\nConfigure and support ERP/PLM modules related to production, bill of materials (BOM), routing, product lifecycle management, and manufacturing\noperations.\nSupport system implementations, upgrades, integrations, and continuous enhancements.\nEnsure seamless integration between ERP, PLM, MES, and supply chain systems.\n\nProduct Lifecycle & Data Management\n\nSupport product lifecycle processes including design, development, engineering change management, and product release.\nMaintain and optimize product structures, BOMs, and engineering data.\nDevelop and improve workflows supporting product development and change control activities.\n\nTraining & Change Management\n\nDevelop training materials, user guides, and process documentation.\nDeliver end-user training and provide post-go-live support.\nPromote best practices and drive user adoption of new technologies and processes.\n\nContinuous Improvement & Support\n\nProvide functional support and troubleshooting for ERP and PLM systems.\nMonitor system performance and identify opportunities for optimization.\nLead initiatives focused on process efficiency, automation, and operational excellence.\nStakeholder & Project Management\n\nCollaborate with cross-functional teams across manufacturing, engineering, supply chain, quality, and IT.\nSupport project planning, testing, deployment, and change management activities.\nCommunicate effectively with both technical teams and business stakeholders.\n\n#Powertech\n\nBASIC QUALIFICATIONS\n\r\n\nBachelor's Degree in Engineering, Information Systems, Manufacturing, or a related discipline.\n5–8+ years of experience in ERP and/or PLM consulting within a manufacturing environment.\nProven experience delivering ERP/PLM implementation or transformation projects.\nStrong understanding of manufacturing processes, including MRP, production planning, BOM management, routing, and inventory control.\nExperience with leading ERP platforms such as SAP, Oracle, or Microsoft Dynamics.\n\nPREFERRED QUALIFICATIONS\n\r\n\nKnowledge of ERP, PLM, MES, and manufacturing system integrations is highly desirable.\nSAP experience will be considered a strong advantage.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
   },
   {
-   "id": "edge:733122122",
-   "source": "edge",
-   "company": "EDGE · AL TAIF",
-   "via": "",
-   "title": "Data Analyst",
-   "field": "Data & AI",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "AL TAIF",
-   "posted_date": "2026-09-28",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Data-Analyst-Abu/733122122/",
-   "first_seen": "2026-10-09T07:32:04Z",
-   "description": "External Job Description\n\r\n\nMAJOR DUTIES AND RESPONSIBILITIES\n\n• Provide annual supply forecasting requirements for the Annual Service Plan (ASP).\n• Provide analysis of due—ins from OEMS, vendors, balance on hand and store level repairable for assigned equipment systems.\n• Coordinate with the Technical Supply Department and Technical Planning Department to provide advice on required platform stock levels and assessment reports of balance on hand.\n• Review inventory data and advise the Technical Supply Department of optimal line item stock levels for the main stores.\n• Facilitate the establishment of safety and reserve levels for line items critical to ensure operational readiness for all required equipment systems.\n• Coordinate with Technical Planning Department on the status of spares and maintenance trends for the assigned platforms.\n• Facilitate maintenance of the spares master data record in the computer system and coordinate all aspects of demand analysis in support of the units for the assigned platforms.\n• Advise the Technical Supply Department on the status of spares and maintenance trends for the assigned platforms whenever required.\n• Facilitate the requisition of authorised supplies by the Technical Supply Department for equipment system support.\n• Apply continuous improvement and LEAN management principles.\n• Ensure all issued tools, test equipment and high value property is maintained in a serviceable condition routinely inventoried and safeguarded.\n• Support other members of the material section in fulfilling their roles.\n• Maintain the confidentiality and security of all company documents.\n• Perform other duties as required by the Material Manager."
-  },
-  {
    "id": "edge:733505022",
    "source": "edge",
    "company": "EDGE · AL TAIF",
@@ -5807,6 +5807,29 @@
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-IT-Analyst-Abu/733505022/",
    "first_seen": "2026-10-09T07:32:04Z",
    "description": "CANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nMAJOR DUTIES AND RESPONSIBILITIES\n\n• Ensure the smooth operation of applications and functional area computers to ensure all computer systems are consistently available and in compliance with applicable standards.\n\n• Coordinate the installation, configuration and maintenance of the organisation’s applications and work stations.\n\n• Direct diagnostic investigations of program errors and direct or recommend solutions or methodologies for resolution.\n\n• Manage communication with all areas of the enterprise that impacts the scope, budget, risk, and resources of the work effort being managed.\n\n• Correct program errors using methods such as modifying programs or altering the sequence of program steps. Analyse, review and rewrite programs to increase operating efficiency or to adapt programs to new requirements.\n\n• Prepare detailed workflow charts to illustrate the sequence of steps that programs must follow; describe input, output and logical operations involved.\n\n• Manage the administration, maintenance and upgrades of the organisation’s applications.\n\n• Analyse and recommend the use of new applications and services to senior management.\n\n• Conduct and validate the physical inventory of IT equipment and software.\n\n• Provide instructions and training to staff when necessary.\n\n• Assist with the enforcement of all IT directives within the company.\n\n• Ensure all IT property is maintained in a serviceable condition, routinely inventoried and safeguarded.\n\n• Supervise, monitor and train IT Analyst(s), Applications on a variety of IT tasks.\n\n• Maintain the confidentiality and security of all company information.\n\n• Support other members of the IT section in fulfilling their roles.\n\n• Ensure compliance with all safety, housekeeping and environmental directives.\n\nMINIMUM QUALIFICATIONS\n\n• Bachelor degree in computer science, information systems or a related discipline required; Master degree preferred, or Equivalent years of Experiences in same field\n\n• A minimum of five to six years of experience in an IT Applications role is required.\n\n• A minimum of one year of experience in a supervisory position is required.\n\n• Certifications in Cisco Certified Network Professions (CCNP), Cisco Certified Design Professions (CCDP), Cisco Certified Internetwork Expert (CCIE) and Cisco Certified Design Associate (CCDA) are an advantage.\n\n• The ability to communicate effectively in English, both in writing and verbally is required.\n\n• Have, or be able to obtain a valid UAE driver’s license."
+  },
+  {
+   "id": "edge:733122122",
+   "source": "edge",
+   "company": "EDGE · AL TAIF",
+   "via": "",
+   "title": "Data Analyst",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "AL TAIF",
+   "posted_date": "2026-09-28",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Data-Analyst-Abu/733122122/",
+   "first_seen": "2026-10-09T07:32:04Z",
+   "description": "External Job Description\n\r\n\nMAJOR DUTIES AND RESPONSIBILITIES\n\n• Provide annual supply forecasting requirements for the Annual Service Plan (ASP).\n• Provide analysis of due—ins from OEMS, vendors, balance on hand and store level repairable for assigned equipment systems.\n• Coordinate with the Technical Supply Department and Technical Planning Department to provide advice on required platform stock levels and assessment reports of balance on hand.\n• Review inventory data and advise the Technical Supply Department of optimal line item stock levels for the main stores.\n• Facilitate the establishment of safety and reserve levels for line items critical to ensure operational readiness for all required equipment systems.\n• Coordinate with Technical Planning Department on the status of spares and maintenance trends for the assigned platforms.\n• Facilitate maintenance of the spares master data record in the computer system and coordinate all aspects of demand analysis in support of the units for the assigned platforms.\n• Advise the Technical Supply Department on the status of spares and maintenance trends for the assigned platforms whenever required.\n• Facilitate the requisition of authorised supplies by the Technical Supply Department for equipment system support.\n• Apply continuous improvement and LEAN management principles.\n• Ensure all issued tools, test equipment and high value property is maintained in a serviceable condition routinely inventoried and safeguarded.\n• Support other members of the material section in fulfilling their roles.\n• Maintain the confidentiality and security of all company documents.\n• Perform other duties as required by the Material Manager."
   },
   {
    "id": "michaelpage:jn-092026-7113158",
