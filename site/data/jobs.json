@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T09:38:16Z",
+ "updated_at": "2026-11-18T21:41:20Z",
  "fields": [
   "Cybersecurity",
   "Data & AI",
@@ -21,9 +21,9 @@
    "id": "eand",
    "company": "e& (Etisalat)",
    "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 17,
    "listed": 40,
    "in_location": 40,
@@ -34,77 +34,77 @@
    "id": "fortinet",
    "company": "Fortinet",
    "careers_page": "https://www.fortinet.com/corporate/careers",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
-   "it_jobs": 15,
-   "listed": 1079,
-   "in_location": 26,
-   "it": 15,
-   "new": 0
+   "last_ok_at": "2026-11-18T21:41:20Z",
+   "it_jobs": 16,
+   "listed": 1087,
+   "in_location": 27,
+   "it": 16,
+   "new": 1
   },
   {
    "id": "g42",
    "company": "G42",
    "careers_page": "https://careers.g42.ai/global/en/home",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
-   "it_jobs": 33,
-   "listed": 48,
-   "in_location": 35,
-   "it": 33,
-   "new": 0
+   "last_ok_at": "2026-11-18T21:41:20Z",
+   "it_jobs": 34,
+   "listed": 49,
+   "in_location": 36,
+   "it": 34,
+   "new": 1
   },
   {
    "id": "ifs",
    "company": "IFS",
    "careers_page": "https://www.ifs.com/en/about/careers",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 27,
    "listed": 260,
    "in_location": 38,
    "it": 27,
-   "new": 1
+   "new": 0
   },
   {
    "id": "accenture",
    "company": "Accenture",
    "careers_page": "https://www.accenture.com/ae-en/careers",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 29,
    "listed": 33,
    "in_location": 33,
    "it": 29,
-   "new": 0
+   "new": 1
   },
   {
    "id": "syscolabs",
    "company": "Sysco LABS",
    "careers_page": "https://syscolabs.lk/careers",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 41,
    "listed": 48,
    "in_location": 48,
    "it": 41,
-   "new": 1
+   "new": 0
   },
   {
    "id": "presight",
    "company": "Presight",
    "careers_page": "https://careers.presight.ai/",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 2,
-   "listed": 4,
-   "in_location": 4,
+   "listed": 3,
+   "in_location": 3,
    "it": 2,
    "new": 0
   },
@@ -112,9 +112,9 @@
    "id": "khazna",
    "company": "Khazna Data Centers",
    "careers_page": "https://khaznadatacenters.com/careers/",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 0,
    "listed": 8,
    "in_location": 8,
@@ -125,24 +125,24 @@
    "id": "m42",
    "company": "M42",
    "careers_page": "https://careers.m42.ae/jobs",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
-   "it_jobs": 3,
-   "listed": 106,
-   "in_location": 100,
-   "it": 3,
+   "last_ok_at": "2026-11-18T21:41:20Z",
+   "it_jobs": 2,
+   "listed": 107,
+   "in_location": 101,
+   "it": 2,
    "new": 0
   },
   {
    "id": "astratech",
    "company": "Astra Tech",
    "careers_page": "https://careers.astratech.ae/jobs",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 5,
-   "listed": 24,
+   "listed": 26,
    "in_location": 21,
    "it": 5,
    "new": 0
@@ -151,12 +151,12 @@
    "id": "amazon",
    "company": "Amazon",
    "careers_page": "https://www.amazon.jobs/content/en/locations/united-arab-emirates",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 27,
-   "listed": 136,
-   "in_location": 136,
+   "listed": 139,
+   "in_location": 139,
    "it": 27,
    "new": 0
   },
@@ -164,9 +164,9 @@
    "id": "apple",
    "company": "Apple",
    "careers_page": "https://jobs.apple.com/en-ae/search?location=united-arab-emirates-ARE",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 0,
    "listed": 54,
    "in_location": 27,
@@ -177,35 +177,35 @@
    "id": "edge",
    "company": "EDGE",
    "careers_page": "https://careers.edgegroup.ae/go/View-All-Jobs/4166222/",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
-   "it_jobs": 42,
+   "last_ok_at": "2026-11-18T21:41:20Z",
+   "it_jobs": 43,
    "listed": 181,
    "in_location": 181,
-   "it": 42,
-   "new": 0
+   "it": 43,
+   "new": 1
   },
   {
    "id": "adnoc",
    "company": "ADNOC",
    "careers_page": "https://jobs.adnoc.ae/us/en/search-results",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
-   "it_jobs": 6,
-   "listed": 64,
-   "in_location": 64,
-   "it": 6,
-   "new": 1
+   "last_ok_at": "2026-11-18T21:41:20Z",
+   "it_jobs": 4,
+   "listed": 59,
+   "in_location": 59,
+   "it": 4,
+   "new": 0
   },
   {
    "id": "michaelpage",
    "company": "Michael Page (recruiter)",
    "careers_page": "https://www.michaelpage.ae/jobs/technology/united-arab-emirates",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 15,
    "listed": 25,
    "in_location": 25,
@@ -216,12 +216,12 @@
    "id": "fab",
    "company": "First Abu Dhabi Bank (FAB)",
    "careers_page": "https://www.bankfab.com/en-ae/about-fab/careers",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 8,
-   "listed": 87,
-   "in_location": 83,
+   "listed": 86,
+   "in_location": 82,
    "it": 8,
    "new": 1
   },
@@ -229,12 +229,12 @@
    "id": "altayer",
    "company": "Al Tayer Group",
    "careers_page": "https://www.altayer.com/careers",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 1,
-   "listed": 98,
-   "in_location": 98,
+   "listed": 96,
+   "in_location": 96,
    "it": 1,
    "new": 0
   },
@@ -242,22 +242,22 @@
    "id": "maf",
    "company": "Majid Al Futtaim",
    "careers_page": "https://careers.majidalfuttaim.com/global/en/home",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
-   "it_jobs": 16,
-   "listed": 258,
+   "last_ok_at": "2026-11-18T21:41:20Z",
+   "it_jobs": 17,
+   "listed": 257,
    "in_location": 162,
-   "it": 16,
+   "it": 17,
    "new": 0
   },
   {
    "id": "nyuad",
    "company": "NYU Abu Dhabi",
    "careers_page": "https://nyuad.nyu.edu/en/about/careers.html",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 2,
    "listed": 24,
    "in_location": 24,
@@ -268,22 +268,22 @@
    "id": "salt",
    "company": "SALT (recruiter)",
    "careers_page": "https://welovesalt.com/job-category/united-arab-emirates",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
-   "it_jobs": 11,
-   "listed": 11,
-   "in_location": 11,
-   "it": 11,
-   "new": 0
+   "last_ok_at": "2026-11-18T21:41:20Z",
+   "it_jobs": 13,
+   "listed": 13,
+   "in_location": 13,
+   "it": 13,
+   "new": 2
   },
   {
    "id": "charterhouse",
    "company": "Charterhouse (recruiter)",
    "careers_page": "https://www.charterhouseme.ae/jobs/information-technology",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 1,
    "listed": 1,
    "in_location": 1,
@@ -294,9 +294,9 @@
    "id": "nvidia",
    "company": "NVIDIA",
    "careers_page": "https://jobs.nvidia.com/careers",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 2,
    "listed": 2,
    "in_location": 2,
@@ -307,17 +307,178 @@
    "id": "enec",
    "company": "ENEC",
    "careers_page": "https://careers.enec.ae/search/",
-   "checked_at": "2026-11-18T09:38:16Z",
+   "checked_at": "2026-11-18T21:41:20Z",
    "ok": true,
-   "last_ok_at": "2026-11-18T09:38:16Z",
+   "last_ok_at": "2026-11-18T21:41:20Z",
    "it_jobs": 6,
-   "listed": 56,
-   "in_location": 56,
+   "listed": 57,
+   "in_location": 57,
    "it": 6,
    "new": 0
   }
  ],
  "jobs": [
+  {
+   "id": "fortinet:23855",
+   "source": "fortinet",
+   "company": "Fortinet",
+   "via": "",
+   "title": "Professional Services Consultant - Saudi Arabia",
+   "field": "IT Consulting",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh, Riyadh Province, Saudi Arabia"
+   ],
+   "workplace_type": "On-site",
+   "category": "",
+   "posted_date": "2026-11-18",
+   "summary": "The Professional Services Consultant works with clients and partners remotely and/or onsite on engagements of medium-to-high complexity.",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23855",
+   "first_seen": "2026-11-18T21:41:20Z",
+   "description": "The Professional Services Consultant works with clients and partners remotely and/or onsite on engagements of medium-to-high complexity.\n\nHe/she focuses on the implementation aspects of project delivery, such as implementing firewall and other enhanced security products, as well as optimizing and operating these services, along with any related documentation.\n\nThe position requires a team player with excellent written and verbal communication skills who follows a structured approach to implementing IT security solutions.\n\nResponsibilities:\n\nThe Professional Services Consultant:\n\n• Develops a clear overall understanding of the customer engagement (objectives, project scope, business and technical requirements).\n• Participates in architecture design workshops with customers and/or partners and provides input as necessary.\n• Develops project related documents with any required technical architecture diagrams. These documents might include: High-Level Design, Low-Level Design, Migration Plan, Test Plan, Methods of Procedures, Network Implementation Plan, As-Built guide, etc…\n• Participates in scoping meetings and provides input related to the development of statements of work based on accurate analysis of customers' requirements.\n• Ensures that project documents are accurate, complete, current and stored appropriately.\n• Performs deployment, configuration, testing and troubleshooting of Fortinet security solutions in the customer environment.\n• Assists customers through the rollout, migration or go-live phase for the deployed security solution.\n• Performs knowledge transfer sessions for customer’s staff on the relevant Fortinet security solutions.\n• Resolves and/or escalates issues in a timely fashion.\n• Minimizes Fortinet’s exposure and risk on projects.\n• Completes and submits internal required administrative tasks (timesheets, activities report, project reports, etc…).\n• Continuously works on developing knowledge and skills to remain proficient with the relevant Fortinet technologies, products and services by using self-study materials or by attending trainings (as required).\n\nJob Requirements:\n\n• 6+ years’ experience in LAN/WAN/Internet consulting, support and/or administration.\n• 3+ years’ experience with Network Security Products.\n• Experience working as a Professional Services senior consultant or engineer is a plus.\n• Expertise in NGFW and at least 2 of the following technologies: Email Security, Advanced Thread Protection, Endpoint Security, Application Security, Web Application Firewall, Network Security Management, SIEM, Network Virtualization, Software Defined Networks (SDN) and/or other cloud-based security technologies.\n• Very good presentation and technical documentation skills.\n• Good troubleshooting skills with a structured approach to problem solving.\n• Proven ability to work independently and in a team-oriented, collaborative environment.\n• Ability to elicit cooperation from a wide variety of sources, including senior management, clients, and other departments.\n• Ability to adapt seamlessly to shifting priorities, demands and timelines.\n• Flexible working hours.\n• Positive customer service attitude with very good soft skills.\n• Ability to bring projects to successful completion through political sensitivity.\n•\nStrong commitment and self-driven individual.\n\nEducation:\n\n• Bachelor's Degree in technical or management discipline and/or equivalent extensive work-related experience.\n\n#LI-Hybrid"
+  },
+  {
+   "id": "g42:3240",
+   "source": "g42",
+   "company": "G42 · CPX",
+   "via": "",
+   "title": "Director - AI Security",
+   "field": "Cybersecurity",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "MBZ City, Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "Information Technology Operations",
+   "posted_date": "2026-11-18",
+   "summary": "Join us as Director - AI Security to lead a high-performing regional practice focused on AI governance, responsible AI, and regulatory compliance. Drive strategic leadership and commercial performance, while developing innovative AI security offerings. Ideal for experienced professionals with deep expertise in AI security and a strong background in consulting or technology leadership.",
+   "url": "https://careers.g42.ai/global/en/job/3240",
+   "first_seen": "2026-11-18T21:41:20Z",
+   "description": "Overview:\n\r\n\nThe Director of AI Security leads a high-performing regional practice, with full accountability for strategy, service delivery, commercial performance, and capability development. The role builds on an established and operational practice, with a clear mandate to scale it into a market-leading, profitable, and differentiated offering aligned to the region’s rapidly evolving AI technology and regulation landscape.\n\nThis role combines strategic leadership, deep technical credibility, and strong commercial execution to expand the practice’s footprint across government and enterprise sectors, while strengthening CPX’s position as a trusted advisor in AI governance and responsible AI adoption, as well as in the adoption of AI to strengthen and accelerate CPX Cybersecurity capabilities.\n\nResponsibilities:\n\r\n\nPractice Leadership & Strategy: -\n\n• Full ownership of a multi-disciplinary practice covering:\n\n• AI governance and responsible AI\n\n• Regulatory compliance across AI and data domains\n\n• Implementation and operation of technical measures to secure AI, in collaboration with other Cyber Defense sub business Units.\n\n• Collaborating with the commercial team and peer practice leads across Cyber Defense to deliver integrated propositions and coordinated go-to-market execution for both Securing AI and embedding AI in security across all CPX offerings and services.\n\n• Regulatory scope includes UAE PDPL, DIFC and ADGM frameworks, UAE Cybersecurity Council and NESA/SIA standards, UAE AI Strategy and Charter, as well as GCC frameworks (e.g., KSA PDPL/SDAIA) and global regulations (e.g., GDPR, EU AI Act).\n\nBusiness & P&L Leadership: -\n\n• Own the AI Security practice P&L, including revenue growth, margins, utilization, pricing, and cost management.\n\n• Define and execute a multi-year AI Security growth strategy aligned with CPX’s advisory, implementation and operation priorities.\n\n• Establish pricing models, automation, and delivery economics to support scalable growth.\n\n• Track and manage pipeline coverage, backlog, and revenue realization.\n\n• Maintain pipeline coverage alignment to defined revenue targets.\n\n• Support the commercial team to develop and close strategic and flagship opportunities across UAE.\n\nService Lines & Offering Development: -\n\n• Define and evolve the AI Security portfolio, aligned to regional regulatory and market demand.\n\n• Develop new offerings in AI governance, AI Security advisory, implementation and operation, including reusable IP and accelerators.\n\n• Identify emerging regulatory and technology trends (e.g., AI regulation, data sovereignty, responsible AI) and translate them into market-ready propositions.\n\n• Standardized delivery methodologies, quality assurance frameworks, and engagement models.\n\n• Drive AI-enabled delivery through automation, AI agents, and intelligent reporting frameworks.\n\n• Develop scalable, platform-based and productized offerings across AI and data protection domains.\n\nSales & Pipeline Growth: -\n\n• Own pipeline development across UAE, ensuring strong coverage and conversion of opportunities.\n\n• Support the commercial team in origination, proposals, pursuits, and commercial negotiations for strategic deals.\n\n• Build and maintain trusted advisor relationships with C-suite, regulators, and key stakeholders.\n\n• Act as executive sponsor for flagship accounts and drive cross-selling across CPX service lines.\n\n• Develop strategic alliances with technology vendors, partners, regulators, and academia.\n\n• Act as domain lead in large, multi-service Cyber Defense engagements.\n\n• Engage with regulators, policymakers, and industry bodies to shape AI Security regulatory landscape in the region.\n\nDelivery & Client Outcomes: -\n\n• Hold end-to-end accountability for delivery quality, client outcomes, and engagement governance.\n\n• Review and approve key deliverables to ensure technical quality and regulatory alignment.\n\n• Act as senior escalation point for delivery risks, client issues, and complex engagements.\n\n• Drive client satisfaction, renewals, and account expansion across the portfolio.\n\nQualifications:\n\r\n\nMinimum Work Experience & Education :-\n\n• 12+ years of experience in consulting, professional services, or technology leadership, with strong exposure to Securing AI and embedding AI into cybersecurity services.\n• Bachelor’s degree in Cybersecurity, Information Security, Computer Science, Data Analytics, or a related field.\n• Master’s degree preferred.\n• Technical fluency across AI/ML, data governance, cybersecurity, and privacy frameworks\n• Strong executive presence with ability to engage C-suite, regulators, and government stakeholders."
+  },
+  {
+   "id": "accenture:14863444-1",
+   "source": "accenture",
+   "company": "Accenture",
+   "via": "",
+   "title": "Security Delivery Specialist",
+   "field": "Cybersecurity",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-18",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Security-Delivery-Specialist_14863444-1",
+   "first_seen": "2026-11-18T21:41:20Z",
+   "description": "Experience in incident response plan, and knowledge in SOC policy, process and procedure, Create and develop Cyber security center processes and procedures.\nExperience in Security Information and Event Management (SIEM). Work with SIEM engineer and other security teams developing and refining correlation rules.\nExperience in IR tools & solutions related to detection, investigation and response, analyze security event and provide guidance to team members.\nExcellent verbal and written communication skills including the ability to clearly articulate technical and strategic level cyber matters to a variety of audiences.\nProduces cyber intelligence reports communicating technical issues to a broad audience including information security staff, non-technical business representatives, and senior management.\nStrong analytical and organizational skills, leadership skills, the ability to lead cyber team and provide on call support after business hours.\nAdministration of EDR (Endpoint Detection and Response) Technology.\nDeploy, upgrade, and maintain EDR agents across Windows, macOS, and Linux.\nMonitor agent health and troubleshoot where agents are not reporting.\nDevelop and manage EDR policies.\nIntegration of EDR with SIEM and other Security tools.\nAdministration of NDR (Endpoint Detection and Response) Technology\nDevelop and manage NDR policies.\nIntegration of NDR with SIEM and other Security tools.\nCreate and add custom correlation rules for EDR/NDR.\nPeriodically review existing EDR/NDR Configurations and propose any new enhancements as applicable.\nManage support tickets with EDR/NDR support, as necessary.\nPreferred candidates with certifications like GIAC GCIH, GMON, GCFA, or similar certificate.\n\n.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
+  {
+   "id": "edge:733659622",
+   "source": "edge",
+   "company": "EDGE · BEACON RED",
+   "via": "",
+   "title": "Senior Cyber Security Engineer - Emirati Talent",
+   "field": "Cybersecurity",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "BEACON RED",
+   "posted_date": "2026-11-18",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Cyber-Security-Engineer-Emirati-Talent-Abu/733659622/",
+   "first_seen": "2026-11-18T21:41:20Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nThe Senior Cybersecurity Engineer is vital to proactively enhancing our client’s cybersecurity resilience by identifying and addressing potential threats through advanced adversarial testing. This role exists to simulate real-world attacks, challenging security defenses and exposing vulnerabilities to strengthen the organization’s ability to withstand cyber threats. By leading high-impact red team engagements and providing expert guidance on product innovation, this position ensures that our security capabilities remain at the forefront of evolving threats and technology.\n\nRESPONSIBILITIES\n\r\n\n• Conduct advanced penetration testing and vulnerability assessments across web applications, networks, and cloud environments, identifying and prioritising security risks.\n\n• Lead end-to-end red team operations, simulating real-world adversarial tactics, techniques and procedures (TTPs) to assess organisational security and defensive capabilities.\n\n• Develop and utilise custom tools, scripts, automation and Command & Control (C2) frameworks to enhance attack simulations, operational efficiency and stealth.\n\n• Act as a Subject Matter Expert (SME) for red team frameworks and product development, collaborating with technical teams to integrate offensive security capabilities and operational requirements.\n\n• Produce comprehensive technical reports, communicate findings to stakeholders and clients, and provide actionable recommendations to strengthen security posture.\n\n• Mentor and support junior team members, promote knowledge sharing, and maintain awareness of emerging offensive security techniques, tools and industry developments.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor’s degree in Computer Science, Information Security, or related field.\n\n• Minimum 4 years of experience in penetration testing, red team engagements.\n\n• At least one relevant certification (OSCP, CRTO, OSEP, OSWE, OSED).\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Master’s degree in Cybersecurity, Information Security, or a relevant technical field.\n\n• Advanced certifications such as OSCE3, demonstrating specialized red team skills.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
+  },
+  {
+   "id": "fab:1868",
+   "source": "fab",
+   "company": "First Abu Dhabi Bank (FAB)",
+   "via": "",
+   "title": "Head of Risk Economics and Enterprise Analytics",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-18",
+   "summary": "",
+   "url": "https://ehjd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/1868",
+   "first_seen": "2026-11-18T21:41:20Z",
+   "description": "JOB PURPOSE:\n\n• Purpose of the role is to lead portfolio risk analytics through robust quantitative modelling, strong regulatory oversight, and data-driven decision support. The role governs enterprise analytics programs, including the development and calibration of regulatory, non-regulatory, and econometric models. The role focuses on elevating modeling standards using best-in-class techniques aligned with regulatory and business requirements, while conducting ECL sensitivity analyses to assess macroeconomic shocks and emerging risks, and their impact on provisions and capital adequacy. The role also promotes awareness of model outputs, limitations, and model risk across the business, and supports growth by delivering actionable insights that optimize risk-return outcomes within the defined risk appetite.\n\nKEY ACCOUNTABILITIES:\n\nPeople Management\n\n• Manage the effective achievement of assigned objectives by setting of team and individual objectives, managing performance, developing and motivating staff to maximise departmental performance.\n• Lead the talent development initiatives for the assigned team, collaborating with technical/discipline experts and thereby ensure the availability of talent to fit business requirements.\n• Act as a role model and drive adherence to organizational values and ethics by employees of the assigned department to foster a value driven culture within the Group.\n\nPolicies, Systems, Processes & Procedures\n\n• Manage and ensure effective implementation of macro-economic forecasts, macro-economic modelling and other enterprise initiatives covering all areas of assigned department activity so that all relevant procedural/legislative requirements fulfilled while delivering a quality, cost-effective service.\n\nGroup wide Portfolio Analytics – Econometric and Enterprise Risk Models\n\n• Provide specialist analytical and strategic views on risk models and their use in the business, responsible to the business for ensuring that the suite of models is in place and fit for purpose.\n• Manage the development of and embed a robust, auditable and controllable framework for the development and implementation of all macro-economic forecasts and new-to-market enterprise risk models. Provide the minimum criteria to be communicated to business and risk for acceptance to be developed by the team responsible with Enterprise Model Risk Development.\n• Manage the compliance to observations raised by audit, regulatory and internal validation teams.\n• Manage the accurate implementation of models, through providing comprehensive implementation specifications and guidance around UAT testing and approvals.\n• Liaise with internal stakeholders within Group Risk to understand modelling requirements and provide direction and oversight on model use to avoid any potential model risks/ adverse consequences from misusing.\n• Manage the process to ensure that model impacts are produced and understood, communicated as necessary to support committee recommendations and timely regulatory submissions.\n• Liaise with relevant risk and business teams to develop and review model performance, assumptions, theory and empirical evidence and propose required changes to senior management to implement improved risk models and enhance risk effectiveness.\n• Conduct studies on current risk management methodologies and make recommendations on risk management system enhancements, spearheading the research and integration of new products into the existing risk management system.\n\nTeam Supervision\n\n• Nurture team members to take on responsibilities with higher accountability and improve their skill sets.\n• Identify areas of delivery risk and proactively notify relevant stakeholders with suggested mitigates\n\nPolicies, Systems, Processes & Procedures\n\n• Identify opportunities to leverage new systems, amend and update processes to deliver higher returns of efficiency, service etc. while maintaining compliance with the relevant policies.\n• Follow all relevant departmental policies, processes, standard operating procedures, and instructions so that work is carried out in a controlled and consistent manner.\n• Always demonstrate compliance to organization’s values and ethics to support the establishment of a value driven culture within the bank.\n\nQUALIFICATIONS & EXPERIENCE:\n\n• Post-Graduate in Business Management/Information technology. Relevant certification from GARP/CFA would be an advantage\n• 12+ years proven experience in banks of comparable size in area of risk management and macro-economic fundamentals.\n• Proven experience in senior stakeholder management\n• Strong leadership ability and inter-personal skills"
+  },
+  {
+   "id": "salt:716005",
+   "source": "salt",
+   "company": "SALT (recruiter)",
+   "via": "",
+   "title": "Cyber Security SOAR Specialist",
+   "field": "Cybersecurity",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "United Arab Emirates, Abu Dhabi"
+   ],
+   "workplace_type": "",
+   "category": "Cyber Security and Risk",
+   "posted_date": "2026-11-18",
+   "summary": "",
+   "url": "https://welovesalt.com/jobs/cyber-security-soar-specialist-716005",
+   "first_seen": "2026-11-18T21:41:20Z",
+   "description": "Our client is urgently looking for an experienced cybersecurity professional with strong expertise in **Palo Alto Cortex XSOAR (formerly Demisto)** to support cyber defence operations and service delivery. **Key Responsibilities** - Provide technical and thought leadership, improving processes, systems and workflows. - Support the delivery and integration of cyber defence services. - Drive effective detection, mitigation, containment and response to cybersecurity incidents. - Support service transition and the onboarding of customers and infrastructure into operations. - Design, optimize and document processes, procedures and SOAR workflows. - Monitor and report on SLAs, KPIs and OLAs. - Support incident, problem, risk and compliance management activities. **Key Requirements** - 7+ years of experience with **Palo Alto Cortex XSOAR (Demisto)**. - Strong experience designing, implementing and optimizing SOAR playbooks. - Experience integrating security technologies and platforms with SOAR. - Strong scripting and automation skills in Python, Go, KQL/Kusto or PowerShell. - Solid knowledge of SIEM, NGFW, CTI, WAF and other information security technologies. - Experience in at least three areas: Security Controls Operations, Cyber Incident Response, Security Detection, Managed Services Integration, Cyber Threat Intelligence or Threat Hunting. - Good understanding of cyber threats, threat actors, TTPs and mitigation strategies. - Degree in Computer Science, Information Systems, Electrical Engineering or a related field. - CISSP, CISM, CISA, ITIL or equivalent experience is an advantage. Salt is acting as an Employment Business in relation to this vacancy."
+  },
+  {
+   "id": "salt:716000",
+   "source": "salt",
+   "company": "SALT (recruiter)",
+   "via": "",
+   "title": "DFIR Lead",
+   "field": "DevOps & Cloud",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "United Arab Emirates, Dubai"
+   ],
+   "workplace_type": "",
+   "category": "Cloud, Network and Infrastructure",
+   "posted_date": "2026-11-18",
+   "summary": "",
+   "url": "https://welovesalt.com/jobs/dfir-lead-716000",
+   "first_seen": "2026-11-18T21:41:20Z",
+   "description": "Responsibilities: Lead and mentor the DFIR team and act on daily management tasks. Lead and coordinate incident response activities in unknown environments, including triage, containment, eradication, and remediation. Conduct in-depth forensic investigations to determine the root cause of security incidents and breaches. Develop and maintain standard incident response plans, best practices, policies, and procedures. Develop custom incident response plans tied to specific environments and customer situations. Collaborate with cross-functional teams, including IT, legal, and management, to ensure a coordinated response to security incidents. Examinate and analyze logs/data from a broad variety of security technologies, such as but not limited to Antiviruses, IDS/IPS, Firewalls, Switches, VPNs and other security data and log sources. Perform forensic analysis of different artifacts including RAM, packet captures, logs, and disk images. Reverse engineer malicious software and develop signatures and indicators of compromise. Actively develop incident response tools, scripts, and various detection content. Research Red Team techniques, develop custom detection queries, rules, watchlists and other content, and conduct threat hunts. Articulate and execute common Incident Response methods (e.g., SANS). Respond to inbound requests via phone and other electronic means for technical assistance with managed services. Work on-site as required with clients during Live Security Incidents (could be out of country). Maintain a high degree of awareness of the current threat landscape. Champion excellence and support others in delivering it through active knowledge sharing with team members, writing technical articles for internal knowledge bases, blog posts and reports as required or requested. Create and present customer reports to ensure quality, accuracy, and value to the client. Provide technical expertise and guidance to junior incident response and forensic investigation team members. Stay current with industry trends, emerging threats, and best practices in incident response and digital forensics. Perform other essential duties as assigned. Qualifications & Skills: A Degree in Computer Science, Information Systems, Electrical Engineering, or a closely related degree. 10+ years of experience in information security, in areas such as security operations, intrusion detection, incident analysis, incident handling, log analysis, malware analysis, reverse engineering or threat detection. At least 2-3 years of experience as a Senior or Lead Analyst, or equivalent experience guiding, mentoring, and teaching other Analysts/Security Professionals how to handle Security Incidents. Must have any of the following certifications: CISSP, GCIA, GCIH, GCFA, GCFE, GREM, OSCP certification Strong background or equivalent experience in four of the following: Security Threat and Event Analysis, Network Security Operations or Engineering, Reverse Engineering, Malware Analysis, Windows/Linux/OSX Forensics, Penetration Testing, Active Directory and Azure Administration. A sound knowledge of IT security best practices, common attack types and detection/prevention methods. Demonstrable experience in accountability for and applying the methods of Incident Response, including adherence to process and direct engagement with stakeholders. Demonstrable experience in analyzing and interpreting system, security, and application logs. Broad knowledge of the type of events that Firewalls, IDS/IPS and other security related devices produce. Demonstrable experience in the use of Digital Forensics tools, techniques and concepts including creating and using custom tools and scripts. Static reverse engineering and analysis of malware written in different languages (X86/X64/C/C#, Go, etc.), signatures and Yara/Snort/Sigma rules development. Strong knowledge of Red Team tactics and ability to find adversary traces on Enterprise scale. Rapid development in scripting languages: Python/PowerShell /Bash. Deep TCP/IP knowledge, networking, and security product experience. Knowledge of attack activities, such as scans, man in the middle, sniffing, DoS, DDoS, etc. and possible abnormal activities, such as worms, Trojans, viruses, etc. Demonstrate experience in handling Incident Response engagements (APTs and Ransomware) using the SANS Incident Response method (or similar). Salt is acting as an Employment Agency in relation to this vacancy."
+  },
   {
    "id": "ifs:744000162221919",
    "source": "ifs",
@@ -337,7 +498,7 @@
    "category": "Information Technology",
    "posted_date": "2026-11-18",
    "summary": "",
-   "url": "https://jobs.smartrecruiters.com/IFS1/744000162221919-devops-engineer-platform",
+   "url": "https://jobs.smartrecruiters.com/ifs1/744000162221919",
    "first_seen": "2026-11-18T09:38:16Z",
    "description": "Job Description\nWe are looking for a highly motivated individual who is willing to adapt with the changing demands with technologies and tools to get the effective outcomes. In addition to typical devops this role demands the knowledge of microservices(go), customer focused problem solving and platform engineering\n\n• Design, implement, and maintain scalable cloud infrastructure solutions (Azure), monitoring systems and microservices.\n• Proven experience with AI tooling and the effective outcome based delivarables.\n• Identify opportunities for new or enhanced automations to drive organizational efficiencies; produce designs and plans to address those opportunities, and drive the maintenance and expansion of existing automations and related processes\n• Collaborate with development teams to optimize application performance, resource utilization, and system security\n• Evaluate and implement new technologies to enhance infrastructure and platform capabilities\n• Troubleshoot complex infrastructure and platform issues, participating in on-call rotations for critical system support\n• Engage with relevant stakeholders to align infrastructure and automation initiatives with organizational goals\n• Create documentation, presentations, and training materials; share knowledge, guide, and upskill colleagues\n\nQualifications\n• Degree in Computer Science, Software Engineering, Information Technology, or a related field, with a minimum of 2 years (Devops/Senior Devops Engineer) hands-on experience in a DevOps or platform engineering role\n• Proven track record of practical problem-solving in complex, production-grade environments\n• Strong scripting and automation skills across multiple languages (e.g., PowerShell, Bash, Go, Ansible), with the ability to design and deliver robust automation solutions\n• Deep expertise in container orchestration and associated tooling, including Kubernetes, Helm, and Terraform\n• Solid experience designing, implementing microservices and core principles\n• Advanced knowledge of Docker and containerization best practices\n• Hands-on experience leveraging modern AI tools to drive practical efficiency improvements across workflows.\n• Strong working knowledge of Linux, Unix, and Windows operating systems\n• Ability to independently prioritise competing demands, manage ambiguity, and deliver outcomes with minimal supervision\n• Excellent communication skills with the ability to engage technical and non-technical stakeholders effectively\n• Naturally curious and self-driven, with a continuous desire to learn, evaluate, and adopt emerging technologies and practices\n• Demonstrates initiative, ownership, and accountability; willing to take on challenges with a high level of enthusiasm and an innovative mindset\n\nAdditional Information\nWe embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships."
   },
@@ -360,7 +521,7 @@
    "category": "",
    "posted_date": "2026-11-18",
    "summary": "",
-   "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Engineer---DevOps_R274986",
+   "url": "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Engineer---DevOps_R274986",
    "first_seen": "2026-11-18T09:38:16Z",
    "description": "JOB DESCRIPTION"
   },
@@ -871,29 +1032,6 @@
    "description": "MANAGER, VALUE ASSURANCE & ANALYTICS\n\nJOB PURPOSE\n\nTo lead the Value Assurance & Analytics team with a focus on ensuring the integrity and accuracy of financial data, developing and implementing advanced analytics tools to drive financial insights, and overseeing the financial assurance processes. This role is pivotal in collaborating with finance teams to enhance reporting and forecasting, managing stakeholder relationships, and staying abreast of industry trends to maintain best practices in financial analytics and assurance. The Manager, Value Assurance & Analytics is dedicated to optimizing financial processes and systems through continuous improvement initiatives, thereby supporting the strategic objectives and financial health of the organization.\n\nKEY ACCOUNTABILITIES\n\nJob Specific Accountabilities\n\n• Lead the Value Assurance & Analytics team to ensure the integrity and accuracy of financial data.\n• Develop and implement analytics tools and methodologies to drive financial insights and support decision-making.\n• Oversee the financial assurance processes, including risk assessments, control activities, and performance reviews.\n• Collaborate with various finance teams to enhance financial reporting and forecasting capabilities.\n• Drive continuous improvement initiatives to optimize financial processes and systems.\n• Manage stakeholder relationships, providing clear and actionable financial analytics that support business objectives.\n• Stay updated with industry trends and best practices in financial analytics and assurance.\n\nGeneric Accountabilities\n\nManagement\n• Plan and supervise the activities of the personnel and resources of the Department to achieve the Division objectives in an efficient and cost-conscious manner while ensuring implementation of approved operational plans for the Department in line with Division objectives.\n• Develop the knowledge, competencies and innovative spirit in the Department and support the establishment of Personal Development Plans (PDP's), Succession Planning and Talent pipeline within the Department in coordination with the Human Capability Group to continuously develop employees with emphasis on UAE Nationals to meet Emiratization targets.\n\nBudgets and Operational Plans\n• Compile and provide input for preparation of the Division budgets and regularly monitor expenditure against approved Department budget levels.\n• Investigate, highlight and reconcile any significant variances to ensure effective performance and cost control.\n\nPolicies, Systems, Processes & Procedures\n• Lead the implementation of approved Department policies, processes, systems, standards, procedures and internal controls in order to support execution of the Division work programs in line with Company and International standards.\n\nPerformance Management\n• Implement the Company Performance Management System for individuals within the Department in accordance with Company approved guidelines and continuously monitor the achievement of the Department KPIs related to the approved Annual Performance Management Contract and the Balanced Score Card.\n\nOrganisation Structure and Development\n• Review, develop and recommend the appropriate organisation structure for the Department that will best utilise human capital while proactively incorporating sustainability into the on-going work practices to meet the business objectives.\n\nInnovation and Continuous Improvement\n• Encourage innovation, enhance employee motivation and support initiatives for implementation of Change Management to continuously improve operations and services.\n• Propose improvements in internal processes against best practices in pursuit of greater efficiency in line with ISO standards in order to define intelligent solutions for issues confronting the Department.\n\nHealth, Safety, Environment (HSE) and Sustainability\n• Support the institution of an HSE culture and ensure compliance with relevant HSE policies, procedures, systems & controls and applicable legislation and sustainability guidelines across the Department in line with international standards, best practices and ADNOC Code of Practices.\n• Ensure adequate HSE training and induction for all Department employees to meet HSE standards.\n\nManagement Information Systems (MIS) and Reports\n• Prepare all Department MIS and progress reports to provide accurate and timely reports and necessary information to Company Management to effectively manage the business.\n\nQUALIFICATIONS, EXPERIENCE, KNOWLEDGE & SKILLS\n\nMinimum Qualification\n• Bachelor's Degree in Finance or equivalent.\n\nMinimum Experience & Knowledge & Skills\n• 15 years of experience in financial management, assurance, and analytics.\n• Strong analytical skills with the ability to interpret complex financial data.\n• Excellent leadership and communication abilities.\n• Familiarity with financial systems and advanced analytics tools.\n\nProfessional Certifications\n• CA/ACCA"
   },
   {
-   "id": "adnoc:33678",
-   "source": "adnoc",
-   "company": "ADNOC",
-   "via": "",
-   "title": "Manager, Technology Planning & Governance",
-   "field": "Other IT",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "External",
-   "category": "Other",
-   "posted_date": "2026-11-17",
-   "summary": "We are currently hiring a Manager, Technology Planning & Governance to lead AI transformation initiatives within the refinery sector. Drive the integration of AI and data-driven solutions, collaborating with business and technical teams. Ideal for experienced professionals with a strong background in industrial transformation and digital strategy.",
-   "url": "https://jobs.adnoc.ae/us/en/job/33678",
-   "first_seen": "2026-11-17T10:00:11Z",
-   "description": "Job Purpose\n\nThe AI Transformation Manager leads the refinery AI transformation agenda by identifying, prioritizing, orchestrating, and embedding AI and data-driven initiatives that deliver measurable business value. The role acts as the bridge between business functions and technical teams, ensuring that AI opportunities are converted into practical, scalable, and value-generating solutions. The position drives the transformation pipeline across operations, maintenance, engineering, reliability, planning, energy, supply chain, Inspection and support functions by maintaining a robust use case portfolio, aligning stakeholders, enforcing delivery governance, and supporting adoption and scale-up.\n\nKey Accountabilities\n\nA. AI Transformation Strategy & Roadmap\n\n• Lead the refinery AI transformation agenda in alignment with business priorities and enterprise digital strategy.\n• Translate strategic objectives into a structured AI transformation roadmap and prioritized portfolio.\n• Identify high-value opportunities for AI, analytics, automation, and intelligent decision support across refinery functions.\n• Support the transition from isolated pilots into scalable deployments with repeatable value delivery.\n\nB. Use Case Identification & Prioritization\n\n• Engage business stakeholders to identify pain points, opportunities, and transformation themes suitable for AI deployment.\n• Evaluate opportunities using value, feasibility, data readiness, implementation effort, and risk criteria.\n• Develop concept notes, business cases, initiative charters, KPIs, and expected-benefit logic for shortlisted opportunities.\n\nC. Cross-Functional Delivery Leadership\n\n• Orchestrate end-to-end delivery of AI initiatives in coordination with operations, maintenance, engineering, Digital teams.\n• Track milestones, manage interdependencies, remove barriers, and escalate issues when required.\n• Ensure initiatives progress through idea assessment, design, pilot, deployment, adoption, and scale-up.\n\nD. Value Delivery & Performance Management\n\n• Define expected business outcomes and benefit-realization logic for each initiative.\n• Monitor progress against value targets such as throughput, yield, energy, reliability, maintenance cost avoidance, HSE improvement, labor productivity, or margin uplift.\n• Provide clear leadership reporting on initiative health, delivered value, forecast value, and implementation status.\n\nE. Change Management & Adoption\n\n• Drive stakeholder readiness and business alignment for AI-enabled changes in workflows, decisions, and operating models.\n• Coordinate communication, awareness, training, and adoption actions required for sustained use.\n• Help embed AI solutions into day-to-day operating and management routines rather than leaving them as stand-alone tools.\n\nF. Governance, Standards & Risk Management\n\n• Apply required AI governance, risk, compliance, and control processes for AI initiatives.\n• Coordinate with cybersecurity, data governance, architecture, legal, procurement, and HSE stakeholders as needed.\n• Support responsible, safe, and business-aligned use of AI in refinery environments.\n\nG. External Collaboration & Vendor Management\n\n• Support development of scopes of work, technical and business requirements, proposal evaluation, and vendor delivery monitoring.\n• Ensure external partners remain aligned with refinery needs, data constraints, operational realities, and value expectations.\n\nRole Interfaces and Delivery Context\n\nInternal Interfaces\n\n• Refinery operations; maintenance and reliability; process engineering / technical services; planning and economics; energy management; HSE; IT / OT / cybersecurity; finance; procurement; and leadership forums.\n\nExternal Interfaces\n\n• Refinery operations; maintenance and reliability; process engineering / technical services; planning and economics; energy management; HSE; IT / OT / cybersecurity; finance; procurement; and leadership forums.\n\nTypical Initiative Themes\n\n• Process optimization, AI-enabled decision support, predictive analytics, operator assistance, energy optimization, inspection / robotics, anomaly detection, and value-tracking programs\n\nQualifications and Experience\n\nMinimum Qualifications\n\n• Bachelor’s degree in Chemical engineering, Data Science, Computer Science, Industrial Engineering, or a related discipline.\n• Preferred background in chemical, process, instrumentation, electrical, mechanical, or industrial engineering.\n• Master’s degree, transformation certification, project-management certification, or AI / analytics certification is advantageous.\n\nExperience Requirements\n\n• Typically 8–12 years of relevant experience in refinery, oil and gas, petrochemicals, energy, or industrial transformation environments.\n• Demonstrated experience in digital transformation, AI or analytics use case delivery, operations improvement, or technology implementation in industrial settings.\n• Strong experience in stakeholder engagement, business case development, cross-functional coordination, and value realization tracking.\n\nTechnical Knowledge\n\n• Working knowledge of refinery operations, value levers, and performance drivers.\n• Understanding of AI, analytics, machine learning, and industrial digital use cases from ideation through scale-up.\n• Awareness of business case methods, benefit tracking, change management, data governance, and OT / IT deployment considerations.\n• Familiarity with historians, APC, ERP, CMMS, planning tools, and performance reporting systems is preferred."
-  },
-  {
    "id": "g42:3516",
    "source": "g42",
    "company": "G42 · Inception42",
@@ -1078,29 +1216,6 @@
    "description": "Systems Engineer - SASE\n\nLocation – UAE (Dubai)\n\nWe are looking for a Systems Engineer to work closely with a sales representative in a defined territory. The Systems Engineer's main mission will be to support the sales organization in all technical matters regarding pre-sales, sales calls, and post-sales.\n\nWith us you will\n\n• Lead all technical aspects of a sales cycle with the Enterprise customers, from the initial RFIs, through to RFPs & RFQs when required. This includes the project management and active participation in POCs in partnership with the relevant teams both internally and within the customer and/or commercial partner.\n• Have the ability to listen and to understand the technical requirements of the customer, reading between the lines to build a solution which outperforms the competitor offering.\n• Be the primary technical point of contact for the customer(s) and partners in close collaboration with your sales partner.\n• Continuously strive to improve knowledge around the Fortinet products and solutions, along with maintaining a deep understanding of the competitive landscape and Fortinet’s ability to provide long lasting protection against the ever-evolving threats.\n• Collaborate with Regional Sales Managers and Regional Systems Engineers ensuring customers understand how to deliver value to their customers and partners with FortiSASE\n• Establish yourself as a trusted advisor to prospects and customers working with the Field Sales and Engineering teams\n• Deliver outstanding service and problem resolution to Fortinet customers\n• Have a strong ability to position Fortinet solutions to the customer, whether this be remotely or in person. This requires strong communication skills and the ability to confidently present through whiteboarding, technical white papers, technical plans or customer discussions.\n• Manage your time effectively when working on multiple deals simultaneously, ensuring a positive customer experience is maintained.\n• Maintain accurate activity, contact, and account technical information of all customers and prospects in our CRM (Salesforce).\n\nApply if you\n\n• Have a high aptitude for security technology, specifically encryption, authentication, with further knowledge of network security, intrusion detection, anti-virus, routing, switching, LAN and WAN being desirable. The CISSP accreditation would also be beneficial.\n• Previous experience in network security. Knowledgeable in the following technologies SASE, VPN, Firewall, Anti-Virus, Anti-Spam, Intrusion Prevention, and Content Filtering.\n• Strong analytical, communication and presentation skills to evaluate complex problems to find a systematic approach to gain a quick resolution\n• Ability to work independently with little direction – travel will be required in territory\n• Are currently or have previously worked in a pre-sales engineer role, managing end to end technical aspects of deals, through to technical closure.\n• Can demonstrate your problem solving skills and how this has impacted key wins within your current organisation.\n• Understand and can demonstrate your ability to build and maintain customer relationships, including your ability to effectively communicate technically to a range of both external and internal stakeholders.\n• Have a strong understanding of RADIUS, PKI, IKE, Certificates, L2TP, IPSEC, FIREWALL, 802.1Q, MD5, SSH, SSL, SHA1, DES, 3DES\n\nWhat you can expect from us\n\n• Excellent training and development opportunities, providing you with all the tools you need to be successful.\n• An open working environment, sharing knowledge and information collaboratively and transparently, with respect to everyone’s thoughts and opinions.\n• The opportunity to be part of an innovative, collaborative and winning team.\n• A competitive salary and incentive compensation package, including stock awards, health and welfare benefits.\n\nFrom the start, the Fortinet vision has been to deliver broad, truly integrated, high-performance security across the IT infrastructure. Today, we secure the largest enterprises, service providers and government organizations around the world.\n\nFortinet empowers its customers with intelligent, seamless protection across the expanding attack surface and the power to take on ever-increasing performance requirements of the borderless network – today and into the future. We have proven to be a truly innovative technology driven network security company with over 619 registered Global Patents. This is over 3 times more than our closest most innovative competitor!"
   },
   {
-   "id": "accenture:14912424",
-   "source": "accenture",
-   "company": "Accenture",
-   "via": "",
-   "title": "SOC Analyst - L1",
-   "field": "Cybersecurity",
-   "country_code": "KW",
-   "country": "Kuwait",
-   "countries": [
-    "Kuwait"
-   ],
-   "locations": [
-    "Kuwait City"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-16",
-   "summary": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuwait-City/SOC-Analyst---L1_14912424",
-   "first_seen": "2026-11-16T08:54:48Z",
-   "description": "The SOC Analyst (L1/L2) is responsible for continuous monitoring, detection, analysis, and response to cybersecurity threats across enterprise environments. The role supports 24x7 SOC operations, performing real‑time security event monitoring, incident triage, investigation, escalation, and remediation in accordance with established runbooks, SLAs, and client requirements.\n\nKey Responsibilities\n\n• Monitor and analyze security alerts from SIEM, SOAR, EDR, and other security tools to identify potential threats.\n• Perform timely triage, validation, and investigation of alerts in accordance with SLA and prioritization matrix (P1–P4).\n• Execute approved containment, response, and remediation actions using defined SOC runbooks.\n• Manage incidents through the full case lifecycle, ensuring accurate documentation, status updates, and closure in the case management system.\n• Follow standard case handling processes, including case stage/status flow and QA validation requirements.\n• Monitor SOC communication channels (e.g., mailbox, SOAR) and ensure timely response to inquiries, escalations, and stakeholder coordination.\n• Escalate high-severity or complex incidents in line with SLAs, including immediate notification for potential P1/P2 cases.\n• Ensure SLA compliance and resolution, including coordination with internal and external stakeholders.\n• Perform shift-based operations, including effective handover of active and critical cases with complete context.\n• Identify and report operational issues, anomalies, or delays within the same shift to relevant leads.\n• Support continuous improvement by supporting in identifying gaps in detection, logging, automation, and case handling processes.\n\nTechnical Skills\n\n• Strong understanding of cybersecurity fundamentals, including threat types, attack vectors, the CIA triad, and awareness of frameworks such as MITRE ATT&CK for threat identification.\n• Working knowledge of operating systems (Windows, Linux/Unix) and networking concepts (TCP/IP, OSI model, DNS, HTTP/S).\n• Experience or familiarity with SIEM/SOAR platforms, endpoint protection, firewalls, and security monitoring tools.\n• Ability to analyze logs, network traffic, and endpoint telemetry to identify malicious activity.\n• Exposure to cloud security concepts (Azure, AWS, or GCP) is an advantage.\n• Familiarity with the MITRE ATT&CK framework for threat identification is an advantage.\n\n• Bachelor’s degree in computer science, Information Security, Information Technology, or a related field.\n• 1–3 years of experience in Security Operations, IT security, or a related role.\n• Basic understanding of cybersecurity concepts, threats, and attack methodologies.\n• Hands-on exposure or academic experience with SIEM, SOAR, EDR, or security monitoring tools is an advantage.\n• Familiarity with incident handling, alert triage, and case management processes.\n• Strong analytical and problem-solving skills with attention to detail.\n• Good written and verbal communication skills for documentation and handover reporting.\n• Relevant certifications – e.g., Security+, SC-200, CEH (Associate level) – are an advantage but not mandatory.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
-  },
-  {
    "id": "fab:2800",
    "source": "fab",
    "company": "First Abu Dhabi Bank (FAB)",
@@ -1168,6 +1283,29 @@
    "url": "https://careers.majidalfuttaim.com/global/en/job/22679",
    "first_seen": "2026-11-16T08:54:48Z",
    "description": "ROLE SUMMARY\n\nThe project engineer will be expected to assist in the technical aspects of a portfolio of projects across the Development Business Unit and provide assistance to the Senior/Project Managers reporting the progress of projects. The ideal candidate is to have strong technical awareness and have a background as an engineering Graduate with basic experience in preparing progress for projects during design and construction stages.\n\nROLE PROFILE\n\n• Support the Delivery Team in preparing project status updates.\n• Schedule, coordinate, and monitor assigned tasks.\n• Interact daily with consultants and contractors to ensure project requirements are met and timelines are adhered to.\n• Prepare overall progress reports for the project.\n• Collaborate effectively with the Senior Project Manager and project participants to provide technical support.\n• Review engineering deliverables and initiate corrective actions as needed.\n• Assist in developing strategies for successful project delivery, focusing on design, construction, and maintenance.\n• Monitor project aspects including time, quality, safety, and sustainability, while minimizing delays.\n\nREQUIREMENTS\n\n• Qualifications: Bachelor's degree in architecture or civil engineering.\n• Experience: 2-4 years of relevant experience.\n• Project Skills: Technical Input, Progress Monitoring, Design Coordination.\n• Competencies: Effective Communication, Time Management, Leadership, Commercial Awareness, Ethical Decision-Making, Customer Focus, Results-Driven Mindset, Adaptability.\n• Knowledge: Financial Acumen, Computer Proficiency, Local Regulations, Industry Best Practices.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
+  },
+  {
+   "id": "maf:22575",
+   "source": "maf",
+   "company": "Majid Al Futtaim",
+   "via": "",
+   "title": "Manager IDAM",
+   "field": "Cybersecurity",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai"
+   ],
+   "workplace_type": "Regular",
+   "category": "Digital & Technology",
+   "posted_date": "2026-09-01",
+   "summary": "Seeking an experienced leader to drive the development and implementation of Identity and Access Management (IAM) strategies, ensuring alignment with business objectives and security best practices. Oversee IAM operations, manage identity lifecycle, and lead incident response. Ideal for candidates with extensive IAM experience and strong leadership skills.",
+   "url": "https://careers.majidalfuttaim.com/global/en/job/22575",
+   "first_seen": "2026-11-16T08:54:48Z",
+   "description": "JOB TITLE\nIdentity and Access Management Manager | MAF Global Solutions | Global Solutions UAE\n\nROLE SUMMARY\nThe Identity and Access Management Manager is responsible for developing and maintaining the organization's Identity Access Management (IAM) and Privilege Access Management (PAM) strategy, roadmap, and implementation plan, aligning it with business objectives and security best practices. This includes defining the future state of identity and access management and planning for its evolution.\n\nROLE PROFILE\n\n• IAM & PAM Strategy: Develop, implement, and enforce secure IAM/PAM policies, procedures, and controls aligned with least privilege and business requirements.\n• Identity Lifecycle Management: Manage end-to-end user and privileged identity lifecycle, including onboarding, provisioning, access changes, certifications, and offboarding.\n• Access Governance & Authentication: Implement and manage RBAC/ABAC, MFA, SSO, federation, access reviews, and strong authentication/authorization mechanisms.\n• Privileged Access Management: Oversee credential vaulting and rotation, privileged session monitoring/recording, JIT access, and break-glass/emergency access procedures.\n• IAM Operations & Security: Monitor IAM/PAM environments, investigate anomalies and incidents, remediate vulnerabilities, and lead identity-related incident response activities.\n• Technology & Automation: Design and operate enterprise IAM/IGA/PAM solutions such as SailPoint, CyberArk, and Delinea, with automation using workflows, PowerShell, or Python.\n• Compliance, Risk & Reporting: Ensure alignment with NIST, ISO 27001, CIS Controls, GDPR, SOC 2, and audit requirements; establish KPIs, metrics, logging, and reporting.\n• Leadership & Continuous Improvement: Lead IAM initiatives, vendors/MSPs, training, and stakeholder collaboration while continuously improving IAM capabilities, security, automation, and SLA performance.\n\nREQUIREMENTS\n\n• Leadership & Communication: Excellent leadership, interpersonal, teamwork, and communication skills, with the ability to explain technical concepts to non-technical stakeholders.\n• Analytical & Problem-Solving: Strong analytical, problem-solving, organizational, and time-management capabilities.\n• Proactive & Collaborative: Self-motivated, proactive, action-oriented, deadline-driven, and effective in collaborative team environments.\n• Professional Experience: 8+ years of experience working with multiple IAM solutions in large organizations, including 5+ years of hands-on global IDAM platform management.\n• Technical Delivery Experience: Proven experience managing IAM deployments, changes, and environments across Dev, Pre-Prod, Prod, SIT, and UAT, including testing and release processes.\n• Education & Certifications: Bachelor’s/Master’s degree in Computer Science, Engineering, Technology, or equivalent; preferred certifications include CIAM, CISM, CISSP, and ITIL.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
   },
   {
    "id": "maf:22575",
@@ -1283,29 +1421,6 @@
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Systems-Engineer-Hydraulic-Systems-Abu/733629022/",
    "first_seen": "2026-11-13T20:43:34Z",
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nADASI is the regional leader in autonomous systems and services, dedicated to offering holistic solutions – from the development and production of unmanned systems to joint mission analysis and equipment acquisition. We manufacture, operate, and maintain next-generation autonomous capabilities for air, land, and sea, operating in demanding environments. Headquartered in the UAE, we are committed to advancing the region’s technological edge in defense innovation."
-  },
-  {
-   "id": "m42:5628",
-   "source": "m42",
-   "company": "M42",
-   "via": "",
-   "title": "Officer, Lab Technical Support",
-   "field": "IT Support",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "Allied Health Professionals",
-   "posted_date": "2026-11-13",
-   "summary": "",
-   "url": "https://careers.m42.ae/jobs/5628",
-   "first_seen": "2026-11-13T08:59:13Z",
-   "description": "Overview\n\nM42 delivers comprehensive healthcare services across the full continuum of care; from primary care to advanced specialty treatments. Leveraging cutting-edge health technologies and precision medicine, we ensure the highest standards of effectiveness, efficiency, and patient-centered outcomes. With a global presence spanning more than 480 facilities in 27 countries and a dedicated workforce of over 20,000 professionals, M42 is uniquely positioned to redefine the future of healthcare on a global scale.\n\nSince its inception in 2010, National Reference Laboratory (NRL) has expanded from a single standalone reference laboratory to a network of 12 state-of-the-art facilities across the United Arab Emirates. NRL provides world-class diagnostic services to the M42 network and partners with more than 250 clients from a wide range of market segments, including private and government hospitals, medical centers and clinics, corporate organizations, and other reference laboratories.\n\nThe Officer, Lab Technical Support acts as the first point of contact for clients and service users, providing support for laboratory-related inquiries through the service desk, email, and call center. The role ensures effective communication between clients and the laboratory, helping maintain service efficiency, timely results delivery, and high customer satisfaction.\n\nResponsibilities\n\n•\nAct as the primary point of contact for client inquiries via service desk, email, and call center.\n\n•\nManage and resolve service desk tickets while ensuring response and resolution KPIs are met.\n\n•\nCoordinate with laboratories and external service providers to ensure timely processing of referred tests.\n\n•\nMonitor pending referral tests and follow up to ensure results are delivered within agreed turnaround times (TAT).\n\n•\nLiaise with logistics providers to coordinate urgent sample collection and transportation requirements.\n\n•\nHandle customer complaints and maintain proper documentation and correspondence.\n\n•\nGenerate reports and data for clients and internal stakeholders.\n\n•\nMonitor special client accounts to ensure timely result delivery and proactive communication.\n\nQualifications\n\n•\nBachelor’s degree in Medical Laboratory Science, Life Sciences, or a related field.\n\n•\n1–3 years of experience in laboratory operations, healthcare customer service, or technical support.\n\n•\nStrong communication and customer service skills with the ability to manage client inquiries professionally.\n\n•\nExperience using service desk systems, call center platforms, or laboratory information systems (LIS) is preferred.\n\n•\nAbility to manage multiple requests, prioritize tasks, and meet KPIs in a fast-paced environment.\n\n•\nStrong attention to detail and ability to work collaboratively with multidisciplinary teams.\n\n•\nAct as the primary point of contact for client inquiries via service desk, email, and call center.\n\n•\nManage and resolve service desk tickets while ensuring response and resolution KPIs are met.\n\n•\nCoordinate with laboratories and external service providers to ensure timely processing of referred tests.\n\n•\nMonitor pending referral tests and follow up to ensure results are delivered within agreed turnaround times (TAT).\n\n•\nLiaise with logistics providers to coordinate urgent sample collection and transportation requirements.\n\n•\nHandle customer complaints and maintain proper documentation and correspondence.\n\n•\nGenerate reports and data for clients and internal stakeholders.\n\n•\nMonitor special client accounts to ensure timely result delivery and proactive communication.\n\n•\nBachelor’s degree in Medical Laboratory Science, Life Sciences, or a related field.\n\n•\n1–3 years of experience in laboratory operations, healthcare customer service, or technical support.\n\n•\nStrong communication and customer service skills with the ability to manage client inquiries professionally.\n\n•\nExperience using service desk systems, call center platforms, or laboratory information systems (LIS) is preferred.\n\n•\nAbility to manage multiple requests, prioritize tasks, and meet KPIs in a fast-paced environment.\n\n•\nStrong attention to detail and ability to work collaboratively with multidisciplinary teams."
   },
   {
    "id": "amazon:10600958",
@@ -1605,29 +1720,6 @@
    "url": "https://jobs.smartrecruiters.com/ifs1/744000161056124",
    "first_seen": "2026-11-11T21:00:41Z",
    "description": "Job Description\nAbout Sitecore:\n\nSitecore delivers a composable digital experience platform that empowers the world’s smartest and largest brands to build lifelong relationships with their customers. A highly decorated industry leader, Sitecore is the leading company bringing together content, commerce, and data into one connected platform that delivers millions of digital experiences every day. Thousands of blue-chip companies including American Express, Porsche, Starbucks, L’Oréal, and Volvo Cars rely on Sitecore to provide more engaging, personalized experiences for their customers.\n\nAbout the position:\n\nThe Help Desk Analyst is responsible for providing Level 1 and Level 2 technical support to end users across APAC, EMEA, and North America within a 24x5 roster based support environment.\n\nThe role acts as a first point of contact for users experiencing IT issues or requiring technical assistance. The successful candidate will be expected to demonstrate strong troubleshooting, ticket ownership, communication, and customer service skills while supporting a broad range of technologies, including Microsoft 365, Windows, macOS, mobile platforms, end user hardware, networking, identity and access, and cloud services.\n\nThe Help Desk Analyst will work collaboratively with L3 engineering teams, infrastructure teams, application support teams, and third-party vendors to ensure issues are resolved efficiently and users receive high quality support experience.\n\nThis Help Desk team plays a key role in delivering excellent end user experience across Sitecore. With a strong focus on end user services, responsiveness, and ownership. The team supports Sitecore end users globally while maintaining consistently high standards of technical support and service quality. The right candidate will need to fulfill this standard.\n\nKey Responsibilities:\n\n• Provide L1 and L2 technical support to end users located globally across APAC, EMEA and North America on a 24x5 rotating roster.\n• Perform effective ticket triage, including gathering relevant information, assessing impact and urgency, categorizing issues correctly, and determining the appropriate resolution or escalation path.\n• Diagnose, troubleshoot and resolve hardware, software, network, connectivity, and cloud service issues.\n• Support Microsoft 365 services, including Exchange, MS Teams, SharePoint, Outlook, OneDrive and other Microsoft 365 applications.\n• Assist with Exchange Administration, including mailbox related requests, distribution lists, security groups, and other supporting configurations.\n• Assist with the administration and support of SharePoint Online sites, document libraries, access, and permissions.\n• Support Microsoft Teams requests, including team and channel creation, Teams Phone number assignments, external collaboration, and B2B related configurations where applicable.\n• User ServiceNow to manage Universal Requests, incidents, problems, service requests and knowledge management activities.\n• Take ownership of assigned tickets from initial engagement through resolution or escalation, ensuring tickets are reviewed, updated, and followed up daily.\n• Troubleshoot end-user issues across Windows, macOS, iOS, and Android operating systems.\n• Handle password resets, account unlocks, authentication issues, and access-related requests across supported systems, following established security and identity verification procedures.\n• Deliver a high standard of customer service through ServiceNow, Microsoft Teams, and other approved support channels.\n• Communicate technical information clearly to users with varying levels of technical knowledge.\n• Identify recurring issues and knowledge gaps and proactively contribute new or improved support content.\n• Create, review, and maintain Knowledge Base Articles, technical documentation, troubleshooting guides, procedures, and operational reports.\n• Escalate complex, high-impact, or unresolved technical issues to L3 engineering teams, specialist support teams, or third-party vendors, providing complete troubleshooting details and relevant diagnostic information.\n• Collaborate with internal IT teams to identify recurring incidents, contribute to problem management, and improve the overall end-user support experience.\n• Follow established IT service management, security, access control, and operational procedures.\n\nQualifications\nRequired Skills & Experience:\n\n• Minimum 3+ years of experience in an IT Help Desk, Service Desk, Desktop Support, or End User Support role, with experience providing remote technical support to users on a global scale.\n• Proven experience providing L1 and L2 technical support within an enterprise environment, including effective troubleshooting, ticket triage, resolution, and escalation.\n• Strong knowledge and hands-on experience with ServiceNow, including Incident Management, Request Management, Problem Management, and Knowledge Management.\n• Strong knowledge of the ITIL framework, the IT support lifecycle, associated service management methodologies, and their practical application within a Service Desk environment.\n• Ability to take end-to-end ownership of support tickets, including initial triage, troubleshooting, user communication, follow-up, resolution, documentation, and appropriate escalation.\n• Strong understanding of working within SLAs, operational targets, escalation procedures, and service quality standards.\n• Excellent problem-solving, analytical, and troubleshooting skills, with the ability to prioritize multiple requests based on impact, urgency, and business requirements.\n• Excellent verbal and written communication skills, with the ability to explain technical issues and solutions in clear, non-technical language to end users with varying levels of technical knowledge.\n• Strong customer service and end user experience mindset, demonstrating empathy, professionalism, ownership, responsiveness, and a commitment to delivering consistently high-quality support.\n• Ability to work effectively with L3 Engineering teams, infrastructure teams, application support teams, and third-party vendors when escalating or coordinating complex technical issues.\n• Sound knowledge and/or hands-on administrative experience with Microsoft 365 technologies, including Exchange, SharePoint, Microsoft Teams, AzureAD and Microsoft Intune would be an added advantage.\n• Experience supporting Microsoft Exchange administration, including mailboxes, distribution lists, security groups, permissions, and other messaging-related requests.\n• Experience supporting Microsoft Teams administration, including teams and channels, external/B2B collaboration, permissions, and Teams Phone-related requests.\n• Experience supporting SharePoint administration, including sites, document libraries, permissions, and user access-related requests.\n• Working knowledge of Microsoft Entra ID (Azure AD), including user accounts, groups, password resets, account unlocks, Multi-Factor Authentication (MFA), authentication issues, and access management.\n• Relevant industry certifications such as ITIL Foundation, Microsoft 365 certifications, Microsoft Endpoint Administrator, Microsoft Azure Administrator, CompTIA A+, or equivalent certifications would be an added advantage.\n• Must be willing and able to work within a 24x5 shift based operation, including rostered shifts required to support Sitecore end users across multiple global regions and time zones.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
-  },
-  {
-   "id": "adnoc:33749",
-   "source": "adnoc",
-   "company": "ADNOC",
-   "via": "",
-   "title": "Manager, Audit AI & Advanced Audit Analytics",
-   "field": "Data & AI",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "External",
-   "category": "Legal, Compliance & Audit",
-   "posted_date": "2026-11-11",
-   "summary": "Take on the role of Manager, Audit AI & Advanced Audit Analytics to lead the development and implementation of audit strategies focused on AI and advanced analytics. Oversee risk assessments, drive process improvements, and provide objective assurance on internal control systems. Ideal for experienced professionals with a strong background in audit management and advanced analytics.",
-   "url": "https://jobs.adnoc.ae/us/en/job/33749",
-   "first_seen": "2026-11-11T21:00:41Z",
-   "description": "JOB PURPOSE:\n\nManage the Audit AI & Advanced Audit Analytics division by promoting high standards of control and providing an informed, independent opinion and objective assurance on the efficiency and effectiveness of internal control systems, governance processes, risk management, and compliance across ADNOC & Group Companies. Lead and manage audit services related to AI and advanced analytics to evaluate and contribute to the improvement of governance, risk management, and control processes by using a systematic and disciplined approach to enhance the processes.\n\nKEY ACCOUNTABILITIES:\n\nJob Specific:\n\n• Manage the development and implementation of Audit AI & Advanced Analytics strategies ensuring key issues and risks facing the organization are accounted for, providing practical, innovative solutions to mitigate them via audit planning.\n• Initiate periodic Risk Assessments for audit planning purposes and communicate the risk and control information to concerned Management.\n• Lead the Audit AI & Advanced Analytics division’s Risk-Based Work Plans, consistent with inputs from Audit Committee/CEO/Management, to determine the priorities of Internal Audit activities and submit the same to Senior Management.\n• Develop and implement technology-driven auditing for enhanced impact and efficiency.\n• Monitor strategic initiatives (e.g., AI Assurance Plan, Blockchain Assurance Plan, Cybersecurity Assurance Plan) that positively impact Group-wide audit plans and oversee their execution to ensure objectives are fulfilled.\n• Manage the planning and execution of audit activities to ensure adequate coverage, achievement of audit objectives, and that all conclusions are duly and adequately supported.\n• Oversee the entire lifecycle of AI and advanced analytics audits within ADNOC and Group Companies, ensuring they are focused on relevant risks and completed with meaningful observations and impactful suggestions for improvement.\n• Lead the development of audit improvement options to address business risks and assist in achieving organizational objectives.\n• Initiate follow-up activities to ensure timely implementation of Management Action Plans through periodic status updates and follow-up audits.\n• Supervise the development and construction of advanced data analytics to provide continuous control assurance and bring value to ongoing audit assignments.\n• Provide leadership, enable training events, and develop goals to enhance the capability of Audit and Assurance from advanced analytics perspectives.\n• Review and approve relevant Internal Audit Reports, ensuring recommendations are practical improvement options corresponding to observations.\n\nGeneric:\n\nManagement\n\n· Plan and supervise the activities of the personnel and resources of the Department to achieve the Division objectives in an efficient and cost-conscious manner while ensuring implementation of approved operational plans for the Department in line with Division objectives.\n\n· Develop the knowledge, competencies and innovative spirit in the Department and support the establishment of Personal Development Plans (PDP’s), Succession Planning and Talent pipeline within the Department in coordination with the Human Capability Group to continuously develop employees with emphasis on UAE Nationals to meet Emiratization targets.\n\nBudgets and Operational Plans\n\n· Compile and provide input for preparation of the Division budgets and regularly monitor expenditure against approved the Department budget levels.\n\n· Investigate, highlight and reconcile any significant variances to ensure effective performance and cost control.\n\nPolicies, Systems, Processes & Procedures\n\n· Lead the implementation of approved Department policies, processes, systems, standards, procedures and internal controls in order to support execution of the Division work programs in line with Company and International standards.\n\nPerformance Management\n\n· Implement the Company Performance Management System for individuals within the Department in accordance with Company approved guidelines and continuously monitor the achievement of the Department KPIs related to the approved Annual Performance Management Contract and the Balanced Score Card.\n\nOrganisation Structure and Development\n\n· Review, develop and recommend the appropriate organisation structure for the Department that will best utilise human capital while proactively incorporating sustainability into the on-going work practices to meet the business objectives.\n\nInnovation and Continuous Improvement\n\n· Encourage innovation, enhance employee motivation and support initiatives for implementation of Change Management to continuously improve operations and services.\n\n· Propose improvements in internal processes against best practices in pursuit of greater efficiency in line with ISO standards in order to define intelligent solutions for issues confronting the Department.\n\nHealth, Safety, Environment (HSE) and Sustainability\n\n· Support the institution of an HSE culture and ensure compliance with relevant HSE policies, procedures, systems & controls and applicable legislation and sustainability guidelines across the Department in line with international standards, best practices and ADNOC Code of Practices.\n\n· Ensure adequate HSE training and induction for all Department employees to meet HSE standards.\n\nManagement Information Systems (MIS) and Reports\n\n· Prepare all Department MIS and progress reports to provide accurate and timely reports and necessary information to Company Management to effectively manage the business.\n\nCOMMUNICATION & WORKING RELATIONSHIP:\n\nInternal:\n\nFrequent contacts within ADNOC and Group Companies at all levels of Management up to Directors with respect to audit programs, the conduct of audits, audit reports, findings, and recommendations. Regular contacts with Senior Management within the assigned ADNOC Group Companies up to CEO/GM level regarding audits and corporate matters.\n\nExternal:\n\nRegular contacts with ADNOC External Auditors and other assurance providers to ensure adequate audit coverage and minimize duplicate efforts. Frequent contacts with Internal Audit Service Provider(s) to monitor the performance of services under co-sourcing agreement(s). Contacts with Abu Dhabi Accountability Authority (ADAA) regarding government audits. External Regulatory Authorities, External Auditor, External Counsels, and Law Enforcement Authorities.\n\nQUALIFICATIONS, EXPERIENCE, KNOWLEDGE & SKILLS:\n\nMinimum Qualification\n\nBachelor degree in finance / Business Administration / Management.\n\nMinimum Experience & Knowledge & Skills\n\n15 years of experience"
   },
   {
    "id": "edge:733608122",
@@ -4546,29 +4638,6 @@
    "url": "https://www.michaelpage.ae/job-detail/group-head-technology-healthcare-industry/ref/jn-102026-7125396",
    "first_seen": "2026-10-14T18:15:14Z",
    "description": "• Opportunity to shape technology and AI strategy\n• Lead major enterprise transformation initiatives\n\nAbout Our Client\n\nOur client is a rapidly expanding healthcare group operating across the Middle East, with ambitious growth plans and a strong focus on digital transformation, innovation, and clinical excellence. As they continue to scale, they are investing heavily in modernising their technology landscape and building a future-ready AI strategy.\n\nJob Description\n\n• Define and execute the organisation's technology and AI strategy.\n• Lead EMR, ERP, integration, and digital transformation programmes.\n• Drive data, analytics, and AI initiatives that support business and clinical objectives.\n• Oversee enterprise architecture, application landscape, and system modernisation.\n• Manage and develop a high-performing technology team and key technology partners.\n• Act as a trusted advisor to senior leadership on technology investment and innovation.\n\nThe Successful Applicant\n\n• Proven technology leadership experience within a healthcare provider environment.\n• Strong background in EMR/HIS platforms, integrations, and system migrations.\n• Experience delivering large-scale ERP transformation programmes.\n• Understanding of healthcare informatics, interoperability, and data strategy.\n• Exposure to AI, automation, or advanced analytics initiatives.\n• Arabic language skills and GCC healthcare experience would be a major plus.\n\nWhat's on Offer\n\n• Play a pivotal role in transforming healthcare delivery through technology and AI.\n• Join a high-growth organisation where your impact will be visible from day one.\n\nIf you're a healthcare technology leader passionate about digital transformation and innovation, we'd love to hear from you. Apply now or contact us for a confidential discussion."
-  },
-  {
-   "id": "fab:2923",
-   "source": "fab",
-   "company": "First Abu Dhabi Bank (FAB)",
-   "via": "",
-   "title": "Executive Director, Infrastructure Contractors",
-   "field": "Systems & Infrastructure",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-10-14",
-   "summary": "",
-   "url": "https://ehjd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/2923",
-   "first_seen": "2026-10-14T18:15:14Z",
-   "description": "JOB SUMMARY / INTRODUCTION\n\nTo grow and manage existing large & sensitive clients relationships for assigned portfolio; increase clientele base by originating & booking quality NTBs in line with the bank’s defined Risk frameworks. Improve service quality levels and supervise the subordinates' day-to-day activities and client interactions to ensure that the team's objectives are constantly met and its revenue targets achieved, while maintaining client satisfaction and portfolio credit quality.\n\nKEY RESPONSIBILITIES\n\nClient and Market Analysis\n\n• Conduct financial analysis on clients and their respective geographies/ industries/ markets to identify potential opportunities and risks.\n• Maintain up to date industry insights /market intelligence to early identify business opportunities.\n\nBusiness Origination\n\n• Originate new business opportunities with target clients across banking products and in line with relevant policies.\n• Obtain support from relevant stakeholders and governance forums to close deals (e.g., credit, products, GTx).\n• Develop Term Sheet, Information Memorandum, Mandate letter etc.\n• Examine & resolve credit, market and operational risk aspects of the transactions in collaboration with products and enablement units.\n• Leverage FAB’s network expansion through cross border deals.\n• Anchor Strategic Alliances with UAE’s Top Developers & Authorities\n• Expand Products Penetration Through Sector-Focused Solutions\n• Ensure high returns with satisfactory yields\n• Maintain the credit quality of the client's relationships within the Portfolio to an acceptable level set by the Bank's management.\n• Pitch, review, negotiate and conclude deals.\n• Develop and maintain strong relationships with key decision makers in other banks to originate business opportunities, ensure that FAB leads joint deals.\n• Remain Up to date with the latest market, competitors, regulatory and industry and amend accordingly the account plans as when applicable.\n• Ability to handle sophisticated transactions and engage assigned team members.\n• Recommend policy amendments as when required to match with the latest business & industry trends.\n• Analyse the monthly income generation metrics to identify any income leakage/losses.\n\nClient Relationship Management\n\n• To achieve assigned financial and non-financial objectives by meeting all borrowing & non borrowing needs of customers with target segments (E.g., borrowers, transactors, depositors).\n• Prepare and Maintain Account Plans for all clients with support from relevant partners (e.g., products, international banking, Employee banking, Asset Management, etc.). Regular checking of account plans and adopt amendments as when required.\n• Support on the conduct of annual/periodic credit facility reviews in the existing portfolio in a timely manner and support on the recommendation of appropriate credit facilities in line with the banks credit. policy to maximize earnings while containing/mitigating risks to an acceptable level and identifying candidates for downgrades/ upgrades.\n• Develop, Implement and maintain complete control aspects i.e., documentation, periodical client visits / call reports, stock inspections and formal credit checks / informal market feedback to monitor the assigned portfolio effectively.\n• Organize client meetings with relevant partners/ seniority to deepen FAB relationship within the portfolio.\n• Identify & develop cross selling opportunities and increase cross-sell ratio and returns with clients.\n• Support client on their day-to-day banking requirements with support from the team (as applicable).\n• Ensure customer satisfaction remains high and meets the targeted NPS score.\n• Keep abreast of market trends and manage a disciplined marketing process by identifying steps/strategies necessary to effectively initiate relationships with prospects.\n• Onboard new clients as per targets assigned.\n\nCollaboration\n\n• Align with Contracting team subsectors as well as other partners to identify and convert opportunities.\n• Collaborate with other business divisions to drive cross-BU collaboration. Develop proposition strategy, competition analysis, focused group approach, service delivery model, customer experience, internal & external campaigns and alignment with other Products & proposition including Risk policies, Payment & Cash management, Trade products, collaboration with Retail banking including Private Banking, etc.\n• Align with International banking to support client in FAB network locations.\n• Support Unit/Divisional/Bank-wide initiatives (as required or assigned).\n• Handle internal MIS/reporting requirements for the team.\n\nOperational\n\n• Follow all relevant policies, processes, standard operating procedures, and instructions so that work is carried out in a controlled and consistent manner.\n• Conduct periodic reviews of risks (credit, operational, compliance etc.) within the portfolio on a regular basis.\n• Drive day-to-day administrative and transactional activities for the team such as client calls, documentation follow up, pipeline updates, and any other activities in the unit/team to ensure continuity of work and delivery of effective/high quality output.\n• Ensure that internal processes for existing portfolio/ NTBs are in-line with the Bank's policies & procedures.\n• Manage and follow up on KYC and compliance requirements to ensure consistency with the Bank's KYC and AML policies and regulatory requirements.\n• Ensure all credit reviews are submitted on time and agreed conditions are met.\n• Ensure all clients' files [documents] are maintained.\n• Maintain a satisfactory audit on the portfolio.\n• Adhere to process KPl's and, ORM, BCP & Internal Audit requirements.\n• Prepare timely and accurate statements and reports to meet the unit's requirements, policies, and standards.\n• Ensure minimal/nonmaterial audit findings in assigned portfolio.\n\nLeadership\n\n• Act as Role Model for the entire Contracting group and Civil Contractors team\n• Lead, Mentor, Motivate, Develop and Coach team members to ensure career growth and short- & long-term successors\n• Establish high-performance culture and ensure high engagement levels.\n• Encourage ownership through rightful assignments to team members.\n• Achieve individual and team's financial performance targets.\n• Learning & Development Attend appropriate on and off-the-job training programs and ensure development and skill upgradation of team members.\n• Involvement in team members new hirings.\n\nFramework, Boundaries & Decision-Making Authority\n\n• Functions within the framework and boundaries of Group policies as well as overall organizational and governance frameworks.\n\nREQUIREMENTS / QUALIFICATIONS\n\n• Bachelor’s degree in finance or related discipline.\n• 12+ years of experience in Banking with at least 8+ years in senior role of team management.\n• Deep Knowledge of Wholesale Banking or investment banking.\n• Understanding of FAB's product offering and business strategy.\n• Ability to collaborate with a wide range of stakeholders to drive business.\n• Strong relationship management skills both internally and externally.\n• Sound communication skills (written and verbal).\n• Ability to analyse and research information.\n• Deep Financial and credit analysis ability with an aptitude to identify opportunities and close business deals.\n• Data analysis and financial modelling skills.\n• Ability to work under pressure and adjust quickly to changing priorities.\n• Proficient in MS Office (excel, word and Power-point)."
   },
   {
    "id": "amazon:10576779",
