@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T09:44:49Z",
+ "updated_at": "2026-11-19T21:56:54Z",
  "fields": [
   "Cybersecurity",
   "Data & AI",
@@ -21,24 +21,24 @@
    "id": "eand",
    "company": "e& (Etisalat)",
    "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
-   "it_jobs": 17,
-   "listed": 40,
-   "in_location": 40,
-   "it": 17,
+   "last_ok_at": "2026-11-19T21:56:54Z",
+   "it_jobs": 9,
+   "listed": 25,
+   "in_location": 25,
+   "it": 9,
    "new": 0
   },
   {
    "id": "fortinet",
    "company": "Fortinet",
    "careers_page": "https://www.fortinet.com/corporate/careers",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 16,
-   "listed": 1084,
+   "listed": 1083,
    "in_location": 26,
    "it": 16,
    "new": 0
@@ -47,9 +47,9 @@
    "id": "g42",
    "company": "G42",
    "careers_page": "https://careers.g42.ai/global/en/home",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 34,
    "listed": 49,
    "in_location": 36,
@@ -60,35 +60,35 @@
    "id": "ifs",
    "company": "IFS",
    "careers_page": "https://www.ifs.com/en/about/careers",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 26,
-   "listed": 258,
+   "listed": 260,
    "in_location": 37,
    "it": 26,
-   "new": 2
+   "new": 0
   },
   {
    "id": "accenture",
    "company": "Accenture",
    "careers_page": "https://www.accenture.com/ae-en/careers",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
-   "it_jobs": 29,
-   "listed": 34,
-   "in_location": 34,
-   "it": 29,
-   "new": 0
+   "last_ok_at": "2026-11-19T21:56:54Z",
+   "it_jobs": 30,
+   "listed": 35,
+   "in_location": 35,
+   "it": 30,
+   "new": 1
   },
   {
    "id": "syscolabs",
    "company": "Sysco LABS",
    "careers_page": "https://syscolabs.lk/careers",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 41,
    "listed": 48,
    "in_location": 48,
@@ -99,9 +99,9 @@
    "id": "presight",
    "company": "Presight",
    "careers_page": "https://careers.presight.ai/",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 2,
    "listed": 3,
    "in_location": 3,
@@ -112,9 +112,9 @@
    "id": "khazna",
    "company": "Khazna Data Centers",
    "careers_page": "https://khaznadatacenters.com/careers/",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 0,
    "listed": 7,
    "in_location": 7,
@@ -125,9 +125,9 @@
    "id": "m42",
    "company": "M42",
    "careers_page": "https://careers.m42.ae/jobs",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 2,
    "listed": 106,
    "in_location": 100,
@@ -138,12 +138,12 @@
    "id": "astratech",
    "company": "Astra Tech",
    "careers_page": "https://careers.astratech.ae/jobs",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 5,
-   "listed": 24,
-   "in_location": 21,
+   "listed": 23,
+   "in_location": 20,
    "it": 5,
    "new": 0
   },
@@ -151,22 +151,22 @@
    "id": "amazon",
    "company": "Amazon",
    "careers_page": "https://www.amazon.jobs/content/en/locations/united-arab-emirates",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
-   "it_jobs": 27,
-   "listed": 136,
-   "in_location": 136,
-   "it": 27,
-   "new": 0
+   "last_ok_at": "2026-11-19T21:56:54Z",
+   "it_jobs": 28,
+   "listed": 138,
+   "in_location": 138,
+   "it": 28,
+   "new": 1
   },
   {
    "id": "apple",
    "company": "Apple",
    "careers_page": "https://jobs.apple.com/en-ae/search?location=united-arab-emirates-ARE",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 0,
    "listed": 54,
    "in_location": 27,
@@ -177,9 +177,9 @@
    "id": "edge",
    "company": "EDGE",
    "careers_page": "https://careers.edgegroup.ae/go/View-All-Jobs/4166222/",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 43,
    "listed": 182,
    "in_location": 182,
@@ -190,22 +190,22 @@
    "id": "adnoc",
    "company": "ADNOC",
    "careers_page": "https://jobs.adnoc.ae/us/en/search-results",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
-   "it_jobs": 3,
-   "listed": 55,
-   "in_location": 55,
-   "it": 3,
-   "new": 0
+   "last_ok_at": "2026-11-19T21:56:54Z",
+   "it_jobs": 4,
+   "listed": 68,
+   "in_location": 68,
+   "it": 4,
+   "new": 1
   },
   {
    "id": "michaelpage",
    "company": "Michael Page (recruiter)",
    "careers_page": "https://www.michaelpage.ae/jobs/technology/united-arab-emirates",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 15,
    "listed": 25,
    "in_location": 25,
@@ -216,12 +216,12 @@
    "id": "fab",
    "company": "First Abu Dhabi Bank (FAB)",
    "careers_page": "https://www.bankfab.com/en-ae/about-fab/careers",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 8,
-   "listed": 85,
-   "in_location": 81,
+   "listed": 83,
+   "in_location": 79,
    "it": 8,
    "new": 0
   },
@@ -229,12 +229,12 @@
    "id": "altayer",
    "company": "Al Tayer Group",
    "careers_page": "https://www.altayer.com/careers",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 1,
-   "listed": 96,
-   "in_location": 96,
+   "listed": 97,
+   "in_location": 97,
    "it": 1,
    "new": 0
   },
@@ -242,25 +242,25 @@
    "id": "maf",
    "company": "Majid Al Futtaim",
    "careers_page": "https://careers.majidalfuttaim.com/global/en/home",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
-   "it_jobs": 16,
-   "listed": 256,
-   "in_location": 162,
-   "it": 16,
+   "last_ok_at": "2026-11-19T21:56:54Z",
+   "it_jobs": 15,
+   "listed": 258,
+   "in_location": 163,
+   "it": 15,
    "new": 0
   },
   {
    "id": "nyuad",
    "company": "NYU Abu Dhabi",
    "careers_page": "https://nyuad.nyu.edu/en/about/careers.html",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 2,
-   "listed": 26,
-   "in_location": 26,
+   "listed": 21,
+   "in_location": 21,
    "it": 2,
    "new": 0
   },
@@ -268,22 +268,22 @@
    "id": "salt",
    "company": "SALT (recruiter)",
    "careers_page": "https://welovesalt.com/job-category/united-arab-emirates",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 16,
    "listed": 16,
    "in_location": 16,
    "it": 16,
-   "new": 3
+   "new": 0
   },
   {
    "id": "charterhouse",
    "company": "Charterhouse (recruiter)",
    "careers_page": "https://www.charterhouseme.ae/jobs/information-technology",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 1,
    "listed": 1,
    "in_location": 1,
@@ -294,9 +294,9 @@
    "id": "nvidia",
    "company": "NVIDIA",
    "careers_page": "https://jobs.nvidia.com/careers",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 2,
    "listed": 2,
    "in_location": 2,
@@ -307,17 +307,86 @@
    "id": "enec",
    "company": "ENEC",
    "careers_page": "https://careers.enec.ae/search/",
-   "checked_at": "2026-11-19T09:44:49Z",
+   "checked_at": "2026-11-19T21:56:54Z",
    "ok": true,
-   "last_ok_at": "2026-11-19T09:44:49Z",
+   "last_ok_at": "2026-11-19T21:56:54Z",
    "it_jobs": 6,
-   "listed": 58,
-   "in_location": 58,
+   "listed": 56,
+   "in_location": 56,
    "it": 6,
    "new": 0
   }
  ],
  "jobs": [
+  {
+   "id": "amazon:10609387",
+   "source": "amazon",
+   "company": "Amazon",
+   "via": "",
+   "title": "Community Engagement Manager, InCommunities, AWS",
+   "field": "DevOps & Cloud",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh, Saudi Arabia"
+   ],
+   "workplace_type": "",
+   "category": "Business & Merchant Development",
+   "posted_date": "2026-11-19",
+   "summary": "AWS is hiring a Community Engagement Manager to lead community first initiatives to drive positive impact and brand reputation. As a Community Engagement Manager you will:Support the Community Engagement",
+   "url": "https://www.amazon.jobs/en/jobs/10609387/community-engagement-manager-incommunities-aws",
+   "first_seen": "2026-11-19T21:56:54Z",
+   "description": "AWS is hiring a Community Engagement Manager to lead community first initiatives to drive positive impact and brand reputation.\n\nAs a Community Engagement Manager you will:\n\nSupport the Community Engagement program for AWS Infrastructure Data Center Communities in the Middle East and Africa. Collaborate with organizations and key stakeholders including nonprofits to understand their needs, build relationships and collaborate on impactful outcomes. Build strong, collaborative relationships with external stakeholders as a representative of AWS. Manage the delivery of community programs, events, and initiatives following global standards with a focus on localization. Manage key aspects of community sponsorships including working with organizations to finalize and implement sponsorship details, and determining whether a sponsorship opportunity met success criteria in collaboration with key business partners. Contribute to AWS infrastructure expansion by facilitating discussions related to community engagement during planning approvals. Communicate the impact of programs with stakeholders.\n\nRepresent AWS Infrastructure publicly in meetings with internal and external stakeholders. Utilize multiple communications channels including, but not limited to newsletters, the intranet, social media, and email campaigns to drive employees’ awareness and involvement in community engagement initiatives. Capture data to demonstrate community engagements quantified and qualified impact on AWS Infrastructure, its employees, and the community. Communicate stories internally and externally in partnership with Public Relations and Communications teams.\n\nThis role requires a proven ability, willingness, and desire to:\n\n- Write and speak effectively for audiences of varying sizes. - Provide vision for the community engagement initiatives across the region, and manage these initiatives with attention to detail and a high bar for quality.\n\n- Work with cross-functional teams including engineering, operations, human resources, legal, public policy, and public relations to deliver results.\n\n- Interact effectively and provide strategic counsel at all levels of the organization.\n\n- Think and communicate clearly including formulating clear points of view on complicated issues and creating concise and well-written narratives to express ideas.\n\n- Identify opportunities and develop creative, effective approaches to difficult challenges.\n\n- Be physically, on-the-ground in locations within the region, roll up sleeves and get work done when required\n\n- Be responsible for developing tactics within the region to deliver locally.\n\nKey job responsibilities\n\n- Be the main point of contact for the Community Engagement program for Amazon infrastructure business in Middle East and Africa.\n\n- Provide vision and strategy for the community engagement initiatives across the region.\n\n- Manage the development of partnerships with local stakeholders and the planning and delivery of community programs and initiatives with attention to detail and a high bar for quality.\n\n- Work with cross-functional teams including engineering, operations, human resources, legal, public policy, and public relations to deliver results. Interact effectively and provide strategic counsel at all levels of the organization.\n\n- Manage community events and inspire Amazon employees to volunteer and engage through these events.\n\n- Think and communicate clearly including formulating clear points of view on complicated issues and creating concise and well-written narratives to express ideas.\n\n- Identify opportunities and develop creative, effective approaches to difficult challenges. Be prepared to roll up sleeves and get practical work done when required.\n\n- Develop tactics within the region to deliver locally.\n\n- Oversee budget and be responsible for expenditures within your span of control..\n\nBasic qualifications\n- Bachelor's degree\n\n- 5+ years experience in CSR, Public Policy, Corporate Affairs or related domains\n\n- Experience working with constituent groups including non profit organizations and employees\n\n- Project/Program Management skills\n\nPreferred qualifications\n- Experience working in the tech industry or delivery of large infrastructure projects\n\n- Saudi National\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
+  },
+  {
+   "id": "accenture:R00363436",
+   "source": "accenture",
+   "company": "Accenture",
+   "via": "",
+   "title": "SAP Solutions Analyst",
+   "field": "ERP & Business Apps",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, Sowwah Square - Al Sila Tower"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-16",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/SAP-Solutions-Analyst_R00363436",
+   "first_seen": "2026-11-19T21:56:54Z",
+   "description": "Role Overview\n\nWe are seeking an experienced SAP Consultant to lead and support the design, implementation, and optimisation of SAP solutions. The successful candidate will bring deep functional and/or technical expertise across SAP modules relevant to operations, including logistics, asset management, procurement, finance, and human resources. You will work closely with client stakeholders, programme managers, and technical teams to deliver mission-critical SAP solutions.\n\nKey Responsibilities\n\n• Lead end-to-end SAP implementation and support projects\n• Gather and translate complex business requirements into SAP functional and technical specifications\n• Configure, test, and deploy SAP modules in line with SAP standards and regulatory frameworks\n• Provide subject matter expertise across relevant SAP modules (listed below)\n• Liaise with stakeholders to manage expectations and drive solution adoption\n• Conduct workshops, training sessions, and user acceptance testing (UAT)\n• Ensure data integrity, security compliance, and audit readiness across all SAP environments\n• Contribute to solution architecture design and continuous improvement initiatives\n• Manage and mentor junior consultants and client-side SAP teams\n\nSAP Modules – Required Knowledge\n\nFinance & Controlling\n\n• SAP FI (Financial Accounting) – General ledger, accounts payable/receivable, asset accounting for assets\n• SAP CO (Controlling) – Cost centre accounting, internal orders, project cost tracking\n• SAP FM (Funds Management) – Budget management, commitment accounting aligned to regulatory spending controls\n• SAP GM (Grants Management) – Funding from agencies\n• SAP PSM (Public Sector Management) –Budget execution and compliance\n\nLogistics & Supply Chain\n\n• SAP MM (Materials Management) – Procurement, inventory management, catalogue management\n• SAP WM / EWM (Warehouse / Extended Warehouse Management) – Depot management, spare parts logistics\n• SAP IM (Inventory Management) – Stock control including serialised and batch-managed items\n• SAP SD (Sales & Distribution) – Inter-agency sales, cross-charging, equipment loans and returns\n• SAP TM (Transportation Management) – Movement of equipment, vehicles, and materiel\n• SAP GTS (Global Trade Services) – Export controls, dual-use goods compliance, ITAR/EAR adherence\n\nPlant Maintenance & Asset Management\n\n• SAP PM (Plant Maintenance) – Equipment maintenance scheduling, corrective and preventive maintenance\n• SAP EAM (Enterprise Asset Management) – Full lifecycle management of assets\n• SAP CS (Customer Service) – Equipment repair and return management\n\nProject & Programme Management\n\n• SAP PS (Project System) – Management of acquisition projects, capital programmes, and R&D\n• SAP PPM (Portfolio & Project Management) – Programme, resource planning, and milestone tracking\n\nHuman Resources & Workforce\n\n• SAP HCM (Human Capital Management) – personnel records, payroll, absence management\n• SAP SuccessFactors – Talent acquisition, performance management, and workforce planning\n\nQuality & Compliance\n\n• SAP QM (Quality Management) – Inspection lots, quality control, supplier qualification\n• SAP GRC (Governance, Risk & Compliance) – Access control, audit management, segregation of duties, regulatory compliance\n\nAnalytics & Reporting\n\n• SAP BW/4HANA – operational reporting and data warehousing\n• SAP Analytics Cloud (SAC) – Dashboards, KPIs, and mission readiness reporting\n\nTechnology & Integration\n\n• SAP S/4HANA – Core ERP platform (on-premise or private cloud for classified environments)\n• SAP BTP (Business Technology Platform) – Integration, automation, and app development\n• SAP PI/PO / Integration Suite – Middleware integration\n• SAP Fiori – Role-based UX for field and operational users\n\nEssential Requirements\n\n• Proven experience in delivering SAP solutions in highly regulated environments\n• Deep functional expertise in at least three of the above SAP modules\n• Understanding of procurement frameworks\n• Strong stakeholder management and communication skills at senior/executive level\n• SAP certification in one or more relevant modules (desirable)\n\nDesirable Requirements\n\n• Knowledge of ITIL, PRINCE2, or Agile delivery methodologies\n• Experience with SAP RISE or private cloud deployment\n• Background in logistics, engineering, or programme management\n\nWhat We Offer\n\n• Opportunity to work on high-impact programmes\n• Professional development and SAP certification support\n• [Pension / benefits / flexible working as applicable]\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
+  {
+   "id": "adnoc:32110",
+   "source": "adnoc",
+   "company": "ADNOC",
+   "via": "",
+   "title": "3rd Party Developer Hub Manager",
+   "field": "Software Development",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "External",
+   "category": "Projects, Engineering & Operations",
+   "posted_date": "2026-08-14",
+   "summary": "Embrace the role of a Third Party Development Hub Manager and lead the integration of external developers and investors into our Mobility Hub. Drive commercial structuring, contract negotiation, and risk management while ensuring operational readiness and portfolio optimization. Shape the future of our distribution hub with your expertise in project governance and stakeholder management.",
+   "url": "https://jobs.adnoc.ae/us/en/job/32110",
+   "first_seen": "2026-11-19T21:56:54Z",
+   "description": "JOB PURPOSE:\n\nLead third-party development within ADNOC Distribution’s Mobility Hub strategy by originating, structuring, and coordinating investor/developer projects from concept to handover. Act as the single point of contact for external developers and investors, managing the commercial, technical, contractual, and governance requirements needed to integrate sites seamlessly into the Hub ecosystem. Ensure timely approvals, risk-controlled delivery, and operational readiness that strengthen customer experience and portfolio returns.\n\nKEY ACCOUNTABILITIES:\n\nJob Specific Accountabilities\n\nPartnership Origination & Commercial Structuring\n\n• Identify and qualify 3P development opportunities aligned to hub typologies, network priorities, and investment criteria.\n• Prepare and refine commercial models, heads of terms, and term-sheet options to balance value creation, risk allocation, and compliance.\n• Coordinate internal inputs (Finance, Legal, BD) to validate business cases, sensitivity scenarios, and approval requirements.\n• Support investor due diligence (technical, commercial, regulatory), addressing queries and aligning key assumptions.\n• Draft and socialize decision packs for governance forums, ensuring clear options, risks, and recommendations.\n\nContract Lifecycle & Risk Management\n\n• Lead the end-to-end contract process—from RFI/RFP support and bid clarifications to negotiation of definitive agreements.\n• Ensure clarity on roles, deliverables, milestones, warranties, performance securities, and exit/step-in provisions.\n• Track contractual obligations and conditions precedent (CPs), coordinating timely closure with internal and external parties.\n• Maintain a live risk register covering commercial, schedule, technical, HSE, and authority risks, with mitigation plans.\n• Manage variations and change control, preserving scope, economics, and governance integrity.\n\nCross-Functional Coordination & Technical Alignment\n\n• Align site layout, access, utilities, and design standards with Engineering Projects, Operations, HSE, and Property Services.\n• Coordinate authority requirements (utility providers, municipality, civil defense, etc.) to de-risk approvals on the critical path.\n• Ensure 3P specifications support hub customer experience (wayfinding, parking circulation, tenant adjacencies, brand touchpoints).\n• Validate readiness criteria for construction start (permits, insurances, method statements, interfaces).\n• Facilitate technical reviews and close-out of comments to keep design and procurement on schedule.\n\nDelivery Governance & Operational Readiness\n\n• Run a stage-based governance cadence (business case, design freeze, pre-award, start-up, pre-opening) with documented gate criteria.\n• Track execution milestones, critical path, and dependencies; escalate slippage early and propose recovery actions.\n• Coordinate with Operations and HSE on commissioning, OR checklists, training/handovers, and defects management.\n• Validate as-built documentation, warranties, and O&M manuals prior to handover into steady-state operations.\n• Capture lessons learned and feed improvements into playbooks and templates.\n\nStakeholder Communication & Reporting\n\n• Serve as the single point of contact for developers/investors, providing clear updates, action logs, and decisions required.\n• Prepare concise progress reports, dashboards, and risk summaries for EMT/ELT and relevant committees.\n• Coordinate with Marketing/Brand on key milestones and external communications where applicable.\n• Ensure records are audit-ready (approvals, contracts, CP closures, change logs, correspondence).\n• Maintain confidentiality and adherence to governance, delegation of authority (DoA), and information security standards.\n\nPortfolio Performance & Optimization\n\n• Monitor post-launch performance (throughput, uptime, commercial KPIs) and identify improvement opportunities with partners.\n• Recommend re-scoping or enhancement measures (amenity mix, access improvements, utilities optimization) to maximize returns.\n• Track contractual performance measures (SLAs, liquidated damages where applicable) and manage under-performance remedies.\n• Support periodic portfolio reviews and rebalancing of pipeline priorities based on performance and market dynamics.\n• Contribute to strategy refreshes, investment theses, and international roll-out playbooks as required.\n\nContinuous Improvement & Tools\n\n• Maintain and enhance standard templates (term sheets, risk registers, gate checklists, CP trackers, and reporting packs).\n• Promote use of digital tools for document control, schedule tracking, and stakeholder collaboration.\n• Benchmark external practices to refine commercial structures and execution standards.\n• Propose process simplifications that reduce cycle time without compromising assurance.\n• Support training and knowledge-sharing sessions across the Franchise & Property Services Division.\n\nQUALIFICATIONS, EXPERIENCE, KNOWLEDGE & SKILLS:\n\nMinimum Qualification\n\n• Bachelor’s degree in engineering, Business Management, Real Estate, or a related field.\n\nMinimum Experience & Knowledge & Skills\n\n• 8 years of relevant experience in commercial real‑estate development, PPP/3P projects, or mobility/retail infrastructure.\n• Hands‑on experience in commercial modelling, contract negotiation, and approvals (CPs, permits, utilities).\n• Strong exposure to design coordination and delivery governance (stage‑gates, risk, change control).\n• Proven ability to work cross‑functionally and manage multiple stakeholders and counterparties to deadlines.\n• Commercial acumen (term sheets, risk allocation, value drivers)\n• Contracting & negotiation; change/claims awareness\n• Technical literacy (layouts, utilities, basic MEP/HSE considerations)\n• Project governance, planning, and risk management\n• Executive‑level communication, presentation, and stakeholder influence\n• Strong documentation, decision‑pack preparation, and audit‑readiness\n• Proficiency with MS Office and project/collaboration tools (e.g., MS Project, SharePoint/Teams, Asana/Jira)"
+  },
   {
    "id": "ifs:744000162435289",
    "source": "ifs",
@@ -337,7 +406,7 @@
    "category": "Consulting",
    "posted_date": "2026-11-19",
    "summary": "",
-   "url": "https://jobs.smartrecruiters.com/IFS1/744000162435289-senior-lead-ifs-hcm-consultant-igt1-",
+   "url": "https://jobs.smartrecruiters.com/ifs1/744000162435289",
    "first_seen": "2026-11-19T09:44:49Z",
    "description": "Job Description\nAbout the Client: Centric\n\nCentric Global is a growing technology company with offices in Kenya, Dubai, and Sri Lanka, specializing in ICT, enterprise applications, and digital transformation solutions.\n\nAs an IFS partner, Centric Global delivers IFS ERP solutions and supports organizations across various industries with implementation, consulting, optimization, and technology services. The company also partners with global technology providers including Microsoft, AWS, SUSE, Kaspersky, and Red Hat.\n\nWith a focus on innovation, regional growth, and customer success, Centric Global brings together talented technology professionals to deliver scalable solutions and create meaningful impact for clients across the region.\n\nJoin Centric Global and be part of a growing team delivering technology solutions that help businesses operate smarter and grow sustainably.\n\nAbout the role:\n\nWe are hiring a Senior / Lead IFS HR Consultant to lead the implementation and support of Human Capital Management (HCM) processes in IFS Cloud.\n\nYou will own the HR workstream end-to-end from solution design and configuration to Go-Live, hypercare, and post-implementation support.\n\nKey Responsibilities:\n\n• Lead HR Fit-to-Standard workshops and solution design\n• Configure HCM modules:\n\no Core HR (Employee Management)\n\no Payroll knowledge\n\no Time & Attendance\n\no Leave Management\n\n• Support payroll configuration and statutory compliance\n• Drive HR data migration and validation\n• Support integrations (biometric systems, payroll interfaces, finance)\n• Lead SIT, UAT, and Go-Live activities\n• Provide L2/L3 support and continuous improvement post Go-Live\n• Engage HR leadership and manage stakeholder expectation\n\nQualifications\nRequired Skills & Experience:\n\n• Bachelor’s degree in a related field\n• 7+ years ERP HR/HCM consulting experience\n• Proven delivery in IFS Applications or IFS Cloud\n• Strong knowledge of:\n\no HR processes (hire-to-retire lifecycle)\n\no Payroll and statutory compliance\n\n• Experience in data migration, payroll testing, and Go-Live support\n• Strong stakeholder engagement and training capability\n• Relevant IFS certifications preferred\n• The role involves travel to customer sites to support client engagements, project delivery, stakeholder meetings, and other business requirements. Candidates must be willing and able to travel internationally as required by the role.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
   },
@@ -360,7 +429,7 @@
    "category": "Consulting",
    "posted_date": "2026-11-19",
    "summary": "",
-   "url": "https://jobs.smartrecruiters.com/IFS1/744000162432459-senior-lead-ifs-finance-consultant-igt1-",
+   "url": "https://jobs.smartrecruiters.com/ifs1/744000162432459",
    "first_seen": "2026-11-19T09:44:49Z",
    "description": "Job Description\nAbout the Client: Centric\n\nCentric Global is a growing technology company with offices in Kenya, Dubai, and Sri Lanka, specializing in ICT, enterprise applications, and digital transformation solutions.\n\nAs an IFS partner, Centric Global delivers IFS ERP solutions and supports organizations across various industries with implementation, consulting, optimization, and technology services. The company also partners with global technology providers including Microsoft, AWS, SUSE, Kaspersky, and Red Hat.\n\nWith a focus on innovation, regional growth, and customer success, Centric Global brings together talented technology professionals to deliver scalable solutions and create meaningful impact for clients across the region.\n\nJoin Centric Global and be part of a growing team delivering technology solutions that help businesses operate smarter and grow sustainably.\n\nAbout the role:\n\nWe are hiring a Senior / Lead IFS Finance Consultant to lead the implementation and ongoing support of Finance modules in IFS Cloud.\n\nYou will own the Finance workstream end-to-end from solution design and configuration to Go-Live, hypercare, and post-implementation support.\n\nKey Responsibilities:\n\n• Lead Finance Fit-to-Standard workshops and solution design\n• Configure GL, AP, AR, Cash Management, and Fixed Assets\n• Drive data migration and financial reconciliation\n• Support integrations (banking, payroll, external systems)\n• Lead SIT, UAT, and Go-Live cutover activities\n• Provide L2/L3 support and continuous improvement post Go-Live\n• Engage senior stakeholders and lead the Finance workstream\n\nQualifications\nRequired Skills & Experience:\n\n• Bachelor’s degree in Accounting, Finance, Business Information Systems, or related field\n• 7+ years ERP Finance consulting experience\n• Proven delivery in IFS Applications or IFS Cloud\n• Strong knowledge of IFRS and finance processes (P2P, O2C, R2R)\n• Experience in data migration, reconciliation, and Go-Live support\n• Strong stakeholder management and workshop facilitation skills\n• Relevant IFS certifications preferred\n• The role involves travel to customer sites to support client engagements, project delivery, stakeholder meetings, and other business requirements. Candidates must be willing and able to travel internationally as required by the role.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
   },
@@ -871,121 +940,6 @@
    "description": "JOB TITLE\nSenior Associate- Data Analyst | Majid Al Futtaim- Development\nROLE SUMMARY\nSupport the Sales Operations team by owning and analyzing business data across sales, collections, broker performance, and customer transactions. The role focuses on turning data into meaningful insights, identifying trends, and supporting decision-making through clear reporting and presentations.\n\nROLE PROFILE\n\n• Analyze sales, collections, broker activity, and customer data to identify trends, risks, and opportunities\n• Develop dashboards and presentations highlighting key insights and actionable recommendations\n• Monitor key metrics such as sales conversion, collections, defaulters, and broker performance\n• Ensure accuracy and integrity of data across CRM systems (sales, customer, broker records)\n• Identify data gaps and inconsistencies, and drive improvements in data quality\n• Support forecasting, performance tracking, and periodic reporting for leadership reviews\n• Collaborate with Sales, Finance, Legal, and CRM teams to validate data and ensure alignment\n• Enhance reporting efficiency through process improvements, automation, and documentation of data standards\n\nREQUIREMENTS\n\n• Bachelor’s degree with 1–3 years of relevant experience\n• Strong analytical skills with the ability to interpret data, identify trends, and translate insights into actionable outcomes\n• Advanced Excel skills (pivot tables, lookups, basic modelling)\n• Working knowledge of CRM tools (e.g., Salesforce)\n• Ability to create clear, structured presentations from data (PowerPoint)\n• Understanding of sales cycles, collections tracking, and performance metrics\n• Detail-oriented, reliable, and highly organized"
   },
   {
-   "id": "eand:10431",
-   "source": "eand",
-   "company": "e& (Etisalat)",
-   "via": "",
-   "title": "Expert Engineer/Network Security",
-   "field": "Cybersecurity",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-17",
-   "summary": "Accountable to review & implement all necessary and required security controls to protect Etisalat’s infrastructure services after due review of design documentation following Etisalat’s security practices and guidelines. These are a list of the services in scope: 4G, 3G, MPLS, Internet, Cloud, Data Centers and IPTV. The SE additionally must also support On-Call Escalations and routine Roster for change Management Function. The SE will be required to engage with multiple stakeholders and services owners to achieve these daily tasks. (SE) Provides professional guidance and support to subordinates in carrying out the assigned functions where applicable.",
-   "url": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10431",
-   "first_seen": "2026-11-17T10:00:11Z",
-   "description": "Accountable to review & implement all necessary and required security controls to protect Etisalat’s infrastructure services after due review of design documentation following Etisalat’s security practices and guidelines. These are a list of the services in scope: 4G, 3G, MPLS, Internet, Cloud, Data Centers and IPTV. The SE additionally must also support On-Call Escalations and routine Roster for change Management Function. The SE will be required to engage with multiple stakeholders and services owners to achieve these daily tasks. (SE) Provides professional guidance and support to subordinates in carrying out the assigned functions where applicable.\n\nResponsibilities\n• Administration, Configurations, Maintenance & Troubleshooting of Network Security related issues.\n• Management & Administration of Security devices including Arbor DDOS, Peakflow, TMS and AED.\n• Understanding of attacking behavior and different techniques used for DDOS attacks.\n• Understanding of networking and firewalls.\n• Understanding of Access Control lists and Policy filters on High End Cisco Routers & Switches.\n• Hands on and good experience analyzing packet capture to understand attack behavior and apply required counter measure\n• Analyze network architecture and strategies for planning and coordinating the infrastructure expansion and upgrades.\n• Diagnose problems and solve issues, often under time constraints\n• Coordinate with security planning for all new projects and ensuring the best security practices and strategies are followed.\n• Troubleshoot & Provide Level 2/3 support in order to diagnose all problems that may cause Service Degradation or Interruption in the Network Security Domain.\n• Coordination with TAC regarding Hardware, Software & Network Problems and RMA for faulty equipment.\n• Provide call out support on all L2/L3 escalations 24*7.\n\nQualifications\nMinimum Qualification: BS (Computers Science) or BS/BE (Engineering)\n\nExperience: Minimum 5 years’ Experience related to Network Security\n\n• Must have in-depth technical knowledge of Security devices, infrastructure networks, Internet, Cloud, Data Centers and IPTV (MPLS, 3G, 4G, 5G).\n• Preferably worked in Telecom environment\n• Design and hands-on experience of different information security products.\n• Design and hands-on experience in identifying and implementing security controls for telecom, cloud ad IT services.\n• Security certifications: CCNP (Security), CEH.\n\nKindly note that your application will be reviewed and considered within 2-3 weeks from the submission date. If you have not been contacted by then, regretfully, your application was not shortlisted.\n\nAt Etisalat, diversity is our strength and we are committed to creating an inclusive environment for all. We welcome and encourage all people to apply, regardless of gender, background, age and abilities. If you are a person of determination and require an adjustment or accommodation to the selection process, please send your request to DiversityEquity&Inclusion@etisalat.ae"
-  },
-  {
-   "id": "eand:10954",
-   "source": "eand",
-   "company": "e& (Etisalat)",
-   "via": "",
-   "title": "Expert Engineer/Security Operation Centre",
-   "field": "Cybersecurity",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-17",
-   "summary": "Responsible for incident response efforts, host-level investigations, conducting comprehensive forensic investigations and proactively hunting for threats within the network and systems and remediate security incidents.",
-   "url": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10954",
-   "first_seen": "2026-11-17T10:00:11Z",
-   "description": "Responsible for incident response efforts, host-level investigations, conducting comprehensive forensic investigations and proactively hunting for threats within the network and systems and remediate security incidents.\n\nResponsibilities\n• Monitor and analyze threat intelligence feeds, security blogs, and industry news to stay informed on emerging threats and vulnerabilities.\n• Conduct forensic investigations for cybersecurity incidents, including data breaches, advanced persistent threats (APT), ransomware, and insider threats.\n• Utilize forensic tools and techniques to collect and analyze evidence, ensuring secure evidence handling and chain of custody for compliance with legal and regulatory standards.\n• Conduct in-depth analysis of security events from multiple sources, such as SIEM, IDS/IPS, firewall logs, endpoint detection tools, and network traffic data.\n• Develop and execute advanced threat-hunting queries and custom searches to detect malicious activities that may evade standard detection systems and improve detection rules.\n• Conduct host-based forensic analyses across various platforms, including Windows, Linux, macOS, and mobile devices.\n• Conduct network-based forensics using platforms such as NDR, Security Onion.\n• Conduct initial malware analysis to assess potential risks.\n• Proactively hunt for threats in the organization’s network by identifying Indicators of Compromise (IOCs) and Tactics, Techniques, and Procedures (TTPs) used by adversaries.\n• Build and refine threat-hunting playbooks and runbooks to standardize and enhance threat-hunting operations.\n• Communicate findings through detailed, high-quality reports and presentations to security teams, management, and relevant stakeholders.\n• Experience with Forensic Tools such as FTK, Encase, Oxygen, Cellebrite, etc.\n• Develop the remediation strategies for compromised environments.\n• Develop custom scripts to automate the security log analysis.\n• Conduct cloud incident response across Azure & AWS.\n• Utilize the MITRE ATT&CK framework to map detected threats and enhance threat-hunting capabilities.\n• Ensure timely closure of incidents in compliance with SLA requirements.\n\nQualifications\nMandatory:\n\n• Bachelor’s degree in Cybersecurity, Computer Science, or related field (or equivalent work experience)\n• Investigation background can't just be focused on EDR and SIEM tools. NEED exposure to Host-Level Investigations.\n•\nHands-on experience with Windows and Linux environments, can read and explain Windows or Linux logs effectively.\n\n• Strong hands-on experience with Incident Response and Digital Forensics.\n•\nPractical Investigation experience (end-to-end case handling or evidence processing exposure).\n\n• Docker OR Kubernetes.\n• DFIR related certifications.\n• Possess relevant SANS certifications, and preferably have experience working with SIEM platforms such as Microsoft Sentinel and Splunk.\n• Ability to write and execute complex queries using KQL (Kusto Query Language) .\n• SANS GCFA, GCFE & GCIH.\n• Minimum 6 years of experience in in digital forensics, incident response, or threat hunting.\n• Expertise in Digital Forensics, Incident Response, and Threat Hunting.\n\nWe thank all applicants for their interest, however, only those shortlisted for an interview will be contacted. If you have not heard from us within 2-3 weeks of your application, please consider your application as unsuccessful.\n\nAt Etisalat, diversity is our strength and we are committed to creating an inclusive environment for all. We welcome and encourage all people to apply, regardless of gender, background, age and abilities. If you are a person of determination and require an adjustment or accommodation to the selection process, please send your request to DiversityEquity&Inclusion@etisalat.ae"
-  },
-  {
-   "id": "eand:11091",
-   "source": "eand",
-   "company": "e& (Etisalat)",
-   "via": "",
-   "title": "Manager/CX Insights & Data Science-Consumer & Business",
-   "field": "Data & AI",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-17",
-   "summary": "The Analytics Manager will be responsible for leveraging operational analytics to explore the relationship between customer experience data and financial metrics, such as churn, cost to serve and profitability, as well as overseeing and managing the financial planning and analysis activities within the CX department. This role also encompasses strategic planning, budgeting, forecasting, monitoring of expenditures related to both operational activities and capital initiatives, aimed at improving customer experience and meeting its financial objectives",
-   "url": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11091",
-   "first_seen": "2026-11-17T10:00:11Z",
-   "description": "The Analytics Manager will be responsible for leveraging operational analytics to explore the relationship between customer experience data and financial metrics, such as churn, cost to serve and profitability, as well as overseeing and managing the financial planning and analysis activities within the CX department. This role also encompasses strategic planning, budgeting, forecasting, monitoring of expenditures related to both operational activities and capital initiatives, aimed at improving customer experience and meeting its financial objectives.\n\nResponsibilities\nCustomer Experience and Financial Metrics\n\n•\nExplore and analyze the relationship between customer experience (CX) data and financial metrics, such as chrurn, cost to serve and profitability.\n\n•\nProvide insights to support decision-making that balances customer satisfaction with financial performance.\n\n•\nCollaborate with cross-functional teams to align CX initiatives with cost management strategies.\n\nOperational Analytics and Efficiency\n\n•\nEstablish and monitor key performance indicators (KPIs) to evaluate operational effectiveness and cost efficiency, trade-offs with customer experience\n\n•\nConduct operational analytics to identify opportunities for process improvements and cost optimization.\n\n•\nLead initiatives aimed at enhancing productivity and achieving measurable savings.\n\nBudgeting, Forecasting, and Financial Planning\n\n•\nLead the development and management of budgeting and forecasting processes to support business objectives and operational requirements.\n\n•\nBuild and maintain planning models and templates for financial analysis and resource allocation.\n\n•\nCoordinate financial planning activities with relevant stakeholders to ensure accuracy and alignment.\n\nFinancial Reporting and Analysis\n\n•\nCollaborate with business units and finance teams to ensure accurate financial reporting and monthly accruals.\n\n•\nPrepare and present variance analyses between planned and actual results, highlighting key trends and risks.\n\n•\nDevelop management reports and dashboards covering cost, revenue, and profitability metrics.\n\nStrategic Business Support\n\n•\nEvaluate the financial impact of new business developments and strategic initiatives.\n\n•\nAnalyze business cases to support resource allocation and investment decisions.\n\n•\nSupport leadership in optimizing resource deployment based on evolving business priorities.\n\nProcess and System Improvements\n\n•\nMaintain and enhance accounting policies, procedures, and systems to improve efficiency and compliance.\n\n•\nDrive automation and digitalization of reporting and analytics processes.\n\n•\nContinuously seek opportunities for process and system enhancements.\n\nStakeholder Engagement and Coordination\n\n•\nWork closely with operations, finance, and leadership teams to identify and address inefficiencies.\n\n•\nFacilitate collaboration across departments to support cost management, operational analytics, and strategic goals.\n\nQualifications\n•\nBachelor’s degree in Accounting, Finance, or related field\n\n•\nMinimum 5-6 years of Business Analysis, Cost/Financial Controller/ Reporting"
-  },
-  {
-   "id": "eand:11312",
-   "source": "eand",
-   "company": "e& (Etisalat)",
-   "via": "",
-   "title": "Expert Engineer/Security Operation Centre",
-   "field": "Cybersecurity",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-17",
-   "summary": "Subject Matter Expert – Security Operations Center (SOC) is the technical authority responsible for 24x7 security monitoring, advanced incident investigation, detection engineering, and threat hunting. The role leads and guides SOC analysts, ensures high-quality incident response, and continuously improves detection capabilities across on-premises, cloud, and telco cloud environments.",
-   "url": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11312",
-   "first_seen": "2026-11-17T10:00:11Z",
-   "description": "The Subject Matter Expert – Security Operations Center (SOC) oversees advanced security monitoring and incident management activities within the Cyber Security function. This role serves as the primary escalation point for complex or high-severity security incidents, providing technical leadership and validation before handover to Incident Response teams.\n\nThe SME leads deep-dive investigations using SIEM, IDS/IPS, firewalls, endpoint detection, and network telemetry, and applies frameworks such as MITRE ATT&CK and DEFEND to strengthen threat-hunting and detection coverage. The role is responsible for designing, tuning, and validating detection rules, developing and maintaining SOC playbooks and runbooks, and ensuring effective monitoring across hybrid infrastructures (on-prem, cloud, and telco cloud).\n\nIn addition, the SME mentors SOC engineers, conducts trainings and technical workshops, drives automation opportunities (SOAR playbooks and workflows), and contributes to continuous improvement of SOC processes and content. The role also monitors threat intelligence, tracks emerging threats and vulnerabilities, and communicates findings through clear reports and presentations to security leadership and stakeholders. The SME may participate in RFP processes, providing technical input to help select best-fit security solutions.\n\nResponsibilities\n• Serve as the primary contact for advanced security monitoring, threat detection, and investigation methodologies.\n• Lead and supervise team members to ensure effective incident detection and response.\n• Provide technical guidance and escalation support to SOC analysts for complex or high-severity incidents.\n• Act as the final technical validation authority before escalating to Incident Response (IR) teams.\n• Utilize the MITRE ATT&CK and DEFEND frameworks to map detected threats and enhance threat-hunting capabilities.\n• Lead in-depth analysis of security events from multiple sources, such as SIEM, IDS/IPS, firewall logs, endpoint detection tools, and network traffic data.\n• Conduct deep-dive technical investigations for high-impact or ambiguous alerts.\n• Identify gaps in detection coverage and recommend improvements.\n• Continuously support the content development team by recommending detection rule tuning to reduce false positives and by proposing new advanced correlation rules, behavioral detections, and anomaly-based use cases.\n• Develop and maintain SOC playbooks and runbooks to ensure consistent investigation standards.\n• Ensure effective detection and monitoring across hybrid environments, including on-premises, cloud, and telco cloud.\n• Support SOC shift staff in maintaining SLA compliance.\n• Review and quality-check investigation reports before closure.\n• Participate in major incident calls as the SOC technical lead.\n• Conduct post-incident detection gap analysis.\n• Mentor analysts and organize trainings to maintain team expertise.\n• Develop knowledge articles, technical documentation, and use-case libraries.\n• Lead internal technical workshops and purple-team collaboration exercises.\n• Monitor and analyze threat intelligence feeds, security blogs, and industry news to stay informed on emerging threats and vulnerabilities.\n• Communicate findings through detailed, high-quality reports and presentations to security teams, management, and relevant stakeholders.\n• Participate in the RFP process to provide technical recommendations and propose best-fit solutions.\n\nQualifications\nFormal Education Required:\n\n• Bachelor’s degree in Cybersecurity, Computer Science, or a related field (or equivalent work experience).\n\nRelated Professional Training, Certification or Membership:\n\n• Cybersecurity-related certification(s).\n\nPreferred:\n\n• CISM\n• CISSP\n• Microsoft Sentinel training\n• Splunk training\n\nYears & Field of Experience Required:\n\n• 8–10 years\n\nJob-Specific Competencies:\n\n• Mandatory: Team Lead experience\n• Deep experience in monitoring and interpreting SIEM outputs, including log correlation, alert triage, and threat prioritization.\n• Ability to design, validate, and tune detection rules and alerts for multiple platforms (SIEM, EDR, NDR, IDS/IPS, firewalls).\n• Advanced log analysis skills across endpoints, network, identity systems, and cloud environments.\n• Experience with SIEM technologies such as Splunk, Microsoft Sentinel, etc., EDR, and Threat Intelligence Platforms.\n• Proficiency in building and executing complex queries (KQL, SPL, or vendor-specific languages) for detection and investigation.\n• Expertise in identifying automation potential in SOC manual processes/workflows and designing their transformation into automated SOC/IR playbooks and modules within SOAR, such as FortiSOAR and Splunk SOAR.\n• Strong knowledge of network protocols (TCP/IP, HTTP/S, DNS, FTP, SMTP) and the ability to identify malicious activity patterns.\n• Ability to analyze threat intelligence feeds and apply IOC/TTP indicators to operational detection logic.\n• Expertise in monitoring Anti-DDoS solutions and understanding mitigation at an operational level.\n• Strong capability to validate alerts and investigation outputs from SOC engineers to ensure quality and accuracy.\n• Experience in documenting investigations, creating runbooks, and maintaining operational knowledge repositories.\n• Understanding of the global threat landscape through analysis of cyber threat intelligence.\n• Ability to mentor and coach SOC engineers on technical best practices, complex investigations, and use-case development.\n• Awareness of the current threat landscape, malware trends, and attack vectors, with the ability to translate this into operational detection priorities."
-  },
-  {
-   "id": "eand:11481",
-   "source": "eand",
-   "company": "e& (Etisalat)",
-   "via": "",
-   "title": "Sr. Engineer/Security Operation Centre",
-   "field": "Cybersecurity",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-17",
-   "summary": "Perform incident management of detected threats in a 24/7 Security Operations Center (SOC) by handling security events on a technical level. Responsible for monitoring, investigating and responding to suspicious events originating from various sources.",
-   "url": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11481",
-   "first_seen": "2026-11-17T10:00:11Z",
-   "description": "Perform incident management of detected threats in a 24/7 Security Operations Center (SOC) by handling security events on a technical level. Responsible for monitoring, investigating and responding to suspicious events originating from various sources.\n\nResponsibilities\n1. Plan and support the development of projects in respect of applicable network/ functionality.\n2. Review and advise on the development of policies, procedures, guidelines, standards and operating practices in respect of applicable network/ service quality\n3. Monitor planning and development practices/procedures and recommend improvement to enhance productivity, efficiency and quality.\n4. Assists the leads in preparation for implementation for respective network based on technology strategy plans and requirements\n5. Participate and assist superiors in the preparation of project plans and budgets.\n6. Coordinate as required with other Engineering sections, contractors and consultants and follow up as required.\n7. Keep abreast of new technologies, systems and developments in respect of assigned network/ functionality.\n8. Provide professional guidance and support to subordinates in carrying out the assigned functions.\n9. Identify training need of subordinates/contractors to ensure enhancement of skills.\n10. Perform any other function assigned as and when required.\n\nQualifications\n• BSc in Computer Science, Electrical/Computer/Software Engineering.\n• 3-6 years of relevant experience.\n\nWe thank all applicants for their interest, however, only those shortlisted for an interview will be contacted. If you have not heard from us within 2-3 weeks of your application, please consider your application as unsuccessful.\n\nAt Etisalat, diversity is our strength and we are committed to creating an inclusive environment for all. We welcome and encourage all people to apply, regardless of gender, background, age and abilities. If you are a person of determination and require an adjustment or accommodation to the selection process, please send your request to DiversityEquity&Inclusion@etisalat.ae"
-  },
-  {
    "id": "eand:11635",
    "source": "eand",
    "company": "e& (Etisalat)",
@@ -1030,52 +984,6 @@
    "url": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11640",
    "first_seen": "2026-11-17T10:00:11Z",
    "description": "Monitor VVIP & Enterprise VSAT services at the 24x7 Mission Command Center and ensuring the reliability and availability of these services as per the standard operating procedure.\nInterface with the customer to log complaints, requests and provide L1 troubleshooting & support before escalating the concerns to the relevant team.\n\nResponsibilities\n•\nMonitor all VSAT sites and services and reporting of any abnormality in the service/network in a timely manner as per operating procedure\n\n•\nMaintain all logs and fault registers related to VSAT services\n\n•\nPrepare routine reports (utilization reports, fault reports etc.) for management in a timely manner\n\n•\nInterface with the customer and mission field support team\n\n•\nTroubleshoot service anomalies and outages and escalate problems as needed based on escalation matrix\n\n•\nMaintain Customer relationship by validating requirements and providing responses to queries and requests\n\n•\nKeep abreast with each Mission requirement setup and manage any technical issue that might arise during commissioning or operation\n\n•\nMonitor Satellite Interference in the designated customer capacity and report any anomalies in a timely manner\n\n•\nPerform Shift Operation duty as assigned to ensure reliability and availability of various VSAT services for both VVIP & Enterprise customers\n\n•\nAssist with the missions both locally and internationally as and when required\n\n•\nMake arrangements for remote equipment delivery in coordination with the customer, maintaining delivery notes and gate passes, monitoring & maintaining a database for the movement of VVIP equipment between various remote locations\n\n•\nPerforms other related duties as required and assigned\n\nQualifications\n•\nBachelors in Engineering/Telecommunications/ Electrical Engineering or equivalent.\n\n•\n3-4 years of relevant experience.\n\nWe thank all applicants for their interest, however, only those shortlisted for an interview will be contacted. If you have not heard from us within 2-3 weeks of your application, please consider your application as unsuccessful.\n\nAt Etisalat, diversity is our strength and we are committed to creating an inclusive environment for all. We welcome and encourage all people to apply, regardless of gender, background, age and abilities. If you are a person of determination and require an adjustment or accommodation to the selection process, please send your request to DiversityEquity&Inclusion@etisalat.ae"
-  },
-  {
-   "id": "eand:11659",
-   "source": "eand",
-   "company": "e& (Etisalat)",
-   "via": "",
-   "title": "Expert Engineer/Application & End Point Security",
-   "field": "Cybersecurity",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-17",
-   "summary": "Responsible for the implementation, configuration, monitoring, and maintenance of WAF (Web Application Firewalls) deployed for internal and external customers. Work closely with the other Cybersecurity teams to ensure the protection of web applications via WAF, from various cyber threats and vulnerabilities including OWAPS Top 10 attacks. Effectively communicate and collaborate with different stakeholders for new WAF deployments and troubleshooting of operational issues at hand.",
-   "url": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11659",
-   "first_seen": "2026-11-17T10:00:11Z",
-   "description": "Coordinate and supervise activities related to the planning and development of the respective network to ensure services perform with consistency, reliability and efficiency in compliance with the engineering standards, objectives, priorities, guidelines and procedures. Serve as a resource to co-workers in technical matters and as back-up support\n\nResponsibilities\n1. Plan and support the development of projects in respect of applicable network/ functionality.\n2. Provide technical support and training to service partners and service technicians to ensure all are operating with accurate and complete technical data.\n3. Review and advise on the development of policies, procedures, guidelines, standards and operating practices in respect of network/ service quality.\n4. Updates job knowledge by participating in educational opportunities; reading technical publications\n5. Monitor planning and development practices/procedures and recommend improvement to enhance productivity, efficiency and quality\n6. Document known issues and solutions for issues to provide to the support team and solutions database\n7. Participate and assist superiors in the preparation of project plans and budgets.\n8. Coordinate as required with other Engineering sections, contractors and consultants and follow up as required.\n9. Keep abreast of new technologies, systems and developments in respect of assigned network/ functionality.\n10. Provide professional guidance and support to subordinates in carrying out the assigned functions.\n11. Identify training need of subordinates/service partners to ensure enhancement of skills.\n12. Perform any other functions assigned as and when required\n\nQualifications\n• BS (Computer Science, Information Technology, or related field)\n• Minimum 6 years’ experience related to WAF administration and web applications security.\n\nWe thank all applicants for their interest, however, only those shortlisted for an interview will be contacted. If you have not heard from us within 2-3 weeks of your application, please consider your application as unsuccessful.\n\nAt Etisalat, diversity is our strength and we are committed to creating an inclusive environment for all. We welcome and encourage all people to apply, regardless of gender, background, age and abilities. If you are a person of determination and require an adjustment or accommodation to the selection process, please send your request to DiversityEquity&Inclusion@etisalat.ae"
-  },
-  {
-   "id": "eand:11670",
-   "source": "eand",
-   "company": "e& (Etisalat)",
-   "via": "",
-   "title": "Sr. Engineer/Application & End Point Security",
-   "field": "Cybersecurity",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-17",
-   "summary": "Responsible for the implementing, operating, and maintaining tokenization platforms and API security solutions to protect sensitive data and secure internal and external APIs. The role ensures that data protection and API security controls are effectively configured, monitored, and aligned with corporate security policies and regulatory requirements.",
-   "url": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11670",
-   "first_seen": "2026-11-17T10:00:11Z",
-   "description": "Responsible for the implementing, operating, and maintaining tokenization platforms and API security solutions to protect sensitive data and secure internal and external APIs. The role ensures that data protection and API security controls are effectively configured, monitored, and aligned with corporate security policies and regulatory requirements.\n\nResponsibilities\n• Administer and maintain tokenization platforms and related components (e.g., token vaults, key management, integration connectors).\n• Configure tokenization policies for sensitive data (e.g., customer data, payment data, IDs) in line with data classification and compliance requirements.\n• Support application teams in integrating tokenization services into business applications, databases, and middleware.\n• Monitor tokenization system performance, capacity, and health; perform routine maintenance and upgrades.\n• Manage encryption keys and security certificates in coordination with the key management team, ensuring proper rotation and lifecycle management.\n• Implement and maintain API security policies (e.g., OAuth2, JWT, mutual TLS, API keys) in line with security standards.\n• Monitor API traffic and security events; identify anomalies, potential attacks, and misuse.\n• Support development and integration teams in securely onboarding new APIs\n• Monitor security dashboards, logs, and alerts related to tokenization and API security tools.\n• Investigate security alerts and coordinate with security operations and application teams for remediation.\n• Maintain up-to-date documentation for tokenization and API security configurations, procedures, and runbooks.\n• Contribute to security hardening guidelines and best practices for APIs and data protection.\n• Knowledge of web and API security standards and protocols (e.g., HTTPS/TLS, OAuth2, OpenID Connect, JWT, REST, SOAP).\n• Familiarity with secure coding and application security principles (e.g., OWASP Top 10 for APIs).\n\nQualifications\n• 3–5 years of experience in information security, application security, or infrastructure security.\n• CISSP, CISM, or equivalent\n• CompTIA Security+\n• Certified Ethical Hacker (CEH) or similar\n• Vendor-specific certifications for API management or security platforms (if applicable).\n\nWe thank all applicants for their interest, however, only those shortlisted for an interview will be contacted. If you have not heard from us within 2-3 weeks of your application, please consider your application as unsuccessful.\n\nAt Etisalat, diversity is our strength and we are committed to creating an inclusive environment for all. We welcome and encourage all people to apply, regardless of gender, background, age and abilities. If you are a person of determination and require an adjustment or accommodation to the selection process, please send your request to DiversityEquity&Inclusion@etisalat.ae"
   },
   {
    "id": "fortinet:24879",
@@ -1398,29 +1306,6 @@
    "url": "https://careers.majidalfuttaim.com/global/en/job/22679",
    "first_seen": "2026-11-16T08:54:48Z",
    "description": "ROLE SUMMARY\n\nThe project engineer will be expected to assist in the technical aspects of a portfolio of projects across the Development Business Unit and provide assistance to the Senior/Project Managers reporting the progress of projects. The ideal candidate is to have strong technical awareness and have a background as an engineering Graduate with basic experience in preparing progress for projects during design and construction stages.\n\nROLE PROFILE\n\n• Support the Delivery Team in preparing project status updates.\n• Schedule, coordinate, and monitor assigned tasks.\n• Interact daily with consultants and contractors to ensure project requirements are met and timelines are adhered to.\n• Prepare overall progress reports for the project.\n• Collaborate effectively with the Senior Project Manager and project participants to provide technical support.\n• Review engineering deliverables and initiate corrective actions as needed.\n• Assist in developing strategies for successful project delivery, focusing on design, construction, and maintenance.\n• Monitor project aspects including time, quality, safety, and sustainability, while minimizing delays.\n\nREQUIREMENTS\n\n• Qualifications: Bachelor's degree in architecture or civil engineering.\n• Experience: 2-4 years of relevant experience.\n• Project Skills: Technical Input, Progress Monitoring, Design Coordination.\n• Competencies: Effective Communication, Time Management, Leadership, Commercial Awareness, Ethical Decision-Making, Customer Focus, Results-Driven Mindset, Adaptability.\n• Knowledge: Financial Acumen, Computer Proficiency, Local Regulations, Industry Best Practices.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
-  },
-  {
-   "id": "maf:22575",
-   "source": "maf",
-   "company": "Majid Al Futtaim",
-   "via": "",
-   "title": "Manager IDAM",
-   "field": "Cybersecurity",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai"
-   ],
-   "workplace_type": "Regular",
-   "category": "Digital & Technology",
-   "posted_date": "2026-09-01",
-   "summary": "Seeking an experienced leader to drive the development and implementation of Identity and Access Management (IAM) strategies, ensuring alignment with business objectives and security best practices. Oversee IAM operations, manage identity lifecycle, and lead incident response. Ideal for candidates with extensive IAM experience and strong leadership skills.",
-   "url": "https://careers.majidalfuttaim.com/global/en/job/22575",
-   "first_seen": "2026-11-16T08:54:48Z",
-   "description": "JOB TITLE\nIdentity and Access Management Manager | MAF Global Solutions | Global Solutions UAE\n\nROLE SUMMARY\nThe Identity and Access Management Manager is responsible for developing and maintaining the organization's Identity Access Management (IAM) and Privilege Access Management (PAM) strategy, roadmap, and implementation plan, aligning it with business objectives and security best practices. This includes defining the future state of identity and access management and planning for its evolution.\n\nROLE PROFILE\n\n• IAM & PAM Strategy: Develop, implement, and enforce secure IAM/PAM policies, procedures, and controls aligned with least privilege and business requirements.\n• Identity Lifecycle Management: Manage end-to-end user and privileged identity lifecycle, including onboarding, provisioning, access changes, certifications, and offboarding.\n• Access Governance & Authentication: Implement and manage RBAC/ABAC, MFA, SSO, federation, access reviews, and strong authentication/authorization mechanisms.\n• Privileged Access Management: Oversee credential vaulting and rotation, privileged session monitoring/recording, JIT access, and break-glass/emergency access procedures.\n• IAM Operations & Security: Monitor IAM/PAM environments, investigate anomalies and incidents, remediate vulnerabilities, and lead identity-related incident response activities.\n• Technology & Automation: Design and operate enterprise IAM/IGA/PAM solutions such as SailPoint, CyberArk, and Delinea, with automation using workflows, PowerShell, or Python.\n• Compliance, Risk & Reporting: Ensure alignment with NIST, ISO 27001, CIS Controls, GDPR, SOC 2, and audit requirements; establish KPIs, metrics, logging, and reporting.\n• Leadership & Continuous Improvement: Lead IAM initiatives, vendors/MSPs, training, and stakeholder collaboration while continuously improving IAM capabilities, security, automation, and SLA performance.\n\nREQUIREMENTS\n\n• Leadership & Communication: Excellent leadership, interpersonal, teamwork, and communication skills, with the ability to explain technical concepts to non-technical stakeholders.\n• Analytical & Problem-Solving: Strong analytical, problem-solving, organizational, and time-management capabilities.\n• Proactive & Collaborative: Self-motivated, proactive, action-oriented, deadline-driven, and effective in collaborative team environments.\n• Professional Experience: 8+ years of experience working with multiple IAM solutions in large organizations, including 5+ years of hands-on global IDAM platform management.\n• Technical Delivery Experience: Proven experience managing IAM deployments, changes, and environments across Dev, Pre-Prod, Prod, SIT, and UAT, including testing and release processes.\n• Education & Certifications: Bachelor’s/Master’s degree in Computer Science, Engineering, Technology, or equivalent; preferred certifications include CIAM, CISM, CISSP, and ITIL.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
   },
   {
    "id": "accenture:14912463",
@@ -1925,29 +1810,6 @@
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Avionics-Systems-Engineer/733529522/",
    "first_seen": "2026-11-11T08:44:29Z",
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nThe Senior Avionics Systems Engineer is responsible for defining and managing avionics system architecture, deriving and allocating system requirements across hardware, software, and control domains, and ensuring effective integration throughout the system development lifecycle. The role manages system interfaces, requirements traceability, verification and validation activities, and supports safety and certification processes in line with ARP4754A, ARP4761, DO-178C, and DO-254. Working closely with multidisciplinary engineering and certification teams, the position ensures that avionics systems are technically coherent, fully traceable, compliant, and successfully integrated at system level.\n\nRESPONSIBILITIES\n\r\n\n• Develop subsystem architecture based on high-level system requirements.\n\n• Derive system requirements from high-level requirements.\n\n• Allocate system requirements to software, hardware, and control domains.\n\n• Manage system interfaces (ICDs) between software, hardware, control, and other engineering teams.\n\n• Provide necessary technical inputs to software, hardware, and control teams.\n\n• Coordinate the lifecycle activities related to writing, verifying, and validating system requirements.\n\n• Perform system-level integration and verification activities.\n\n• Support safety assessment activities and derived requirements management.\n\n• Support the establishment and execution of systems engineering processes compliant with ARP4754A.\n\n• Maintain requirements traceability across system, hardware, software, and control levels.\n\n• Prepare and maintain systems engineering documentation.\n\n• Work in coordination with software, hardware, control, test, and certification teams.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's or Master's degree in Aerospace, Electrical/Electronics, Control, Software Engineering, or a related field.\n\n• Experience in avionics system development and system integration.\n\n• Knowledge and experience in avionics system architecture.\n\n• Knowledge of systems engineering design processes and related lifecycle activities.\n\n• Knowledge and experience in ARP4754A processes.\n\n• Experience in requirements engineering (capture, derivation, and traceability).\n\n• Knowledge of communication interfaces such as RS-232/422/485, CAN bus, ARINC 429, ARINC 664, ARINC 825, and MIL-STD-1553.\n\n• Experience with configuration, change, and requirements management tools such as SVN, DOORS, etc.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Familiarity with safety assessment processes (ARP4761, FHA/PSSA/SSA).\n\n• Familiarity with DO-178C and DO-254 within the system development context.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
-  },
-  {
-   "id": "eand:11490",
-   "source": "eand",
-   "company": "e& (Etisalat)",
-   "via": "",
-   "title": "Sr. Solution Architect/Solutions & Systems Support",
-   "field": "IT Support",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-10",
-   "summary": "Must be a UAE National\n\nSupport project/program management for project planning, scheduling, technical risk assessment and mitigation. Requirement gathering, analysis, designing and implementing Solutions for the business",
-   "url": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11490",
-   "first_seen": "2026-11-10T20:40:43Z",
-   "description": "• Plan and oversees the technical requirements from end users for network and services performance analysis functions.\n• Plan and assist in preparing automation use cases to build Autonomous Operations and Planning functions.\n• Assist in deploying charts and dashboards required to evaluate the network and services and continue developing and improving processes to report QoS measures and resolve network and service affecting issues.\n• Plan the design architecture for the performance and network monitoring solutions.\n• Plan the data structure and modelling required to build business use cases.\n• Provides professional guidance and support to subordinates in carrying out the assigned functions.\n\nResponsibilities\n• Assist in preparation of reports for Mobile, Core network, Fixed network and related services. Identify opportunities for improvement in existing reports, support other team in the reporting requirements.\n• Assist in developing network and performance KPI’s and detailed analysis as requested by end users\n• Develop processes for fault analysis and alarm generation\n• Oversees the analysis and testing of the equipment of various vendors and checks the quality, compatibility and reliability of their equipment.\n• Manages requirements form end users of network and service monitoring and related reports.\n• Propose new tools, solutions to evaluate network and services performance\n• Assists SD/D in the annual network planning and budgeting process.\n• Ensures the development of policies, procedures, guidelines, standards and operating practices in respect of network/ service quality across the entire Engineering Department.\n• Builds up and maintains relationships to suppliers, contractors, vendors & consultants and follows up as required.\n• Keeps abreast of best practice processes, governance frameworks, ISO standard requirements and new developments in the network/ service quality area.\n• Identifies training needs of subordinates to ensure enhancement of skills.\n• Bears overall responsibility for the obtainment of approvals for procurement of equipment.\n• Compiles and presents technical/ operational reports for superiors, as required.\n• Monitors CWP/ project progress and identifies bottlenecks to find appropriate solutions to overcome problem areas.\n\nQualifications\n• UAE National\n• Unix, Linux, Mobile network planning, Mobile core network operations, telecom network (5G, 4G, 3G, 2G) interfaces and protocols and architecture, GSMA standards, mobile service testing, Roaming services IREG testing, project planning and execution."
   },
   {
    "id": "accenture:14715481",
@@ -5187,7 +5049,7 @@
    "summary": "Want to be part of the team that keeps the world's largest cloud running? As an Engineering Operations Technician Intern at Amazon Web Services (AWS), you will get hands-on experience with the critical",
    "url": "https://www.amazon.jobs/en/jobs/10574531/data-center-engineering-operations-2027-internship-dceo",
    "first_seen": "2026-10-09T19:11:46Z",
-   "description": "Want to be part of the team that keeps the world's largest cloud running? As an Engineering Operations Technician Intern at Amazon Web Services (AWS), you will get hands-on experience with the critical infrastructure behind Amazon's global data centers — and your work will directly impact millions of customers worldwide.\n\nThis internship is designed as a potential pathway to full-time employment. Interns who demonstrate strong performance throughout their internship may be considered for a full-time Engineering Operations Technician position, subject to available roles and business needs.\n\nWho Should Apply\n\nWe welcome applications from:\n\n- Students in the last year of their Bachelor's degree in Mechanical Engineering, Electrical Engineering, or a related field who are looking for an internship that could lead to a full-time career.\n\nIt is a requirement to be graduated by the end of the internship.\n\nImportant — Site Location & Commuting: This role is based at a data center facility in a remote location with no public transportation access. A valid driving license and access to personal transportation are required to commute to the site daily. Please consider this before applying.\n\nAbout the Role\n\nAs an intern, you will provide technical support within Amazon's owned and operated data centers. Your work will ensure that the data center's mechanical, electrical, and plumbing systems operate at 100% availability while maintaining first-class customer service to the teams and groups on site.\n\nYou will be exposed to both independent work and team-based collaboration. Prioritization, organizational skills, effective communication, and the ability to react quickly are critical to being successful.\n\nWhat You Will Do\n\nThe Engineering Operations team is Amazon's front-line responders for hands-on electrical and mechanical equipment troubleshooting and operations. You will work with equipment that supports mission-critical servers and must maintain better than 99.999% uptime. This equipment includes, but is not limited to:\n\n- Stand-by diesel generators and switchgear\n\n- Uninterruptible Power Supplies (UPSs) and Power Distribution Units (PDUs)\n\n- Air Handling Units (AHUs), chillers, and cooling towers\n\n- Chemical treatment systems, pumps, motors, and Variable Frequency Drives (VFDs)\n\n- Building automation systems\n\nYour day-to-day duties include:\n\n- Maintaining mechanical and electrical equipment\n\n- Assisting with root cause analysis of equipment failures\n\n- Troubleshooting facility and rack-level events within internal Service Level Agreements (SLAs)\n\n- Taking daily operational readings of all mechanical and electrical equipment\n\n- Using internal Computerized Maintenance Management Systems (CMMS) to manage building workflows\n\n- Interacting with third-party vendors and contractors working on site\n\nInternship Structure\n\nAmazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027. This position requires the intern to report to work on site daily. Intern schedules are typically day schedules, Sunday through Thursday.\n\nPlease note that full-time Engineering Operations Technician roles operate on a rotating shift pattern, which may include days, nights, weekends, and public holidays. Candidates should be willing and able to commit to shift work upon transitioning to a full-time position.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed below, we encourage you to apply. If your career is just starting, has not followed a traditional path, or includes alternative experiences, do not let that stop you from applying.\n\nYour Career at Amazon — A Universe of Opportunity\n\nAt Amazon, your career is not a straight path. It is a journey you build as you go.\n\nFrom your first day as an intern, you will own real work that matters. You will troubleshoot and maintain the systems that keep AWS running for millions of customers. Your mentors and teammates will champion your growth, helping you build skills you did not know existed — and you will see your work come to life at massive scale.\n\nImpact. Your work shapes the infrastructure that millions of customers rely on every day. From cloud computing to artificial intelligence, the systems you maintain power it all.\n\nAction. You will move fast, experiment, and learn by doing. Your ideas do not get stuck in approval chains — they get tested, refined, and put into practice.\n\nCuriosity. Every project teaches you something new. You will apply what you learned in the classroom to real challenges and explore different teams, technologies, and career paths within Amazon.\n\nMentorship and career growth. You will start with structured onboarding and get paired with experienced mentors. Beyond that, you will find continuous learning opportunities and the chance to work on different projects. Your journey here is yours to shape.\n\nAbout the team\n\nAWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. We are the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on.\n\nYou will join a diverse team of engineers, supply chain specialists, security experts, operations managers, and other vital roles. You will collaborate with people across AWS to deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers.\n\nBasic qualifications\n- In pursuit of a Bachelor's degree in a relevant field such as Mechanical Engineering or Electrical Engineering, or a related technical field, graduating in 2027 - before the end of the internship.\n\n- Professional English proficiency, both written and verbal\n\n- Ability to work well with others in a team environment, with strong time management skills\n\nPreferred qualifications\n- Experience in program or project management\n\n- Knowledge of mechanical systems (Heating, Ventilation, and Air Conditioning systems, controls)\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
+   "description": "Want to be part of the team that keeps the world's largest cloud running? As an Engineering Operations Technician Intern at Amazon Web Services (AWS), you will get hands-on experience with the critical infrastructure behind Amazon's global data centers — and your work will directly impact millions of customers worldwide.\n\nThis internship is designed as a potential pathway to full-time employment. Interns who demonstrate strong performance throughout their internship may be considered for a full-time Engineering Operations Technician position, subject to available roles and business needs.\n\nWho Should Apply\n\nWe welcome applications from:\n\n- Students in the last year of their Bachelor's degree in Mechanical Engineering, Electrical Engineering, or a related field who are looking for an internship that could lead to a full-time career.\n\nIt is a requirement to be graduated by the end of the internship.\n\nImportant — Site Location & Commuting: This role is based at a data center facility in a remote location with no public transportation access. A valid driving license and access to personal transportation are required to commute to the site daily. Please consider this before applying.\n\nAbout the Role\n\nAs an intern, you will provide technical support within Amazon's owned and operated data centers. Your work will ensure that the data center's mechanical, electrical, and plumbing systems operate at 100% availability while maintaining first-class customer service to the teams and groups on site.\n\nYou will be exposed to both independent work and team-based collaboration. Prioritization, organizational skills, effective communication, and the ability to react quickly are critical to being successful.\n\nWhat You Will Do\n\nThe Engineering Operations team is Amazon's front-line responders for hands-on electrical and mechanical equipment troubleshooting and operations. You will work with equipment that supports mission-critical servers and must maintain better than 99.999% uptime. This equipment includes, but is not limited to:\n\n- Stand-by diesel generators and switchgear\n\n- Uninterruptible Power Supplies (UPSs) and Power Distribution Units (PDUs)\n\n- Air Handling Units (AHUs), chillers, and cooling towers\n\n- Chemical treatment systems, pumps, motors, and Variable Frequency Drives (VFDs)\n\n- Building automation systems\n\nYour day-to-day duties include:\n\n- Maintaining mechanical and electrical equipment\n\n- Assisting with root cause analysis of equipment failures\n\n- Troubleshooting facility and rack-level events within internal Service Level Agreements (SLAs)\n\n- Taking daily operational readings of all mechanical and electrical equipment\n\n- Using internal Computerized Maintenance Management Systems (CMMS) to manage building workflows\n\n- Interacting with third-party vendors and contractors working on site\n\nInternship Structure\n\nAmazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027. This position requires the intern to report to work on site daily. Intern schedules are typically day schedules, Sunday through Thursday.\n\nPlease note that full-time Engineering Operations Technician roles operate on a rotating shift pattern, which may include days, nights, weekends, and public holidays. Candidates should be willing and able to commit to shift work upon transitioning to a full-time position.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed below, we encourage you to apply. If your career is just starting, has not followed a traditional path, or includes alternative experiences, do not let that stop you from applying.\n\nYour Career at Amazon — A Universe of Opportunity\n\nAt Amazon, your career is not a straight path. It is a journey you build as you go.\n\nFrom your first day as an intern, you will own real work that matters. You will troubleshoot and maintain the systems that keep AWS running for millions of customers. Your mentors and teammates will champion your growth, helping you build skills you did not know existed — and you will see your work come to life at massive scale.\n\nImpact. Your work shapes the infrastructure that millions of customers rely on every day. From cloud computing to artificial intelligence, the systems you maintain power it all.\n\nAction. You will move fast, experiment, and learn by doing. Your ideas do not get stuck in approval chains — they get tested, refined, and put into practice.\n\nCuriosity. Every project teaches you something new. You will apply what you learned in the classroom to real challenges and explore different teams, technologies, and career paths within Amazon.\n\nMentorship and career growth. You will start with structured onboarding and get paired with experienced mentors. Beyond that, you will find continuous learning opportunities and the chance to work on different projects. Your journey here is yours to shape.\n\nAbout the team\n\nAWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. We are the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on.\n\nYou will join a diverse team of engineers, supply chain specialists, security experts, operations managers, and other vital roles. You will collaborate with people across AWS to deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers.\n\nBasic qualifications\n- In pursuit of a Bachelor's degree in a relevant field such as Mechanical Engineering or Electrical Engineering, or a related technical field, graduating in 2027 - before the end of the internship.\n\n- Professional English proficiency, both written and verbal\n\n- Ability to work well with others in a team environment, with strong time management skills\n\nPreferred qualifications\n- Experience in program or project management\n\n- Knowledge of mechanical systems (Heating, Ventilation, and Air Conditioning systems, controls)\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nnull"
   },
   {
    "id": "amazon:10574530",
@@ -5233,7 +5095,7 @@
    "summary": "NO CYBERSECURITY, READ DESCRIPTIONImportant — Site Location & Commuting: This role is based at a data center facility in a remote location with no public transportation access. A valid driving license",
    "url": "https://www.amazon.jobs/en/jobs/10574402/physical-security-specialist-intern-2027-internship",
    "first_seen": "2026-10-09T10:37:15Z",
-   "description": "NO CYBERSECURITY, READ DESCRIPTION\n\nImportant — Site Location & Commuting: This role is based at a data center facility in a remote location with no public transportation access. A valid driving license and access to personal transportation are required to commute to the site daily. Please consider this before applying.\n\nAmazon's data centers house the infrastructure that powers the world's largest cloud. Protecting them is mission-critical — and as a Security Specialist Intern at Amazon Web Services (AWS), you will help ensure the physical security of these facilities from the inside.\n\nYou will drive operational security excellence, write reports, create presentations, and communicate with management on the status of physical security operations. Are you ready to embrace the challenge? Come build the future with us.\n\nThis internship is designed as a potential pathway to full-time employment. Interns who demonstrate strong performance throughout their internship may be considered for a full-time Security Specialist position, subject to available roles and business needs.\n\nWho Should Apply\n\nWe welcome applications from:\n\n- Students in the last year of their Technical/Bachelor's degree in Risk Management, Security Management, Criminology, or a related field who are looking for an internship that could lead to a full-time career.\n\nIt is a requirement to be graduated by the end of the internship.\n\nAbout the Role\n\nAs a Security Specialist Intern, you will work within the Data Center Security team and play a hands-on role in the day-to-day physical security operations of Amazon's data centers. You will collaborate with security vendors, analyze operational data, and help identify improvements to surveillance systems, access controls, and security procedures.\n\nThis is not a desk-only role. You will engage directly with the people, systems, and processes that keep Amazon's most critical infrastructure safe.\n\nWhat You Will Do\n\n- Coordinate with vendors involved in new security construction, repairs, daily security operations and patrols, and planning.\n\n- Analyze security metrics and data to identify trends and recommend improvements\n\n- Make suggestions on improving electronic surveillance systems and access controls\n\n- Help develop and deliver guidance to data center occupants on reducing false alarms\n\n- Write reports and create presentations on the status of physical security operations for management\n\n- Assist with planning and coordinating security-related projects\n\n- Support incident documentation and follow-up processes\n\nInternship Structure\n\nAmazon internships are full-time (40 hours per week) for 12 consecutive weeks. This position requires the intern to report to work on site daily. Intern schedules are typically day schedules. Intern schedules are typically day schedules, Sunday through Thursday.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed below, we encourage you to apply. If your career is just starting, has not followed a traditional path, or includes alternative experiences, do not let that stop you from applying.\n\nYour Career at Amazon — A Universe of Opportunity\n\nAt Amazon, your career is not a straight path. It is a journey you build as you go.\n\nFrom your first day as an intern, you will own real work that matters. You will help protect the infrastructure that keeps AWS running for millions of customers. Your mentors and teammates will champion your growth, helping you build skills you did not know existed — and you will see your work come to life at massive scale.\n\nImpact. Your work protects the physical infrastructure that millions of customers rely on every day. The security operations you support keep Amazon's most critical facilities safe and running.\n\nAction. You will move fast, analyze real security data, and make recommendations that get implemented. Your ideas do not stay theoretical — they get tested and put into practice.\n\nCuriosity. Every project teaches you something new. You will learn how physical security operates at world-class scale and explore different teams, technologies, and career paths within Amazon.\n\nMentorship and career growth. You will start with structured onboarding and get paired with experienced mentors. Our team is dedicated to supporting new members in an environment that celebrates knowledge sharing. Projects and tasks are assigned in a way that leverages your strengths and helps you further develop your skill set. Your journey here is yours to shape.\n\nAbout the team\n\nAWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. We are the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on.\n\nYou will join a diverse team of engineers, supply chain specialists, security experts, operations managers, and other vital roles. You will collaborate with people across AWS to deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers.\n\nBasic qualifications\n- In pursuit of a Bachelor's degree or equivalent in Risk Management, Criminology, Security Management, or a related field, graduating in 2027 - before the internship´s end date\n\n- Strong communication skills, both written and verbal\n\n- Ability to work well with others in a team environment, with strong time management skills\n\nPreferred qualifications\n- Strong communication skills\n\n- Metrics oriented\n\n- Ability to act swiftly and calmly in time of crisis\n\n- Ability to handle confidential information with care\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
+   "description": "NO CYBERSECURITY, READ DESCRIPTION\n\nImportant — Site Location & Commuting: This role is based at a data center facility in a remote location with no public transportation access. A valid driving license and access to personal transportation are required to commute to the site daily. Please consider this before applying.\n\nAmazon's data centers house the infrastructure that powers the world's largest cloud. Protecting them is mission-critical — and as a Security Specialist Intern at Amazon Web Services (AWS), you will help ensure the physical security of these facilities from the inside.\n\nYou will drive operational security excellence, write reports, create presentations, and communicate with management on the status of physical security operations. Are you ready to embrace the challenge? Come build the future with us.\n\nThis internship is designed as a potential pathway to full-time employment. Interns who demonstrate strong performance throughout their internship may be considered for a full-time Security Specialist position, subject to available roles and business needs.\n\nWho Should Apply\n\nWe welcome applications from:\n\n- Students in the last year of their Technical/Bachelor's degree in Risk Management, Security Management, Criminology, or a related field who are looking for an internship that could lead to a full-time career.\n\nIt is a requirement to be graduated by the end of the internship.\n\nAbout the Role\n\nAs a Security Specialist Intern, you will work within the Data Center Security team and play a hands-on role in the day-to-day physical security operations of Amazon's data centers. You will collaborate with security vendors, analyze operational data, and help identify improvements to surveillance systems, access controls, and security procedures.\n\nThis is not a desk-only role. You will engage directly with the people, systems, and processes that keep Amazon's most critical infrastructure safe.\n\nWhat You Will Do\n\n- Coordinate with vendors involved in new security construction, repairs, daily security operations and patrols, and planning.\n\n- Analyze security metrics and data to identify trends and recommend improvements\n\n- Make suggestions on improving electronic surveillance systems and access controls\n\n- Help develop and deliver guidance to data center occupants on reducing false alarms\n\n- Write reports and create presentations on the status of physical security operations for management\n\n- Assist with planning and coordinating security-related projects\n\n- Support incident documentation and follow-up processes\n\nInternship Structure\n\nAmazon internships are full-time (40 hours per week) for 12 consecutive weeks. This position requires the intern to report to work on site daily. Intern schedules are typically day schedules. Intern schedules are typically day schedules, Sunday through Thursday.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed below, we encourage you to apply. If your career is just starting, has not followed a traditional path, or includes alternative experiences, do not let that stop you from applying.\n\nYour Career at Amazon — A Universe of Opportunity\n\nAt Amazon, your career is not a straight path. It is a journey you build as you go.\n\nFrom your first day as an intern, you will own real work that matters. You will help protect the infrastructure that keeps AWS running for millions of customers. Your mentors and teammates will champion your growth, helping you build skills you did not know existed — and you will see your work come to life at massive scale.\n\nImpact. Your work protects the physical infrastructure that millions of customers rely on every day. The security operations you support keep Amazon's most critical facilities safe and running.\n\nAction. You will move fast, analyze real security data, and make recommendations that get implemented. Your ideas do not stay theoretical — they get tested and put into practice.\n\nCuriosity. Every project teaches you something new. You will learn how physical security operates at world-class scale and explore different teams, technologies, and career paths within Amazon.\n\nMentorship and career growth. You will start with structured onboarding and get paired with experienced mentors. Our team is dedicated to supporting new members in an environment that celebrates knowledge sharing. Projects and tasks are assigned in a way that leverages your strengths and helps you further develop your skill set. Your journey here is yours to shape.\n\nAbout the team\n\nAWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. We are the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on.\n\nYou will join a diverse team of engineers, supply chain specialists, security experts, operations managers, and other vital roles. You will collaborate with people across AWS to deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers.\n\nBasic qualifications\n- In pursuit of a Bachelor's degree or equivalent in Risk Management, Criminology, Security Management, or a related field, graduating in 2027 - before the internship´s end date\n\n- Strong communication skills, both written and verbal\n\n- Ability to work well with others in a team environment, with strong time management skills\n\nPreferred qualifications\n- Strong communication skills\n\n- Metrics oriented\n\n- Ability to act swiftly and calmly in time of crisis\n\n- Ability to handle confidential information with care\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nnull"
   },
   {
    "id": "nvidia:JR2026423",
