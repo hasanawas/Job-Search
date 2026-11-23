@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T20:33:13Z",
+ "updated_at": "2026-11-23T10:09:44Z",
  "fields": [
   "Cybersecurity",
   "Data & AI",
@@ -21,9 +21,9 @@
    "id": "eand",
    "company": "e& (Etisalat)",
    "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 9,
    "listed": 25,
    "in_location": 25,
@@ -34,25 +34,25 @@
    "id": "fortinet",
    "company": "Fortinet",
    "careers_page": "https://www.fortinet.com/corporate/careers",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
-   "it_jobs": 15,
-   "listed": 1087,
-   "in_location": 25,
-   "it": 15,
-   "new": 0
+   "last_ok_at": "2026-11-23T10:09:44Z",
+   "it_jobs": 16,
+   "listed": 1092,
+   "in_location": 26,
+   "it": 16,
+   "new": 1
   },
   {
    "id": "g42",
    "company": "G42",
    "careers_page": "https://careers.g42.ai/global/en/home",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 33,
-   "listed": 48,
-   "in_location": 35,
+   "listed": 47,
+   "in_location": 34,
    "it": 33,
    "new": 0
   },
@@ -60,51 +60,51 @@
    "id": "ifs",
    "company": "IFS",
    "careers_page": "https://www.ifs.com/en/about/careers",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
-   "it_jobs": 26,
-   "listed": 254,
-   "in_location": 37,
-   "it": 26,
-   "new": 0
+   "last_ok_at": "2026-11-23T10:09:44Z",
+   "it_jobs": 24,
+   "listed": 251,
+   "in_location": 35,
+   "it": 24,
+   "new": 1
   },
   {
    "id": "accenture",
    "company": "Accenture",
    "careers_page": "https://www.accenture.com/ae-en/careers",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
-   "it_jobs": 29,
-   "listed": 33,
-   "in_location": 33,
-   "it": 29,
+   "last_ok_at": "2026-11-23T10:09:44Z",
+   "it_jobs": 27,
+   "listed": 30,
+   "in_location": 30,
+   "it": 27,
    "new": 0
   },
   {
    "id": "syscolabs",
    "company": "Sysco LABS",
    "careers_page": "https://syscolabs.lk/careers",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
-   "it_jobs": 41,
-   "listed": 47,
-   "in_location": 47,
-   "it": 41,
+   "last_ok_at": "2026-11-23T10:09:44Z",
+   "it_jobs": 39,
+   "listed": 45,
+   "in_location": 45,
+   "it": 39,
    "new": 0
   },
   {
    "id": "presight",
    "company": "Presight",
    "careers_page": "https://careers.presight.ai/",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 1,
-   "listed": 2,
-   "in_location": 2,
+   "listed": 3,
+   "in_location": 3,
    "it": 1,
    "new": 0
   },
@@ -112,9 +112,9 @@
    "id": "khazna",
    "company": "Khazna Data Centers",
    "careers_page": "https://khaznadatacenters.com/careers/",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 0,
    "listed": 7,
    "in_location": 7,
@@ -125,12 +125,12 @@
    "id": "m42",
    "company": "M42",
    "careers_page": "https://careers.m42.ae/jobs",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 2,
-   "listed": 103,
-   "in_location": 97,
+   "listed": 105,
+   "in_location": 99,
    "it": 2,
    "new": 0
   },
@@ -138,12 +138,12 @@
    "id": "astratech",
    "company": "Astra Tech",
    "careers_page": "https://careers.astratech.ae/jobs",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 5,
-   "listed": 24,
-   "in_location": 21,
+   "listed": 25,
+   "in_location": 22,
    "it": 5,
    "new": 0
   },
@@ -151,12 +151,12 @@
    "id": "amazon",
    "company": "Amazon",
    "careers_page": "https://www.amazon.jobs/content/en/locations/united-arab-emirates",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 31,
-   "listed": 142,
-   "in_location": 142,
+   "listed": 139,
+   "in_location": 139,
    "it": 31,
    "new": 0
   },
@@ -164,9 +164,9 @@
    "id": "apple",
    "company": "Apple",
    "careers_page": "https://jobs.apple.com/en-ae/search?location=united-arab-emirates-ARE",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 0,
    "listed": 55,
    "in_location": 28,
@@ -177,35 +177,35 @@
    "id": "edge",
    "company": "EDGE",
    "careers_page": "https://careers.edgegroup.ae/go/View-All-Jobs/4166222/",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
-   "it_jobs": 43,
-   "listed": 183,
-   "in_location": 183,
-   "it": 43,
-   "new": 0
+   "last_ok_at": "2026-11-23T10:09:44Z",
+   "it_jobs": 46,
+   "listed": 185,
+   "in_location": 185,
+   "it": 46,
+   "new": 3
   },
   {
    "id": "adnoc",
    "company": "ADNOC",
    "careers_page": "https://jobs.adnoc.ae/us/en/search-results",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
-   "it_jobs": 3,
-   "listed": 57,
-   "in_location": 57,
-   "it": 3,
-   "new": 1
+   "last_ok_at": "2026-11-23T10:09:44Z",
+   "it_jobs": 5,
+   "listed": 68,
+   "in_location": 68,
+   "it": 5,
+   "new": 2
   },
   {
    "id": "michaelpage",
    "company": "Michael Page (recruiter)",
    "careers_page": "https://www.michaelpage.ae/jobs/technology/united-arab-emirates",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 16,
    "listed": 26,
    "in_location": 26,
@@ -216,12 +216,12 @@
    "id": "fab",
    "company": "First Abu Dhabi Bank (FAB)",
    "careers_page": "https://www.bankfab.com/en-ae/about-fab/careers",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 7,
-   "listed": 82,
-   "in_location": 78,
+   "listed": 83,
+   "in_location": 79,
    "it": 7,
    "new": 0
   },
@@ -229,38 +229,38 @@
    "id": "altayer",
    "company": "Al Tayer Group",
    "careers_page": "https://www.altayer.com/careers",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
-   "it_jobs": 1,
-   "listed": 97,
-   "in_location": 97,
-   "it": 1,
-   "new": 0
+   "last_ok_at": "2026-11-23T10:09:44Z",
+   "it_jobs": 2,
+   "listed": 100,
+   "in_location": 100,
+   "it": 2,
+   "new": 1
   },
   {
    "id": "maf",
    "company": "Majid Al Futtaim",
    "careers_page": "https://careers.majidalfuttaim.com/global/en/home",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
-   "it_jobs": 17,
-   "listed": 256,
-   "in_location": 166,
-   "it": 17,
+   "last_ok_at": "2026-11-23T10:09:44Z",
+   "it_jobs": 18,
+   "listed": 259,
+   "in_location": 167,
+   "it": 18,
    "new": 2
   },
   {
    "id": "nyuad",
    "company": "NYU Abu Dhabi",
    "careers_page": "https://nyuad.nyu.edu/en/about/careers.html",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 2,
-   "listed": 22,
-   "in_location": 22,
+   "listed": 21,
+   "in_location": 21,
    "it": 2,
    "new": 0
   },
@@ -268,22 +268,22 @@
    "id": "salt",
    "company": "SALT (recruiter)",
    "careers_page": "https://welovesalt.com/job-category/united-arab-emirates",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
-   "it_jobs": 13,
-   "listed": 13,
-   "in_location": 13,
-   "it": 13,
-   "new": 0
+   "last_ok_at": "2026-11-23T10:09:44Z",
+   "it_jobs": 16,
+   "listed": 16,
+   "in_location": 16,
+   "it": 16,
+   "new": 3
   },
   {
    "id": "charterhouse",
    "company": "Charterhouse (recruiter)",
    "careers_page": "https://www.charterhouseme.ae/jobs/information-technology",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 1,
    "listed": 1,
    "in_location": 1,
@@ -294,9 +294,9 @@
    "id": "nvidia",
    "company": "NVIDIA",
    "careers_page": "https://jobs.nvidia.com/careers",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 2,
    "listed": 2,
    "in_location": 2,
@@ -307,17 +307,314 @@
    "id": "enec",
    "company": "ENEC",
    "careers_page": "https://careers.enec.ae/search/",
-   "checked_at": "2026-11-22T20:33:13Z",
+   "checked_at": "2026-11-23T10:09:44Z",
    "ok": true,
-   "last_ok_at": "2026-11-22T20:33:13Z",
+   "last_ok_at": "2026-11-23T10:09:44Z",
    "it_jobs": 6,
-   "listed": 55,
-   "in_location": 55,
+   "listed": 58,
+   "in_location": 58,
    "it": 6,
    "new": 0
   }
  ],
  "jobs": [
+  {
+   "id": "fortinet:24040",
+   "source": "fortinet",
+   "company": "Fortinet",
+   "via": "",
+   "title": "Systems Engineer - Oman",
+   "field": "Systems & Infrastructure",
+   "country_code": "OM",
+   "country": "Oman",
+   "countries": [
+    "Oman"
+   ],
+   "locations": [
+    "Oman"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-23",
+   "summary": "Systems Engineer      \n\nLocation – Muscat, Oman                         \n\nWe are looking for a Systems Engineer to work closely with a sales representative in Oman. The Systems Engineer's main mission will be to support the sales organization in all technical matters regarding pre-sales, sales calls, and post-sales.",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24040",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "Systems Engineer\n\nLocation – Muscat, Oman\n\nWe are looking for a Systems Engineer to work closely with a sales representative in Oman. The Systems Engineer's main mission will be to support the sales organization in all technical matters regarding pre-sales, sales calls, and post-sales.\n\nWith us you will\n\n• Lead all technical aspects of a sales cycle with the Enterprise customers, from the initial RFIs, through to RFPs & RFQs when required. This includes the project management and active participation in POCs in partnership with the relevant teams both internally and within the customer and/or commercial partner.\n\n• Have the ability to listen and to understand the technical requirements of the customer, reading between the lines to build a solution which outperforms the competitor offering.\n\n• Be the primary technical point of contact for the customer(s) and partners in close collaboration with your sales partner.\n\n• Continuously strive to improve knowledge around the Fortinet products and solutions, along with maintaining a deep understanding of the competitive landscape and Fortinet’s ability to provide long lasting protection against the ever-evolving threats.\n\n• Have a strong ability to position Fortinet solutions to the customer, whether this be remotely or in person. This requires strong communication skills and the ability to confidently present through whiteboarding, technical white papers, technical plans or customer discussions.\n\n• Manage your time effectively when working on multiple deals simultaneously, ensuring a positive customer experience is maintained.\n\n• Maintain accurate activity, contact, and account technical information of all customers and prospects in our CRM (Salesforce).\n\nApply if you\n\n• Have a high aptitude for security technology, specifically encryption, authentication, with further knowledge of network security, intrusion detection, anti-virus, routing, switching, LAN and WAN being desirable. The CISSP accreditation would also be beneficial.\n\n• Are currently or have previously worked in a pre-sales engineer role, managing end to end technical aspects of deals, through to technical closure.\n\n• Can demonstrate your problem solving skills and how this has impacted key wins within your current organisation.\n\n• Understand and can demonstrate your ability to build and maintain customer relationships, including your ability to effectively communicate technically to a range of both external and internal stakeholders.\n\n• Have a strong understanding of RADIUS, PKI, IKE, Certificates, L2TP, IPSEC, FIREWALL, 802.1Q, MD5, SSH, SSL, SHA1, DES, 3DES\n\nWhat you can expect from us\n\n• Excellent training and development opportunities, providing you with all the tools you need to be successful.\n\n• An open working environment, sharing knowledge and information collaboratively and transparently, with respect to everyone’s thoughts and opinions.\n\n• The opportunity to be part of an innovative, collaborative and winning team.\n\n• A competitive salary and incentive compensation package, including stock awards, health and welfare benefits.\n\nFrom the start, the Fortinet vision has been to deliver broad, truly integrated, high-performance security across the IT infrastructure. Today, we secure the largest enterprises, service providers and government organizations around the world.\n\nFortinet empowers its customers with intelligent, seamless protection across the expanding attack surface and the power to take on ever-increasing performance requirements of the borderless network – today and into the future. We have proven to be a truly innovative technology driven network security company with over 619 registered Global Patents. This is over 3 times more than our closest most innovative competitor!\n\n#LI - AB1"
+  },
+  {
+   "id": "ifs:744000163153819",
+   "source": "ifs",
+   "company": "IFS",
+   "via": "",
+   "title": "Senior / Lead IFS Projects Consultant (IGT1)",
+   "field": "ERP & Business Apps",
+   "country_code": "LK",
+   "country": "Sri Lanka",
+   "countries": [
+    "Sri Lanka"
+   ],
+   "locations": [
+    "Port City, Western Province, Sri Lanka"
+   ],
+   "workplace_type": "Hybrid",
+   "category": "Consulting",
+   "posted_date": "2026-11-23",
+   "summary": "",
+   "url": "https://jobs.smartrecruiters.com/IFS1/744000163153819-senior-lead-ifs-projects-consultant-igt1-",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "Job Description\nAbout the Client: Centric\n\nCentric Global is a growing technology company with offices in Kenya, Dubai, and Sri Lanka, specializing in ICT, enterprise applications, and digital transformation solutions.\n\nAs an IFS partner, Centric Global delivers IFS ERP solutions and supports organizations across various industries with implementation, consulting, optimization, and technology services. The company also partners with global technology providers including Microsoft, AWS, SUSE, Kaspersky, and Red Hat.\n\nWith a focus on innovation, regional growth, and customer success, Centric Global brings together talented technology professionals to deliver scalable solutions and create meaningful impact for clients across the region.\n\nJoin Centric Global and be part of a growing team delivering technology solutions that help businesses operate smarter and grow sustainably.\n\nAbout the role:\n\nWe are hiring a Senior / Lead IFS Projects Consultant to lead the implementation and support of project management and project accounting processes in IFS Cloud.\n\nYou will own the Projects workstream end-to-end from solution design and configuration to Go-Live, hypercare, and continuous improvement.\n\nKey Responsibilities:\n\n• Lead Projects Fit-to-Standard workshops and solution design\n• Configure modules:\n\no Project Planning & Structure (WBS)\n\no Project Budgeting & Forecasting\n\no Resource Planning\n\no Project Costing & Revenue Recognition\n\no Time & Expense Management\n\n• Align project accounting with Finance (GL, costing, revenue)\n• Support project data migration and validation\n• Drive Project-to-Cash lifecycle optimization\n• Support integrations (Finance, Procurement, HR/Resource Management)\n• Lead SIT, UAT, and Go-Live activities\n• Provide L2/L3 support and continuous improvement post Go-Live\n• Engage stakeholders across PMO, Finance, and Operations\n\nQualifications\nRequired Skills & Experience:\n\n• Bachelor’s degree in a related field\n• 7+ years ERP Projects / Project Accounting consulting experience\n• Proven delivery in IFS Applications or IFS Cloud\n• Strong understanding of:\n\no Project lifecycle (initiation → execution → closure)\n\no Project costing, billing, and revenue recognition\n\n• Experience in data migration, UAT, and Go-Live support\n• Strong stakeholder management and workshop facilitation skills\n• Relevant IFS certifications preferred\n• The role involves travel to customer sites to support client engagements, project delivery, stakeholder meetings, and other business requirements. Candidates must be willing and able to travel internationally as required by the role.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
+  },
+  {
+   "id": "edge:733667122",
+   "source": "edge",
+   "company": "EDGE · FADA",
+   "via": "",
+   "title": "Senior Devops Engineer",
+   "field": "DevOps & Cloud",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [],
+   "workplace_type": "",
+   "category": "FADA",
+   "posted_date": "2026-11-23",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/ARE-Senior-Devops-Engineer/733667122/",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nFADA is seeking a highly skilled, forward-thinking DevOps Engineer (Cloud, AI Infrastructure, Telemetry & Geospatial Systems) to architect, automate, and optimize mission-critical infrastructure powering advanced geospatial intelligence (GEOINT), Intelligence, Surveillance, and Reconnaissance (ISR), and Earth Observation (EO) platforms.\n\nThis role plays a pivotal part in delivering secure, scalable, and resilient multi-cloud and hybrid environments across Azure and AWS for high-throughput imagery ingestion, raster/SAR/optical processing, AI/ML pipelines, and mission analytics. In alignment with industry standards, the role integrates AI-assisted operations and autonomous DevOps/SRE agents, InfluxDB time-series telemetry, and end-to-end observability to accelerate mission capability delivery while maintaining strict security, reliability, and governance.\n\nRESPONSIBILITIES\n\r\n\n• Multi-Cloud & Hybrid Architecture (Azure & AWS): Architect, deploy, and govern cloud-native and hybrid infrastructure across Azure and AWS for mission-critical GEOINT and imagery workflows—covering compute, object/block storage, networking, IAM/Entra ID, landing zones, and secure on-premise or air-gapped connectivity.\n\n• AI Infrastructure & DevOps/SRE Agents: Deploy, govern, and integrate AI tooling and autonomous/semi-autonomous DevOps and SRE agents (such as incident investigation, IaC/PR review, drift/compliance checking, and deployment risk workflows) with strict human-in-the-loop approvals, least-privilege guardrails, and full auditability.\n\n• Infrastructure as Code (IaC) & DevOps: Implement and maintain modular IaC (Terraform, Bicep, Ansible) and GitOps workflows (ArgoCD or Flux) to automate provisioning of geospatial data pipelines, GPU compute clusters, AI inference/training environments, and distributed mission services.\n\n• Time-Series & Telemetry Engineering (InfluxDB & OTel): Design, scale, and maintain high-throughput telemetry and time-series pipelines using InfluxDB (and collectors such as Telegraf and OpenTelemetry) to capture infrastructure metrics, pipeline throughput, sensor/ground/platform telemetry, and real-time operational events.\n\n• End-to-End Observability & AIOps: Build and optimize observability stacks (OpenTelemetry, Prometheus, Grafana, InfluxDB, ELK/Loki, Azure Monitor, AWS CloudWatch) combining metrics, logs, traces, and anomaly detection to ensure proactive reliability across GEOINT workloads and mission platforms.\n\n• CI/CD & Python Automation: Architect resilient CI/CD pipelines (Azure DevOps, GitHub Actions, GitLab CI) and build Python-based automation tools, CLI utilities, and API integrations for data ingestion, STAC/metadata workflows, telemetry automation, and automated verification.\n\n• Container & GPU Orchestration: Deploy and manage containerized workloads on Docker and Kubernetes (AKS and EKS), including GPU-accelerated node pools for computer vision/AI models, raster processing, and geospatial web services.\n\n• Performance & Scalability for EO/SAR Workloads: Tune storage, networking, caching, and distributed compute to handle bursty EO/SAR ingestion, large raster/COG datasets, and real-time analytics under strict SLAs.\n\n• Zero Trust Security & Mission Governance: Enforce Zero Trust architecture, network segmentation (VNet/VPC, firewalls, VPN/ExpressRoute/Direct Connect, service mesh), encryption at rest and in transit, secrets management, and compliance controls suited to sensitive defense and space/geospatial environments.\n\n• Incident Response, FinOps & Documentation: Lead root-cause analysis and incident response across dev, test, and operational environments; drive cloud/GPU FinOps optimization; and maintain architecture decision records (ADRs), playbooks, and operational runbooks.\n\n• Cross-Functional Collaboration: Partner closely with GEOINT engineers, AI/ML scientists, data engineers, and security teams to align infrastructure performance, telemetry, and automation with mission needs.\n\nBASIC QUALIFICATIONS\n\r\n\n• Education: Bachelor’s or Master’s degree in Computer Science, Cloud/Systems Engineering, GIS/Geospatial Technology, or a related technical field.\n\n• Experience: 8–10+ years of hands-on experience in DevOps, Platform Engineering, SRE, or Cloud Infrastructure roles.\n\n• Cloud Expertise (Azure & AWS): Deep practical experience with both Azure and AWS, including multi-account/multi-subscription landing zones, IAM/RBAC, networking, storage, and managed Kubernetes (AKS and EKS).\n\n• AI & DevOps Agents: Practical experience integrating AI/LLM-powered developer and operations agents, agentic tool/MCP workflows, or AIOps into CI/CD, IaC validation, or incident triage—including security, sandboxing, and governance controls.\n\n• Telemetry & InfluxDB: Hands-on experience with InfluxDB (time-series schema design, retention/downsampling policies, ingestion pipelines) alongside OpenTelemetry and industry-standard metrics, logs, and tracing stacks.\n\n• IaC & Automation: Strong proficiency in Python for operational tooling and APIs, paired with proven experience in Terraform (preferred), Bicep, or Ansible and Git-based workflows.\n\n• Containers & Orchestration: Solid mastery of Kubernetes architecture, workload autoscaling, ingress/egress, and GPU scheduling.\n\n• Geospatial Foundations: Hands-on experience supporting geospatial or imagery workflows (e.g., PostGIS, GeoTIFF/COG, WMTS/vector tiles, STAC catalogs, or raster processing pipelines).\n\n• Networking & Security: Strong command of DNS, routing, VPNs, load balancers, firewalls, Zero Trust principles, and enterprise security/compliance frameworks.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Experience building InfluxDB pipelines for high-frequency telemetry, hardware/satellite/ground-station metrics, or real-time operational analytics.\n\n• Experience deploying and governing AI agents (e.g., automated PR/IaC reviewers, SRE investigation agents, policy/compliance agents) with deterministic guardrails and audit trails.\n\n• Hands-on experience with Azure ML / AWS SageMaker, GPU clusters, and air-gapped, sovereign, or hybrid/on-premise deployments.\n\n• Experience integrating DevOps pipelines with EO/SAR processing engines, orthorectification/tiling/mosaicking workflows, or cloud EO platforms (e.g., SentinelHub, Google Earth Engine, OpenEO).\n\n• Experience with GitOps (ArgoCD or Flux), service mesh (e.g., Istio/Linkerd), and OpenTelemetry instrumentation across microservices and batch jobs.\n\n• Advanced Python for parallel geospatial/raster processing, metadata extraction, and automated infrastructure testing.\n\n• Background in defense, aerospace/space systems, ISR ecosystems, or high-assurance operational enclaves.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
+  },
+  {
+   "id": "edge:733667722",
+   "source": "edge",
+   "company": "EDGE · AL TAIF",
+   "via": "",
+   "title": "System Engineer I",
+   "field": "Systems & Infrastructure",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "AL TAIF",
+   "posted_date": "2026-11-23",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-System-Engineer-I-Abu/733667722/",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nThe System Engineer I is responsible for the administration, maintenance, monitoring, and technical support of the organization’s IT infrastructure, including Windows Server systems, networking, virtualization, storage solutions, and hybrid environments. The role focuses on ensuring system availability, reliability, performance, and security through regular maintenance, troubleshooting, and system upgrades. Additionally, the engineer supports backup and disaster recovery operations, infrastructure projects, and compliance with IT policies and best practices.\n\nRESPONSIBILITIES\n\r\n\n• Install, configure, maintain, and troubleshoot Microsoft Windows Server systems.\n\n• Administer Active Directory, Group Policy, DNS, DHCP, user accounts, and access permissions.\n\n• Support Microsoft Exchange Server, Microsoft 365, and related email services.\n\n• Manage and monitor virtualization environments, including VMware and Hyper-V.\n\n• Support networking services and protocols, including TCP/IP, DNS, DHCP, VPN, and VLAN.\n\n• Maintain storage systems, including SAN/NAS, file servers, and backup solutions.\n\n• Monitor system performance, perform backups, and support disaster recovery procedures.\n\n• Perform system upgrades, security patching, and software deployment using SCCM, WSUS, or equivalent tools.\n\n• Support on-premises and hybrid environments, including Microsoft Azure and Entra ID.\n\n• Assist in data center operations, including server hardware, racks, and network infrastructure.\n\n• Troubleshoot technical issues and coordinate with vendors when required.\n\n• Maintain technical documentation and ensure compliance with IT security policies and procedures.\n\n• Support other employees of the IT section in fulfilling their roles and provide technical assistance.\n\n• Ensure compliance with all safety, housekeeping, and environmental directives.\n\n• Perform other duties as directed by the Manager, IT and Digitalization.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor’s degree in Computer Science, Computer Engineering, Information Technology, or a related field.\n\n• Minimum of 3–5 years of experience in Windows Server administration, IT infrastructure, networking, virtualization, and system support.\n\n• Strong knowledge of Windows Server administration, Active Directory, and Group Policy.\n\n• Good understanding of networking protocols: TCP/IP, DNS, DHCP, VPN, and VLAN.\n\n• Experience with Microsoft Exchange Server and Microsoft 365.\n\n• Working knowledge of virtualization technologies (VMware, Hyper-V).\n\n• Familiarity with storage systems (SAN, NAS) and backup solutions.\n\n• Knowledge of SCCM, WSUS, system monitoring, and troubleshooting tools.\n\n• Basic understanding of data center operations and server hardware.\n\n• Familiarity with disaster recovery and hybrid infrastructure environments.\n\n• Basic knowledge of Microsoft Azure, Entra ID, and PowerShell.\n\n• MCSE (Microsoft Certified Systems Engineer).\n\n• Additional certifications such as VMware, Azure, or CCNA are a plus.\n\n• Strong problem-solving and analytical skills.\n\n• Ability to work effectively in a team and manage priorities.\n\n• Good communication and technical documentation skills.\n\n• Commitment to safety, housekeeping, and environmental directives.\n\nPREFERRED QUALIFICATIONS\n\r\n\nClick to add description here. To maintain a consistent format and candidate experience, text formatting is strictly prohibited. When pasting content, always use Remove Formatting before inserting the text"
+  },
+  {
+   "id": "adnoc:33955",
+   "source": "adnoc",
+   "company": "ADNOC",
+   "via": "",
+   "title": "Senior Program Manager, Digital Strategy",
+   "field": "Product & Project",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "External",
+   "category": "Other",
+   "posted_date": "2026-11-23",
+   "summary": "We are looking for a Senior Program Manager, Digital Strategy to act as the enterprise orchestrator, converting digital strategy into impactful outcomes across multiple entities. Lead the design and delivery of complex, cross-entity digital programmes, synthesising executive vision into actionable roadmaps. Ideal for experienced professionals with a strong background in digital strategy and programme management.",
+   "url": "https://jobs.adnoc.ae/us/en/job/33955",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "JOB PURPOSE:\n\nActs as ADNOC’s enterprise orchestrator and value guardian, entrusted to convert the Group’s digital strategy into measurable, high-impact outcomes across multiple entities. Mandated to architect, govern, and accelerate the delivery of complex, cross-entity digital programs, this role synthesizes executive vision into actionable program roadmaps, robust governance frameworks, and sustained value realization. As the principal execution advisor to the Manager/VP, Group Digital Strategy & Transformation, the Senior Program Manager steers investment choices, adjudicates trade-offs, and de-risks execution commanding enterprise influence through program boards, investment councils, and design authorities.\n\nInstitutionalizes program excellence by embedding standardized stage gates, OKRs, benefits ledgers, lean portfolio management, secure-by-design, and policy/control-as-code guardrails compressing time-to-value, elevating predictability, and safeguarding license-to-operate. Accountable for P&L-relevant benefits realization, schedule and cost predictability, risk posture, and adoption outcomes, the Senior Program Manager directly strengthens ADNOC’s competitiveness, resilience, and digital leadership by ensuring every digital program is traceably linked to strategic value and enterprise transformation.\n\nKEY ACCOUNTABILITIES:\n\nJob Specific:\n\nBusiness Strategy:\n\n· Translate, architect, and operationalize ADNOC’s enterprise digital strategy into robust, actionable program roadmaps defining and validating clear value hypotheses, establishing rigorous and measurable KPIs/OKRs, and mapping complex cross-entity dependencies to guarantee seamless alignment with the Group’s enterprise blueprint, regulatory imperatives, and transformation priorities.\n\n· Advise, influence, and secure pivotal decisions at program boards and steering committees on program scope, funding allocation, sequencing, and risk appetite delivering decision-grade options underpinned by quantified benefits, cost-benefit analyses, and risk profiles to empower informed, value-driven executive choices and strategic trade-offs.\n\n· Integrate, synchronize, and optimize multi-domain portfolios including Data, Cybersecurity, Cloud & Advanced Computing, Connectivity & Industrial Communications, and Applications eliminating duplication, rationalizing investments, and maximizing enterprise-wide reuse, interoperability, and synergies to accelerate value realization, drive operational excellence, and amplify ADNOC’s strategic impact.\n\n· Develop and operationalize comprehensive digital strategy and transformation roadmaps that support the Group’s long-term vision, corporate priorities, business goals, and sustainability objectives.\n\n· Analyze market dynamics, emerging technology trends, and internal digital capabilities to shape strategic direction, prioritize opportunities, and inform investment decisions.\n\n· Lead the design and implementation of enterprise-scale digital programs, integrating cross-functional portfolios and coordinating dependencies across Group entities and business functions.\n\n· Advise and influence executive stakeholders by presenting decision-grade business cases, risk assessments, investment options, and value-realization plans.\n\n· Institutionalize best practices in strategy execution, including OKR management, benefits tracking, lean portfolio management, stage-gate governance, and continuous value assurance.\n\n· Oversee performance measurement, executive reporting, benefits realization, and continuous improvement across the portfolio of digital initiatives.\n\n· Evaluate emerging technologies, including artificial intelligence, automation, cloud, advanced analytics, and the Internet of Things, and lead relevant assessments, experiments, and proof-of-concepts.\n\n· Define target operating models, priority digital capabilities, governance arrangements, and organizational changes required to enable effective strategy execution and sustainable adoption.\n\n· Mentor and guide cross-functional teams in digital strategy, value management, portfolio governance, and program delivery, strengthening enterprise capability and execution discipline.\n\n· Monitor the external technology landscape and assess its strategic relevance to ensure that digital investments remain aligned with the organization’s objectives, risk appetite, and enterprise architecture.\n\nGeneric:\n\nSupervision\n\n· Plan, supervise and coordinate all activities in the assigned area to meet functional objectives.\n\n· Train and develop the assigned staff on relevant skills to enable them to become proficient on the job and deliver the respective section objectives.\n\nBudgets\n\n· Provide input for preparation of the Function/Division/Department/Section budgets, assist in the implementation of the approved Budget, and work plans to deliver objectives.\n\n· Investigate and highlight any significant variances to support effective performance and cost control.\n\nPolicies, Systems, Processes & Procedures\n\n· Implement approved Function/Division/Department/Section policies, processes, systems, standards and procedures in order to support execution of the work programs in line with Company and International standards.\n\nPerformance Management\n\n· Contribute to the achievement of the approved Performance Objectives for the Function/Division/Department/ Section in line with the Company Performance framework.\n\nInnovation and Continuous Improvement\n\n· Design and implement new tools and techniques to improve the quality and efficiency of operational processes.\n\n· Identify improvements in internal processes against best practices in pursuit of greater efficiency in line with best industry standards in order to define intelligent solutions for issues confronting the function.\n\nHealth, Safety, Environment (HSE) and Sustainability\n\n· Comply with relevant HSE policies, procedures, controls, applicable legislation, and sustainability guidelines in line with international standards, best practices and ADNOC Code of Practices.\n\nReports\n\n· Provide inputs to prepare Function/Division/Department/Section MIS and progress reports for Company Management.\n\nCOMMUNICATION & WORKING RELATIONSHIP:\n\nInternal:\n\n•\nVP, Group Digital Strategy & Transformation; Group Digital Executive leadership.\n\n•\nEnterprise & Domain Architecture, Cybersecurity (CISO/Assurance), Data Office, Cloud & Advanced Computing, Connectivity & Industrial Comms, Applications Delivery.\n\n•\nPMO/Portfolio Office, Finance, Procurement, Legal & Compliance, HSE/Operations, Risk & Internal Audit.\n\n•\nGroup Company CIOs/Business Directors and product/platform owners\n\nExternal:\n\n•\nStrategic advisors/consultancies; hyperscalers and OEMs; systems integrators and delivery partners.\n\n•\nExternal auditors/assessors; standards bodies and regulator interfaces (as required).\n\nQUALIFICATIONS, EXPERIENCE, KNOWLEDGE & SKILLS:\n\nMinimum Qualification\n\n•\nBachelor’s degree in Business, Engineering, Computer Science, Information Systems, or a related field.\n\n•\nMaster’s degree or MBA preferred.\n\nMinimum Experience & Knowledge & Skills\n\n•\nMinimum 15 years of total professional experience, including at least 8 years focused on digital strategy, transformation, or program management within large, complex organizations.\n\n•\nProven track record in designing and delivering enterprise-scale digital initiatives with measurable business outcomes; strong expertise in digital governance, OKRs, portfolio management, business-case development, benefits realization, and stakeholder engagement.\n\n•\nStrong analytical, executive communication, and decision-framing skills, supported by knowledge of emerging digital technologies, enterprise architecture, cyber and privacy guardrails, and enterprise-level IT/OT technology landscapes. Experience in the energy, oil and gas, or another asset-intensive industry is preferred.\n\nProfessional Certifications\n\n•\nRelevant certifications such as PgMP, MoP, PMP, PRINCE2, SAFe LPM/RTE, ITIL 4, Prosci Change Management, or TOGAF are advantageous."
+  },
+  {
+   "id": "altayer:4681",
+   "source": "altayer",
+   "company": "Al Tayer Group",
+   "via": "",
+   "title": "QA Engineer",
+   "field": "QA & Testing",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai, United Arab Emirates"
+   ],
+   "workplace_type": "On-site",
+   "category": "",
+   "posted_date": "2026-11-23",
+   "summary": "",
+   "url": "https://hchx.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4681",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "•\nQA Engineer is responsible for overseeing the testing of software features as part of a collaborative team (Inhouse and Outsource team)\n\n•\nThis role is responsible for Quality review of an Omnichannel E-Commerce Website and Mobile Application; includes creating test plans and strategy, test cases in partnership with developers, business analysts and project managers which are used to shape and verify code and check conformance to system requirements\n\n•\nThe role relies upon Test automation and Manual testing tools wherein the person is to assist in defining QA coding standards and frameworks, for identifying emerging technologies and evaluating their applicability to business goals\n\nResponsibilities\nFunctional Roles and Responsibilities\n\n•\nResponsible to develop Innovative testing strategies and streamlined processes with development activities to reduce testing redundancy\n\n•\nDesign and Plan Test cases for new projects based on business requirements\n\n•\nBreak a requirement to a set of Positive and Negative scenarios\n\n•\nApply the test cases and integration test in an automated manner\n\n•\nDesigning, Programming & Executing Automated test suites for an E-commerce Website - All Major FrontEnd Functionalities across different browsers\n\n•\nSuccessfully handles a diverse range of projects from conception through implementation\n\n•\nCollaborate and establish periodic requirement reviews by stakeholders to ensure requirements were well defined that lead to delivery of flawless applications in production\n\n•\nProvides suitable solutions for issues/errors based on the understanding of the system and client business processes\n\nQualifications\nEducation/Certification and Continued Education\n\n• Bachelor's degree in computer science/ software engineering\n\nYears of Experience\n\n• 3 + years of Software QA Automation experience on both web and mobile platforms – API automation, app automation, Web automation\n\nKnowledge and Skills\n\n•\nIn-depth understanding of Java, Python, SQL and XML\n\n•\nHands on experience on architecting and implementing automation frameworks from scratch with the latest technology incorporating BDD such Cucumber, PhantomJS, Katalon (Selenium), Test NG, Junit, REST assured, etc.\n\n•\nKnowledge of Continuous Integration principles and best-practices- Jenkins, GitHub. etc.\n\n•\nWorking experience with Ecommerce platforms, Order Management System, Search and third-party Ecommerce applications\n\n•\nExposure and understanding to modern web standards and technology\n\n•\nAbility to work with multiple cross-functional teams, including business and technical stakeholder\n\n•\nComfort and experience working in an Agile SCRUM and test-driven environment\n\n•\nConsults on estimations, impact assessment and risk assessment of development changes\n\n•\nExposure to bug tracking and task management software such as JIRA and QMETRY, etc.\n\n•\nKnowledge on JMeter scripting for Performance/Load testing will be an advantage.\n\n•\nManaged the end to end development and launch of a full scale project from inception to delivery, demonstrating end to end ownership and delivery capabilities.\n\n•\nPossess strong understanding of eCommerce operations, including digital commerce platforms, sales funnel optimization, and online customer experience.\n\n•\nAdditional expertise in Salesforce CRM and omnichannel strategies is available to deliver integrated solutions across sales, marketing, and customer service channels."
+  },
+  {
+   "id": "salt:716117",
+   "source": "salt",
+   "company": "SALT (recruiter)",
+   "via": "",
+   "title": "Chief Technology Officer",
+   "field": "Other IT",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "United Arab Emirates, Dubai"
+   ],
+   "workplace_type": "",
+   "category": "Tech Leadership",
+   "posted_date": "2026-11-23",
+   "summary": "",
+   "url": "https://welovesalt.com/jobs/chief-technology-officer-716117",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "The opportunity We are partnering with an ambitious, privately backed and highly profitable financial technology business building a next-generation corporate banking and financial infrastructure platform. The business is transforming how companies move and manage money internationally, leveraging stablecoin-based payment rails alongside traditional banking infrastructure to deliver faster, more efficient and cost-effective cross-border financial services. Its customers operate across multiple international markets and require sophisticated financial capabilities spanning multi-currency accounts, international payments, FX, settlement and treasury. The longer-term ambition is to develop a fully integrated corporate and wholesale banking proposition, bringing together the ability to move, hold, grow and borrow money through one platform. With the business entering an ambitious international growth phase, we are looking for a Chief Technology Officer to take ownership of its entire technology function and lead the next stage of its development. About the business The company is a regulated, institutional financial infrastructure business headquartered in the GCC. It provides cross-border settlement, stablecoin-to-fiat conversion, multi-currency accounts and treasury services to corporates, banks, payment companies, exchange houses, commodity traders and other financial institutions. It is a B2B business with no retail customers. At a glance: Scale: Billions of US dollars in annual transaction volume, with volumes growing roughly 4x year on year. Clients: Hundreds of institutional and corporate counterparties across the GCC and international markets. Regulation: Licensed in two GCC jurisdictions, with settlement through local banking partners. Partnerships: Integrated with a leading global digital-asset infrastructure network, a major Gulf payments super-app and a regional bank. Backing: Privately owned and highly profitable, backed by a long-established Gulf business group. Engineering: A lean team of around 15 engineers across India, the UK and Turkey, organised in product squads with a small shared platform and DevOps function. Reporting line: Chief Executive Officer, working alongside the Head of Product and the wider leadership team. The role This is a significant technology leadership appointment with responsibility for the architecture, infrastructure, engineering organisation and long-term technology strategy. The business has already established a number of core products and technology capabilities. The next challenge is to bring these together into a scalable, institutional-grade platform capable of supporting substantially greater volumes, additional financial products and multiple regulated jurisdictions. You will operate at both strategic and technical levels, working closely with the CEO, Head of Product and wider leadership team. You will have the opportunity to shape the technology organisation, make critical architectural decisions and build the infrastructure that underpins the company's future growth. Key responsibilities Technology strategy and architecture Own the overall technology vision, architecture and engineering strategy. Consolidate existing financial products and services into a cohesive, scalable platform. Lead the evolution of core banking infrastructure, ledger architecture and transaction processing. Build a modular, API-first platform capable of supporting multiple entities and jurisdictions. Establish the technical foundations for future financial products and services. Financial infrastructure, blockchain and payments Lead the development of financial infrastructure connecting traditional banking systems with blockchain and stablecoin payment rails. Oversee wallet infrastructure, financial ledgers, settlement and reconciliation capabilities. Develop scalable payment orchestration across banking networks, payment providers and blockchain infrastructure. Support multi-currency accounts, FX, international money movement and financial transaction processing. Ensure the platform can operate reliably across multiple regulated financial entities. Infrastructure and scalability Build and scale the underlying cloud infrastructure, DevOps and platform engineering capabilities. Establish the architecture and infrastructure required to support 10-100x growth. Improve platform reliability, security, performance and resilience. Develop automated deployment, monitoring and engineering processes. Ensure infrastructure can be replicated across new markets without significant redevelopment. Engineering leadership Lead and develop the existing international engineering organisation. Establish clear technical ownership and accountability across engineering teams. Build a high-performing platform and infrastructure function. Recruit and develop exceptional engineering talent. Introduce measurable engineering KPIs, OKRs and performance standards. Maintain a lean, autonomous and execution-focused engineering culture. AI and engineering innovation Establish an AI-first approach to engineering and software development. Leverage AI-assisted development, automated testing and agentic workflows. Improve development productivity and release velocity. Build an engineering organisation that can deliver rapidly without compromising security, reliability or regulatory requirements. What we're looking for We are interested in exceptional technical leaders who have built and scaled complex technology platforms within fintech, banking, payments or digital asset infrastructure. You may currently be a CTO, VP Engineering, Head of Engineering or an exceptional engineering leader ready to step into a CTO position. You will ideally bring: Significant experience building and scaling financial technology platforms. Deep understanding of software architecture, distributed systems and modern engineering practices. Strong experience with financial infrastructure, core banking, payments or transaction processing. Practical experience with ledger systems, blockchain, stablecoins or digital asset infrastructure. Experience scaling cloud infrastructure, DevOps and engineering organisations. Understanding of highly regulated financial services environments. Experience building and leading high-performing, distributed engineering teams. An entrepreneurial, commercially minded and highly autonomous approach. Experience across both traditional financial infrastructure and blockchain-based systems would be particularly valuable. We are looking for someone who understands how to build the underlying technology that enables money to move, be held, converted and settled across different currencies, financial networks and jurisdictions. Leadership profile You are a technically exceptional individual who enjoys building, solving complex problems and delivering tangible outcomes. You are comfortable operating at architectural depth while also setting the broader technology vision. You understand how to build high-performance engineering teams, create accountability and give talented people the autonomy to execute. You are commercially minded, KPI-driven and comfortable operating in a lean, ambitious environment where speed, ownership and execution matter. Most importantly, you want to build something significant rather than simply maintain an established technology organisation. Why consider this opportunity? Real CTO ownership: Lead the entire technology function and shape the company's technology direction. Complex technical challenge: Build and scale financial infrastructure combining traditional banking, blockchain and stablecoin payment rails. International ambition: Support the development of a multi-jurisdictional financial platform. Strong financial backing: Join a profitable, privately backed business with committed shareholders and the ambition to grow aggressively. Entrepreneurial environment: Work with a lean, capable team and significant autonomy. AI-first ambition: Help establish a new standard for how financial technology platforms are built and scaled. This is an opportunity to build the technology foundations of a new generation of global financial services. Salt is acting as an Employment Agency in relation to this vacancy."
+  },
+  {
+   "id": "salt:716111",
+   "source": "salt",
+   "company": "SALT (recruiter)",
+   "via": "",
+   "title": "Junior Data Analyst / PMO Support",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "United Arab Emirates, Dubai"
+   ],
+   "workplace_type": "",
+   "category": "Data, AI and Machine Learning",
+   "posted_date": "2026-11-23",
+   "summary": "",
+   "url": "https://welovesalt.com/jobs/junior-data-analyst-pmo-support-716111",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "Immediate Start | Junior-Level Opportunity 12-month initial contract - with extensions Are you highly organised, proactive and great at keeping things running smoothly? We're looking for a Junior Data Analyst / PMO Support professional to join a fast-paced team and play a key role in supporting daily operations, onboarding and project coordination. This is a fantastic opportunity for someone with 2-3 years of experience looking to develop their career within a dynamic technology and project delivery environment. What You'll Be Doing: Coordinate day-to-day administrative and operational activities across the team. Work closely with HR, Contracts and internal stakeholders to ensure smooth candidate onboarding. Manage onboarding requests, system access and operational readiness. Liaise with squad leads to coordinate workspace, desk and system-access requirements. Maintain and improve internal processes, workflows and onboarding procedures. Create and update SOPs, process documentation and operational trackers. Support basic data analysis, reporting and team performance tracking as required. What We're Looking For: ✅ 2-3 years' experience in a PMO, analyst, project coordination or operational support role. ✅ Excellent organisational skills and attention to detail. ✅ Strong communication and stakeholder management abilities. ✅ Experience coordinating onboarding, administrative processes or internal operations. ✅ Ability to manage multiple priorities and follow up proactively. ✅ Comfortable working with spreadsheets, trackers and documentation. ✅ A proactive, hands-on attitude with a willingness to learn and grow. Salt is acting as an Employment Business in relation to this vacancy."
+  },
+  {
+   "id": "salt:716110",
+   "source": "salt",
+   "company": "SALT (recruiter)",
+   "via": "",
+   "title": "SAP Smart Recruiters Functional Consultant",
+   "field": "ERP & Business Apps",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "United Arab Emirates, Dubai"
+   ],
+   "workplace_type": "Remote",
+   "category": "IT Support and Operations",
+   "posted_date": "2026-11-23",
+   "summary": "",
+   "url": "https://welovesalt.com/jobs/sap-smart-recruiters-functional-consultant-716110",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "Location: 100% Remote - Open to All Nationalities Contract: Initial 6-Month Implementation + 4-6 Months Hypercare Opportunity: Potential Long-Term Extension Are you an SAP SmartRecruiters expert looking for your next exciting project? We're looking for an experienced, hands-on SAP SmartRecruiters Functional Consultant to join a major recruitment technology transformation programme. This is a fantastic opportunity to play a key role in the implementation, configuration and optimisation of SAP SmartRecruiters, with the potential to remain involved beyond go-live as a long-term functional SME. What You'll Be Doing: Lead and support the end-to-end functional implementation of SAP SmartRecruiters. Configure recruitment workflows, business rules, roles, permissions and system functionality. Translate business requirements into effective system configurations aligned with HCM best practices. Work closely with Business Analysts, QA teams and technical stakeholders throughout implementation. Support functional testing, UAT, defect resolution and go-live readiness. Provide functional expertise during the 4-6-month post-go-live hypercare period. Support ongoing enhancements, maintenance and functional troubleshooting if the engagement is extended. What We're Looking For: Strong hands-on SAP SmartRecruiters implementation experience - essential. Proven expertise configuring SmartRecruiters workflows, business rules and recruitment processes. Solid understanding of end-to-end recruitment and HCM processes. Experience across the full implementation lifecycle, including configuration, testing, deployment and hypercare. Excellent stakeholder management, communication and problem-solving skills. Ability to work independently and collaborate effectively within a fully remote project team. Bonus Points If You Have.. Experience delivering an SAP SuccessFactors to SmartRecruiters migration or transition. Worked across both SAP SuccessFactors Recruiting and SmartRecruiters platforms. Supported recruitment technology transformation projects from implementation through to BAU. Experience providing long-term functional support, enhancements and continuous improvement after go-live. Why Consider This Opportunity? Fully remote - Work from anywhere. Substantial project duration - Approximately 10-12 months across implementation and hypercare. Long-term potential - Opportunity to extend into ongoing maintenance and functional support. High-impact transformation - Help shape and deliver a modern enterprise recruitment platform. Salt is acting as an Employment Business in relation to this vacancy."
+  },
+  {
+   "id": "maf:23216",
+   "source": "maf",
+   "company": "Majid Al Futtaim",
+   "via": "",
+   "title": "Category Manager - Technology | Emirati Talent",
+   "field": "Other IT",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai"
+   ],
+   "workplace_type": "Regular",
+   "category": "Business Operations, Procurement & Logistics",
+   "posted_date": "2026-11-16",
+   "summary": "Join our team as a Category Manager – Technology, where you will lead complex technology sourcing events and manage strategic supplier relationships. Drive commercial outcomes and category performance for Dubai-led activities, collaborating with stakeholders across software, SaaS, cloud, and IT services. Ideal for experienced procurement professionals with a strong background in IT technology sourcing.",
+   "url": "https://careers.majidalfuttaim.com/global/en/job/23216",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "ROLE SUMMARY\nThe Category Manager – Technology acts as the Dubai-based procurement partner for the assigned technology scope, translating category strategy into sourcing plans and leading complex, high-value technology sourcing events and strategic supplier relationships. The role drives commercial outcomes, savings and category performance for Dubai-led activities while guiding and overseeing Egypt-led sourcing events, ensuring alignment with Group Procurement standards.\n\nROLE PROFILE\n\n• Partner with Technology, Digital and BU stakeholders to develop and implement category strategies across software, SaaS, cloud, infrastructure, cybersecurity, telecom and IT services.\n• Consolidate technology requirements into an annual sourcing plan, anticipate renewals and drive supplier, licence and contract consolidation through preferred suppliers and framework agreements.\n• Lead complex, high-value and strategic Dubai-led technology sourcing events, including RFPs, supplier evaluations, commercial negotiations and award recommendations.\n• Negotiate technology licensing, subscription and service agreements, ensuring competitive pricing, favourable commercial terms, robust SLAs and appropriate legal, security and data protection provisions.\n• Define sourcing delivery routes, provide category guidance and commercial targets for Egypt-led events, and review and endorse strategic technology sourcing recommendations in line with DoA.\n• Manage strategic technology suppliers, conduct QBRs, monitor supplier performance, drive corrective actions and identify opportunities for innovation, supplier resilience and risk mitigation.\n• Deliver Finance-validated savings on Dubai-led activities, monitor category performance, maintain accurate sourcing and contract data in Coupa, and ensure compliance with procurement policies and governance requirements.\n• Monitor technology market trends, vendor developments, pricing benchmarks and AI innovations while supporting Program LOTUS and the adoption of digital procurement solutions.\n\nREQUIREMENTS\n\n• Finance-validated savings, contract coverage in Coupa, timely renewals, supplier performance, stakeholder satisfaction, governance compliance and data accuracy.\n• Primarily focused on business partnering, category strategy and strategic supplier management, with over 90% of sourcing events executed by the Egypt & International Hub.\n• Strong expertise in IT procurement across software, SaaS, cloud, ERP, cybersecurity, infrastructure and managed services, including licensing, commercial negotiations, contracting and supplier performance management.\n• Strong communication, business acumen, strategic thinking, accountability, stakeholder management, decision-making, adaptability, innovation and change leadership.\n• Minimum 8 years of procurement or sourcing experience, including at least 5 years in IT/Technology procurement, with proven experience managing complex sourcing events and global technology vendors. Proficiency in Coupa, Oracle Fusion or SAP S/4HANA.\n• Bachelor's degree in a relevant discipline. CIPS or equivalent professional certification preferred, with software licensing or IT asset management qualifications considered an advantage.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
+  },
+  {
+   "id": "maf:23263",
+   "source": "maf",
+   "company": "Majid Al Futtaim",
+   "via": "",
+   "title": "Category Lead, IT | Emirati Talent",
+   "field": "Other IT",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai"
+   ],
+   "workplace_type": "Regular",
+   "category": "Business Operations, Procurement & Logistics",
+   "posted_date": "2026-11-16",
+   "summary": "",
+   "url": "https://careers.majidalfuttaim.com/global/en/job/23263",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "Business Introduction\n\r\n\nJob Purpose\n\r\n\nKey Responsibilities & Accountability\n\r\n\nMinimum Experience\n\r\n\nMinimum Qualification / Education"
+  },
+  {
+   "id": "edge:733518122",
+   "source": "edge",
+   "company": "EDGE · ADASI",
+   "via": "",
+   "title": "Principal Flight Test Engineer",
+   "field": "QA & Testing",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "ADASI",
+   "posted_date": "2026-10-31",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Principal-Flight-Test-Engineer-Abu/733518122/",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nWe are seeking to hire Principal Flight Test Engineer for our Integration & Test Team in ADASI, with strong experience in UAV Platforms.\n\nThe Principal Flight Test Engineer is responsible for leading the planning, execution, and analysis of complex flight test programs for UAV platforms, ensuring compliance with certification requirements, safety regulations, and engineering objectives. This role acts as a technical authority within the Flight Test Engineering team, providing expert guidance, mentoring junior engineers, and supporting strategic decision-making for company-wide test activities."
+  },
+  {
+   "id": "adnoc:32110",
+   "source": "adnoc",
+   "company": "ADNOC",
+   "via": "",
+   "title": "3rd Party Developer Hub Manager",
+   "field": "Software Development",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "External",
+   "category": "Projects, Engineering & Operations",
+   "posted_date": "2026-08-14",
+   "summary": "Embrace the role of a Third Party Development Hub Manager and lead the integration of external developers and investors into our Mobility Hub. Drive commercial structuring, contract negotiation, and risk management while ensuring operational readiness and portfolio optimization. Shape the future of our distribution hub with your expertise in project governance and stakeholder management.",
+   "url": "https://jobs.adnoc.ae/us/en/job/32110",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "JOB PURPOSE:\n\nLead third-party development within ADNOC Distribution’s Mobility Hub strategy by originating, structuring, and coordinating investor/developer projects from concept to handover. Act as the single point of contact for external developers and investors, managing the commercial, technical, contractual, and governance requirements needed to integrate sites seamlessly into the Hub ecosystem. Ensure timely approvals, risk-controlled delivery, and operational readiness that strengthen customer experience and portfolio returns.\n\nKEY ACCOUNTABILITIES:\n\nJob Specific Accountabilities\n\nPartnership Origination & Commercial Structuring\n\n• Identify and qualify 3P development opportunities aligned to hub typologies, network priorities, and investment criteria.\n• Prepare and refine commercial models, heads of terms, and term-sheet options to balance value creation, risk allocation, and compliance.\n• Coordinate internal inputs (Finance, Legal, BD) to validate business cases, sensitivity scenarios, and approval requirements.\n• Support investor due diligence (technical, commercial, regulatory), addressing queries and aligning key assumptions.\n• Draft and socialize decision packs for governance forums, ensuring clear options, risks, and recommendations.\n\nContract Lifecycle & Risk Management\n\n• Lead the end-to-end contract process—from RFI/RFP support and bid clarifications to negotiation of definitive agreements.\n• Ensure clarity on roles, deliverables, milestones, warranties, performance securities, and exit/step-in provisions.\n• Track contractual obligations and conditions precedent (CPs), coordinating timely closure with internal and external parties.\n• Maintain a live risk register covering commercial, schedule, technical, HSE, and authority risks, with mitigation plans.\n• Manage variations and change control, preserving scope, economics, and governance integrity.\n\nCross-Functional Coordination & Technical Alignment\n\n• Align site layout, access, utilities, and design standards with Engineering Projects, Operations, HSE, and Property Services.\n• Coordinate authority requirements (utility providers, municipality, civil defense, etc.) to de-risk approvals on the critical path.\n• Ensure 3P specifications support hub customer experience (wayfinding, parking circulation, tenant adjacencies, brand touchpoints).\n• Validate readiness criteria for construction start (permits, insurances, method statements, interfaces).\n• Facilitate technical reviews and close-out of comments to keep design and procurement on schedule.\n\nDelivery Governance & Operational Readiness\n\n• Run a stage-based governance cadence (business case, design freeze, pre-award, start-up, pre-opening) with documented gate criteria.\n• Track execution milestones, critical path, and dependencies; escalate slippage early and propose recovery actions.\n• Coordinate with Operations and HSE on commissioning, OR checklists, training/handovers, and defects management.\n• Validate as-built documentation, warranties, and O&M manuals prior to handover into steady-state operations.\n• Capture lessons learned and feed improvements into playbooks and templates.\n\nStakeholder Communication & Reporting\n\n• Serve as the single point of contact for developers/investors, providing clear updates, action logs, and decisions required.\n• Prepare concise progress reports, dashboards, and risk summaries for EMT/ELT and relevant committees.\n• Coordinate with Marketing/Brand on key milestones and external communications where applicable.\n• Ensure records are audit-ready (approvals, contracts, CP closures, change logs, correspondence).\n• Maintain confidentiality and adherence to governance, delegation of authority (DoA), and information security standards.\n\nPortfolio Performance & Optimization\n\n• Monitor post-launch performance (throughput, uptime, commercial KPIs) and identify improvement opportunities with partners.\n• Recommend re-scoping or enhancement measures (amenity mix, access improvements, utilities optimization) to maximize returns.\n• Track contractual performance measures (SLAs, liquidated damages where applicable) and manage under-performance remedies.\n• Support periodic portfolio reviews and rebalancing of pipeline priorities based on performance and market dynamics.\n• Contribute to strategy refreshes, investment theses, and international roll-out playbooks as required.\n\nContinuous Improvement & Tools\n\n• Maintain and enhance standard templates (term sheets, risk registers, gate checklists, CP trackers, and reporting packs).\n• Promote use of digital tools for document control, schedule tracking, and stakeholder collaboration.\n• Benchmark external practices to refine commercial structures and execution standards.\n• Propose process simplifications that reduce cycle time without compromising assurance.\n• Support training and knowledge-sharing sessions across the Franchise & Property Services Division.\n\nQUALIFICATIONS, EXPERIENCE, KNOWLEDGE & SKILLS:\n\nMinimum Qualification\n\n• Bachelor’s degree in engineering, Business Management, Real Estate, or a related field.\n\nMinimum Experience & Knowledge & Skills\n\n• 8 years of relevant experience in commercial real‑estate development, PPP/3P projects, or mobility/retail infrastructure.\n• Hands‑on experience in commercial modelling, contract negotiation, and approvals (CPs, permits, utilities).\n• Strong exposure to design coordination and delivery governance (stage‑gates, risk, change control).\n• Proven ability to work cross‑functionally and manage multiple stakeholders and counterparties to deadlines.\n• Commercial acumen (term sheets, risk allocation, value drivers)\n• Contracting & negotiation; change/claims awareness\n• Technical literacy (layouts, utilities, basic MEP/HSE considerations)\n• Project governance, planning, and risk management\n• Executive‑level communication, presentation, and stakeholder influence\n• Strong documentation, decision‑pack preparation, and audit‑readiness\n• Proficiency with MS Office and project/collaboration tools (e.g., MS Project, SharePoint/Teams, Asana/Jira)"
+  },
   {
    "id": "maf:23413",
    "source": "maf",
@@ -434,29 +731,6 @@
    "description": "JOB TITLE\nIdentity and Access Management Manager | MAF Global Solutions | Global Solutions UAE\n\nROLE SUMMARY\nThe Identity and Access Management Manager is responsible for developing and maintaining the organization's Identity Access Management (IAM) and Privilege Access Management (PAM) strategy, roadmap, and implementation plan, aligning it with business objectives and security best practices. This includes defining the future state of identity and access management and planning for its evolution.\n\nROLE PROFILE\n\n• IAM & PAM Strategy: Develop, implement, and enforce secure IAM/PAM policies, procedures, and controls aligned with least privilege and business requirements.\n• Identity Lifecycle Management: Manage end-to-end user and privileged identity lifecycle, including onboarding, provisioning, access changes, certifications, and offboarding.\n• Access Governance & Authentication: Implement and manage RBAC/ABAC, MFA, SSO, federation, access reviews, and strong authentication/authorization mechanisms.\n• Privileged Access Management: Oversee credential vaulting and rotation, privileged session monitoring/recording, JIT access, and break-glass/emergency access procedures.\n• IAM Operations & Security: Monitor IAM/PAM environments, investigate anomalies and incidents, remediate vulnerabilities, and lead identity-related incident response activities.\n• Technology & Automation: Design and operate enterprise IAM/IGA/PAM solutions such as SailPoint, CyberArk, and Delinea, with automation using workflows, PowerShell, or Python.\n• Compliance, Risk & Reporting: Ensure alignment with NIST, ISO 27001, CIS Controls, GDPR, SOC 2, and audit requirements; establish KPIs, metrics, logging, and reporting.\n• Leadership & Continuous Improvement: Lead IAM initiatives, vendors/MSPs, training, and stakeholder collaboration while continuously improving IAM capabilities, security, automation, and SLA performance.\n\nREQUIREMENTS\n\n• Leadership & Communication: Excellent leadership, interpersonal, teamwork, and communication skills, with the ability to explain technical concepts to non-technical stakeholders.\n• Analytical & Problem-Solving: Strong analytical, problem-solving, organizational, and time-management capabilities.\n• Proactive & Collaborative: Self-motivated, proactive, action-oriented, deadline-driven, and effective in collaborative team environments.\n• Professional Experience: 8+ years of experience working with multiple IAM solutions in large organizations, including 5+ years of hands-on global IDAM platform management.\n• Technical Delivery Experience: Proven experience managing IAM deployments, changes, and environments across Dev, Pre-Prod, Prod, SIT, and UAT, including testing and release processes.\n• Education & Certifications: Bachelor’s/Master’s degree in Computer Science, Engineering, Technology, or equivalent; preferred certifications include CIAM, CISM, CISSP, and ITIL.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
   },
   {
-   "id": "maf:22575",
-   "source": "maf",
-   "company": "Majid Al Futtaim",
-   "via": "",
-   "title": "Manager IDAM",
-   "field": "Cybersecurity",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai"
-   ],
-   "workplace_type": "Regular",
-   "category": "Digital & Technology",
-   "posted_date": "2026-09-01",
-   "summary": "Seeking an experienced leader to drive the development and implementation of Identity and Access Management (IAM) strategies, ensuring alignment with business objectives and security best practices. Oversee IAM operations, manage identity lifecycle, and lead incident response. Ideal for candidates with extensive IAM experience and strong leadership skills.",
-   "url": "https://careers.majidalfuttaim.com/global/en/job/22575",
-   "first_seen": "2026-11-21T09:05:02Z",
-   "description": "JOB TITLE\nIdentity and Access Management Manager | MAF Global Solutions | Global Solutions UAE\n\nROLE SUMMARY\nThe Identity and Access Management Manager is responsible for developing and maintaining the organization's Identity Access Management (IAM) and Privilege Access Management (PAM) strategy, roadmap, and implementation plan, aligning it with business objectives and security best practices. This includes defining the future state of identity and access management and planning for its evolution.\n\nROLE PROFILE\n\n• IAM & PAM Strategy: Develop, implement, and enforce secure IAM/PAM policies, procedures, and controls aligned with least privilege and business requirements.\n• Identity Lifecycle Management: Manage end-to-end user and privileged identity lifecycle, including onboarding, provisioning, access changes, certifications, and offboarding.\n• Access Governance & Authentication: Implement and manage RBAC/ABAC, MFA, SSO, federation, access reviews, and strong authentication/authorization mechanisms.\n• Privileged Access Management: Oversee credential vaulting and rotation, privileged session monitoring/recording, JIT access, and break-glass/emergency access procedures.\n• IAM Operations & Security: Monitor IAM/PAM environments, investigate anomalies and incidents, remediate vulnerabilities, and lead identity-related incident response activities.\n• Technology & Automation: Design and operate enterprise IAM/IGA/PAM solutions such as SailPoint, CyberArk, and Delinea, with automation using workflows, PowerShell, or Python.\n• Compliance, Risk & Reporting: Ensure alignment with NIST, ISO 27001, CIS Controls, GDPR, SOC 2, and audit requirements; establish KPIs, metrics, logging, and reporting.\n• Leadership & Continuous Improvement: Lead IAM initiatives, vendors/MSPs, training, and stakeholder collaboration while continuously improving IAM capabilities, security, automation, and SLA performance.\n\nREQUIREMENTS\n\n• Leadership & Communication: Excellent leadership, interpersonal, teamwork, and communication skills, with the ability to explain technical concepts to non-technical stakeholders.\n• Analytical & Problem-Solving: Strong analytical, problem-solving, organizational, and time-management capabilities.\n• Proactive & Collaborative: Self-motivated, proactive, action-oriented, deadline-driven, and effective in collaborative team environments.\n• Professional Experience: 8+ years of experience working with multiple IAM solutions in large organizations, including 5+ years of hands-on global IDAM platform management.\n• Technical Delivery Experience: Proven experience managing IAM deployments, changes, and environments across Dev, Pre-Prod, Prod, SIT, and UAT, including testing and release processes.\n• Education & Certifications: Bachelor’s/Master’s degree in Computer Science, Engineering, Technology, or equivalent; preferred certifications include CIAM, CISM, CISSP, and ITIL.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
-  },
-  {
    "id": "amazon:10607984",
    "source": "amazon",
    "company": "Amazon",
@@ -543,29 +817,6 @@
    "url": "https://careers.edgegroup.ae/job/ABU-DHABI-RF-and-Antenna-Integration-Engineer/733588622/",
    "first_seen": "2026-11-20T21:39:05Z",
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nPulse"
-  },
-  {
-   "id": "syscolabs:R275494",
-   "source": "syscolabs",
-   "company": "Sysco LABS",
-   "via": "",
-   "title": "Intern - Software Engineering",
-   "field": "Software Development",
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "countries": [
-    "Sri Lanka"
-   ],
-   "locations": [
-    "Sysco LABS  -  Sri Lanka"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-20",
-   "summary": "",
-   "url": "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Software-Engineering_R275494",
-   "first_seen": "2026-11-20T09:32:46Z",
-   "description": "JOB DESCRIPTION\n\nIntern - Software Engineering\n\nAbout Sysco LABS:\n\nSysco LABS is the Global In-House Center of Sysco Corporation (NYSE: SYY), the world’s largest foodservice company. Sysco ranks 55th in the Fortune 500 list and is the global leader in the trillion-dollar foodservice industry.\n\nSysco operates 333 distribution centers across 10 countries, with 75,000 colleagues serving approximately 670,000 customer locations, including restaurants, healthcare and educational facilities, lodging establishments, entertainment venues and more. For fiscal year 2026, which ended June 27, 2026, the company generated sales of more than $84 billion.\n\nSysco LABS Sri Lanka delivers the technology that powers Sysco’s end-to-end operations.\n\nSysco LABS’ enterprise technology is present in the end-to-end foodservice journey, enabling the sourcing of food products, merchandising, storage and warehouse operations, order placement and pricing algorithms, the delivery of food and supplies to Sysco’s global network and the in-restaurant dining experience of the end-customer.\n\nResponsibilities:\n\n· Designing scalable, robust and cost-effective solutions, in collaboration with the senior engineering staff\n\n· Implementing solutions based on the design, adhering to engineering best practices, Continuous Integration and Continuous Delivery\n\n· Writing unit, integration, and functional tests for the solutions\n\n· Working collaboratively in a cross functional team environment\n\n· Adhering to DevOps principles and being involved with projects during their full software lifecycle from development, QA, and deployment\n\nRequirements:\n\n• Sound knowledge of Object-Oriented Programming using Java\n\n• Sound knowledge of the fundamentals of JavaScript\n\n• A basic working proficiency of RDBMS technology\n\n• Knowledge of NodeJS would be an added advantage\n\nBenefits:\n\n• An attractive allowance\n\n• Paid birthday leave\n\n• Exposure to the corporate culture of a Fortune 100 company\n\n• An opportunity to work with and learn from industry specialists, and develop professionally in your chosen field\n\n• Opportunities to network and build lasting professional relationships\n\n• A progressive culture that promotes work-life harmony and personal development\n\nSysco LABS is an Equal Opportunity Employer"
   },
   {
    "id": "syscolabs:R275492",
@@ -796,29 +1047,6 @@
    "url": "https://careers.g42.ai/global/en/job/3240",
    "first_seen": "2026-11-18T21:41:20Z",
    "description": "Overview:\n\r\n\nThe Director of AI Security leads a high-performing regional practice, with full accountability for strategy, service delivery, commercial performance, and capability development. The role builds on an established and operational practice, with a clear mandate to scale it into a market-leading, profitable, and differentiated offering aligned to the region’s rapidly evolving AI technology and regulation landscape.\n\nThis role combines strategic leadership, deep technical credibility, and strong commercial execution to expand the practice’s footprint across government and enterprise sectors, while strengthening CPX’s position as a trusted advisor in AI governance and responsible AI adoption, as well as in the adoption of AI to strengthen and accelerate CPX Cybersecurity capabilities.\n\nResponsibilities:\n\r\n\nPractice Leadership & Strategy: -\n\n• Full ownership of a multi-disciplinary practice covering:\n\n• AI governance and responsible AI\n\n• Regulatory compliance across AI and data domains\n\n• Implementation and operation of technical measures to secure AI, in collaboration with other Cyber Defense sub business Units.\n\n• Collaborating with the commercial team and peer practice leads across Cyber Defense to deliver integrated propositions and coordinated go-to-market execution for both Securing AI and embedding AI in security across all CPX offerings and services.\n\n• Regulatory scope includes UAE PDPL, DIFC and ADGM frameworks, UAE Cybersecurity Council and NESA/SIA standards, UAE AI Strategy and Charter, as well as GCC frameworks (e.g., KSA PDPL/SDAIA) and global regulations (e.g., GDPR, EU AI Act).\n\nBusiness & P&L Leadership: -\n\n• Own the AI Security practice P&L, including revenue growth, margins, utilization, pricing, and cost management.\n\n• Define and execute a multi-year AI Security growth strategy aligned with CPX’s advisory, implementation and operation priorities.\n\n• Establish pricing models, automation, and delivery economics to support scalable growth.\n\n• Track and manage pipeline coverage, backlog, and revenue realization.\n\n• Maintain pipeline coverage alignment to defined revenue targets.\n\n• Support the commercial team to develop and close strategic and flagship opportunities across UAE.\n\nService Lines & Offering Development: -\n\n• Define and evolve the AI Security portfolio, aligned to regional regulatory and market demand.\n\n• Develop new offerings in AI governance, AI Security advisory, implementation and operation, including reusable IP and accelerators.\n\n• Identify emerging regulatory and technology trends (e.g., AI regulation, data sovereignty, responsible AI) and translate them into market-ready propositions.\n\n• Standardized delivery methodologies, quality assurance frameworks, and engagement models.\n\n• Drive AI-enabled delivery through automation, AI agents, and intelligent reporting frameworks.\n\n• Develop scalable, platform-based and productized offerings across AI and data protection domains.\n\nSales & Pipeline Growth: -\n\n• Own pipeline development across UAE, ensuring strong coverage and conversion of opportunities.\n\n• Support the commercial team in origination, proposals, pursuits, and commercial negotiations for strategic deals.\n\n• Build and maintain trusted advisor relationships with C-suite, regulators, and key stakeholders.\n\n• Act as executive sponsor for flagship accounts and drive cross-selling across CPX service lines.\n\n• Develop strategic alliances with technology vendors, partners, regulators, and academia.\n\n• Act as domain lead in large, multi-service Cyber Defense engagements.\n\n• Engage with regulators, policymakers, and industry bodies to shape AI Security regulatory landscape in the region.\n\nDelivery & Client Outcomes: -\n\n• Hold end-to-end accountability for delivery quality, client outcomes, and engagement governance.\n\n• Review and approve key deliverables to ensure technical quality and regulatory alignment.\n\n• Act as senior escalation point for delivery risks, client issues, and complex engagements.\n\n• Drive client satisfaction, renewals, and account expansion across the portfolio.\n\nQualifications:\n\r\n\nMinimum Work Experience & Education :-\n\n• 12+ years of experience in consulting, professional services, or technology leadership, with strong exposure to Securing AI and embedding AI into cybersecurity services.\n• Bachelor’s degree in Cybersecurity, Information Security, Computer Science, Data Analytics, or a related field.\n• Master’s degree preferred.\n• Technical fluency across AI/ML, data governance, cybersecurity, and privacy frameworks\n• Strong executive presence with ability to engage C-suite, regulators, and government stakeholders."
-  },
-  {
-   "id": "accenture:14863444-1",
-   "source": "accenture",
-   "company": "Accenture",
-   "via": "",
-   "title": "Security Delivery Specialist",
-   "field": "Cybersecurity",
-   "country_code": "SA",
-   "country": "Saudi Arabia",
-   "countries": [
-    "Saudi Arabia"
-   ],
-   "locations": [
-    "Riyadh"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-18",
-   "summary": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Security-Delivery-Specialist_14863444-1",
-   "first_seen": "2026-11-18T21:41:20Z",
-   "description": "Experience in incident response plan, and knowledge in SOC policy, process and procedure, Create and develop Cyber security center processes and procedures.\nExperience in Security Information and Event Management (SIEM). Work with SIEM engineer and other security teams developing and refining correlation rules.\nExperience in IR tools & solutions related to detection, investigation and response, analyze security event and provide guidance to team members.\nExcellent verbal and written communication skills including the ability to clearly articulate technical and strategic level cyber matters to a variety of audiences.\nProduces cyber intelligence reports communicating technical issues to a broad audience including information security staff, non-technical business representatives, and senior management.\nStrong analytical and organizational skills, leadership skills, the ability to lead cyber team and provide on call support after business hours.\nAdministration of EDR (Endpoint Detection and Response) Technology.\nDeploy, upgrade, and maintain EDR agents across Windows, macOS, and Linux.\nMonitor agent health and troubleshoot where agents are not reporting.\nDevelop and manage EDR policies.\nIntegration of EDR with SIEM and other Security tools.\nAdministration of NDR (Endpoint Detection and Response) Technology\nDevelop and manage NDR policies.\nIntegration of NDR with SIEM and other Security tools.\nCreate and add custom correlation rules for EDR/NDR.\nPeriodically review existing EDR/NDR Configurations and propose any new enhancements as applicable.\nManage support tickets with EDR/NDR support, as necessary.\nPreferred candidates with certifications like GIAC GCIH, GMON, GCFA, or similar certificate.\n\n.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
   },
   {
    "id": "edge:733659622",
@@ -3624,29 +3852,6 @@
    "description": "Position Summary\nApplications are welcome from all qualified candidates. In line with UAE regulations, Emirati candidates are encouraged to apply.\n\nNew York University Abu Dhabi (NYUAD) seeks to appoint a Assistant Director, IT Experience and Service Delivery reporting to the Director, IT Operations and Service Management.\n\nThe Assistant Director, IT Experience and Service Delivery leads the delivery and continual improvement of NYU Abu Dhabi’s primary end-user facing technology service capability. The role is responsible for ensuring faculty, students, staff, researchers, residents, visitors, guests, and campus partners receive consistent, responsive, professional, and user-centered technology support across academic, research, residential, administrative, instructional, meeting-room, public-computing, and event environments.\n\nThe portfolio encompasses Client Services, including the IT Experience Center and on-site support across workspaces, instructional, meeting-room and special spaces; endpoint and end-user technology service delivery; Event Services; Community Services; Residential technology support; and VIP and high-touch support. The role brings these capabilities together within an integrated service-delivery model with clear ownership, standards, escalation paths, performance measures, and accountability for the quality of the end-user technology experience and journey.\n\nThe Assistant Director leads a blended IT Experience & Service Delivery organization consisting of NYUAD service leads together with managed services providers and external support providers. The role maintains institutional accountability for service quality regardless of delivery model, ensuring internal and external teams operate as a coordinated organization against common service expectations, processes, performance measures, and values.\n\nWorking within the strategy, governance, and operational frameworks established by the Director, IT Operations and Service Management, the Assistant Director translates service objectives into effective operating models, workforce plans, processes, standards, and continual-improvement initiatives. The role works closely with NYUAD IT teams, NYU global partners, vendors, and service providers to provide a cohesive technology experience across NYUAD.\n\nKey Responsibilities:\n\nLead IT Experience & Service Delivery and the end-user technology experience\n\n•\nLead the full portfolio of end-user facing technology services across NYU Abu Dhabi, establishing an integrated operating model model spanning Client Services, the IT Experience Center, academic technology and learning-space support, endpoint and end-user technology service delivery, Event Services, Community Services, residential technology support, and VIP and high-touch support\n\n•\nTranslate the strategic direction and service expectations established by the Director, IT Operations and Service Management into operational plans, service standards, staffing models, performance expectations, and continual-improvement priorities\n\n•\nProvide leadership, direction, coaching, and performance oversight for NYUAD service leads and staff across the IT Experience & Service Delivery portfolio, while ensuring managed-services personnel operate as an integrated extension of the NYUAD IT Experience & Service Delivery organization. Maintain clear institutional ownership and accountability for service outcomes regardless of whether services are delivered by NYUAD employees, contractors, or managed-services partners\n\n•\nEnsure services provide a consistent, responsive, and professional experience across user communities, engagement channels and physical environments while appropriately responding to the distinct needs of faculty, students, researchers, administrative staff, residents, visitors, guests, and institutional leadership. Maintain accountability for the quality of the end-user journey, including communication, follow-up, escalation, and hand-offs where technical resolution depends on other resolver groups\n\n•\nFacilitate user onboarding interviews, targeted end-user training and office hours, as required, to promote technology adoption, strengthen user capability, and address emerging community needs\n\n•\nRepresent IT Experience & Service Delivery in cross-functional IT planning and contribute operational expertise and user insight to departmental discussions regarding service strategy, operational priorities, technology adoption, service improvement and the overall technology experience\n\nLead Client Services, the IT Experience Center and learning-space support\n\n• Lead Client Services and the IT Experience Center as NYUAD's primary on-campus, end-user facing Tier 1 capability, together with on-site and end-user technology support across workspaces, instructional rooms, meeting rooms, special spaces, and shared campus environments. Ensure effective intake, triage, resolution, escalation, communication, request fulfillment, classroom readiness, and first-line AV support\n• Develop and maintain a tiered and integrated support model that emphasizes resolution at the earliest appropriate level, equips frontline teams with the knowledge, tools, and authority required to resolve a broad range of issues, works in close partnership with the Global IT Service Desk and provides clear and accountable escalation to service owners and specialist teams when needed\n• Establish and maintain operating procedures, staffing and scheduling models, knowledge-management practices, service standards, quality measures, and performance expectations that support consistent and effective service delivery across walk-up, appointment-based, phone, email, portal, classroom, and other agreed user-facing support channels and campus environments\n• Monitor service demand, response and resolution performance, first-contact and first-visit resolution, escalation trends, user satisfaction, walk-in wait times, appointment availability, room readiness, recurring issues, and other relevant service indicators. Use these insights to improve operational effectiveness, service quality, and the overall technology experience\n• Advance guided self-service, knowledge-centered support, automation, remote-support capabilities, practical digital-enablement sessions, and other modern service-delivery approaches that improve accessibility, build user capability, increase resolution efficiency, and reduce avoidable support demand\n\nOversee endpoint and end-user technology service delivery\n\n• Provide functional leadership for the end user facing delivery of endpoint and end-user computing services, including university-managed desktops, laptops, mobile devices, peripherals, software delivery, device provisioning, equipment lending, and associated end-user technologies\n• Oversee the operational service lifecycle of end-user devices from provisioning and deployment through configuration, support, refresh coordination, asset management, and secure retirement, ensuring clear ownership and effective hand-offs with the teams responsible for underlying platform and engineering services\n• Direct NYUAD staff, service leads, and managed-services personnel responsible for endpoint and user technology services, establishing clear standards, responsibilities, performance expectations, documentation requirements, and escalation practices\n• Work closely with Infrastructure Services and Information Security, Technology Governance, and relevant engineering teams to ensure endpoint environments are standardized, securely managed, supportable, current, and appropriately responsive to academic, research, administrative, and specialized requirements\n• Promote modern management practices including automated provisioning, endpoint-management platforms, proactive monitoring and remediation, remote support, software automation, and accurate asset and configuration information\n• Ensure new or changed end-user technologies transition effectively into service with appropriate documentation, knowledge, support processes, training, tools, and escalation pathways\n\nDrive service performance, continual improvement, and operational maturity\n\n• Work closely with the Service Management function to implement ITSM standards, processes, performance measures, service reporting, and continual-improvement practices across the IT Experience & Service Delivery portfolio\n• Establish and review a balanced set of SLAs, KPIs, service-quality measures, end-user experience indicators, and performance expectations across Client Services, the IT Experience Center, learning spaces, Event Services, Community Services, asset and equipment support, NYUAD teams and managed-services providers\n• Analyze operational data, user feedback, recurring incidents, escalation patterns, support demand, vendor performance, and service trends to identify opportunities for process improvement, automation, knowledge development, workforce optimization, and service redesign\n• Promote participation in IT service surveys across the community and work with service owners to incorporate survey findings into service-improvement priorities and actions\n• Participate actively in incident, request, problem, change, knowledge, major incident, service transition, and continual-improvement processes, ensuring the IT Experience & Service Delivery perspective and end-user impact are appropriately represented\n• Ensure managed-services providers meet contractual and operational expectations and work with service leads, vendors, and the Director, IT Operations and Service Management to address performance gaps, capacity concerns, or systemic delivery issues\n• Ensure IT Experience & Service Delivery teams are operationally ready to support new technologies and services prior to transition into production, including appropriate knowledge, documentation, support procedures, training, tools, workforce capacity, and escalation paths\n• Promote a culture of accountability, service excellence, collaboration, continuous learning, and data-informed decision-making across the IT Experience & Service Delivery organization\n\nLead Event Services and VIP/High-Touch Support\n\n• Lead the delivery of AV and technology support for academic, institutional, leadership, and selected commercial events, including conferences, ceremonies, executive engagements, visiting dignitaries, strategic guests, and other high-visibility activities requiring coordinated technology services\n• Establish repeatable event-technology service models based on the scale, complexity, visibility, and risk of individual events, including appropriate requirements capture, planning, staffing, technical rehearsals, readiness checks, onsite support, contingency handling, escalation, and post-event review\n• Direct the work of NYUAD staff, technical leads, managed-services personnel, contractors, and external technology providers supporting events, ensuring responsibilities and accountability are clearly established\n• Partner with event organizers, Events, Public Affairs, Communications, Facilities, Campus Services, academic and administrative units, Infrastructure Services, AV Infrastructure, and other relevant stakeholders to understand requirements and ensure technology services are appropriately planned and delivered\n• Develop standards, procedures, service offerings, and support tiers that reduce dependence on ad hoc or individual-dependent practices while retaining the flexibility required for specialized, high-profile or institutionally critical activities\n• Use event feedback and operational experience to continuously improve readiness, service quality, resource utilization, and the overall event technology experience\n\nLead Community Services and residential technology support\n\n• Lead Community Services across NYUAD, including user-facing IT communications, support guidance, basic digital enablement, tool adoption, community engagement, and feedback capture, while retaining clear and effective technology support for the University's residential community\n• Establish defined community-facing and residential technology service models with clear service boundaries, ownership, support channels, escalation pathways, performance expectations, communications service guides, and adoption support\n• Provide operational direction and performance oversight for NYUAD and managed-services personnel delivering community-facing and residential technology support, ensuring consistent service standards and effective coordination with other IT teams\n• Partner closely with Infrastructure Services, Student Affairs, Residential Education, Campus Services, Facilities, Information Security, academic units, and other relevant stakeholders to resolve cross-functional issues, strengthen service communication and adoption, and improve the community technology experience\n• Use service data, recurring issue analysis, self-service usage, user feedback, and engagement with faculty, students, researchers, staff, and residents to identify service gaps, improve support processes and guidance, and inform future technology and service improvements\n• Ensure Community Services and residential technology support are integrated into the broader IT Experience & Service Delivery and IT Operations model rather than operating as a separate or ad hoc support functions"
   },
   {
-   "id": "ifs:744000158199089",
-   "source": "ifs",
-   "company": "IFS",
-   "via": "",
-   "title": "Senior Product Manager - Aerospace & Defense (AI-Native)",
-   "field": "Data & AI",
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "countries": [
-    "Sri Lanka"
-   ],
-   "locations": [
-    "Colombo, Western Province, Sri Lanka"
-   ],
-   "workplace_type": "",
-   "category": "Engineering",
-   "posted_date": "2026-10-28",
-   "summary": "",
-   "url": "https://jobs.smartrecruiters.com/ifs1/744000158199089",
-   "first_seen": "2026-10-28T07:50:22Z",
-   "description": "Job Description\nWe are seeking an experienced Product Manager to join our team as we develop cutting-edge AI-based Aerospace & Defense Maintenance, Repair & Overhaul (MRO) software solutions. In this role, you will be responsible for the identification of investment cases, working closely with cross-functional teams and stakeholders to lead investment planning and evangelizing the product vision.\n\nAs a Product Manager, you will drive product strategy and roadmap planning, considering market trends, competitor analysis, and customer feedback. You will collaborate with engineering teams to prioritize features and help provide clarity on investment themes. Additionally, you will be responsible for defining and monitoring key performance indicators (KPIs) to measure product success and make data-driven decisions.\n\nThe preferred candidate will have a strong background in the aviation industry, with experience in MRO operations, having worked with an Airline, MRO organization or OEM. The candidate will also have experience with the use of software in the aviation industry, understanding the regulations and compliance around it. Exceptional communication and leadership skills are crucial for this role, as you will be responsible for leading cross-functional teams and presenting product updates to stakeholders.\n\nAs a Product Manager in Aerospace and Defense, you are responsible for:\n\n• Developing and executing product strategies and roadmaps for Aviation Maintenance-related products, aligning with company objectives and market opportunities.\n• Conducting comprehensive market and competitive analyses specific to the airline industry, identifying trends, customer needs, and building business cases for potential opportunities.\n• Engaging with airline customers, stakeholders, and end-users to gather requirements, solicit feedback, and ensure products meet or exceed their expectations.\n• Leveraging knowledge of processes for Heavy Maintenance, Complex Assembly MRO, Component MRO etc., to inform and drive product requirements.\n• Collaborating with engineering and design teams to prioritize features and help guide product development.\n• Defining and monitoring key performance indicators (KPIs) to measure product success.\n• Working closely with cross-functional teams and stakeholders to drive transparency and enablement of product updates and roadmap plans.\n• Helping develop and implement go-to-market strategies for MRO products, including pricing and positioning.\n\nQualifications\nA degree in Computer Science, or a related STEM field; MBA is a plus\n\n• Seasoned in the A&D industry, working with an Airline, MRO or OEM\n• Proven experience in bringing complex MRO products from concept to deployment\n• Comprehensive understanding of MRO tools, processes and regulatory requirements, interfacing with Manufacturing and Supply Chain functions\n• Deep experience in managing through influence and driving results through cross functional teams\n• Excellent communication and presentation skills, with experience interfacing with customers and senior leadership.\n\nAdditional Information\nWe embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships."
-  },
-  {
    "id": "michaelpage:jn-062026-7031664",
    "source": "michaelpage",
    "company": "Michael Page (recruiter)",
@@ -5736,29 +5941,6 @@
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAs an ERP Process Engineer, you will work closely with production, engineering, supply chain, quality, and IT teams to analyze operational workflows, improve business processes, and support the implementation and enhancement of enterprise systems.\n\nRESPONSIBILITIES\n\r\n\nBusiness Process Analysis\n\nAnalyze and evaluate manufacturing processes, including production, planning, inventory management, engineering, and quality functions.\nConduct workshops and stakeholder interviews to gather business requirements.\nPerform gap analysis between current and future-state processes and identify opportunities for improvement.\nSolution Design & Implementation\n\nTranslate business requirements into ERP and PLM system solutions.\nConfigure and support ERP/PLM modules related to production, bill of materials (BOM), routing, product lifecycle management, and manufacturing\noperations.\nSupport system implementations, upgrades, integrations, and continuous enhancements.\nEnsure seamless integration between ERP, PLM, MES, and supply chain systems.\n\nProduct Lifecycle & Data Management\n\nSupport product lifecycle processes including design, development, engineering change management, and product release.\nMaintain and optimize product structures, BOMs, and engineering data.\nDevelop and improve workflows supporting product development and change control activities.\n\nTraining & Change Management\n\nDevelop training materials, user guides, and process documentation.\nDeliver end-user training and provide post-go-live support.\nPromote best practices and drive user adoption of new technologies and processes.\n\nContinuous Improvement & Support\n\nProvide functional support and troubleshooting for ERP and PLM systems.\nMonitor system performance and identify opportunities for optimization.\nLead initiatives focused on process efficiency, automation, and operational excellence.\nStakeholder & Project Management\n\nCollaborate with cross-functional teams across manufacturing, engineering, supply chain, quality, and IT.\nSupport project planning, testing, deployment, and change management activities.\nCommunicate effectively with both technical teams and business stakeholders.\n\n#Powertech\n\nBASIC QUALIFICATIONS\n\r\n\nBachelor's Degree in Engineering, Information Systems, Manufacturing, or a related discipline.\n5–8+ years of experience in ERP and/or PLM consulting within a manufacturing environment.\nProven experience delivering ERP/PLM implementation or transformation projects.\nStrong understanding of manufacturing processes, including MRP, production planning, BOM management, routing, and inventory control.\nExperience with leading ERP platforms such as SAP, Oracle, or Microsoft Dynamics.\n\nPREFERRED QUALIFICATIONS\n\r\n\nKnowledge of ERP, PLM, MES, and manufacturing system integrations is highly desirable.\nSAP experience will be considered a strong advantage.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
   },
   {
-   "id": "edge:733122122",
-   "source": "edge",
-   "company": "EDGE · AL TAIF",
-   "via": "",
-   "title": "Data Analyst",
-   "field": "Data & AI",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "AL TAIF",
-   "posted_date": "2026-09-28",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Data-Analyst-Abu/733122122/",
-   "first_seen": "2026-10-09T07:32:04Z",
-   "description": "External Job Description\n\r\n\nMAJOR DUTIES AND RESPONSIBILITIES\n\n• Provide annual supply forecasting requirements for the Annual Service Plan (ASP).\n• Provide analysis of due—ins from OEMS, vendors, balance on hand and store level repairable for assigned equipment systems.\n• Coordinate with the Technical Supply Department and Technical Planning Department to provide advice on required platform stock levels and assessment reports of balance on hand.\n• Review inventory data and advise the Technical Supply Department of optimal line item stock levels for the main stores.\n• Facilitate the establishment of safety and reserve levels for line items critical to ensure operational readiness for all required equipment systems.\n• Coordinate with Technical Planning Department on the status of spares and maintenance trends for the assigned platforms.\n• Facilitate maintenance of the spares master data record in the computer system and coordinate all aspects of demand analysis in support of the units for the assigned platforms.\n• Advise the Technical Supply Department on the status of spares and maintenance trends for the assigned platforms whenever required.\n• Facilitate the requisition of authorised supplies by the Technical Supply Department for equipment system support.\n• Apply continuous improvement and LEAN management principles.\n• Ensure all issued tools, test equipment and high value property is maintained in a serviceable condition routinely inventoried and safeguarded.\n• Support other members of the material section in fulfilling their roles.\n• Maintain the confidentiality and security of all company documents.\n• Perform other duties as required by the Material Manager."
-  },
-  {
    "id": "edge:733505022",
    "source": "edge",
    "company": "EDGE · AL TAIF",
@@ -5780,6 +5962,29 @@
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-IT-Analyst-Abu/733505022/",
    "first_seen": "2026-10-09T07:32:04Z",
    "description": "CANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nMAJOR DUTIES AND RESPONSIBILITIES\n\n• Ensure the smooth operation of applications and functional area computers to ensure all computer systems are consistently available and in compliance with applicable standards.\n\n• Coordinate the installation, configuration and maintenance of the organisation’s applications and work stations.\n\n• Direct diagnostic investigations of program errors and direct or recommend solutions or methodologies for resolution.\n\n• Manage communication with all areas of the enterprise that impacts the scope, budget, risk, and resources of the work effort being managed.\n\n• Correct program errors using methods such as modifying programs or altering the sequence of program steps. Analyse, review and rewrite programs to increase operating efficiency or to adapt programs to new requirements.\n\n• Prepare detailed workflow charts to illustrate the sequence of steps that programs must follow; describe input, output and logical operations involved.\n\n• Manage the administration, maintenance and upgrades of the organisation’s applications.\n\n• Analyse and recommend the use of new applications and services to senior management.\n\n• Conduct and validate the physical inventory of IT equipment and software.\n\n• Provide instructions and training to staff when necessary.\n\n• Assist with the enforcement of all IT directives within the company.\n\n• Ensure all IT property is maintained in a serviceable condition, routinely inventoried and safeguarded.\n\n• Supervise, monitor and train IT Analyst(s), Applications on a variety of IT tasks.\n\n• Maintain the confidentiality and security of all company information.\n\n• Support other members of the IT section in fulfilling their roles.\n\n• Ensure compliance with all safety, housekeeping and environmental directives.\n\nMINIMUM QUALIFICATIONS\n\n• Bachelor degree in computer science, information systems or a related discipline required; Master degree preferred, or Equivalent years of Experiences in same field\n\n• A minimum of five to six years of experience in an IT Applications role is required.\n\n• A minimum of one year of experience in a supervisory position is required.\n\n• Certifications in Cisco Certified Network Professions (CCNP), Cisco Certified Design Professions (CCDP), Cisco Certified Internetwork Expert (CCIE) and Cisco Certified Design Associate (CCDA) are an advantage.\n\n• The ability to communicate effectively in English, both in writing and verbally is required.\n\n• Have, or be able to obtain a valid UAE driver’s license."
+  },
+  {
+   "id": "edge:733122122",
+   "source": "edge",
+   "company": "EDGE · AL TAIF",
+   "via": "",
+   "title": "Data Analyst",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "AL TAIF",
+   "posted_date": "2026-09-28",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Data-Analyst-Abu/733122122/",
+   "first_seen": "2026-10-09T07:32:04Z",
+   "description": "External Job Description\n\r\n\nMAJOR DUTIES AND RESPONSIBILITIES\n\n• Provide annual supply forecasting requirements for the Annual Service Plan (ASP).\n• Provide analysis of due—ins from OEMS, vendors, balance on hand and store level repairable for assigned equipment systems.\n• Coordinate with the Technical Supply Department and Technical Planning Department to provide advice on required platform stock levels and assessment reports of balance on hand.\n• Review inventory data and advise the Technical Supply Department of optimal line item stock levels for the main stores.\n• Facilitate the establishment of safety and reserve levels for line items critical to ensure operational readiness for all required equipment systems.\n• Coordinate with Technical Planning Department on the status of spares and maintenance trends for the assigned platforms.\n• Facilitate maintenance of the spares master data record in the computer system and coordinate all aspects of demand analysis in support of the units for the assigned platforms.\n• Advise the Technical Supply Department on the status of spares and maintenance trends for the assigned platforms whenever required.\n• Facilitate the requisition of authorised supplies by the Technical Supply Department for equipment system support.\n• Apply continuous improvement and LEAN management principles.\n• Ensure all issued tools, test equipment and high value property is maintained in a serviceable condition routinely inventoried and safeguarded.\n• Support other members of the material section in fulfilling their roles.\n• Maintain the confidentiality and security of all company documents.\n• Perform other duties as required by the Material Manager."
   },
   {
    "id": "michaelpage:jn-092026-7113158",
@@ -6523,29 +6728,6 @@
    "description": "Job Description\nWe are looking for a Senior Business Analyst to join our product team and take an active role in shaping business requirements and solutions.\n\nThis role goes beyond gathering and documenting requirements. You will be involved early in the process, helping to understand the problem, break down business needs, explore possible solutions, and understand how those solutions fit within the Ultimo product and system.\n\nYou will work closely with Product management, UX/UI, Engineering and QA. We are looking for someone who is comfortable bringing ideas to the table, asking the right questions, challenging requirements when needed, and helping the team find practical solutions.\n\nThe role suits someone with a strong Business Analysis background who also has an interest in product, user experience, technology and AI.\n\nKey Responsibilities\n\nBusiness Analysis\n\n• Analyze business needs and turn unclear or incomplete requirements into clear, structured problems that can be explored further.\n• Break down complex requirements into manageable areas, including the related tasks, responsibilities, dependencies, risks and potential product impacts.\n• Understand how requirements fit within the existing Ultimo product and identify areas that may be affected by a change.\n• Translate business needs into clear requirements that can be understood by Product, Design, Engineering and QA, including the context needed to understand why the change is needed.\n• Collect relevant data, apply analysis and use insights to support decisions, recommendations and prioritization.\n\nSolution and Product Thinking\n\n• Look beyond the immediate requirement and consider the wider product, user and operational impact.\n• Explore different approaches, challenge assumptions where needed, and recommend practical solutions to Product and other stakeholders.\n• Identify opportunities to improve existing product functionality, user experience and ways of working.\n• Help connect business goals with practical product solutions, development work and clear ownership of responsibilities.\n• Contribute to discussions around scope, priorities and solution options.\n\nCollaboration\n\n• Work closely with Product Managers, Product Owners, UX/UI Designers, Developers and QA throughout the product development process.\n• Facilitate discussions and workshops to clarify tasks, responsibilities, ownership and decisions across stakeholders.\n• Communicate requirements, proposed solutions and expected outcomes clearly to both technical and non-technical stakeholders.\n• Have customer contact where relevant, including meetings and email communication to clarify needs, gather context and validate understanding.\n• Prepare and give internal presentations to share findings, explain proposed solutions and support alignment across teams.\n• Write clear implementation documentation that supports development, QA, release preparation and handover where needed.\n• Take ownership of assigned areas and move topics forward without needing every step to be defined upfront.\n\nAI and Ways of Working\n\n• Use AI as an integral part of day-to-day Business Analysis and product work.\n• Use AI to support and accelerate activities such as requirement breakdown, research, impact analysis, solution exploration, ideation, documentation and drafting.\n• Explore AI tools and new ways of working that can improve the quality, speed and consistency of analysis.\n• Identify opportunities where AI can improve existing product or team processes.\n• Stay curious about new AI capabilities and actively look for ways to incorporate them into the way you work.\n\nQualifications\nEssential\n\n• 3+ years of experience in Business Analysis or a similar role within a software product environment.\n• Strong ability to analyze and break down complex or incomplete business requirements.\n• Experience working in an Agile software development environment.\n• Ability to work with requirements at an early stage, before they are fully defined or added to the backlog.\n• Good understanding of how business requirements translate into product functionality and system changes.\n• Ability to suggest solutions and alternatives rather than only documenting requirements.\n• Product-oriented mindset with the ability to consider business value, user needs and feasibility when looking at solutions.\n• Practical experience using AI tools as part of your day-to-day work.\n• Willingness to explore and adopt new AI tools and approaches to improve the way you work.\n• Good communication skills and the ability to work with different teams and stakeholders.\n• Ability to work independently and take ownership of problems from analysis through to delivery.\n\nDesirable\n\n• A good understanding of UI/UX principles and a keen eye for usability, consistency and user experience.\n• Experience creating simple wireframes, user flows or prototypes.\n• Experience working closely with Product Owners or Product Managers.\n• Experience with tools such as Figma or similar prototyping tools.\n• Experience working with enterprise software or complex business applications.\n• Experience in EAM, CMMS, asset management or a similar domain.\n• Basic understanding of APIs, integrations, data or technical architecture.\n• Experience facilitating discovery, scoping or solution workshops.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
   },
   {
-   "id": "ifs:744000152655184",
-   "source": "ifs",
-   "company": "IFS",
-   "via": "",
-   "title": "Business Solutions Architect",
-   "field": "Architecture",
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "countries": [
-    "Sri Lanka"
-   ],
-   "locations": [
-    "Colombo, Western Province, Sri Lanka"
-   ],
-   "workplace_type": "",
-   "category": "Information Technology",
-   "posted_date": "2026-09-30",
-   "summary": "",
-   "url": "https://jobs.smartrecruiters.com/ifs1/744000152655184",
-   "first_seen": "2026-10-04T17:59:24Z",
-   "description": "Job Description\nThe role of IFS Business Solutions Architect exists within the Product - Core organization and is part of Build Place Services function. The role forms part of a 24x7x365 team, which reports to an IFS Product - Core Manager who is responsible for the operational and people management aspects of the team. All team members provide support to IFS customer base within the scope of Build Place Services offering while liaising with the relevant teams to provide seamless customer experience. The role manages multiple aspects of incident, service request, documentation and change management liaising with multiple internal and external stakeholders related to our supported services.\n\nAs Business Solutions Architect you will help with onboarding of new customer to the service, review and accept functional and test specifications, take part in sessions with the project team and/or customer to understand and document critical flows in customer processes, validate incoming issues and help technical team members with recreation of reported problems and validation of provided fixes.\n\nAs part of the role, the Business Solutions Architect is also expected to support structured knowledge transfers and mentoring for newly joined team members. This includes sharing functional and service-specific knowledge, guiding new colleagues through customer onboarding, incident handling, documentation standards, service request processes, and escalation management, as well as helping them build confidence in collaborating with customers, project teams, and technical resources. The role should contribute to a positive learning environment by providing practical examples, reviewing work where appropriate, helping lead CBAs in the team, and encouraging consistent ways of working across the team.\n\nWe are looking for experts in areas like Manufacturing, Supply Change Management, Maintenance, Finance and Mobile Work Order but at the same time we expect successful candidates to bring a versatility and a drive to learn other functional areas supported within the team.\n\nYou are expected to possess a commercial mindset, enjoy the challenge of solving reported problems with high quality, while retaining ownership and driving timely resolution and having a high standard of communications that ensure business continuity, and ultimately lead to highly referenceable customers that are more efficient and successful.\n\nKey Duties and Accountabilities\n\n• Build a strong understanding of customer business processes, operational challenges, and strategic objectives.\n• Work closely with customers and internal stakeholders to gather, analyze, clarify, and document business requirements.\n• Participate in discovery sessions, service reviews, and solution discussions.\n• Help customers adopt recommended practices and gain greater value from IFS solutions.\n• Provide a dependable point of contact for functional and business process-related inquiries within the assigned scope.\n• Understand the design and configuration of business solutions aligned with validated customer requirements and agreed standards.\n• Contribute functional and business process expertise to solution architecture discussions.\n• Assist project teams in documenting solution designs, process flows, assumptions, decisions, dependencies, and business requirements.\n• Identify opportunities to improve solution utilization, automation, integration, and operational efficiency.\n• Support the assessment of enhancement requests and help formulate practical solution options, including impacts and constraints.\n• Escalate design risks, cross-functional dependencies, during investigations\n• Manage and progress customer incidents, service requests, and functional inquiries in line with agreed service levels, quality expectations, and operating procedures.\n• Analyze business application issues and collaborate with technical and functional teams to reproduce problems, identify causes, and validate corrective actions.\n• Support customer onboarding and service transition activities, including readiness checks, documentation, and knowledge transfer.\n• Monitor recurring issues and service trends and contribute to root cause analysis, preventative actions, and service improvement plans.\n• Promote consistent delivery practices that strengthen customer experience, service quality, and operational effectiveness.\n• Support functional validation, system testing, regression testing, and user acceptance activities.\n• Assist in planning and executing validation for service updates, release updates and customer-specific enhancements.\n• Document test outcomes, defects, risks, and follow-up actions clearly and accurately.\n• Develop depth in one or more IFS solution areas while building broader knowledge across connected business processes.\n• Create and maintain knowledge articles, solution guidance, process documentation, and operational procedures.\n• Share knowledge, lessons learned and recommend practices with colleagues and stakeholders.\n• Stay informed about IFS product developments, relevant industry practices, and emerging technologies.\n• Work within established design principles, delivery methods, security requirements, and governance processes.\n• Maintain clear ownership of assigned actions and provide timely, transparent progress updates.\n\nQualifications\nRequired\n\n• A bachelor’s degree in information technology, business Information or equivalent.\n• 2+ years’ hands-on experience in working in a business analysis related role along with thorough knowledge of working with different Business Applications. Knowledge of IFS Cloud would be a key differentiator\n• Experience in a modern ticket/service desk tooling such as ServiceNow, Jira Service Desk, or a similar tool\n• Experience in Asset Management or Service Management\n\nDesirable\n\n• ITIL qualifications, at foundation or higher levels\n• Functional knowledge in Planning and Scheduling optimization and Mobile work order will be an advantage\n\nAdditional Information\nWe believe that coming together as a community, in person, is important for innovation, connection and fostering a sense of belonging. Our roles have the right balance of remote and in-office working to enable flexibility for managing your life along with ensuring a real connection with your colleagues and the broader IFS community."
-  },
-  {
    "id": "ifs:744000152614875",
    "source": "ifs",
    "company": "IFS",
@@ -6567,29 +6749,6 @@
    "url": "https://jobs.smartrecruiters.com/ifs1/744000152614875",
    "first_seen": "2026-10-04T17:59:24Z",
    "description": "Job Description\nThe SOC Manager is a strategic leadership role responsible for managing and overseeing all Security Operations Center activities on a 24x7 basis which is part of the Product & Customer Organization (PCO). In this position, you will lead a team of security engineers and analysts, manage major security incidents, ensure regulatory compliance, and drive continuous security posture improvements. You will be reporting to the Director of Cloud Services and Security who is responsible for PCO organization that manages cloud security strategy, infrastructure architecture oversight, operations alignment, and enterprise cloud and security initiatives.\n\nEssential duties and accountabilities\n\n•\nLead and manage the day-to-day operations of the Cloud Security Operations Center (CSOC)\n\n•\nDrive continuous improvement of the organization's security posture through collaboration with engineering, platform, and product teams.\n\n•\nOversee vulnerability management activities and ensure timely remediation of identified security risks and weaknesses.\n\n•\nSupport internal and external security audits, compliance assessments, customer security reviews, and evidence collection activities.\n\n•\nDevelop, maintain, and continuously improve SOC processes, procedures, runbooks, knowledge base articles (KBAs), and operational documentation.\n\n•\nPlan, coordinate, and facilitate cybersecurity tabletop exercises, incident simulations, and operational readiness activities.\n\n•\nDefine, monitor, and report on SOC Key Performance Indicators (KPIs), Service Level Agreements (SLAs), and operational metrics to drive continuous improvement.\n\n•\nLead the SOC's workforce and reporting transformation for AI adoption redesigning analyst roles and upskilling paths toward AI-oversight and threat-hunting specialization, tracking automation effectiveness metrics, and acting as executive liaison for AI-related security incidents and governance decisions.\n\n•\nEvaluate and recommend security technologies, automation opportunities, and operational improvements to enhance SOC maturity and effectiveness.\n\n•\nLead, mentor, and develop Security Engineers and Analysts, including hiring, onboarding, performance management, succession planning, and promotion assessments.\n\n•\nAny other duties as designated by the line manager.\n\nOverall required competence\n\n•\nStrong leadership and people management skills\n\n•\nOwn the AI augmented SOC operating model\n\n•\nExcellent stakeholder communication and executive reporting capabilities.\n\n•\nSolid understanding of cloud security technologies and security architecture.\n\n•\nStrong understanding of Security Operations Center functions and best practices. \n\n•\nITSM knowledge will be an added advantage. \n\n•\nAn ability to build strong relationships with internal teams, and senior leadership is essential\n\nQualifications\nEssential: A degree in Information Security, Computer Science, or Information Technology with 5+ years of Security Operations Center, Incident Response, or Cyber Security Operations experience including 2+ years in a team leadership or management role.\n\n Desirable:  \n\n•\nExperience managing global or distributed SOC teams\n\n•\nExperience supporting enterprise compliance programs and security audits.\n\n•\nOne combination of: CISSP/CISM/CEH /CCSK / Security+ or other similar qualifications.\n\n•\nAny cloud security specific certification or other qualifications is an added advantage.\n\n•\nPrevious experience on any of cloud providers (Amazon Web Services, Microsoft Azure, Google Cloud)\n\n•\nKnowledge of automation, orchestration, and AI-driven security operations capabilities.\n\nAdditional Information\nWe embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships."
-  },
-  {
-   "id": "ifs:744000152598329",
-   "source": "ifs",
-   "company": "IFS",
-   "via": "",
-   "title": "Senior / Lead IFS Projects Consultant (IGT1)",
-   "field": "ERP & Business Apps",
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "countries": [
-    "Sri Lanka"
-   ],
-   "locations": [
-    "Port City, Western Province, Sri Lanka"
-   ],
-   "workplace_type": "Hybrid",
-   "category": "Consulting",
-   "posted_date": "2026-09-30",
-   "summary": "",
-   "url": "https://jobs.smartrecruiters.com/ifs1/744000152598329",
-   "first_seen": "2026-10-04T17:59:24Z",
-   "description": "Job Description\nAbout the Client: Centric\n\nCentric Global is a growing technology company with offices in Kenya, Dubai, and Sri Lanka, specializing in ICT, enterprise applications, and digital transformation solutions.\n\nAs an IFS partner, Centric Global delivers IFS ERP solutions and supports organizations across various industries with implementation, consulting, optimization, and technology services. The company also partners with global technology providers including Microsoft, AWS, SUSE, Kaspersky, and Red Hat.\n\nWith a focus on innovation, regional growth, and customer success, Centric Global brings together talented technology professionals to deliver scalable solutions and create meaningful impact for clients across the region.\n\nJoin Centric Global and be part of a growing team delivering technology solutions that help businesses operate smarter and grow sustainably.\n\nAbout the role:\n\nWe are hiring a Senior / Lead IFS Projects Consultant to lead the implementation and support of project management and project accounting processes in IFS Cloud.\n\nYou will own the Projects workstream end-to-end from solution design and configuration to Go-Live, hypercare, and continuous improvement.\n\nKey Responsibilities:\n\n• Lead Projects Fit-to-Standard workshops and solution design\n• Configure modules:\n\no Project Planning & Structure (WBS)\n\no Project Budgeting & Forecasting\n\no Resource Planning\n\no Project Costing & Revenue Recognition\n\no Time & Expense Management\n\n• Align project accounting with Finance (GL, costing, revenue)\n• Support project data migration and validation\n• Drive Project-to-Cash lifecycle optimization\n• Support integrations (Finance, Procurement, HR/Resource Management)\n• Lead SIT, UAT, and Go-Live activities\n• Provide L2/L3 support and continuous improvement post Go-Live\n• Engage stakeholders across PMO, Finance, and Operations\n\nQualifications\nRequired Skills & Experience:\n\n• Bachelor’s degree in a related field\n• 7+ years ERP Projects / Project Accounting consulting experience\n• Proven delivery in IFS Applications or IFS Cloud\n• Strong understanding of:\n\no Project lifecycle (initiation → execution → closure)\n\no Project costing, billing, and revenue recognition\n\n• Experience in data migration, UAT, and Go-Live support\n• Strong stakeholder management and workshop facilitation skills\n• Relevant IFS certifications preferred\n• The role involves travel to customer sites to support client engagements, project delivery, stakeholder meetings, and other business requirements. Candidates must be willing and able to travel internationally as required by the role.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
   },
   {
    "id": "syscolabs:R268425",
@@ -6659,29 +6818,6 @@
    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Quality-Engineer_R263962",
    "first_seen": "2026-10-04T17:59:24Z",
    "description": "JOB DESCRIPTION\n\nSenior Quality Engineer\n\nAbout Sysco LABS:\n\nSysco LABS is the Global In-House Center of Sysco Corporation (NYSE: SYY), the world’s largest foodservice company. Sysco ranks 55th in the Fortune 500 list and is the global leader in the trillion-dollar foodservice industry.\n\nSysco operates 333 distribution centers across 10 countries, with 75,000 colleagues serving approximately 670,000 customer locations, including restaurants, healthcare and educational facilities, lodging establishments, entertainment venues and more. For fiscal year 2026, which ended June 27, 2026, the company generated sales of more than $84 billion.\n\nSysco LABS Sri Lanka delivers the technology that powers Sysco’s end-to-end operations.\n\nSysco LABS’ enterprise technology is present in the end-to-end foodservice journey, enabling the sourcing of food products, merchandising, storage and warehouse operations, order placement and pricing algorithms, the delivery of food and supplies to Sysco’s global network and the in-restaurant dining experience of the end-customer.\n\nThe Opportunity\n\nWe are currently on the lookout for a Senior Quality Engineer to join our team.\n\nResponsibilities:\n\n•\nCreating and enhancing test cases and executing them with limited supervision\n\n•\nProviding constructive feedback on test cases/test plans developed by Junior team members\n\n•\nReviewing functional and non-functional requirements and specifications\n\n•\nProducing test Artifacts such as Test Strategy, Test Plan, Test Cases, and Test Metrics reports\n\n•\nDebugging and troubleshooting issues, analyzing root causes with relevant tools, and logging defects in the defect tracking system with adequate information\n\n•\nWorking closely with development teams to shake out bugs early in the development process\n\n•\nBuilding and establishing the overall QE process\n\n•\nDesign, develop, maintain, and enhance automated testing solutions across web, API, mobile, and service-oriented applications\n\n•\nContribute to automation framework development, CI/CD quality controls, and automation-first practices that improve testing speed, reliability, maintainability, and coverage\n\nRequirements:\n\n•\nA Bachelor’s Degree in Computer Science, IT or an equivalent qualification\n\n•\nA minimum of 3 years of work experience in software testing\n\n•\nExperience in test planning, test design, and functionality testing\n\n•\nExpert knowledge of quality engineering methodologies, automated testing tools (Selenium/Appium), and continuous integration systems\n\n•\nExperience in QE tools such as QMetry, HP ALM, JIRA, and Confluence\n\n•\nStrong Knowledge of Java, OOP concepts and coding standards\n\n•\nMust be skilled at evaluating existing processes and procedures and making recommendations for improvement; designing proof of concepts that best fit company needs\n\n•\nA solid practical understanding of Agile Software Testing and Software Engineering concepts\n\n•\nEffective communication (oral and written) skills including problem-solving, prioritizing, and interpersonal relationship building\n\n•\nA thirst for learning and regularly updating knowledge\n\n•\nThe ability to work independently and maintain good relationships with the team members\n\n•\nExperience with SQL, database testing, and data-level validation techniques to ensure data accuracy, integrity, and consistency across applications and integrations\n\n•\nKnowledge of CI/CD concepts and experience working with engineering and collaboration tools such as Jenkins, Git, Maven or equivalent platforms\n\n•\nHands-on experience designing, developing, and maintaining automated testing solutions using Postman, Rest Assured or related open-source frameworks.\n\n•\nHands-on experience in Python-based test automation\n\n•\nUnderstanding of data warehouses, data lakes, lakehouse architectures, ETL, ELT, data pipelines, and analytical data models\n\n•\nExperience with cloud data platforms such as BigQuery, Snowflake Redshift or equivalent technologies will be an added advantage\n\nBenefits:\n\n•\nPerformance-based annual bonus \n\n•\nPerformance rewards and recognition \n\n•\nAgile Benefits - special allowances for Health, Wellness & Academic purposes \n\n•\nPaid birthday leave\n\n•\nTeam engagement allowance \n\n•\nComprehensive Health & Life Insurance Cover - extendable to parents and in-laws \n\n•\nHybrid work arrangement \n\nSysco LABS is an Equal Opportunity Employer"
-  },
-  {
-   "id": "accenture:13993595",
-   "source": "accenture",
-   "company": "Accenture",
-   "via": "",
-   "title": "Security Transformation Associate Manager",
-   "field": "Cybersecurity",
-   "country_code": "KW",
-   "country": "Kuwait",
-   "countries": [
-    "Kuwait"
-   ],
-   "locations": [
-    "Kuwait City"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-09-27",
-   "summary": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuwait-City/Security-Delivery-Consultant_13993595",
-   "first_seen": "2026-10-04T17:59:24Z",
-   "description": "About Accenture\n\nAccenture is a leading global professional services company, providing a broad range of services in strategy and consulting, song, technology and operations, with digital capabilities across all of these services. We combine unmatched experience and specialized capabilities across more than 40 industries – powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. With 799,000 people serving clients in more than 120 countries, Accenture brings continuous innovation to help clients improve their performance and create lasting value across their enterprises. Visit us at www.accenture.com.\n\nAccenture Security\n\nJoin Accenture Security to pioneer security solutions that blend risk strategy, digital identity, cyber defense, application security and managed services. Using the coolest next-gen tech, you’ll have every chance to stay one step ahead of cybercrime and out-hack the hackers.\n\nAccenture Security provides comprehensive security services – from security strategy development to business transformation, to managed security services – on demand and at a global scale to help mitigate risks and take full advantage of advanced technologies and proven risk management models. Our experienced team of global security professionals helps businesses understand their risks and build resilience from the inside out, giving them the confidence to focus on what matters most: innovation and business growth.\n\nAs a Security Delivery Associate Manager, you will lead the design, delivery, and continuous improvement of security solutions across client engagements. You will own end-to-end accountability for defining security requirements, overseeing the build of security components, and ensuring rigorous testing standards are met. Operating as a subject matter expert, you will guide and manage your team's day-to-day performance while actively contributing to broader practice decisions and cross-team initiatives.\n\nKey Responsibilities\n\n• Lead the planning and execution of Security Operations Center (SOC) programmes, driving strategic direction and operational effectiveness across engagements\n• Oversee the implementation and optimisation of Security Information and Event Management (SIEM) solutions, ensuring alignment with client environments and evolving threat landscapes\n• Define and translate security requirements into scalable, practical architecture and delivery approaches\n• Drive team performance through clear direction, structured ways of working, and a culture of accountability — managing resource allocation, workload, and quality across concurrent workstreams\n• Develop and champion innovative security strategies that align with organisational goals and client risk appetite\n• Conduct and lead regular vulnerability assessments, translating findings into actionable remediation roadmaps\n• Facilitate capability-building sessions and knowledge transfer to elevate team expertise on security protocols, tools, and emerging practices\n• Collaborate with cross-functional teams — including infrastructure, application, and risk functions — to ensure security is embedded comprehensively across the delivery lifecycle\n• Serve as a key point of escalation for complex security challenges, providing sound, timely solutions that balance risk, cost, and business impact\n• Stay current on the latest security trends, threat intelligence, and emerging technologies, continuously evolving team practices in response\n\nQualifications & Experience\n\nEducation\n\n• Bachelor's degree in Computer Science, Information Security, Information Systems, or a related technical discipline. A Master's degree is advantageous but not required.\n\nExperience\n\n• 6–9 years of progressive experience in cybersecurity, with a meaningful portion in delivery or consulting environments\n• Demonstrated experience managing or leading security teams, including responsibility for team performance, development, and workload management\n• Proven track record delivering complex security programs across SOC, SIEM, threat detection, incident response, or related domains\n• Experience working in or with large, matrixed organizations — ideally across multiple industries or client environments\n• Exposure to security program governance, risk management frameworks, and regulatory compliance requirements (e.g. NIST, ISO 27001, NCA ECC for KSA-based roles) is strongly preferred\n\nTechnical Proficiency\n\n• Expert-level proficiency in SOC planning, operations, and maturity assessment — required\n• Advanced proficiency in SIEM platforms (e.g. Microsoft Sentinel, Splunk, IBM QRadar, or equivalent) — strongly preferred\n• Working knowledge of endpoint detection and response (EDR), threat intelligence platforms, SOAR tools, and cloud security principles\n• Familiarity with identity and access management (IAM), network security architecture, and vulnerability management tools\n• Comfort with data and analytics as applied to security operations — including log analysis, correlation rule development, and security metrics reporting\n\nCertifications\n\n• Professional security certifications are strongly valued. Preferred credentials include one or more of the following: CISSP, CISM, CEH, CompTIA Security+, Microsoft SC-200, or equivalent SIEM/SOC-specific certifications\n• Cloud security certifications (e.g. AWS Security Specialty, Azure Security Engineer) are a plus, particularly for engagements with significant cloud footprint\n\nSoft Skills & Leadership Attributes\n\n• Strong executive presence with the ability to communicate complex security concepts clearly to both technical and non-technical stakeholders\n• Proven ability to manage ambiguity, prioritize competing demands, and maintain delivery momentum in fast-moving environments\n• A coaching mindset — invested in the growth of team members and capable of creating an environment where people perform at their best\n• Collaborative by nature, with the ability to build trust and influence across functions, geographies, and seniority levels\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
   },
   {
    "id": "syscolabs:R252321-1",
@@ -6912,29 +7048,6 @@
    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Architect---DevOps_R250555",
    "first_seen": "2026-10-04T17:59:24Z",
    "description": "JOB DESCRIPTION\n\nArchitect – DevOps\n\nFocus: Internal Developer Platform (IDP), Security & Developer Experience (DevEx)\n\nAbout Sysco LABS:\n\nSysco LABS is the Global In-House Center of Sysco Corporation (NYSE: SYY), the world’s largest foodservice company. Sysco ranks 56th in the Fortune 500 list and is the global leader in the trillion-dollar foodservice industry.\n\nSysco employs over 75,000 associates, has 337 smart distribution facilities worldwide and over 14,000 IoT-enabled trucks serving 730,000 customer locations. For fiscal year 2025 that ended June 29, 2025, the company generated sales of more than $81.4 billion.\n\nSysco LABS Sri Lanka delivers the technology that powers Sysco’s end-to-end operations.\n\nSysco LABS’ enterprise technology is present in the end-to-end foodservice journey, enabling the sourcing of food products, merchandising, storage and warehouse operations, order placement and pricing algorithms, the delivery of food and supplies to Sysco’s global network and the in-restaurant dining experience of the end-customer.\n\nRole Mission\n\nAs an Architect - DevOps, you are responsible for building the Internal Developer Platform (IDP) that serves as the foundation for our entire engineering organization. You will move beyond “tickets and tasks” to build a scalable, self-service product that encapsulates infrastructure, security, and deployment into a seamless API or UI. Your goal is to provide Golden Paths—opinionated, pre-approved workflows that allow developers to focus on shipping features rather than managing YAML.\n\nExpanded Platform Engineering Responsibilities\n\n• AI-Native Platform Foundations: Design and scale the underlying platform infrastructure required to support high-performance AI workloads. Build reusable platform capabilities that simplify the deployment, orchestration, and continuous monitoring of large language models (LLMs), vector databases, and agentic workflows.\n• Platform-as-a-Product: Shape the platform roadmap by seeing internal developers as your customers. Use metrics such as Internal Net Promoter Score (iNPS) and Developer Velocity to decide which features to build first.\n• Self-Service Infrastructure: Build and maintain an orchestration layer that allows developers to spin up databases, caches, and clusters via a service catalog.\n• Abstraction & API Design: Create high-level abstractions, so developers don’t need to be Kubernetes experts. You will design the APIs or CLI tools that hide underlying cloud complexity.\n• The Golden Path: Create “paved roads” for common architectural patterns (e.g., Microservices, Event-driven workers) that include automated logging, monitoring, and security by default.\n• Observability & Reliability: Build the platform’s “control plane” to provide centralized telemetry, enabling teams to own their application health.\n• FinOps & Resource Management: Set up automated cost tracking and resource limits in the platform to help control cloud spending.\n• Security-as-Code: Turn company security policies into automated checks that block non-compliant deployments and collect audit evidence automatically.\n• Secure Supply Chain & Zero Trust: Build a trusted software supply chain with artifact scanning, image signing, and policy-based verification. Implement identity-based access and least-privilege permissions, eliminating static secrets and enabling Zero Trust principles across environments.\n\nTechnical Profile: The “Platform” Stack\n\n• Control Planes: Deep experience with Kubernetes Operators and Custom Resource Definitions (CRDs) to extend K8s into a custom platform.\n• Infrastructure Orchestration: Experience using Infrastructure as Code (IaC) tools like Terraform, Ansible, or OpenTofu to provision GKE & EKS environments at scale.\n• Developer Interface: Practical experience building developer-facing platforms and portals. Experience with the Backstage framework is preferred, with a focus on usability, discoverability, and driving platform adoption.\n• Internal Tooling: Skilled at building custom command-line tools in Go or Rust to make complex developer workflows easier.\n\nBenefits:\n\n• Performance-based annual bonus\n• Performance rewards and recognition\n• Agile Benefits - special allowances for Health, Wellness & Academic purposes\n• Entertainment allowance\n• Team engagement allowance\n• Comprehensive Health & Life Insurance Cover - extendable to parents and in-laws\n• Hybrid work arrangement\n\nSysco LABS is an Equal Opportunity Employer"
-  },
-  {
-   "id": "syscolabs:R250917",
-   "source": "syscolabs",
-   "company": "Sysco LABS",
-   "via": "",
-   "title": "Senior Engineer - DevOps",
-   "field": "DevOps & Cloud",
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "countries": [
-    "Sri Lanka"
-   ],
-   "locations": [
-    "Sysco LABS  -  Sri Lanka"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-08-04",
-   "summary": "",
-   "url": "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Engineer---DevOps_R250917",
-   "first_seen": "2026-10-04T17:59:24Z",
-   "description": "JOB DESCRIPTION\n\nSenior Engineers – DevOps \n\nAbout Sysco LABS:\n\nSysco LABS is the Global In-House Center of Sysco Corporation (NYSE: SYY), the world’s largest foodservice company. Sysco ranks 56th in the Fortune 500 list and is the global leader in the trillion-dollar foodservice industry.\n\nSysco employs over 75,000 associates, has 337 smart distribution facilities worldwide and over 14,000 IoT-enabled trucks serving 730,000 customer locations. For fiscal year 2025 that ended June 29, 2025, the company generated sales of more than $81.4 billion.\n\nSysco LABS Sri Lanka delivers the technology that powers Sysco’s end-to-end operations.\n\nSysco LABS’ enterprise technology is present in the end-to-end foodservice journey, enabling the sourcing of food products, merchandising, storage and warehouse operations, order placement and pricing algorithms, the delivery of food and supplies to Sysco’s global network and the in-restaurant dining experience of the end-customer.\n\nThe Opportunity:\n\nWe are currently on the lookout for Senior Engineers - DevOps - to join our team.\n\nResponsibilities:\n\n•\nResearching, evaluating and recommending DevOps tools in multiple technologies for multiple development teams\n\n•\nDeploying, automating, maintaining and managing AWS cloud-based production systems, to ensure the availability, performance, scalability and security of productions systems\n\n•\nBuilding, releasing and configuration management of production systems that need to be supported 24* 7 uptime\n\n•\nEnsuring critical system security using the best-in-class cloud security solutions\n\n•\nCoaching development teams in DevOps practices and guiding the team to implement effective DevOps\n\n•\nWorking collaboratively in a cross-functional team in an Agile delivery environment\n\n•\nBeing involved in projects throughout their full software lifecycle: from development, QA, and deployment, to post-production support\n\nRequirements\n\n•\nA Bachelor’s Degree in Computer Science or equivalent, and 2-4 years of experience in DevOps\n\n•\nA strong knowledge of AWS cloud computing and AWS DevOps tools\n\n•\nStrong knowledge in fundamental DevOps tools such as AWS DevOps tools, Terraform, Jenkins, GoCD, GitHub, Nagios, Chef etc.\n\n•\nStrong knowledge on containerization of software packages using solutions such as Dockerization, Kubernetes, AWS ECS and AWS Fargate, etc.\n\n•\nHands-on experience designing, developing, testing and troubleshooting DevOps tools in production systems\n\n•\nAdherence to engineering standards, best practices – must be process-oriented\n\n•\nStrong communication skills – reading and comprehending documents/specifications, producing clear and thorough documentation, and the ability to discuss and explain technical issues during meetings\n\n•\n1+ years of experience with at least one dynamic object-oriented programing language like Groovy, Ruby or Python; Experience with a programming language like Java, C#, Node.js JavaScript and related web frameworks will be an added advantage\n\n \n\nBenefits:\n\n•\nPerformance-based annual bonus\n\n•\nPerformance rewards and recognition\n\n•\nAgile Benefits - special allowances for Health, Wellness & Academic purposes\n\n•\nPaid birthday leave Team engagement allowance\n\n•\nComprehensive Health & Life Insurance Cover - extendable to parents and in-laws\n\n•\nHybrid work arrangement\n\nSysco LABS is an Equal Opportunity Employer."
   },
   {
    "id": "fortinet:23600",
