@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T10:09:44Z",
+ "updated_at": "2026-11-24T01:26:36Z",
  "fields": [
   "Cybersecurity",
   "Data & AI",
@@ -21,35 +21,35 @@
    "id": "eand",
    "company": "e& (Etisalat)",
    "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
-   "it_jobs": 9,
-   "listed": 25,
-   "in_location": 25,
-   "it": 9,
-   "new": 0
+   "last_ok_at": "2026-11-24T01:26:36Z",
+   "it_jobs": 10,
+   "listed": 26,
+   "in_location": 26,
+   "it": 10,
+   "new": 1
   },
   {
    "id": "fortinet",
    "company": "Fortinet",
    "careers_page": "https://www.fortinet.com/corporate/careers",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 16,
-   "listed": 1092,
+   "listed": 1090,
    "in_location": 26,
    "it": 16,
-   "new": 1
+   "new": 0
   },
   {
    "id": "g42",
    "company": "G42",
    "careers_page": "https://careers.g42.ai/global/en/home",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 33,
    "listed": 47,
    "in_location": 34,
@@ -60,35 +60,35 @@
    "id": "ifs",
    "company": "IFS",
    "careers_page": "https://www.ifs.com/en/about/careers",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 24,
-   "listed": 251,
+   "listed": 249,
    "in_location": 35,
    "it": 24,
-   "new": 1
+   "new": 0
   },
   {
    "id": "accenture",
    "company": "Accenture",
    "careers_page": "https://www.accenture.com/ae-en/careers",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
-   "it_jobs": 27,
-   "listed": 30,
-   "in_location": 30,
-   "it": 27,
-   "new": 0
+   "last_ok_at": "2026-11-24T01:26:36Z",
+   "it_jobs": 28,
+   "listed": 31,
+   "in_location": 31,
+   "it": 28,
+   "new": 2
   },
   {
    "id": "syscolabs",
    "company": "Sysco LABS",
    "careers_page": "https://syscolabs.lk/careers",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 39,
    "listed": 45,
    "in_location": 45,
@@ -99,9 +99,9 @@
    "id": "presight",
    "company": "Presight",
    "careers_page": "https://careers.presight.ai/",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 1,
    "listed": 3,
    "in_location": 3,
@@ -112,9 +112,9 @@
    "id": "khazna",
    "company": "Khazna Data Centers",
    "careers_page": "https://khaznadatacenters.com/careers/",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 0,
    "listed": 7,
    "in_location": 7,
@@ -125,12 +125,12 @@
    "id": "m42",
    "company": "M42",
    "careers_page": "https://careers.m42.ae/jobs",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 2,
-   "listed": 105,
-   "in_location": 99,
+   "listed": 102,
+   "in_location": 96,
    "it": 2,
    "new": 0
   },
@@ -138,12 +138,12 @@
    "id": "astratech",
    "company": "Astra Tech",
    "careers_page": "https://careers.astratech.ae/jobs",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 5,
-   "listed": 25,
-   "in_location": 22,
+   "listed": 26,
+   "in_location": 21,
    "it": 5,
    "new": 0
   },
@@ -151,22 +151,22 @@
    "id": "amazon",
    "company": "Amazon",
    "careers_page": "https://www.amazon.jobs/content/en/locations/united-arab-emirates",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
-   "it_jobs": 31,
-   "listed": 139,
-   "in_location": 139,
-   "it": 31,
-   "new": 0
+   "last_ok_at": "2026-11-24T01:26:36Z",
+   "it_jobs": 33,
+   "listed": 142,
+   "in_location": 142,
+   "it": 33,
+   "new": 3
   },
   {
    "id": "apple",
    "company": "Apple",
    "careers_page": "https://jobs.apple.com/en-ae/search?location=united-arab-emirates-ARE",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 0,
    "listed": 55,
    "in_location": 28,
@@ -177,51 +177,48 @@
    "id": "edge",
    "company": "EDGE",
    "careers_page": "https://careers.edgegroup.ae/go/View-All-Jobs/4166222/",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
-   "it_jobs": 46,
-   "listed": 185,
-   "in_location": 185,
-   "it": 46,
-   "new": 3
+   "last_ok_at": "2026-11-24T01:26:36Z",
+   "it_jobs": 45,
+   "listed": 183,
+   "in_location": 183,
+   "it": 45,
+   "new": 0
   },
   {
    "id": "adnoc",
    "company": "ADNOC",
    "careers_page": "https://jobs.adnoc.ae/us/en/search-results",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 5,
    "listed": 68,
    "in_location": 68,
    "it": 5,
-   "new": 2
+   "new": 0
   },
   {
    "id": "michaelpage",
    "company": "Michael Page (recruiter)",
    "careers_page": "https://www.michaelpage.ae/jobs/technology/united-arab-emirates",
-   "checked_at": "2026-11-23T10:09:44Z",
-   "ok": true,
+   "checked_at": "2026-11-24T01:26:36Z",
+   "ok": false,
    "last_ok_at": "2026-11-23T10:09:44Z",
-   "it_jobs": 16,
-   "listed": 26,
-   "in_location": 26,
-   "it": 16,
-   "new": 0
+   "error": "GET https://www.michaelpage.ae/jobs/technology/united-arab-emirates failed: HTTP Error 503: Service Unavailable",
+   "it_jobs": 16
   },
   {
    "id": "fab",
    "company": "First Abu Dhabi Bank (FAB)",
    "careers_page": "https://www.bankfab.com/en-ae/about-fab/careers",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 7,
-   "listed": 83,
-   "in_location": 79,
+   "listed": 86,
+   "in_location": 82,
    "it": 7,
    "new": 0
   },
@@ -229,35 +226,35 @@
    "id": "altayer",
    "company": "Al Tayer Group",
    "careers_page": "https://www.altayer.com/careers",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 2,
-   "listed": 100,
-   "in_location": 100,
+   "listed": 99,
+   "in_location": 99,
    "it": 2,
-   "new": 1
+   "new": 0
   },
   {
    "id": "maf",
    "company": "Majid Al Futtaim",
    "careers_page": "https://careers.majidalfuttaim.com/global/en/home",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
-   "it_jobs": 18,
-   "listed": 259,
-   "in_location": 167,
-   "it": 18,
-   "new": 2
+   "last_ok_at": "2026-11-24T01:26:36Z",
+   "it_jobs": 19,
+   "listed": 260,
+   "in_location": 168,
+   "it": 19,
+   "new": 0
   },
   {
    "id": "nyuad",
    "company": "NYU Abu Dhabi",
    "careers_page": "https://nyuad.nyu.edu/en/about/careers.html",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 2,
    "listed": 21,
    "in_location": 21,
@@ -268,22 +265,22 @@
    "id": "salt",
    "company": "SALT (recruiter)",
    "careers_page": "https://welovesalt.com/job-category/united-arab-emirates",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 16,
    "listed": 16,
    "in_location": 16,
    "it": 16,
-   "new": 3
+   "new": 0
   },
   {
    "id": "charterhouse",
    "company": "Charterhouse (recruiter)",
    "careers_page": "https://www.charterhouseme.ae/jobs/information-technology",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 1,
    "listed": 1,
    "in_location": 1,
@@ -294,9 +291,9 @@
    "id": "nvidia",
    "company": "NVIDIA",
    "careers_page": "https://jobs.nvidia.com/careers",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 2,
    "listed": 2,
    "in_location": 2,
@@ -307,9 +304,9 @@
    "id": "enec",
    "company": "ENEC",
    "careers_page": "https://careers.enec.ae/search/",
-   "checked_at": "2026-11-23T10:09:44Z",
+   "checked_at": "2026-11-24T01:26:36Z",
    "ok": true,
-   "last_ok_at": "2026-11-23T10:09:44Z",
+   "last_ok_at": "2026-11-24T01:26:36Z",
    "it_jobs": 6,
    "listed": 58,
    "in_location": 58,
@@ -318,6 +315,144 @@
   }
  ],
  "jobs": [
+  {
+   "id": "eand:10786",
+   "source": "eand",
+   "company": "e& (Etisalat)",
+   "via": "",
+   "title": "Director/AI & Emerging Technology Assurance",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-23",
+   "summary": "Lead the assurance activities within the Risk & Assurance department, focusing on digital applications, infrastructure, services such as AI, Data, IoT, Cloud, Blockchain, Fintech, SaaS, Web & Mobile Applications, Cybersecurity and Emerging Technologies. This role is pivotal in safeguarding the interests of e& group and its verticals by ensuring corporate strategies, values and business goals are met through comprehensive assurance over digital applications, infrastructure, and services. The incumbent will drive the development and execution of the annual assurance plan, collaborate with key stakeholders, and provide expert guidance on digital transformation, cloud strategy and emerging technologies. By identifying and mitigating risks, and fostering a culture of continuous improvement, the job role will enhance the organization’s AI & emerging technologies assurance.",
+   "url": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10786",
+   "first_seen": "2026-11-24T01:26:36Z",
+   "description": "Lead the assurance activities within the Risk & Assurance department, focusing on digital applications, infrastructure, services such as AI, Data, IoT, Cloud, Blockchain, Fintech, SaaS, Web & Mobile Applications, Cybersecurity and Emerging Technologies. This role is pivotal in safeguarding the interests of e& group and its verticals by ensuring corporate strategies, values and business goals are met through comprehensive assurance over digital applications, infrastructure, and services. The incumbent will drive the development and execution of the annual assurance plan, collaborate with key stakeholders, and provide expert guidance on digital transformation, cloud strategy and emerging technologies. By identifying and mitigating risks, and fostering a culture of continuous improvement, the job role will enhance the organization’s AI & emerging technologies assurance.\n\nResponsibilities\nKey Responsibilities :\n\n• Lead the development of an annual risk-based audit plan and leverage subject matter expertise across respective domains including digital applications, infrastructure and services such as AI, Data, IoT, Cloud, Blockchain, Fintech, SaaS, Web & Mobile Applications, Cybersecurity, Customer Experience, DevOps, and Emerging Technologies ensuring comprehensive coverage to protect e& group and its verticals and adherence to applicable regulations and business standards.\n• Assist the VP/Digital, AI & Emerging Technology Assurance to establish and maintain a robust assurance framework across respective domains, encompassing strategy, risk management, annual plan, performance management, reporting, training and development to enhance operational efficiency, streamline processes, and optimize resources.\n• Lead the planning and execution of comprehensive assurance activities across digital applications, infrastructure & services, and emerging technologies including risk-based internal audits, integrated cross-functional assignments and compliance audits.\n• Champion the integration of automated assurance processes, staying abreast of emerging risks, industry best practices, and technological advancements to continually refine audit methodologies.\n• Leveraging advanced technologies, such as AI and data analytics, to improve the efficiency and effectiveness of execution and reporting while ensuring compliance with regulatory and industry standards applicable to the e& group, verticals and subsidiaries.\n• Lead and oversee internal audit reports across digital applications, infrastructure & services, and emerging technologies ensuring findings and recommendations are objective, actionable and aligned with stakeholders, thereby adding value to processes while supporting executive management in making informed decisions to mitigate risks.\n• Encourage innovative thinking and agile response to emerging challenges, driving process improvements and efficient practices within the audit framework.\n• Establish results-driven goals for the assurance resources and integrate a robust performance monitoring and feedback mechanism demonstrating resilience and adaptability in overcoming challenges to deliver high-quality results that align with e&’s strategic objectives, while ensuring ongoing, constructive feedback fosters continuous development and enhances the overall performance of pool resources.\n• Continuously monitor and evaluate emerging risks and challenges in digital environments, including Digital Transformation, Cloud Strategy and Emerging Technology, ensuring that the assurance program remains adaptable and resilient to changes in the environment\n\nQualifications\nQualifications & Experience :\n\n• Bachelors Degree in IT / Telecom Engineering or related field; Professional Certification such as CISA.\n• 12+ years of audit experience in technology, digital services or related field, with at least 6+ years in leadership role, managing audit teams and projects\n\nWe thank all applicants for their interest, however only those shortlisted for an interview will be contacted. If you have not heard from us within two weeks of your application, please consider your application as unsuccessful.\n\nAt e& diversity is our strength and we are committed to creating an inclusive environment for all. We welcome and encourage all people to apply, regardless of gender, background, age and abilities. If you are a person of determination and require an adjustment or accommodation to the selection process, please send your request to DiversityEquity&Inclusion@eand.com"
+  },
+  {
+   "id": "amazon:10611315",
+   "source": "amazon",
+   "company": "Amazon",
+   "via": "",
+   "title": "Sr. ProServe Cloud Architect, Professional Services MENAT",
+   "field": "DevOps & Cloud",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "Solutions Architect",
+   "posted_date": "2026-11-23",
+   "summary": "AWS Professional Services (ProServe) is seeking a Senior Cloud Architect to support enterprise customers across the Middle East, with a focus on the UAE and Saudi Arabia. You will work directly with customers",
+   "url": "https://www.amazon.jobs/en/jobs/10611315/sr-proserve-cloud-architect-professional-services-menat",
+   "first_seen": "2026-11-24T01:26:36Z",
+   "description": "AWS Professional Services (ProServe) is seeking a Senior Cloud Architect to support enterprise customers across the Middle East, with a focus on the UAE and Saudi Arabia. You will work directly with customers in Financial Services, Telecommunications and the Public Sector to design and implement cloud solutions on AWS that move their business forward. As a trusted technical advisor, you will lead complex architecture engagements from strategy through delivery, mentor teams, and help shape best practices across the region.\n\nActing as the technical bridge between ProServe Account Executives and our delivery teams, you will translate complex business challenges into scalable, secure AWS solutions. You will own the technical narrative of each engagement, from discovery and solution design to delivery, and make sure every engagement delivers measurable business outcomes for some of the region's most important organizations.\n\nKey job responsibilities\n\n- Lead the design and implementation of complex, enterprise-scale cloud architectures for enterprise customers\n\n- Serve as a trusted technical advisor to C-level executives and senior technical stakeholders, translating business requirements into scalable cloud solutions\n\n- Drive cloud adoption strategies including migration, modernization, data analytics, AI/ML, and hybrid architectures tailored to industry-specific needs\n\n- Develop and deliver technical architectures, reference implementations, and proof-of-concepts that accelerate customer outcomes\n\n- Mentor and guide junior architects, contributing to team development and raising the technical bar across engagements\n\n- Collaborate with AWS service teams to influence product roadmaps based on customer feedback and industry trends\n\n- Contribute to reusable assets, frameworks, and methodologies that scale ProServe's impact across the region\n\n- Navigate regulatory, compliance, and data sovereignty requirements across regulated industries like Financial Services, Telecom and Public Sector.\n\nA day in the life\n\nYou might start your morning reviewing an architecture design with a customer's engineering team, then shift to a working session where you refine a generative AI proof-of-concept alongside solution architects and partners. After lunch, you could be presenting a program update to senior customer executives, articulating how technical milestones connect to their strategic goals. Between engagements, you contribute reference architectures and mentor colleagues, ensuring the insights you gain reach the broader team.\n\nAbout the team\n\nAt AWS ProServe, you won't just build architectures — you'll shape the cloud journeys of most innovative companies in across multiple industries in the Middle East. Your work will have direct, measurable impact on organizations that drive the region's economy.\n\nAWS Professional Services works with enterprise customers and partners to help them realize their desired business outcomes through cloud adoption. Our team assists customers in achieving the greatest value from AWS by providing guidance, best practices, and hands-on delivery support throughout their cloud journey.\n\nBasic qualifications\n- 7+ years of technical specialist, design and architecture experience\n\n- 5+ years of database (eg. SQL, NoSQL, Hadoop, Spark, Kafka, Kinesis) experience\n\n- 7+ years of consulting, design and implementation of serverless distributed solutions experience\n\n- 5+ years of software development with object oriented language experience\n\n- 3+ years of cloud based solution (AWS or equivalent), system, network and operating system experience\n\n- 7+ years of external or internal customer facing, complex and large scale project management experience\n\n- Bachelor's degree, or 7+ years of professional or military experience\n\nPreferred qualifications\n- Knowledge of AWS services including compute, storage, networking, security, databases, machine learning, and serverless technologies\n\n- Experience in consulting, design and implementation of serverless distributed solutions\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
+  },
+  {
+   "id": "amazon:10611488",
+   "source": "amazon",
+   "company": "Amazon",
+   "via": "",
+   "title": "Intelligence Analyst, Europe & MENA, Global Security Intelligence",
+   "field": "Cybersecurity",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "Corporate Operations",
+   "posted_date": "2026-11-23",
+   "summary": "Come join an innovative team that delivers tailored products and services for the customer. Our ideal candidate will produce rapid assessments on risk, and conduct open-source investigations across the",
+   "url": "https://www.amazon.jobs/en/jobs/10611488/intelligence-analyst-europe-mena-global-security-intelligence",
+   "first_seen": "2026-11-24T01:26:36Z",
+   "description": "Come join an innovative team that delivers tailored products and services for the customer. Our ideal candidate will produce rapid assessments on risk, and conduct open-source investigations across the Middle East, North Africa, and Europe regions. They will bring deep subject-matter expertise spanning both MENA and European geopolitical and security landscapes. Our ideal candidate will demonstrate an ability to think critically, provide deep-dive analysis, and prioritize multiple requests in a fast-paced and challenging environment that requires significant attention to detail. They bring a genuine passion for delighting customers, collaborating across teams, and continuously raising the bar — always seeking opportunities to refine processes, close gaps, and deliver more impactful products.\n\nKey job responsibilities\n\nCollect, analyze, and interpret complex data with a strong understanding and application of analytical techniques across the MENA and Europe regions.\n\nProactively identify and analyze relevant threats and trends across both regions and produce written strategic analysis, oral briefs, and tactical/investigative assessments in a cohesive and concise format to serve customers across business lines.\n\nEngage with internal customers to understand their priorities and translate the requirements into solutions.\n\nIdentify new solutions, methodologies, including using AI, to help improve information collection and reporting. Including the creation of maps or other visuals and tools to support the team's products.\n\nPerform thorough quick-turn and deep dive open-source investigations and monitoring across MENA and European sources.\n\nSupport business continuity, crisis, and security management teams, including as needed outside typical work hours during security incidents and emerging crises.\n\nBasic qualifications\n- Experience handling confidential information\n\n- Experience conducting investigations using Boolean logic, OSINT analysis, databases, and social media\n\n- Master's degree or equivalent, or experience in a professional field or military\n\n- Experience in Incident Management, Threat Management, Corporate Investigations, Security Operations, Crisis Management or a related field\n\n- 3+ years in analytical, intelligence, investigative disciplines\n\n- Experience in verbal and written communication across various levels including senior leadership\n\n- Experience with the intelligence cycle, strong analytical skills, attention to detail, and effective communication abilities\n\n- Demonstrated knowledge of the geopolitical, security, and threat landscape across both the Middle East/North Africa and Europe regions\n\nPreferred qualifications\n- OSINT certification or equivalent training\n\n- Proficiency in Arabic or Farsi and/or one or more European languages (e.g., French, German, Italian, Spanish, etc.)\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
+  },
+  {
+   "id": "amazon:10611383",
+   "source": "amazon",
+   "company": "Amazon",
+   "via": "",
+   "title": "Network & Systems Engineer , OTS",
+   "field": "Networking & Telecom",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh, Saudi Arabia"
+   ],
+   "workplace_type": "",
+   "category": "Operations, IT, & Support Engineering",
+   "posted_date": "2026-11-23",
+   "summary": "About the RoleAs a Network & Systems Engineer - Lead you use your technical knowledge and specialized skills to support, build, implement, and improve technology solutions across sites in a defined geographical",
+   "url": "https://www.amazon.jobs/en/jobs/10611383/network-systems-engineer-ots",
+   "first_seen": "2026-11-24T01:26:36Z",
+   "description": "About the Role\n\nAs a Network & Systems Engineer - Lead you use your technical knowledge and specialized skills to support, build, implement, and improve technology solutions across sites in a defined geographical area. You manage large projects with minimal guidance that affect multiple locations in a region. You resolve customer issues in crisis situations and are actively expanding your scope into software design patterns, data structures, AWS technologies, and distributed systems.\n\nKey job responsibilities\n\nTechnical Operations & Infrastructure\n\n• Drive network excellence through advanced engineering, troubleshooting, and systems administration across multiple facilities\n\n• Maintain critical systems uptime; serve as first escalation point for complex issues\n\n• Troubleshoot difficult IT problems without established SOPs; resolve incidents under time pressure\n\n• Demonstrate complete networking expertise: routers, switches, firewalls, wireless APs, structured cabling (DNS, DHCP, VLANs, TCP/IP, subnetting, network security protocols)\n\n• Plan and coordinate Change Management (CMs) and CM templates across the region\n\nProject Execution & Automation\n\n• Lead and execute regional technical projects from conception to completion with minimal guidance\n\n• Collaborate with internal teams and external vendors to deliver infrastructure improvements and technology rollouts\n\n• Automate manual tasks; create and improve tools that increase team efficiency\n\n• Manage large-scale initiatives impacting multiple sites within the region\n\nProblem-Solving & Continuous Improvement\n\n• Conduct root cause analysis to resolve recurring challenges and prevent future incidents\n\n• Lead continuous improvement efforts across processes, documentation, and tooling\n\n• Design and implement efficient IT solutions; develop and maintain technical documentation and SOPs\n\n• Actively expand knowledge in software design patterns, data structures, AWS technologies, and distributed systems\n\nPeople Development & Quality Assurance\n\n• Participate in hiring, onboarding, training, and professional development of team members\n\n• Audit work quality and provide constructive feedback; mentor junior engineers\n\n• Present training and partner with development teams on complex issues\n\nCustomer Support & Collaboration\n\n• Provide expert technical support across multiple buildings and remote sites\n\n• Provide on-call support beyond business hours during critical incidents; ensure minimal downtime\n\n• Communicate effectively in writing and verbally across a wide variety of stakeholders\n\nBasic Qualifications:\n\n• 3+ years of IT client, server, and network service delivery\n\n• 4+ years of IT systems or relevant commercial production environment experience\n\n• 4+ years of networking (DNS, DHCP, SSL/TLS, OSI Model, TCP/IP, VLANs, subnetting, routing protocols)\n\n• 4+ years of Windows/Server administration, Linux administration, or Cisco IOS (CLI)\n\n• 4+ years of troubleshooting in a multi-user, high-availability environment\n\n• Experience with new site launches including end-to-end IT infrastructure buildout and go-live support\n\n• Ability to coordinate with multiple stakeholders across operations, engineering, vendors, and leadership\n\n• Excellent written and verbal communication skills\n\nAbout the team\n\nOperations – Fulfilment Center and Logistics. Operations is at the heart of the Amazon customer experience. Each action we undertake is done on behalf of our customers, as meeting their expectations makes us feel good.\n\nThe Operations teams in our Fulfilment Centers are responsible for managingthe vast range of fast paced inventory from inbound to outbound and work very hard to ensure that our customers receive what they want, when they want it. OpsTechIT is at the heart of this process and plays a vital role to the business ability to meet the customer promise.\n\nBasic qualifications\n- 1+ years of Windows Server technologies: AD, DFS, Print Services, SCCM experience\n\n- 2+ years of troubleshooting in a multi-user high availability environment experience\n\n- 2+ years of PC repair, troubleshooting, deployment and liquidation experience\n\n- 1+ years of IT client, server, and network service delivery experience\n\n- 2+ years of networking (such as DNS, DHCP, SSL, OSI Model, and TCP/IP) experience\n\n- 2+ years of corporate setting Windows, Mac or Linux Operating systems support experience\n\n- 2+ years of supporting and maintaining a corporate network environment experience\n\n- High school or equivalent diploma\n\nPreferred qualifications\n- 2+ years of computer networking experience\n\n- Experience supporting video conference and teleconference equipment\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
+  },
+  {
+   "id": "accenture:14673458",
+   "source": "accenture",
+   "company": "Accenture",
+   "via": "",
+   "title": "Cyber Threat Intelligence (CTI) Engineer",
+   "field": "Cybersecurity",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-22",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/SOC-Senior-Analyst_14673458",
+   "first_seen": "2026-11-24T01:26:36Z",
+   "description": "We are seeking a motivated and detail-oriented Cyber Threat Intelligence (CTI) Engineer to join our growing security team. In this role, you will be responsible for collecting, analyzing, and disseminating threat intelligence to help protect our clients' environments from emerging cyber threats. This is an excellent opportunity for a passionate cybersecurity professional looking to build a career in threat intelligence.\n\n• Collect and analyze threat intelligence data from multiple sources including open-source, commercial, and internal feeds\n• Monitor the threat landscape and identify emerging threats, threat actors, and attack techniques relevant to the organization and its clients\n• Produce clear and actionable threat intelligence reports for both technical and non-technical audiences\n• Support the SOC and incident response teams with contextual threat intelligence during security events\n• Maintain and update threat intelligence platforms and databases\n• Track and profile threat actors, campaigns, and TTPs (Tactics, Techniques, and Procedures) using frameworks such as MITRE ATT&CK\n• Collaborate with internal teams to improve detection and response capabilities based on intelligence findings.\n\n• 1–3 years of experience in cybersecurity, with a focus on Cyber Threat Intelligence or security analysis\n• Solid understanding of threat intelligence concepts, frameworks, and methodologies (MITRE ATT&CK, Cyber Kill Chain)\n• Experience with threat intelligence platforms (TIPs) and OSINT tools\n• Basic understanding of network protocols, malware behavior, and attack vectors\n• Strong analytical and research skills with the ability to translate complex data into clear reports\n• Good written and verbal communication skills in English and Arabic\n• Saudi nationals only\n\nPreferred\n\n• Exposure to SIEM platforms and log analysis\n• Relevant certifications are a plus (CompTIA Security+, CEH, or threat intelligence-specific certifications)\n• Passion for staying up to date with the latest cybersecurity trends and threat landscape\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
+  {
+   "id": "accenture:14715470",
+   "source": "accenture",
+   "company": "Accenture",
+   "via": "",
+   "title": "Security Delivery Senior Analyst",
+   "field": "Cybersecurity",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-22",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Security-Delivery-Senior-Analyst_14715470",
+   "first_seen": "2026-11-24T01:26:36Z",
+   "description": "As a Security Delivery Senior Analyst, you will play a key role within Security Operations, taking ownership of security events escalated from L1 analysts and performing deeper triage, investigation and analysis. You will help ensure incidents are handled consistently according to established processes and runbooks, while contributing to stronger playbooks, incident response procedures and SIEM detection use cases.\n\nWhat You’ll Do\n\nIncident Triage & Investigation\n\n• Take ownership of security incidents and events escalated from L1 analysts and handle them according to defined SOC processes and procedures.\n• Perform detailed triage, validation and investigation of detected and escalated security events.\n• Analyze and categorize events of interest according to agreed severity levels, escalation criteria and runbooks.\n• Correlate available security information to determine the nature, scope and potential impact of suspicious activity.\n• Escalate complex or high-risk incidents through the appropriate response channels where required.\n• Maintain accurate investigation findings, evidence and incident documentation.\n\nSIEM & Detection Support\n\n• Work closely with SIEM administrators and security engineering teams to support the creation and enhancement of security-monitoring use cases.\n• Provide investigation insights that can help identify opportunities to improve existing detection logic.\n• Support testing and refinement of SIEM use cases based on operational security requirements.\n• Identify potential detection gaps observed during incident investigations and raise them with the appropriate security teams.\n\nSOC Procedures & Continuous Improvement\n\n• Develop, maintain and continuously improve Standard Operating Procedures (SOPs), investigation playbooks and Incident Response plans.\n• Help standardize investigation and triage practices to promote consistent incident handling across the SOC.\n• Capture lessons learned from investigations and contribute to improvements in operational processes.\n• Collaborate with L1 analysts and other security teams to support effective incident handling and knowledge sharing.\n\nWhat You’ll Need\n\n• Experience working within a Security Operations Center (SOC) or cybersecurity monitoring environment.\n• Hands-on experience with security event triage, investigation and incident escalation.\n• Good understanding of Incident Response processes, SOC procedures and security runbooks.\n• Experience using Security Information and Event Management (SIEM) technologies.\n• Ability to investigate and correlate security events and identify potentially malicious activity.\n• Understanding of security alerts, event severity classification and escalation processes.\n• Experience creating or maintaining SOPs, playbooks and Incident Response documentation.\n• Understanding of SIEM detection use cases and correlation rules.\n• Strong analytical, troubleshooting and problem-solving capabilities.\n• Strong written and verbal communication skills with attention to detail.\n\nBonus Points If You Have\n\n• Experience supporting SIEM use-case development or detection tuning.\n• Exposure to EDR, SOAR, endpoint security or other security-monitoring technologies.\n• Familiarity with MITRE ATT&CK and common attack techniques.\n• Experience with threat hunting or deeper incident investigation.\n• Relevant cybersecurity or SOC certifications.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
   {
    "id": "fortinet:24040",
    "source": "fortinet",
@@ -360,7 +495,7 @@
    "category": "Consulting",
    "posted_date": "2026-11-23",
    "summary": "",
-   "url": "https://jobs.smartrecruiters.com/IFS1/744000163153819-senior-lead-ifs-projects-consultant-igt1-",
+   "url": "https://jobs.smartrecruiters.com/ifs1/744000163153819",
    "first_seen": "2026-11-23T10:09:44Z",
    "description": "Job Description\nAbout the Client: Centric\n\nCentric Global is a growing technology company with offices in Kenya, Dubai, and Sri Lanka, specializing in ICT, enterprise applications, and digital transformation solutions.\n\nAs an IFS partner, Centric Global delivers IFS ERP solutions and supports organizations across various industries with implementation, consulting, optimization, and technology services. The company also partners with global technology providers including Microsoft, AWS, SUSE, Kaspersky, and Red Hat.\n\nWith a focus on innovation, regional growth, and customer success, Centric Global brings together talented technology professionals to deliver scalable solutions and create meaningful impact for clients across the region.\n\nJoin Centric Global and be part of a growing team delivering technology solutions that help businesses operate smarter and grow sustainably.\n\nAbout the role:\n\nWe are hiring a Senior / Lead IFS Projects Consultant to lead the implementation and support of project management and project accounting processes in IFS Cloud.\n\nYou will own the Projects workstream end-to-end from solution design and configuration to Go-Live, hypercare, and continuous improvement.\n\nKey Responsibilities:\n\n• Lead Projects Fit-to-Standard workshops and solution design\n• Configure modules:\n\no Project Planning & Structure (WBS)\n\no Project Budgeting & Forecasting\n\no Resource Planning\n\no Project Costing & Revenue Recognition\n\no Time & Expense Management\n\n• Align project accounting with Finance (GL, costing, revenue)\n• Support project data migration and validation\n• Drive Project-to-Cash lifecycle optimization\n• Support integrations (Finance, Procurement, HR/Resource Management)\n• Lead SIT, UAT, and Go-Live activities\n• Provide L2/L3 support and continuous improvement post Go-Live\n• Engage stakeholders across PMO, Finance, and Operations\n\nQualifications\nRequired Skills & Experience:\n\n• Bachelor’s degree in a related field\n• 7+ years ERP Projects / Project Accounting consulting experience\n• Proven delivery in IFS Applications or IFS Cloud\n• Strong understanding of:\n\no Project lifecycle (initiation → execution → closure)\n\no Project costing, billing, and revenue recognition\n\n• Experience in data migration, UAT, and Go-Live support\n• Strong stakeholder management and workshop facilitation skills\n• Relevant IFS certifications preferred\n• The role involves travel to customer sites to support client engagements, project delivery, stakeholder meetings, and other business requirements. Candidates must be willing and able to travel internationally as required by the role.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
   },
@@ -706,6 +841,29 @@
    "url": "https://www.amazon.jobs/en/jobs/10610863/engineering-project-manager-meatr-operations-engineering",
    "first_seen": "2026-11-21T09:05:02Z",
    "description": "Do you want to be part of a team of builders and innovators, directly responsible for the expansion and upgrade of Amazon network across AMET (Africa, Middle East and Turkey) region? Keep reading.\n\nThis Engineering Project Management role is dedicated to develop warehouse innovation and automation solutions. The individual will lead end-to-end automation program delivery, from feasibility assessment and business case development through commissioning and operational handover. The role will support multiple business segments across Amazon supply chain: Fulfillment, Sort Centers (FC/SC), Delivery Stations (DS), Sub-Same-Day (SSD) and Quick Commerce (QC).\n\nThe role requires high level of Ownership, Invent & Simplify, Deliver Results and Frugality to drive impactful results. Functionally, the role requires a deep expertise of fulfillment operations, automation, technologies, and AI.\n\nKey responsibilities:\n\n- Proactively scout new technologies and industry trends, participating in major industry exhibitions worldwide and evaluating their potential applicability to Amazon.\n\n- Evaluate technical feasibility and vendor capability for automation opportunities across all types of Amazon sites.\n\n- Develop ROI models, payback analyses, and capital investment plans to support automation business cases.\n\n- Create, submit, and track CAPEX requests to ensure all projects are delivered within budget and at the best overall value.\n\n- Partner with Software, IT, Safety, Operations, Maintenance, Procurement, Change Management, and Finance teams to ensure seamless integration of automation and innovative solutions into existing warehouse operations.\n\n- Lead pilots of selected technologies in operationally live environments and analyze the actual benefits achieved.\n\n- Coordinate the regional deployment of successful technologies and innovations across 10+ sites.\n\n- Communicate project status, risks, and outcomes to senior leadership, driving escalations on potential risks and delays across multiple teams.\n\n- Drive continuous improvement initiatives to enhance system reliability, throughput, safety, and cost efficiency.\n\n- Synchronize international innovation efforts, primarily across the MEATR, LATAM, and IN teams. Support the development of Amazon's low-cost automation and frugal innovation initiatives.\n\n- Become the Subject Matter Expert for a specific piece of technology or equipment used at Amazon, advising Engineering teams internationally.\n\nThe role will be based in Dubai, with expected travel within the MEATR region and beyond up to 50% per year.\n\nBasic qualifications\n- 5+ years of industrial engineer, operations engineer, manufacturing engineer, or project engineer in a manufacturing environment experience\n\n- Bachelor's degree\n\n- Experience in English-language communication skills, both written and verbal\n\nPreferred qualifications\n- Knowledge of AutoCAD, VBA, and SQL at the intermediate level\n\n- Experience working with and managing third party vendors\n\n- Experience with Six Sigma, lean manufacturing\n\n- Experience leading cross-functional teams across engineering, operations, and field execution through launch readiness and go-live phases\n\n- Ability to speak English is a must. Other languages such as French, German, Polish, Arabic, Portuguese, Turkish, Zulu, Chinese (Mandarin) are considered preferred qualifications.\n\n- Experience in managing cool chains, refrigeration equipment and installations, temperature-controlled environments are considered a strong plus.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
+  },
+  {
+   "id": "maf:22575",
+   "source": "maf",
+   "company": "Majid Al Futtaim",
+   "via": "",
+   "title": "Manager IDAM",
+   "field": "Cybersecurity",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai"
+   ],
+   "workplace_type": "Regular",
+   "category": "Digital & Technology",
+   "posted_date": "2026-09-01",
+   "summary": "Seeking an experienced leader to drive the development and implementation of Identity and Access Management (IAM) strategies, ensuring alignment with business objectives and security best practices. Oversee IAM operations, manage identity lifecycle, and lead incident response. Ideal for candidates with extensive IAM experience and strong leadership skills.",
+   "url": "https://careers.majidalfuttaim.com/global/en/job/22575",
+   "first_seen": "2026-11-21T09:05:02Z",
+   "description": "JOB TITLE\nIdentity and Access Management Manager | MAF Global Solutions | Global Solutions UAE\n\nROLE SUMMARY\nThe Identity and Access Management Manager is responsible for developing and maintaining the organization's Identity Access Management (IAM) and Privilege Access Management (PAM) strategy, roadmap, and implementation plan, aligning it with business objectives and security best practices. This includes defining the future state of identity and access management and planning for its evolution.\n\nROLE PROFILE\n\n• IAM & PAM Strategy: Develop, implement, and enforce secure IAM/PAM policies, procedures, and controls aligned with least privilege and business requirements.\n• Identity Lifecycle Management: Manage end-to-end user and privileged identity lifecycle, including onboarding, provisioning, access changes, certifications, and offboarding.\n• Access Governance & Authentication: Implement and manage RBAC/ABAC, MFA, SSO, federation, access reviews, and strong authentication/authorization mechanisms.\n• Privileged Access Management: Oversee credential vaulting and rotation, privileged session monitoring/recording, JIT access, and break-glass/emergency access procedures.\n• IAM Operations & Security: Monitor IAM/PAM environments, investigate anomalies and incidents, remediate vulnerabilities, and lead identity-related incident response activities.\n• Technology & Automation: Design and operate enterprise IAM/IGA/PAM solutions such as SailPoint, CyberArk, and Delinea, with automation using workflows, PowerShell, or Python.\n• Compliance, Risk & Reporting: Ensure alignment with NIST, ISO 27001, CIS Controls, GDPR, SOC 2, and audit requirements; establish KPIs, metrics, logging, and reporting.\n• Leadership & Continuous Improvement: Lead IAM initiatives, vendors/MSPs, training, and stakeholder collaboration while continuously improving IAM capabilities, security, automation, and SLA performance.\n\nREQUIREMENTS\n\n• Leadership & Communication: Excellent leadership, interpersonal, teamwork, and communication skills, with the ability to explain technical concepts to non-technical stakeholders.\n• Analytical & Problem-Solving: Strong analytical, problem-solving, organizational, and time-management capabilities.\n• Proactive & Collaborative: Self-motivated, proactive, action-oriented, deadline-driven, and effective in collaborative team environments.\n• Professional Experience: 8+ years of experience working with multiple IAM solutions in large organizations, including 5+ years of hands-on global IDAM platform management.\n• Technical Delivery Experience: Proven experience managing IAM deployments, changes, and environments across Dev, Pre-Prod, Prod, SIT, and UAT, including testing and release processes.\n• Education & Certifications: Bachelor’s/Master’s degree in Computer Science, Engineering, Technology, or equivalent; preferred certifications include CIAM, CISM, CISSP, and ITIL.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
   },
   {
    "id": "maf:22575",
@@ -2197,29 +2355,6 @@
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nThe Senior Avionics Systems Engineer is responsible for defining and managing avionics system architecture, deriving and allocating system requirements across hardware, software, and control domains, and ensuring effective integration throughout the system development lifecycle. The role manages system interfaces, requirements traceability, verification and validation activities, and supports safety and certification processes in line with ARP4754A, ARP4761, DO-178C, and DO-254. Working closely with multidisciplinary engineering and certification teams, the position ensures that avionics systems are technically coherent, fully traceable, compliant, and successfully integrated at system level.\n\nRESPONSIBILITIES\n\r\n\n• Develop subsystem architecture based on high-level system requirements.\n\n• Derive system requirements from high-level requirements.\n\n• Allocate system requirements to software, hardware, and control domains.\n\n• Manage system interfaces (ICDs) between software, hardware, control, and other engineering teams.\n\n• Provide necessary technical inputs to software, hardware, and control teams.\n\n• Coordinate the lifecycle activities related to writing, verifying, and validating system requirements.\n\n• Perform system-level integration and verification activities.\n\n• Support safety assessment activities and derived requirements management.\n\n• Support the establishment and execution of systems engineering processes compliant with ARP4754A.\n\n• Maintain requirements traceability across system, hardware, software, and control levels.\n\n• Prepare and maintain systems engineering documentation.\n\n• Work in coordination with software, hardware, control, test, and certification teams.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's or Master's degree in Aerospace, Electrical/Electronics, Control, Software Engineering, or a related field.\n\n• Experience in avionics system development and system integration.\n\n• Knowledge and experience in avionics system architecture.\n\n• Knowledge of systems engineering design processes and related lifecycle activities.\n\n• Knowledge and experience in ARP4754A processes.\n\n• Experience in requirements engineering (capture, derivation, and traceability).\n\n• Knowledge of communication interfaces such as RS-232/422/485, CAN bus, ARINC 429, ARINC 664, ARINC 825, and MIL-STD-1553.\n\n• Experience with configuration, change, and requirements management tools such as SVN, DOORS, etc.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Familiarity with safety assessment processes (ARP4761, FHA/PSSA/SSA).\n\n• Familiarity with DO-178C and DO-254 within the system development context.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
   },
   {
-   "id": "accenture:14715481",
-   "source": "accenture",
-   "company": "Accenture",
-   "via": "",
-   "title": "Security Delivery Senior Analyst (SOC L2)",
-   "field": "Cybersecurity",
-   "country_code": "SA",
-   "country": "Saudi Arabia",
-   "countries": [
-    "Saudi Arabia"
-   ],
-   "locations": [
-    "Riyadh"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-11-10",
-   "summary": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Security-Delivery-Senior-Analyst_14715481",
-   "first_seen": "2026-11-10T20:40:43Z",
-   "description": "As a Security Delivery Senior Analyst, you will play a key role within Security Operations, taking ownership of security events escalated from L1 analysts and performing deeper triage, investigation and analysis. You will help ensure incidents are handled consistently according to established processes and runbooks, while contributing to stronger playbooks, incident response procedures and SIEM detection use cases.\n\nWhat You’ll Do\n\nIncident Triage & Investigation\n\n• Take ownership of security incidents and events escalated from L1 analysts and handle them according to defined SOC processes and procedures.\n• Perform detailed triage, validation and investigation of detected and escalated security events.\n• Analyze and categorize events of interest according to agreed severity levels, escalation criteria and runbooks.\n• Correlate available security information to determine the nature, scope and potential impact of suspicious activity.\n• Escalate complex or high-risk incidents through the appropriate response channels where required.\n• Maintain accurate investigation findings, evidence and incident documentation.\n\nSIEM & Detection Support\n\n• Work closely with SIEM administrators and security engineering teams to support the creation and enhancement of security-monitoring use cases.\n• Provide investigation insights that can help identify opportunities to improve existing detection logic.\n• Support testing and refinement of SIEM use cases based on operational security requirements.\n• Identify potential detection gaps observed during incident investigations and raise them with the appropriate security teams.\n\nSOC Procedures & Continuous Improvement\n\n• Develop, maintain and continuously improve Standard Operating Procedures (SOPs), investigation playbooks and Incident Response plans.\n• Help standardize investigation and triage practices to promote consistent incident handling across the SOC.\n• Capture lessons learned from investigations and contribute to improvements in operational processes.\n• Collaborate with L1 analysts and other security teams to support effective incident handling and knowledge sharing.\n\nWhat You’ll Need\n\n• Experience working within a Security Operations Center (SOC) or cybersecurity monitoring environment.\n• Hands-on experience with security event triage, investigation and incident escalation.\n• Good understanding of Incident Response processes, SOC procedures and security runbooks.\n• Experience using Security Information and Event Management (SIEM) technologies.\n• Ability to investigate and correlate security events and identify potentially malicious activity.\n• Understanding of security alerts, event severity classification and escalation processes.\n• Experience creating or maintaining SOPs, playbooks and Incident Response documentation.\n• Understanding of SIEM detection use cases and correlation rules.\n• Strong analytical, troubleshooting and problem-solving capabilities.\n• Strong written and verbal communication skills with attention to detail.\n\nBonus Points If You Have\n\n• Experience supporting SIEM use-case development or detection tuning.\n• Exposure to EDR, SOAR, endpoint security or other security-monitoring technologies.\n• Familiarity with MITRE ATT&CK and common attack techniques.\n• Experience with threat hunting or deeper incident investigation.\n• Relevant cybersecurity or SOC certifications.\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
-  },
-  {
    "id": "edge:733636222",
    "source": "edge",
    "company": "EDGE · BEACON RED",
@@ -2402,29 +2537,6 @@
    "url": "https://careers.g42.ai/global/en/job/2897",
    "first_seen": "2026-11-09T23:15:01Z",
    "description": "Overview:\n\r\n\nThe Lead SOC Analyst is responsible for managing the day-to-day activities of the SOC Monitoring, Incident Detection, and Response Operations. The role involves collaborating with internal and client teams to identify and respond to threats and vulnerabilities and providing technical expertise and guidance to support incident response efforts. This position requires strong technical expertise, leadership skills, and the ability to mentor and develop team members.\n\nResponsibilities:\n\r\n\nSOC Operations Management:\n\n• Lead and manage daily SOC activities and ensure efficient monitoring of security systems.\n• Oversee the triage, investigation, and resolution of security incidents.\n• Ensure incident handling aligns with defined SLAs and escalation procedures.\n\nIncident Response & Threat Management:\n\n• Coordinate and lead incident response efforts.\n• Analyze and respond to complex threats using threat intelligence and advanced detection techniques.\n• Oversee triage, investigation, and remediation of security events an incident.\n• Lead major incident investigations and coordinate with other teams such as Incident Response, Threat Hunting, and CTI functions.\n\nTeam Leadership & Development:\n\n• Mentor and guide SOC analysts.\n• Conduct training sessions and promote continuous learning.\n\nSecurity Tools & SIEM Management:\n\n• Manage and optimize SIEM tools and other security technologies.\n• Ensure effective integration of tools for comprehensive monitoring.\n• Correlate security events from SIEM, EDR, Firewall, IDS/IPS etc.\n\n• Validate and fine tune detection rules, correlation searches, and threat models.\n• Identify automation opportunities to reduce mean time to detect (MTTD) and mean time to respond (MTTR).\n\nThreat Hunting & Vulnerability Management:\n\n• Proactively identify threats lurking in the environment by conducting threat hunting exercises.\n• Oversee vulnerability scanning and patch management.\n• Work closely with CTI and Threat Hunters to integrate IOCs, TTPs, and MITRE ATT&CK coverage to enhance detection posture overall.\n\nReporting & Compliance:\n\n• Generate detailed reports on incidents, trends, and SOC performance.\n• Ensure compliance with industry standards and regulatory requirements.\n• Provide regular operational metrices and incident reports to senior management.\n\nCollaboration & Strategy:\n\n• Work closely with IT, Cloud, Application, Risk, and Security teams for cross-functional incident handling.\n• Contribute to the development of security policies and procedures.\n• Highly result oriented and able to work independently.\n• Good analytical, technical, written, and verbal communication skills.\n• Ability to multi-task in a fast-paced and demanding work environment.\n• Comfortable with a high-tech work environment and constantly learning new tools and innovations.\n• Self-motivated, curious, and knowledgeable ab information security news and current events.\n\nQualifications:\n\r\n\nBachelor’s degree in engineering, computer science, information systems, or quantitative fields.\n\n• ISC² Certified Information Systems Security Professional (CISSP)\n• CISM Certified Information Security Manager\n• GIAC Certifications\n• Minimum of 10+ years’ relevant experience or working in a large-scale ICT environment focused on Information/Cyber Security.\n• High-level understanding of TCP/IP protocol and OSI Seven Layer Mode.\n• Knowledge of security best practices and concepts.\n• Knowledge of Windows and/or Unix-based systems/architectures and related security.\n• Sound level of knowledge of LAN/WAN technologies.\n• Must have a solid understanding of information technology and information security.\n• Expertise in incident response and handling methodologies.\n• Knowledge of Cyber kill chain, blockchain, and other IR frameworks.\n• Knowledge of Defense-in-depth techniques.\n• Knowledge of security event correlation and analytics tools.\n• Skill in recognizing and categorizing types of vulnerabilities and associated attacks.\n• Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, Procedural Language/Structured Query Language [PL/SQL] and injections, covert channel, replay attacks, malicious code).\n• Knowledge of which system files (e.g., log files, registry files, and configuration files) contain relevant information and where to find those system files.\n• Experience with SIEM tool – preferably proficient with developing correlation rules, dashboards, and custom searches.\n• Experience with automated incident response tools (PSTools, Sysmon, Carbon Black, etc.).\n• Experience with packet capture and analysis (tcpdump/windump, Wireshark, etc.).\n• Experience with host and network forensics.\n• Strong understanding of security architectures and devices.\n• Strong understanding of threat intelligence consumption and management.\n• Strong understanding of root causes of malware infections and proactive mitigation.\n• Strong understanding of lateral movement, footholds, and data exfiltration techniques.\n• Experience with host and network practices of processing digital forensic data.\n• Knowledge of forensic processes for seizing and preserving digital evidence (e.g., the chain of custody).\n•\n\nKnowledge of server, network devices, security devices and diagnostic tools, and fault identification techniques"
-  },
-  {
-   "id": "edge:733631322",
-   "source": "edge",
-   "company": "EDGE · ADASI",
-   "via": "",
-   "title": "Principal Systems Engineer - Mission Systems",
-   "field": "Systems & Infrastructure",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "ADASI",
-   "posted_date": "2026-11-09",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Principal-Systems-Engineer-Mission-Systems-Abu/733631322/",
-   "first_seen": "2026-11-09T23:15:01Z",
-   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nADASI, a leading UAE-based developer of autonomous systems and advanced unmanned solutions, is at the forefront of innovation in the aerospace and defence industry. As part of its commitment to developing advanced UAV capabilities, ADASI is seeking an experienced Principal Engineer - Mission Systems to lead the design, development, integration and verification of advanced avionics and mission systems for unmanned aerial vehicles (UAVs).\n\nThe role will provide technical leadership across mission systems architecture, avionics integration, mission payloads, communication systems and system safety. The successful candidate will work closely with multidisciplinary engineering teams, suppliers and operational stakeholders to ensure system performance, reliability, safety and mission readiness throughout the development lifecycle.\n\nRESPONSIBILITIES\n\r\n\n• Define and manage system-level requirements, avionics architecture and Interface Control Documents (ICDs) for UAV mission systems.\n\n• Lead the integration of avionics, mission computers, navigation systems, communication systems and mission payloads, including EO/IR, SIGINT, radar and other ISR equipment.\n\n• Manage hardware and software interfaces, technical trade studies and system-level design activities.\n\n• Develop and review system safety assessments, including FHA, FMEA and PSSA/SSA.\n\n• Ensure compliance with applicable aerospace and defence standards, including SAE ARP 4754, SAE ARP 4761, DO-178C, DO-254 and MIL-STD requirements.\n\n• Lead system verification and validation activities, including simulation, Hardware-in-the-Loop (HIL), ground testing and flight testing.\n\n• Analyse test results and telemetry data to verify system performance against requirements.\n\n• Manage technical interfaces and monitor supplier design, integration and verification activities.Prepare and review technical documentation, system specifications, verification plans, test reports and design review deliverables.\n\n• Provide technical leadership during system design reviews, integration campaigns and flight test activities.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's degree in Avionics Engineering, Electrical/Electronic Engineering, Aerospace Engineering or a closely related discipline.\n\n• Minimum 15+ years of relevant experience in UAV, aerospace or defence avionics/mission systems engineering.\n\n• Demonstrated experience in avionics system design, architecture and integration on UAV or aerospace platforms.\n\n• Proven experience integrating mission payloads such as EO/IR, SIGINT, radar, LiDAR, navigation or communication systems.\n\n• Strong understanding of avionics communication protocols, including MIL-STD-1553, ARINC 429, CAN, Ethernet or RS-422.\n\n• Experience in system requirements management, interface definition, verification and validation.\n\n• Knowledge of system safety, certification, qualification and aerospace/defence compliance processes.\n\n• Professional proficiency in written and spoken English.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Master's degree in Electrical/Electronic Engineering, Avionics Systems, Mission Systems or Systems Engineering.\n\n• Experience with UAV command and control systems, RF communication, datalinks and real-time mission data processing.\n\n• Familiarity with embedded operating systems such as VxWorks, QNX or Embedded Linux.\n\n• Proficiency in systems engineering tools such as IBM DOORS, Polarion, SysML or UML.\n\n• Experience with simulation environments, HIL testing, telemetry analysis and flight test campaigns.\n\n• Knowledge of SAE ARP 4754, SAE ARP 4761, MIL-STD-882, DO-178C, DO-254, MIL-STD-461 and MIL-STD-810.\n\n• INCOSE ASEP/CSEP certification is strongly preferred.\n\n• Training or certification in DO-178C, DO-254, cybersecurity/DO-326 or CISSP is advantageous.\n\n• Familiarity with AS9100 and ISO 9001 quality management systems.\n\n• Experience in supplier technical management and multidisciplinary engineering leadership.\n\n• Must be eligible for applicable UAE defence/security clearance.\n\n• Willingness to relocate to the UAE and undertake domestic and international travel for supplier visits, integration and test campaigns.\n\n• Arabic language proficiency is an added advantage.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
   },
   {
    "id": "fab:2853",
@@ -3277,29 +3389,6 @@
    "description": "Role: Senior Engineer - Full Stack\n\nLocation: Abu Dhabi\n\nAbout Presight\n\nPresight is an ADX-listed public company with Abu Dhabi based G42 as its majority shareholder and is the region’s leading big data analytics company powered by GenAI. It combines big data, analytics, and AI expertise to serve every sector, of every scale, to create business and positive societal impact. Presight excels at all-source data interpretation to support insight-driven decision-making that shapes policy and creates safer, healthier, happier, and more sustainable societies. Today, through its range of GenAI-driven products and solutions, Presight is bringing Applied AI to the private and public sector, enabling them to realize their AI strategy and ambitions faster.\n\nThe Opportunity:\n\nPresight is seeking a strongly customer-focused, self-driven and results-oriented Senior Full Stack Engineer.\n\nResponsibilities\nKey Responsibilities:\n\nAs a Senior Full Stack Engineer, you will work within the development team to build the annotation platform on both sides front-end and back-end. Collaborating with Product Managers, Architects and Software Engineers to research, design, implement and improve functionalities of the annotation platform as part of a Big Data analytic system.\n\nFunctional\n\n• Own scoped features end to end: from requirements and technical design through implementation, testing, release, and production follow-up.\n• Build responsive, accessible interfaces for annotation and data-review workflows.\n• Develop backend services, RESTful APIs, data models, and asynchronous workflows.\n• Collaborate with Product, Design, and Engineering to clarify requirements, address edge cases, and deliver complete user journeys.\n• Use AI development tools to accelerate implementation, testing, debugging, and documentation while remaining accountable for quality.\n• Write automated tests, participate in code reviews, and apply security, privacy, performance, and reliability practices.\n• Troubleshoot issues across the stack and improve features based on production behavior and user feedback.\n• Follow applicable company policies and engineering standards.\n• Comply with QHSE (Quality Health Safety and Environment), Business Continuity, Information Security, Privacy, Risk, Compliance Management and Governance of Organizations policies, procedures, plans and related risk assessments.\n\nQualifications\nRequirements:\n\n•\nBachelor’s degree in information technology, Computer Science, Engineering or related field.\n\n•\nStrong computer science and basic algorithms knowledge.\n\n•\n7+ years of professional software development experience, including delivering features across frontend and backend.\n\n•\nA full-stack ownership mindset, with the ability to move between application layers and follow work through to production.\n\n•\nStrong JavaScript and TypeScript skills, alongside HTML, CSS, and web fundamentals.\n\n•\nExperience with component-based frontend development, preferably React and Next.js, including state management, data fetching, and client/server rendering concepts.\n\n•\nStrong backend development experience with Java and Spring Boot, alongside working proficiency in Python for AI agent orchestration, LLM integrations, and supporting backend services.\n\n•\nPractical knowledge of OOP concepts, SOLID principles, and modular design.\n\n•\nUnderstanding of modular monoliths and microservices, including service boundaries and architectural trade-offs.\n\n•\nWorking knowledge of relational databases, data modelling, RESTful APIs, authentication, and authorization.\n\n•\nFamiliarity with message brokers, such as RabbitMQ or Kafka, and asynchronous processing concepts, including retries and idempotency.\n\n•\nExperience with automated testing, Git, code reviews, and debugging across the stack.\n\n•\nAn AI-driven development mindset, with practical experience using coding assistants or agents and independently reviewing and validating their outputs.\n\n•\nClear communication, collaborative problem-solving, and the ability to explain technical trade-offs, raise risks early, and work effectively with product, design, and engineering teams.\n\nIdeally, you’ll also need\n\n• Experience building data-intensive applications.\n• Experience integrating AI or LLM capabilities into applications.\n• Familiarity with UI component libraries and design systems, such as Ant Design.\n• Experience with CI/CD pipelines, Docker, cloud platforms, and application monitoring.\n\nJoin us at Presight, where we offer a culture of innovation, outstanding career growth opportunities, and competitive rewards. If you're eager to conquer new frontiers in AI and thrive in a dynamic environment, we welcome you to our community.\n\nWhat working at Presight offers:\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Accelerate your career through high-impact projects and access to resources for continuous growth and learning opportunities.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more."
   },
   {
-   "id": "edge:733615022",
-   "source": "edge",
-   "company": "EDGE · ADASI",
-   "via": "",
-   "title": "Senior System Engineer - Test Equipment Development",
-   "field": "Systems & Infrastructure",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "ADASI",
-   "posted_date": "2026-11-02",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-System-Engineer-Test-Equipment-Development-Abu/733615022/",
-   "first_seen": "2026-11-02T22:33:19Z",
-   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAbout ADASI"
-  },
-  {
    "id": "edge:733613122",
    "source": "edge",
    "company": "EDGE · ADASI",
@@ -3319,6 +3408,29 @@
    "posted_date": "2026-11-02",
    "summary": "",
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Systems-Engineer-System-Safety-Analysis-Abu/733613122/",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAbout ADASI"
+  },
+  {
+   "id": "edge:733615022",
+   "source": "edge",
+   "company": "EDGE · ADASI",
+   "via": "",
+   "title": "Senior System Engineer - Test Equipment Development",
+   "field": "Systems & Infrastructure",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "ADASI",
+   "posted_date": "2026-11-02",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-System-Engineer-Test-Equipment-Development-Abu/733615022/",
    "first_seen": "2026-11-02T22:33:19Z",
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAbout ADASI"
   },
@@ -4749,29 +4861,6 @@
    "description": "• Opportunity to shape technology and AI strategy\n• Lead major enterprise transformation initiatives\n\nAbout Our Client\n\nOur client is a rapidly expanding healthcare group operating across the Middle East, with ambitious growth plans and a strong focus on digital transformation, innovation, and clinical excellence. As they continue to scale, they are investing heavily in modernising their technology landscape and building a future-ready AI strategy.\n\nJob Description\n\n• Define and execute the organisation's technology and AI strategy.\n• Lead EMR, ERP, integration, and digital transformation programmes.\n• Drive data, analytics, and AI initiatives that support business and clinical objectives.\n• Oversee enterprise architecture, application landscape, and system modernisation.\n• Manage and develop a high-performing technology team and key technology partners.\n• Act as a trusted advisor to senior leadership on technology investment and innovation.\n\nThe Successful Applicant\n\n• Proven technology leadership experience within a healthcare provider environment.\n• Strong background in EMR/HIS platforms, integrations, and system migrations.\n• Experience delivering large-scale ERP transformation programmes.\n• Understanding of healthcare informatics, interoperability, and data strategy.\n• Exposure to AI, automation, or advanced analytics initiatives.\n• Arabic language skills and GCC healthcare experience would be a major plus.\n\nWhat's on Offer\n\n• Play a pivotal role in transforming healthcare delivery through technology and AI.\n• Join a high-growth organisation where your impact will be visible from day one.\n\nIf you're a healthcare technology leader passionate about digital transformation and innovation, we'd love to hear from you. Apply now or contact us for a confidential discussion."
   },
   {
-   "id": "amazon:10576779",
-   "source": "amazon",
-   "company": "Amazon",
-   "via": "",
-   "title": "Data Center Infra Engineer  - 2027 Internship",
-   "field": "Systems & Infrastructure",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Dubai, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "Operations, IT, & Support Engineering",
-   "posted_date": "2026-10-13",
-   "summary": "Ever wanted to help design and support the data centers that power the world's largest cloud? As a DC Infra Engineer Intern at Amazon Web Services (AWS), you will work alongside an experienced, cross-disciplinary",
-   "url": "https://www.amazon.jobs/en/jobs/10576779/data-center-infra-engineer-2027-internship",
-   "first_seen": "2026-10-13T08:50:29Z",
-   "description": "Ever wanted to help design and support the data centers that power the world's largest cloud? As a DC Infra Engineer Intern at Amazon Web Services (AWS), you will work alongside an experienced, cross-disciplinary team to provide full life-cycle support to AWS data centers — from design inception through site improvement and maintenance. Your work will directly impact millions of customers worldwide.\n\nEach day, you will interact with different teams responsible for all aspects of the data centers. You will help prioritize activities that support data center capacity, availability, and safety, focusing on the actions that are most impactful — and you will have the opportunity to work on projects both locally and globally. If this sounds exciting to you, come build the future with us!\n\nThis internship is designed as a potential pathway to full-time employment. Interns who demonstrate strong performance throughout their internship may be considered for a full-time engineering position, subject to available roles and business needs.\n\nWho Should Apply\n\nWe welcome applications from:\n\n- Students in the last year of their Bachelor's or Master's degree) in Electrical Engineering, Mechanical Engineering, Architecture, Civil Engineering, Structural Engineering, or a related technical discipline, who are looking for an internship that could lead to a full-time career.\n\nImportant — Site Location & Commuting: This role is based at a data center facility in a remote location with no public transportation access. A valid driving license and access to personal transportation are required to commute to the site daily. Please consider this before applying.\n\nAbout the Role\n\nAs an intern, you will engage with an experienced cross-disciplinary staff to provide full life-cycle support to AWS data centers, from design through operation. With guidance from experienced engineers, you will build your subject matter expertise and serve as an engineering resource for your region, applying what you learn to real technical challenges.\n\nYou will be exposed to both independent work and team-based collaboration. Prioritization, organizational skills, effective communication, and the ability to react quickly are critical to being successful.\n\nWhat You Will Do\n\n- Perform design and equipment submittal reviews for new data centers in your region\n\n- Troubleshoot issues, conduct Root Cause Analysis (RCA), and create Corrective Action (CA) documentation for site and equipment failures\n\n- Support operational issues with ad-hoc training, complex operating procedure reviews (including for critical equipment), and event support\n\n- Collaborate with the internal data center design engineering team, server hardware team, and environmental health and safety team to promote standards that maintain consistency and reliability in services delivered\n\n- Work on concurrent projects, sometimes across multiple geographical regions\n\nInternship Structure\n\nAmazon internships are full-time (40 hours per week) for 12 consecutive weeks, starting 2027. This position requires the intern to report to work on site daily. Intern schedules are typically day schedules, Sunday to Thursday.\n\nPlease note that full-time engineering roles may operate on a rotating shift pattern, which could include days, evenings, weekends, and public holidays, as well as on-call rotations. Candidates should be willing and able to commit to shift work upon transitioning to a full-time position.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed below, we encourage you to apply. If your career is just starting, has not followed a traditional path, or includes alternative experiences, do not let that stop you from applying.\n\nYour Career at Amazon — A Universe of Opportunity\n\nAt Amazon, your career is not a straight path. It is a journey you build as you go.\n\nFrom your first day as an intern, you will own real work that matters. You will help design, troubleshoot, and support the infrastructure that keeps AWS running for millions of customers. Your mentors and teammates will champion your growth, helping you build skills you did not know existed — and you will see your work come to life at massive scale.\n\nImpact. Your work shapes the infrastructure that millions of customers rely on every day. From cloud computing to artificial intelligence, the systems you help support power it all.\n\nAction. You will move fast, experiment, and learn by doing. Your ideas do not get stuck in approval chains — they get tested, refined, and put into practice.\n\nCuriosity. Every project teaches you something new. You will apply what you learned in the classroom to real challenges and explore different teams, technologies, and career paths within Amazon.\n\nMentorship and career growth. You will start with structured onboarding and get paired with experienced mentors. Beyond that, you will find continuous learning opportunities and the chance to work on different projects. Your journey here is yours to shape.\n\nA day in the life\n\n0\n\nAbout the team\n\nAWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. We are the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on.\n\nYou will join a diverse team of engineers, supply chain specialists, security experts, operations managers, and other vital roles. You will collaborate with people across AWS to deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers.\n\nBasic qualifications\n- In the last year of a Bachelor's or Master's degree in Electrical Engineering, Mechanical Engineering, Architecture, Civil Engineering, Structural Engineering, or another equivalent technical discipline, graduating in 2027 – before the internship´s end date\n\n- Knowledge of Power Systems, Fluid Dynamics, and/or Thermodynamics\n\n- Professional English proficiency, both written and verbal\n\n- Ability to work well with others in a team environment, with strong time management skills\n\nPreferred qualifications\n- Knowledge of Heating, Ventilation, and Air Conditioning (HVAC) systems\n\n- Coursework in commercial or industrial power systems and/or mechanical systems\n\n- Experience using a variety of web-based and other software tools for calculation and data processing\n\n- Strong analytical and problem-solving skills\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nnull"
-  },
-  {
    "id": "amazon:3180622",
    "source": "amazon",
    "company": "Amazon",
@@ -5941,29 +6030,6 @@
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAs an ERP Process Engineer, you will work closely with production, engineering, supply chain, quality, and IT teams to analyze operational workflows, improve business processes, and support the implementation and enhancement of enterprise systems.\n\nRESPONSIBILITIES\n\r\n\nBusiness Process Analysis\n\nAnalyze and evaluate manufacturing processes, including production, planning, inventory management, engineering, and quality functions.\nConduct workshops and stakeholder interviews to gather business requirements.\nPerform gap analysis between current and future-state processes and identify opportunities for improvement.\nSolution Design & Implementation\n\nTranslate business requirements into ERP and PLM system solutions.\nConfigure and support ERP/PLM modules related to production, bill of materials (BOM), routing, product lifecycle management, and manufacturing\noperations.\nSupport system implementations, upgrades, integrations, and continuous enhancements.\nEnsure seamless integration between ERP, PLM, MES, and supply chain systems.\n\nProduct Lifecycle & Data Management\n\nSupport product lifecycle processes including design, development, engineering change management, and product release.\nMaintain and optimize product structures, BOMs, and engineering data.\nDevelop and improve workflows supporting product development and change control activities.\n\nTraining & Change Management\n\nDevelop training materials, user guides, and process documentation.\nDeliver end-user training and provide post-go-live support.\nPromote best practices and drive user adoption of new technologies and processes.\n\nContinuous Improvement & Support\n\nProvide functional support and troubleshooting for ERP and PLM systems.\nMonitor system performance and identify opportunities for optimization.\nLead initiatives focused on process efficiency, automation, and operational excellence.\nStakeholder & Project Management\n\nCollaborate with cross-functional teams across manufacturing, engineering, supply chain, quality, and IT.\nSupport project planning, testing, deployment, and change management activities.\nCommunicate effectively with both technical teams and business stakeholders.\n\n#Powertech\n\nBASIC QUALIFICATIONS\n\r\n\nBachelor's Degree in Engineering, Information Systems, Manufacturing, or a related discipline.\n5–8+ years of experience in ERP and/or PLM consulting within a manufacturing environment.\nProven experience delivering ERP/PLM implementation or transformation projects.\nStrong understanding of manufacturing processes, including MRP, production planning, BOM management, routing, and inventory control.\nExperience with leading ERP platforms such as SAP, Oracle, or Microsoft Dynamics.\n\nPREFERRED QUALIFICATIONS\n\r\n\nKnowledge of ERP, PLM, MES, and manufacturing system integrations is highly desirable.\nSAP experience will be considered a strong advantage.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
   },
   {
-   "id": "edge:733505022",
-   "source": "edge",
-   "company": "EDGE · AL TAIF",
-   "via": "",
-   "title": "Senior IT Analyst",
-   "field": "Other IT",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "AL TAIF",
-   "posted_date": "2026-09-28",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-IT-Analyst-Abu/733505022/",
-   "first_seen": "2026-10-09T07:32:04Z",
-   "description": "CANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nMAJOR DUTIES AND RESPONSIBILITIES\n\n• Ensure the smooth operation of applications and functional area computers to ensure all computer systems are consistently available and in compliance with applicable standards.\n\n• Coordinate the installation, configuration and maintenance of the organisation’s applications and work stations.\n\n• Direct diagnostic investigations of program errors and direct or recommend solutions or methodologies for resolution.\n\n• Manage communication with all areas of the enterprise that impacts the scope, budget, risk, and resources of the work effort being managed.\n\n• Correct program errors using methods such as modifying programs or altering the sequence of program steps. Analyse, review and rewrite programs to increase operating efficiency or to adapt programs to new requirements.\n\n• Prepare detailed workflow charts to illustrate the sequence of steps that programs must follow; describe input, output and logical operations involved.\n\n• Manage the administration, maintenance and upgrades of the organisation’s applications.\n\n• Analyse and recommend the use of new applications and services to senior management.\n\n• Conduct and validate the physical inventory of IT equipment and software.\n\n• Provide instructions and training to staff when necessary.\n\n• Assist with the enforcement of all IT directives within the company.\n\n• Ensure all IT property is maintained in a serviceable condition, routinely inventoried and safeguarded.\n\n• Supervise, monitor and train IT Analyst(s), Applications on a variety of IT tasks.\n\n• Maintain the confidentiality and security of all company information.\n\n• Support other members of the IT section in fulfilling their roles.\n\n• Ensure compliance with all safety, housekeeping and environmental directives.\n\nMINIMUM QUALIFICATIONS\n\n• Bachelor degree in computer science, information systems or a related discipline required; Master degree preferred, or Equivalent years of Experiences in same field\n\n• A minimum of five to six years of experience in an IT Applications role is required.\n\n• A minimum of one year of experience in a supervisory position is required.\n\n• Certifications in Cisco Certified Network Professions (CCNP), Cisco Certified Design Professions (CCDP), Cisco Certified Internetwork Expert (CCIE) and Cisco Certified Design Associate (CCDA) are an advantage.\n\n• The ability to communicate effectively in English, both in writing and verbally is required.\n\n• Have, or be able to obtain a valid UAE driver’s license."
-  },
-  {
    "id": "edge:733122122",
    "source": "edge",
    "company": "EDGE · AL TAIF",
@@ -5985,6 +6051,29 @@
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Data-Analyst-Abu/733122122/",
    "first_seen": "2026-10-09T07:32:04Z",
    "description": "External Job Description\n\r\n\nMAJOR DUTIES AND RESPONSIBILITIES\n\n• Provide annual supply forecasting requirements for the Annual Service Plan (ASP).\n• Provide analysis of due—ins from OEMS, vendors, balance on hand and store level repairable for assigned equipment systems.\n• Coordinate with the Technical Supply Department and Technical Planning Department to provide advice on required platform stock levels and assessment reports of balance on hand.\n• Review inventory data and advise the Technical Supply Department of optimal line item stock levels for the main stores.\n• Facilitate the establishment of safety and reserve levels for line items critical to ensure operational readiness for all required equipment systems.\n• Coordinate with Technical Planning Department on the status of spares and maintenance trends for the assigned platforms.\n• Facilitate maintenance of the spares master data record in the computer system and coordinate all aspects of demand analysis in support of the units for the assigned platforms.\n• Advise the Technical Supply Department on the status of spares and maintenance trends for the assigned platforms whenever required.\n• Facilitate the requisition of authorised supplies by the Technical Supply Department for equipment system support.\n• Apply continuous improvement and LEAN management principles.\n• Ensure all issued tools, test equipment and high value property is maintained in a serviceable condition routinely inventoried and safeguarded.\n• Support other members of the material section in fulfilling their roles.\n• Maintain the confidentiality and security of all company documents.\n• Perform other duties as required by the Material Manager."
+  },
+  {
+   "id": "edge:733505022",
+   "source": "edge",
+   "company": "EDGE · AL TAIF",
+   "via": "",
+   "title": "Senior IT Analyst",
+   "field": "Other IT",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "AL TAIF",
+   "posted_date": "2026-09-28",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-IT-Analyst-Abu/733505022/",
+   "first_seen": "2026-10-09T07:32:04Z",
+   "description": "CANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nMAJOR DUTIES AND RESPONSIBILITIES\n\n• Ensure the smooth operation of applications and functional area computers to ensure all computer systems are consistently available and in compliance with applicable standards.\n\n• Coordinate the installation, configuration and maintenance of the organisation’s applications and work stations.\n\n• Direct diagnostic investigations of program errors and direct or recommend solutions or methodologies for resolution.\n\n• Manage communication with all areas of the enterprise that impacts the scope, budget, risk, and resources of the work effort being managed.\n\n• Correct program errors using methods such as modifying programs or altering the sequence of program steps. Analyse, review and rewrite programs to increase operating efficiency or to adapt programs to new requirements.\n\n• Prepare detailed workflow charts to illustrate the sequence of steps that programs must follow; describe input, output and logical operations involved.\n\n• Manage the administration, maintenance and upgrades of the organisation’s applications.\n\n• Analyse and recommend the use of new applications and services to senior management.\n\n• Conduct and validate the physical inventory of IT equipment and software.\n\n• Provide instructions and training to staff when necessary.\n\n• Assist with the enforcement of all IT directives within the company.\n\n• Ensure all IT property is maintained in a serviceable condition, routinely inventoried and safeguarded.\n\n• Supervise, monitor and train IT Analyst(s), Applications on a variety of IT tasks.\n\n• Maintain the confidentiality and security of all company information.\n\n• Support other members of the IT section in fulfilling their roles.\n\n• Ensure compliance with all safety, housekeeping and environmental directives.\n\nMINIMUM QUALIFICATIONS\n\n• Bachelor degree in computer science, information systems or a related discipline required; Master degree preferred, or Equivalent years of Experiences in same field\n\n• A minimum of five to six years of experience in an IT Applications role is required.\n\n• A minimum of one year of experience in a supervisory position is required.\n\n• Certifications in Cisco Certified Network Professions (CCNP), Cisco Certified Design Professions (CCDP), Cisco Certified Internetwork Expert (CCIE) and Cisco Certified Design Associate (CCDA) are an advantage.\n\n• The ability to communicate effectively in English, both in writing and verbally is required.\n\n• Have, or be able to obtain a valid UAE driver’s license."
   },
   {
    "id": "michaelpage:jn-092026-7113158",
