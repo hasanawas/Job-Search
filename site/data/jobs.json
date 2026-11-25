@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T23:21:21Z",
+ "updated_at": "2026-11-25T10:47:10Z",
  "fields": [
   "Cybersecurity",
   "Data & AI",
@@ -21,9 +21,9 @@
    "id": "eand",
    "company": "e& (Etisalat)",
    "careers_page": "https://peoplehub.eand.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 10,
    "listed": 25,
    "in_location": 25,
@@ -34,11 +34,11 @@
    "id": "fortinet",
    "company": "Fortinet",
    "careers_page": "https://www.fortinet.com/corporate/careers",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 16,
-   "listed": 1099,
+   "listed": 1088,
    "in_location": 26,
    "it": 16,
    "new": 0
@@ -47,9 +47,9 @@
    "id": "g42",
    "company": "G42",
    "careers_page": "https://careers.g42.ai/global/en/home",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 33,
    "listed": 47,
    "in_location": 34,
@@ -60,11 +60,11 @@
    "id": "ifs",
    "company": "IFS",
    "careers_page": "https://www.ifs.com/en/about/careers",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 24,
-   "listed": 250,
+   "listed": 248,
    "in_location": 35,
    "it": 24,
    "new": 0
@@ -73,35 +73,35 @@
    "id": "accenture",
    "company": "Accenture",
    "careers_page": "https://www.accenture.com/ae-en/careers",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 29,
    "listed": 32,
    "in_location": 32,
    "it": 29,
-   "new": 0
+   "new": 1
   },
   {
    "id": "syscolabs",
    "company": "Sysco LABS",
    "careers_page": "https://syscolabs.lk/careers",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
-   "it_jobs": 39,
-   "listed": 45,
-   "in_location": 45,
-   "it": 39,
-   "new": 0
+   "last_ok_at": "2026-11-25T10:47:10Z",
+   "it_jobs": 40,
+   "listed": 46,
+   "in_location": 46,
+   "it": 40,
+   "new": 1
   },
   {
    "id": "presight",
    "company": "Presight",
    "careers_page": "https://careers.presight.ai/",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 1,
    "listed": 3,
    "in_location": 3,
@@ -112,9 +112,9 @@
    "id": "khazna",
    "company": "Khazna Data Centers",
    "careers_page": "https://khaznadatacenters.com/careers/",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 0,
    "listed": 6,
    "in_location": 6,
@@ -125,12 +125,12 @@
    "id": "m42",
    "company": "M42",
    "careers_page": "https://careers.m42.ae/jobs",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 2,
-   "listed": 93,
-   "in_location": 93,
+   "listed": 92,
+   "in_location": 92,
    "it": 2,
    "new": 0
   },
@@ -138,11 +138,11 @@
    "id": "astratech",
    "company": "Astra Tech",
    "careers_page": "https://careers.astratech.ae/jobs",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 5,
-   "listed": 26,
+   "listed": 24,
    "in_location": 21,
    "it": 5,
    "new": 0
@@ -151,9 +151,9 @@
    "id": "amazon",
    "company": "Amazon",
    "careers_page": "https://www.amazon.jobs/content/en/locations/united-arab-emirates",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 33,
    "listed": 140,
    "in_location": 140,
@@ -164,9 +164,9 @@
    "id": "apple",
    "company": "Apple",
    "careers_page": "https://jobs.apple.com/en-ae/search?location=united-arab-emirates-ARE",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 0,
    "listed": 55,
    "in_location": 28,
@@ -177,12 +177,12 @@
    "id": "edge",
    "company": "EDGE",
    "careers_page": "https://careers.edgegroup.ae/go/View-All-Jobs/4166222/",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 46,
-   "listed": 184,
-   "in_location": 184,
+   "listed": 186,
+   "in_location": 186,
    "it": 46,
    "new": 0
   },
@@ -190,22 +190,22 @@
    "id": "adnoc",
    "company": "ADNOC",
    "careers_page": "https://jobs.adnoc.ae/us/en/search-results",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
-   "it_jobs": 5,
-   "listed": 74,
-   "in_location": 74,
-   "it": 5,
-   "new": 0
+   "last_ok_at": "2026-11-25T10:47:10Z",
+   "it_jobs": 6,
+   "listed": 81,
+   "in_location": 81,
+   "it": 6,
+   "new": 1
   },
   {
    "id": "michaelpage",
    "company": "Michael Page (recruiter)",
    "careers_page": "https://www.michaelpage.ae/jobs/technology/united-arab-emirates",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 16,
    "listed": 26,
    "in_location": 26,
@@ -216,25 +216,25 @@
    "id": "fab",
    "company": "First Abu Dhabi Bank (FAB)",
    "careers_page": "https://www.bankfab.com/en-ae/about-fab/careers",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
-   "it_jobs": 7,
+   "last_ok_at": "2026-11-25T10:47:10Z",
+   "it_jobs": 8,
    "listed": 83,
    "in_location": 79,
-   "it": 7,
-   "new": 0
+   "it": 8,
+   "new": 1
   },
   {
    "id": "altayer",
    "company": "Al Tayer Group",
    "careers_page": "https://www.altayer.com/careers",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 2,
-   "listed": 97,
-   "in_location": 97,
+   "listed": 98,
+   "in_location": 98,
    "it": 2,
    "new": 0
   },
@@ -242,22 +242,22 @@
    "id": "maf",
    "company": "Majid Al Futtaim",
    "careers_page": "https://careers.majidalfuttaim.com/global/en/home",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
-   "it_jobs": 15,
-   "listed": 257,
-   "in_location": 164,
-   "it": 15,
-   "new": 0
+   "last_ok_at": "2026-11-25T10:47:10Z",
+   "it_jobs": 17,
+   "listed": 256,
+   "in_location": 163,
+   "it": 17,
+   "new": 1
   },
   {
    "id": "nyuad",
    "company": "NYU Abu Dhabi",
    "careers_page": "https://nyuad.nyu.edu/en/about/careers.html",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 2,
    "listed": 21,
    "in_location": 21,
@@ -268,22 +268,22 @@
    "id": "salt",
    "company": "SALT (recruiter)",
    "careers_page": "https://welovesalt.com/job-category/united-arab-emirates",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
-   "it_jobs": 11,
-   "listed": 11,
-   "in_location": 11,
-   "it": 11,
-   "new": 0
+   "last_ok_at": "2026-11-25T10:47:10Z",
+   "it_jobs": 14,
+   "listed": 14,
+   "in_location": 14,
+   "it": 14,
+   "new": 3
   },
   {
    "id": "charterhouse",
    "company": "Charterhouse (recruiter)",
    "careers_page": "https://www.charterhouseme.ae/jobs/information-technology",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 1,
    "listed": 1,
    "in_location": 1,
@@ -294,9 +294,9 @@
    "id": "nvidia",
    "company": "NVIDIA",
    "careers_page": "https://jobs.nvidia.com/careers",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 2,
    "listed": 2,
    "in_location": 2,
@@ -307,17 +307,201 @@
    "id": "enec",
    "company": "ENEC",
    "careers_page": "https://careers.enec.ae/search/",
-   "checked_at": "2026-11-24T23:21:21Z",
+   "checked_at": "2026-11-25T10:47:10Z",
    "ok": true,
-   "last_ok_at": "2026-11-24T23:21:21Z",
+   "last_ok_at": "2026-11-25T10:47:10Z",
    "it_jobs": 6,
-   "listed": 58,
-   "in_location": 58,
+   "listed": 56,
+   "in_location": 56,
    "it": 6,
    "new": 0
   }
  ],
  "jobs": [
+  {
+   "id": "syscolabs:R277014",
+   "source": "syscolabs",
+   "company": "Sysco LABS",
+   "via": "",
+   "title": "Associate Technical Lead",
+   "field": "Software Development",
+   "country_code": "LK",
+   "country": "Sri Lanka",
+   "countries": [
+    "Sri Lanka"
+   ],
+   "locations": [
+    "Sysco LABS  -  Sri Lanka"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-25",
+   "summary": "",
+   "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-LABS-----Sri-Lanka/Associate-Technical-Lead_R277014",
+   "first_seen": "2026-11-25T10:47:10Z",
+   "description": "JOB DESCRIPTION\n\nAssociate Technical Lead\n\nThe Big Picture\n\nSysco LABS is the Global In-House Center of Sysco Corporation (NYSE: SYY), the world’s largest foodservice company. Sysco ranks 56th in the Fortune 500 list and is the global leader in the trillion-dollar foodservice industry.\n\nSysco employs over 75,000 associates, has 337 smart distribution facilities worldwide and over 14,000 IoT-enabled trucks serving 730,000 customer locations. For fiscal year 2025 that ended June 29, 2025, the company generated sales of more than $81.4 billion.\n\nSysco LABS Sri Lanka delivers the technology that powers Sysco’s end-to-end operations.\n\nSysco LABS’ enterprise technology is present in the end-to-end foodservice journey, enabling the sourcing of food products, merchandising, storage and warehouse operations, order placement and pricing algorithms, the delivery of food and supplies to Sysco’s global network and the in-restaurant dining experience of the end-customer.\n\nThe Opportunity\n\nWe are currently on the lookout for an Associate Technical Lead to join our team.\n\nResponsibilities:\n\n• Designing and developing enterprise solutions for one of the world’s largest corporations involved in the marketing and distribution of food products\n• Implementing distributed and highly robust enterprise applications that scale for enterprise demands\n• Architecting and implementing scalable software solutions and document design decisions\n• Carrying out detailed technical designing of software solutions\n• Scoping and breaking down user stories into clear and achievable technical tasks\n• Implementing technical design including coding, calling existing services, creating new components, etc.\n• Ensuring a high standard of engineering quality through code reviews, unit tests, and analytics\n• Ensuring engineering principles and related processes have been adhered to\n• Providing constructive feedback to team members via code reviews and architectural reviews\n\nRequirements:\n\n• A Bachelor’s Degree in Computer Science or a related field, or equivalent work experience\n• 4+ years of experience developing production enterprise applications and managing teams\n• Extensive, full-stack experience with web-based technologies and architectures such as RESTful APIs, microservices, HTML5, Python, FastAPI, JavaScript/ES6, Node.js, React, React Native, Angular\n• Familiarity with AI agents, agentic workflows, and Model Context Protocol (MCP).\n• Exposure to AI-powered application development\n• Familiarity with AI-assisted software development tools such as GitHub Copilot, Cursor, and other AI-powered coding assistants to improve developer productivity and code quality.\n• An in-depth understanding of the technology stack, e.g.: HTTP, browser/JS engine architecture, relational and NoSQL databases, Linux, containers/virtual machines\n• Experience in architecting, designing, and implementing highly available, scalable web applications\n• Familiarity with a variety of software patterns and principles\n• Database skills – the ability to understand the use cases for relational and non-relational data, such as implemented code against several different database platforms: RDBMS, NoSQL, and shared storage\n• Experience with DevOps practices and working with Cloud IaaS or PaaS providers such as AWS and Azure\n• Experience with container technologies such as Docker and Kubernetes\n• A proficient understanding of agile processes, CI/CD, and code versioning tools, such as Git\n• The ability to quickly learn new and existing technologies\n• Excellent problem-solving, critical thinking, communication skills and the ability to exercise mature judgment\n\nBenefits:\n\n• Performance-based annual bonus\n• Performance rewards and recognition\n• Agile Benefits - special allowances for Health, Wellness & Academic purposes\n• Paid birthday leave\n• Team engagement allowance\n• Comprehensive Health & Life Insurance Cover - extendable to parents and in-laws\n• Hybrid work arrangement\n\nSysco LABS is an Equal Opportunity Employer."
+  },
+  {
+   "id": "adnoc:33970",
+   "source": "adnoc",
+   "company": "ADNOC",
+   "via": "",
+   "title": "Specialist, Digital Transformation (OS&HNS)",
+   "field": "Other IT",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "External",
+   "category": "Other",
+   "posted_date": "2026-11-25",
+   "summary": "Take on the role of Specialist, Digital Transformation (OS&HNS) to provide technical expertise in Oil Spill and Hazardous & Noxious Substances Response. Lead digital transformation initiatives, predictive modelling, and GIS activities, supporting business continuity and emergency preparedness. Ideal for experienced professionals in digital transformation and remote sensing within the oil & gas sector.",
+   "url": "https://jobs.adnoc.ae/us/en/job/33970",
+   "first_seen": "2026-11-25T10:47:10Z",
+   "description": "Job Purpose\n\nProvide specialized technical expertise in Oil Spill and Hazardous & Noxious Substances (HNS) Response, supporting the digital transformation of the business in line with industry standards.\n\nThe role develops and analyses scientific, technological and operational data and ensures that Geographic Information Systems (GIS), Remote Sensing and relevant modelling applications are maintained and updated to enable effective data interpretation and management decision-making. The position contributes to continuous improvement and excellence in Oil Spill and HNS preparedness and response.\n\nKey Accountabilities\n\nDigital Transformation & Technical Support\n\n• Develop digital transformation programs and provide technical consultation, advice and support to the department.\n• Support and train teams in adopting digital transformation practices.\n• Lead digital applications and initiatives by understanding business requirements, operational challenges and emerging technology trends. [Specialist...l 2023.pdf | PDF]\n\nPredictive Modelling & Analytics\n\n• Lead Oil Spill and HNS predictive analytics, including deterministic and stochastic modelling studies.\n• Prepare impact, response-time, threat-zone and resource-analysis reports.\n• Assess the accuracy of existing modelling solutions and develop strategies to improve results.\n• Present complex analytical and modelling findings clearly, supported by data and actionable recommendations.\n\nGIS & Remote Sensing\n\n• Lead advanced digital image-processing activities, including atmospheric correction, georeferencing and accuracy assessment.\n• Transform GIS information into practical, user-friendly visual tools.\n• Develop, implement and maintain emergency GIS response plans, including Environmental Sensitivity Index (ESI) mapping.\n• Research and benchmark GIS and Remote Sensing applications against industry standards and leading practices.\n• Lead the collection, analysis and verification of GIS and Remote Sensing data and recommend solutions for identified data gaps. [Specialist...l 2023.pdf | PDF]\n\nData & Operational Management\n\n• Support the identification of solutions to operational challenges and advise on corrective actions for process deviations.\n• Maintain data quality through regular review, variance analysis and corrective recommendations.\n• Recommend improvements to Data Management Systems and services in line with technological developments.\n• Ensure the safety, security and confidentiality of stored data.\n• Coordinate with stakeholders to ensure complete and appropriate data, information and systems are available.\n\nEmergency Response\n\n• Remain available on-call according to the duty roster to support emergency response.\n• Perform the assigned Finance and Administration role within the Incident Command System (ICS) when required.\n• Support the Incident Manager to maintain alignment with corporate requirements and incident objectives.\n• Act as the department's OSR & HNS GIS subject-matter expert during emergencies, providing technical advice to stakeholders and government authorities.\n\nQualifications, Experience, Knowledge & Skills\n\n• Bachelor’s Degree in Remote Sensing, GIS, Hydrology or equivalent experience in relevant field.\n• 8 years of experience in Digital Transformation, Remote Sensing, GIS, Predictive Modelling Discipline in Oil & Gas industry with good exposure to Emergency Response, Crisis Management, HSE and Information Management Technology and sound knowledge in Operations, Planning & Administration.\n• Professional Certifications\n•OPRC OSR Level 3 or IMO level 3\n•Digital Transformation Practitioner\n•ICS 100, 200 & 300\n•ASPRS Certification\n•Project Management Professional (PMP) certificate is preferred"
+  },
+  {
+   "id": "fab:3268",
+   "source": "fab",
+   "company": "First Abu Dhabi Bank (FAB)",
+   "via": "",
+   "title": "Business Analyst, Tech - Domestic Payments (Emiratised Role)",
+   "field": "Product & Project",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-25",
+   "summary": "",
+   "url": "https://ehjd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/3268",
+   "first_seen": "2026-11-25T10:47:10Z",
+   "description": "JOB SUMMARY / INTRODUCTION\n\nThe Analyst is responsible to create process documentation/workflows, knowledge articles and self-service guidance for IT Services. Maintain a complete understanding of and adheres to all IT policies and processes. The Jobholder also provides support for administering project management tools as applicable.\n\nKEY RESPONSIBILITIES\n\n• Create process documentation/workflows, knowledge articles and self-service guidance for IT Services.\n• Collect and document of business requirements for project and process improvement/automation efforts.\n• Facilitate process workflow modeling in order to collaborate on process improvements, automation capabilities and clearly defined end-to-end use cases.\n• Review information and trends to ensure that the output of processes are achieving the desired results and that services are meeting agreed-upon service levels.\n• Conduct maturity assessments against the process activities to highlight areas of improvement or concerns.\n• Identify issues and risks.\n• Bring inconsistencies and problems to the attention of management.\n• Participate in the problem resolution.\n• Track major incident management process and ensure adherence of the process and escalation requirements within the various support and delivery areas.\n• Prepare incident details for post-mortem incident reviews.\n• Extract reports and provide a high-level analysis of data for review.\n• Collaborates with team to create high-quality deliverables.\n• Identifies trends and uses robust data for suggesting areas of improvement in process and deliverables.\n• Collects and monitors results of various team initiatives.\n• Assists in building practice framework and guidelines.\n\nREQUIREMENTS / QUALIFICATIONS\n\n• A University degree in Computer Science and/or equivalent experience.\n• 2-3 years of experience in <specialization area>.\n• Proficiency in Statistical languages, statistical software.\n• Proficient technical writing capabilities and Sufficient analytical skills.\n• Good team player with the ability to work very effectively in a collaborative and team-oriented manner with other team members. Must have initiative and a positive work attitude and must be a quick learner with a zeal for self-learning. Must be confident, eager and willing to take on new challenges. Must be cooperative with good interpersonal, negotiation and conflict resolution skills.\n• Good written and oral communication skills.\n• Hands-on experience with data visualization.\n• Practical experience generating process documentation and reports.\n• Comprehensive experience in business change through analytical skills.\n• Experience with best Project management methodologies (Agile, waterfall, Iterative).\n\nPreferred / Beneficial\n\n• Direct customer communication experience would be an advantage.\n• Understanding of Design thinking practices.\n• Understanding of Cloud / AWS platforms."
+  },
+  {
+   "id": "salt:716332",
+   "source": "salt",
+   "company": "SALT (recruiter)",
+   "via": "",
+   "title": "Head of IAM Management Operations",
+   "field": "Cybersecurity",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "United Arab Emirates, Abu Dhabi"
+   ],
+   "workplace_type": "",
+   "category": "Cyber Security and Risk",
+   "posted_date": "2026-11-25",
+   "summary": "",
+   "url": "https://welovesalt.com/jobs/head-of-iam-management-operations-716332",
+   "first_seen": "2026-11-25T10:47:10Z",
+   "description": "Location: Abu Dhabi, UAE (international relocation considered) Industry: Banking & Financial Services I am currently supporting a leading financial institution in the UAE with the appointment of a Head of IAM Management Operations. This is a newly created leadership position responsible for establishing, developing and leading the IAM operational function as part of a wider cybersecurity transformation. We are looking for a technically grounded IAM leader who has progressed from an engineering or architecture background into management. Whilst this is not a hands-on engineering position, the successful candidate must have the technical depth to challenge solution designs, understand platform capabilities and effectively lead multiple technical teams. Key Responsibilities: Own the IAM operational strategy, technology roadmap and technical delivery. Lead, develop and scale multiple IAM technical teams. Oversee Identity Governance & Administration (IGA), Access Management and Privileged Access Management (PAM) capabilities. Establish and mature the IAM first line of defence. Translate governance frameworks and security controls into operational capabilities. Develop operational KPIs, performance dashboards and reporting mechanisms. Oversee IAM platform implementations, integrations and continuous improvement. Manage technology vendors, budgets and operational performance. Work closely with cybersecurity, architecture, risk and governance stakeholders. Requirements: Minimum 9 years of experience across IAM and information security. Proven experience leading IAM technical teams. Previous hands-on IAM engineering, implementation or architecture experience. Strong technical knowledge of IGA and Access Management, alongside an understanding of PAM. Experience with at least one leading IAM technology, such as SailPoint, Microsoft Entra ID or CyberArk. Strong understanding of identity lifecycle management, authentication, federation, SSO, MFA and role-based access controls. Experience within banking, financial services, insurance or another highly regulated environment. Strong understanding of regulatory requirements, security controls and audit frameworks. Excellent communication, stakeholder management and leadership capabilities. Candidates from consultancy backgrounds with strong BFSI exposure and technical team leadership experience are also encouraged to apply. International candidates open to relocating to the UAE will be considered. Salt is acting as an Employment Agency in relation to this vacancy."
+  },
+  {
+   "id": "salt:716331",
+   "source": "salt",
+   "company": "SALT (recruiter)",
+   "via": "",
+   "title": "Head of Identity Governance",
+   "field": "Cybersecurity",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "United Arab Emirates, Abu Dhabi"
+   ],
+   "workplace_type": "",
+   "category": "Cyber Security and Risk",
+   "posted_date": "2026-11-25",
+   "summary": "",
+   "url": "https://welovesalt.com/jobs/head-of-identity-governance-716331",
+   "first_seen": "2026-11-25T10:47:10Z",
+   "description": "Industry: Banking & Financial Services We are partnering with a leading financial institution in the UAE to recruit a Head of Identity Governance as part of a wider cybersecurity transformation and the establishment of a new target operating model. This newly created leadership position will be responsible for defining the organisation's identity governance strategy, establishing control frameworks and ensuring the effectiveness, maturity and auditability of Identity & Access Management (IAM) capabilities. Operating within the second line of defence, the successful candidate will combine a strong technical IAM background with expertise in governance, risk, controls and stakeholder management. Key Responsibilities: Define and establish enterprise-wide identity governance strategies, standards and control frameworks. Assess IAM maturity, identify control gaps and drive continuous improvement. Provide independent oversight and challenge of IAM operational processes and control effectiveness. Ensure identity and access management controls align with regulatory, security and audit requirements. Translate governance requirements into technically feasible controls. Oversee governance across identity lifecycle management, access certification, authentication, federation, segregation of duties and privileged access management. Build, develop and lead a newly established identity governance function. Engage with senior technology, cybersecurity, risk and business stakeholders. Evaluate emerging identity governance challenges, including the management of AI agent identities. Key Requirements: Extensive experience within Identity & Access Management (IAM) and Identity Governance & Administration (IGA). Strong experience defining and developing IAM governance frameworks, policies and controls. Previous technical IAM experience, ideally within engineering or architecture. Experience with identity technologies such as SailPoint, Saviynt, CyberArk or Microsoft Entra ID. Strong understanding of regulatory requirements, audit frameworks and security controls within regulated environments. Demonstrable leadership and team management experience. Excellent stakeholder management skills, with the ability to influence and challenge senior leadership. Experience within banking, financial services, insurance or another highly regulated industry. Candidates from a consulting background with extensive financial services exposure and experience leading IAM teams or engagements are also encouraged to apply. This is an opportunity to establish and shape a critical identity governance function within a major financial institution undergoing significant cybersecurity transformation. Salt is acting as an Employment Agency in relation to this vacancy."
+  },
+  {
+   "id": "salt:716328",
+   "source": "salt",
+   "company": "SALT (recruiter)",
+   "via": "",
+   "title": "Data Privacy Governance Manager",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "United Arab Emirates, Dubai"
+   ],
+   "workplace_type": "",
+   "category": "Data, AI and Machine Learning",
+   "posted_date": "2026-11-25",
+   "summary": "",
+   "url": "https://welovesalt.com/jobs/data-privacy-governance-manager-716328",
+   "first_seen": "2026-11-25T10:47:10Z",
+   "description": "Role Overview The role is responsible for managing the operational delivery and governance of the Data Privacy Function, ensuring effective implementation of the privacy framework, regulatory compliance and timely completion of privacy activities across the organisation, its subsidiaries and branches. Key Responsibilities: Privacy Governance Framework - Develop and maintain the Data Privacy Framework, policies, standards, SOPs and supporting templates. - Maintain the regulatory obligation register, mapping UAE PDPL, CBUAE and other applicable requirements to internal controls. - Ensure supporting documentation and evidence are complete and audit-ready. Records of Processing Activities (RoPA) - Oversee the RoPA programme across business units and group entities, ensuring completeness, accuracy and periodic reviews. - Govern the OneTrust privacy management platform as the central repository for RoPA, assessments, consent and incident records. Privacy Risk, Assessments & Assurance - Manage privacy risk identification, assessment, mitigation and residual risk recording. - Oversee Data Protection Impact Assessments (DPIAs) and International Data Transfer Assessments. - Monitor privacy KPIs and KRIs and prepare reports for senior management, the CISO and relevant risk and board-level committees. Data Subject Rights, Consent & Transparency - Oversee data subject rights requests, consent management and privacy notices across customer, employee, candidate and vendor channels. - Ensure privacy notices and consent mechanisms are accurate and available in English and Arabic. Third-Party Governance - Oversee third-party privacy due diligence in coordination with TPRM and Procurement. - Ensure Data Processing Agreements (DPAs) and appropriate international transfer safeguards are in place. - Assess controller, processor and joint controller responsibilities. Incident Management & Regulatory Engagement - Support the DPO in personal data breach management, root cause reviews and regulatory notification decisions. - Coordinate with internal and external auditors, consultants and regulators on privacy governance matters. - Track remediation plans and ensure timely closure of findings. Privacy Operations & Reporting - Maintain RoPA records, privacy registers and OneTrust records. - Coordinate DPIAs, legitimate interest assessments and international transfer assessments. - Manage data subject requests and personal data incident registers. - Review vendor assessments, contracts, privacy notices and consent wording. - Maintain evidence trackers, prepare periodic reports and provide guidance to business units. Awareness & Team Leadership - Develop and deliver privacy awareness and training programmes. - Guide and coach privacy analysts and business privacy champions. - Deputise for the DPO when required. Requirements: - Bachelor's degree in Law, Information Security, Risk Management, IT or a related discipline. - Minimum 6 years of relevant experience in data protection, privacy governance, regulatory compliance or risk management. - At least 2 years in a supervisory or managerial capacity. - Strong knowledge of UAE PDPL and its Executive Regulations. - Working knowledge of CBUAE requirements, particularly Consumer Protection Regulations and Standards. - Experience with enterprise privacy programmes covering RoPA, DPIAs, data subject rights, breach management and third-party governance. - Practical experience with OneTrust and GRC tools such as Archer. - Banking, financial services or other highly regulated industry experience, preferably within the UAE or GCC. - Strong stakeholder management, communication and regulatory engagement skills. Preferred Qualifications - Knowledge of GDPR, UK GDPR, DIFC and ADGM data protection regulations. - Certifications such as CIPP/E, CIPM, CIPT, CDPO, CISA, CISM or equivalent. - Arabic language skills are an advantage. Salt is acting as an Employment Business in relation to this vacancy."
+  },
+  {
+   "id": "accenture:14426073",
+   "source": "accenture",
+   "company": "Accenture",
+   "via": "",
+   "title": "IAM Analyst- Saudi Nationals",
+   "field": "Cybersecurity",
+   "country_code": "SA",
+   "country": "Saudi Arabia",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "locations": [
+    "Riyadh"
+   ],
+   "workplace_type": "",
+   "category": "",
+   "posted_date": "2026-11-23",
+   "summary": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Identity-Management-Consultant----SME_14426073",
+   "first_seen": "2026-11-25T10:47:10Z",
+   "description": "•\n• Collaborate with clients to gather and analyze requirements for Identity Governance and Administration solutions.\n• Building polices, processes and frameworks related to identity and Access management (e.g. identity lifecycle management, requesting access, auditing permissions).\n• Conduct assessments of clients' existing IAM processes, systems, and controls to identify areas for improvement.\n• Working with clients to develop Identity and Access Management strategies, architectures, and implementation plans.\n• Defining technical and business requirements for identity and access management solutions\n• Advises on the implementation of new IAM features that are tailored to the specific environment.\n• Establishes the link between the IAM team and the business stakeholders, capturing their evolving requirements and communicating about the IAM program roadmap.\n• Focuses on the efficient deployment, roll-out, and transition of new features and versions of the IAM platform.\n• Configure and customize IGA and Access Management platforms to align with clients' business processes and security policies.\n• Develop and implement access control policies, roles, and entitlements to ensure appropriate levels of access across systems and applications.\n• Provide guidance and expertise on best practices for identity lifecycle management, access certification, role-based access control, and compliance reporting.\n• Collaborate with cross-functional teams, including security, IT, and compliance, to integrate IGA solutions into clients' environments.\n• Provide training and support to clients' teams to facilitate adoption and ongoing management of IGA solutions.\n• Interacts with the vendor and service providers to address contractual agreements related to the IAM platform.\n• Prepares updates and reports to management.\n\n•\n• Familiarity with identity and Access management systems (Microsoft AD, Azure AD, Intra ID, ADFS, MDM intune, Office 365)\n• Familiarity with identity and Access management systems (SailPoint, Entra ID, ForgeRock, Okta, Novell) and Directories an (LDAP, AD).\n• Experience in Microsoft AD, Azure AD, Intra ID, MFA, SSO, PAM, IGA, and Office 365\n• Certification in SailPoint IdentityIQ Associate Certification, and BeyondTrust PAM/EPM and PRA Remote, and OCJP/SCJP is preffered\n• Familiarity with RBAC and Role Engineering.\n• Prior consulting experience and Excellent customer-facing skills are highly desirable\n• Proven ability to work and contribute to a team oriented environment\n• Demonstrated multitasking skills in a fast-paced environment\n• Strong communication (written and verbal) and interpersonal skills\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
+  },
+  {
+   "id": "maf:23413",
+   "source": "maf",
+   "company": "Majid Al Futtaim",
+   "via": "",
+   "title": "AI Engineer",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai"
+   ],
+   "workplace_type": "Regular",
+   "category": "Architecture, Engineering & Project Management",
+   "posted_date": "2026-11-22",
+   "summary": "Take on the role of AI Engineer to design, build, and deploy generative AI and machine learning applications that deliver measurable business value. Lead the end-to-end application lifecycle, from problem framing to deployment. Ideal for experienced professionals with strong Python and SQL skills and expertise in AI engineering.",
+   "url": "https://careers.majidalfuttaim.com/global/en/job/23413",
+   "first_seen": "2026-11-25T10:47:10Z",
+   "description": "Business Introduction\n\r\n\nMajid Al Futtaim Holding is the leading shopping mall, retail, communities, entertainment developer and operator in the Middle East, North Africa, and Central Asia regions. With over 43,000 people, revenues of over US$ 11 Billion, and operations in 18 countries. Some of the iconic brands we carry include Mall of the Emirates, Carrefour, All Saints, Lego, City Center, Abercrombie & Fitch, & Vox Cinemas. We believe in making Great Moments for Everyone, Every day.\n\n\r\n\nJOB TITLE\n\nAI Engineer | MAF LifeStyle | Data & AI Engineering\n\n\r\n\nROLE SUMMARY\n\nThe AI Engineer will be responsible for designing, building, deploying, and operating generative AI and machine learning applications that translate foundation-model capabilities into measurable business value. The role owns the end-to-end application lifecycle, including problem framing, prompt and retrieval design, architecture, evaluation, deployment, monitoring, safety, scalability, and cost efficiency.\n\n\r\n\nROLE PROFILE\n\n• Design and develop production-ready generative AI and machine learning applications, including LLM, retrieval-augmented generation, and agentic solutions.\n• Select suitable foundation models and providers by evaluating output quality, latency, cost, portability, and business requirements.\n• Design prompts, structured outputs, function-calling workflows, fine-tuning runs, and troubleshooting approaches for assigned use cases.\n• Build end-to-end retrieval pipelines using appropriate chunking, embeddings, hybrid search, reranking, and measured retrieval-quality criteria.\n• Design scalable AI application architectures, APIs, authentication, caching, queues, streaming, and graceful-degradation mechanisms.\n• Integrate AI applications with enterprise systems and data platforms, producing well-tested, maintainable, and observable Python code.\n• Deploy and operate containerized applications using Docker, CI/CD, MLOps practices, monitoring, rollback, and cost-optimization controls.\n• Implement evaluation frameworks, guardrails, validation, bias and hallucination testing, responsible-AI controls, and business-impact measurement.\n\n\r\n\nREQUIREMENTS\n\n• Bachelor's degree in Computer Science, Software Engineering, Data Science, or a related field; a master's degree is preferred.\n• 5+ years of experience in AI engineering, software engineering, or applied machine learning within a complex or large-scale organization.\n• Proven delivery of end-to-end LLM, retrieval, or agentic applications from solution design through production deployment\n• Strong proficiency in Python and SQL, with expertise in foundation-model APIs.\n• Hands-on experience with tools such as LangChain, Pinecone or Weaviate, Docker, CI/CD, MLflow, and production monitoring.\n• Experience with Azure ML, AWS SageMaker, or GCP Vertex AI, combined with strong business acumen, communication skills, and responsible-AI judgment.\n\n\r\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
+  },
   {
    "id": "amazon:10612531",
    "source": "amazon",
@@ -593,27 +777,6 @@
    "description": "Job Description\nAbout the Client: Centric\n\nCentric Global is a growing technology company with offices in Kenya, Dubai, and Sri Lanka, specializing in ICT, enterprise applications, and digital transformation solutions.\n\nAs an IFS partner, Centric Global delivers IFS ERP solutions and supports organizations across various industries with implementation, consulting, optimization, and technology services. The company also partners with global technology providers including Microsoft, AWS, SUSE, Kaspersky, and Red Hat.\n\nWith a focus on innovation, regional growth, and customer success, Centric Global brings together talented technology professionals to deliver scalable solutions and create meaningful impact for clients across the region.\n\nJoin Centric Global and be part of a growing team delivering technology solutions that help businesses operate smarter and grow sustainably.\n\nAbout the role:\n\nWe are hiring a Senior / Lead IFS Projects Consultant to lead the implementation and support of project management and project accounting processes in IFS Cloud.\n\nYou will own the Projects workstream end-to-end from solution design and configuration to Go-Live, hypercare, and continuous improvement.\n\nKey Responsibilities:\n\n• Lead Projects Fit-to-Standard workshops and solution design\n• Configure modules:\n\no Project Planning & Structure (WBS)\n\no Project Budgeting & Forecasting\n\no Resource Planning\n\no Project Costing & Revenue Recognition\n\no Time & Expense Management\n\n• Align project accounting with Finance (GL, costing, revenue)\n• Support project data migration and validation\n• Drive Project-to-Cash lifecycle optimization\n• Support integrations (Finance, Procurement, HR/Resource Management)\n• Lead SIT, UAT, and Go-Live activities\n• Provide L2/L3 support and continuous improvement post Go-Live\n• Engage stakeholders across PMO, Finance, and Operations\n\nQualifications\nRequired Skills & Experience:\n\n• Bachelor’s degree in a related field\n• 7+ years ERP Projects / Project Accounting consulting experience\n• Proven delivery in IFS Applications or IFS Cloud\n• Strong understanding of:\n\no Project lifecycle (initiation → execution → closure)\n\no Project costing, billing, and revenue recognition\n\n• Experience in data migration, UAT, and Go-Live support\n• Strong stakeholder management and workshop facilitation skills\n• Relevant IFS certifications preferred\n• The role involves travel to customer sites to support client engagements, project delivery, stakeholder meetings, and other business requirements. Candidates must be willing and able to travel internationally as required by the role.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
   },
   {
-   "id": "edge:733667122",
-   "source": "edge",
-   "company": "EDGE · FADA",
-   "via": "",
-   "title": "Senior Devops Engineer",
-   "field": "DevOps & Cloud",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [],
-   "workplace_type": "",
-   "category": "FADA",
-   "posted_date": "2026-11-23",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/ARE-Senior-Devops-Engineer/733667122/",
-   "first_seen": "2026-11-23T10:09:44Z",
-   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nFADA is seeking a highly skilled, forward-thinking DevOps Engineer (Cloud, AI Infrastructure, Telemetry & Geospatial Systems) to architect, automate, and optimize mission-critical infrastructure powering advanced geospatial intelligence (GEOINT), Intelligence, Surveillance, and Reconnaissance (ISR), and Earth Observation (EO) platforms.\n\nThis role plays a pivotal part in delivering secure, scalable, and resilient multi-cloud and hybrid environments across Azure and AWS for high-throughput imagery ingestion, raster/SAR/optical processing, AI/ML pipelines, and mission analytics. In alignment with industry standards, the role integrates AI-assisted operations and autonomous DevOps/SRE agents, InfluxDB time-series telemetry, and end-to-end observability to accelerate mission capability delivery while maintaining strict security, reliability, and governance.\n\nRESPONSIBILITIES\n\r\n\n• Multi-Cloud & Hybrid Architecture (Azure & AWS): Architect, deploy, and govern cloud-native and hybrid infrastructure across Azure and AWS for mission-critical GEOINT and imagery workflows—covering compute, object/block storage, networking, IAM/Entra ID, landing zones, and secure on-premise or air-gapped connectivity.\n\n• AI Infrastructure & DevOps/SRE Agents: Deploy, govern, and integrate AI tooling and autonomous/semi-autonomous DevOps and SRE agents (such as incident investigation, IaC/PR review, drift/compliance checking, and deployment risk workflows) with strict human-in-the-loop approvals, least-privilege guardrails, and full auditability.\n\n• Infrastructure as Code (IaC) & DevOps: Implement and maintain modular IaC (Terraform, Bicep, Ansible) and GitOps workflows (ArgoCD or Flux) to automate provisioning of geospatial data pipelines, GPU compute clusters, AI inference/training environments, and distributed mission services.\n\n• Time-Series & Telemetry Engineering (InfluxDB & OTel): Design, scale, and maintain high-throughput telemetry and time-series pipelines using InfluxDB (and collectors such as Telegraf and OpenTelemetry) to capture infrastructure metrics, pipeline throughput, sensor/ground/platform telemetry, and real-time operational events.\n\n• End-to-End Observability & AIOps: Build and optimize observability stacks (OpenTelemetry, Prometheus, Grafana, InfluxDB, ELK/Loki, Azure Monitor, AWS CloudWatch) combining metrics, logs, traces, and anomaly detection to ensure proactive reliability across GEOINT workloads and mission platforms.\n\n• CI/CD & Python Automation: Architect resilient CI/CD pipelines (Azure DevOps, GitHub Actions, GitLab CI) and build Python-based automation tools, CLI utilities, and API integrations for data ingestion, STAC/metadata workflows, telemetry automation, and automated verification.\n\n• Container & GPU Orchestration: Deploy and manage containerized workloads on Docker and Kubernetes (AKS and EKS), including GPU-accelerated node pools for computer vision/AI models, raster processing, and geospatial web services.\n\n• Performance & Scalability for EO/SAR Workloads: Tune storage, networking, caching, and distributed compute to handle bursty EO/SAR ingestion, large raster/COG datasets, and real-time analytics under strict SLAs.\n\n• Zero Trust Security & Mission Governance: Enforce Zero Trust architecture, network segmentation (VNet/VPC, firewalls, VPN/ExpressRoute/Direct Connect, service mesh), encryption at rest and in transit, secrets management, and compliance controls suited to sensitive defense and space/geospatial environments.\n\n• Incident Response, FinOps & Documentation: Lead root-cause analysis and incident response across dev, test, and operational environments; drive cloud/GPU FinOps optimization; and maintain architecture decision records (ADRs), playbooks, and operational runbooks.\n\n• Cross-Functional Collaboration: Partner closely with GEOINT engineers, AI/ML scientists, data engineers, and security teams to align infrastructure performance, telemetry, and automation with mission needs.\n\nBASIC QUALIFICATIONS\n\r\n\n• Education: Bachelor’s or Master’s degree in Computer Science, Cloud/Systems Engineering, GIS/Geospatial Technology, or a related technical field.\n\n• Experience: 8–10+ years of hands-on experience in DevOps, Platform Engineering, SRE, or Cloud Infrastructure roles.\n\n• Cloud Expertise (Azure & AWS): Deep practical experience with both Azure and AWS, including multi-account/multi-subscription landing zones, IAM/RBAC, networking, storage, and managed Kubernetes (AKS and EKS).\n\n• AI & DevOps Agents: Practical experience integrating AI/LLM-powered developer and operations agents, agentic tool/MCP workflows, or AIOps into CI/CD, IaC validation, or incident triage—including security, sandboxing, and governance controls.\n\n• Telemetry & InfluxDB: Hands-on experience with InfluxDB (time-series schema design, retention/downsampling policies, ingestion pipelines) alongside OpenTelemetry and industry-standard metrics, logs, and tracing stacks.\n\n• IaC & Automation: Strong proficiency in Python for operational tooling and APIs, paired with proven experience in Terraform (preferred), Bicep, or Ansible and Git-based workflows.\n\n• Containers & Orchestration: Solid mastery of Kubernetes architecture, workload autoscaling, ingress/egress, and GPU scheduling.\n\n• Geospatial Foundations: Hands-on experience supporting geospatial or imagery workflows (e.g., PostGIS, GeoTIFF/COG, WMTS/vector tiles, STAC catalogs, or raster processing pipelines).\n\n• Networking & Security: Strong command of DNS, routing, VPNs, load balancers, firewalls, Zero Trust principles, and enterprise security/compliance frameworks.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Experience building InfluxDB pipelines for high-frequency telemetry, hardware/satellite/ground-station metrics, or real-time operational analytics.\n\n• Experience deploying and governing AI agents (e.g., automated PR/IaC reviewers, SRE investigation agents, policy/compliance agents) with deterministic guardrails and audit trails.\n\n• Hands-on experience with Azure ML / AWS SageMaker, GPU clusters, and air-gapped, sovereign, or hybrid/on-premise deployments.\n\n• Experience integrating DevOps pipelines with EO/SAR processing engines, orthorectification/tiling/mosaicking workflows, or cloud EO platforms (e.g., SentinelHub, Google Earth Engine, OpenEO).\n\n• Experience with GitOps (ArgoCD or Flux), service mesh (e.g., Istio/Linkerd), and OpenTelemetry instrumentation across microservices and batch jobs.\n\n• Advanced Python for parallel geospatial/raster processing, metadata extraction, and automated infrastructure testing.\n\n• Background in defense, aerospace/space systems, ISR ecosystems, or high-assurance operational enclaves.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
-  },
-  {
    "id": "edge:733667722",
    "source": "edge",
    "company": "EDGE · AL TAIF",
@@ -635,6 +798,27 @@
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-System-Engineer-I-Abu/733667722/",
    "first_seen": "2026-11-23T10:09:44Z",
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nThe System Engineer I is responsible for the administration, maintenance, monitoring, and technical support of the organization’s IT infrastructure, including Windows Server systems, networking, virtualization, storage solutions, and hybrid environments. The role focuses on ensuring system availability, reliability, performance, and security through regular maintenance, troubleshooting, and system upgrades. Additionally, the engineer supports backup and disaster recovery operations, infrastructure projects, and compliance with IT policies and best practices.\n\nRESPONSIBILITIES\n\r\n\n• Install, configure, maintain, and troubleshoot Microsoft Windows Server systems.\n\n• Administer Active Directory, Group Policy, DNS, DHCP, user accounts, and access permissions.\n\n• Support Microsoft Exchange Server, Microsoft 365, and related email services.\n\n• Manage and monitor virtualization environments, including VMware and Hyper-V.\n\n• Support networking services and protocols, including TCP/IP, DNS, DHCP, VPN, and VLAN.\n\n• Maintain storage systems, including SAN/NAS, file servers, and backup solutions.\n\n• Monitor system performance, perform backups, and support disaster recovery procedures.\n\n• Perform system upgrades, security patching, and software deployment using SCCM, WSUS, or equivalent tools.\n\n• Support on-premises and hybrid environments, including Microsoft Azure and Entra ID.\n\n• Assist in data center operations, including server hardware, racks, and network infrastructure.\n\n• Troubleshoot technical issues and coordinate with vendors when required.\n\n• Maintain technical documentation and ensure compliance with IT security policies and procedures.\n\n• Support other employees of the IT section in fulfilling their roles and provide technical assistance.\n\n• Ensure compliance with all safety, housekeeping, and environmental directives.\n\n• Perform other duties as directed by the Manager, IT and Digitalization.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor’s degree in Computer Science, Computer Engineering, Information Technology, or a related field.\n\n• Minimum of 3–5 years of experience in Windows Server administration, IT infrastructure, networking, virtualization, and system support.\n\n• Strong knowledge of Windows Server administration, Active Directory, and Group Policy.\n\n• Good understanding of networking protocols: TCP/IP, DNS, DHCP, VPN, and VLAN.\n\n• Experience with Microsoft Exchange Server and Microsoft 365.\n\n• Working knowledge of virtualization technologies (VMware, Hyper-V).\n\n• Familiarity with storage systems (SAN, NAS) and backup solutions.\n\n• Knowledge of SCCM, WSUS, system monitoring, and troubleshooting tools.\n\n• Basic understanding of data center operations and server hardware.\n\n• Familiarity with disaster recovery and hybrid infrastructure environments.\n\n• Basic knowledge of Microsoft Azure, Entra ID, and PowerShell.\n\n• MCSE (Microsoft Certified Systems Engineer).\n\n• Additional certifications such as VMware, Azure, or CCNA are a plus.\n\n• Strong problem-solving and analytical skills.\n\n• Ability to work effectively in a team and manage priorities.\n\n• Good communication and technical documentation skills.\n\n• Commitment to safety, housekeeping, and environmental directives.\n\nPREFERRED QUALIFICATIONS\n\r\n\nClick to add description here. To maintain a consistent format and candidate experience, text formatting is strictly prohibited. When pasting content, always use Remove Formatting before inserting the text"
+  },
+  {
+   "id": "edge:733667122",
+   "source": "edge",
+   "company": "EDGE · FADA",
+   "via": "",
+   "title": "Senior Devops Engineer",
+   "field": "DevOps & Cloud",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [],
+   "workplace_type": "",
+   "category": "FADA",
+   "posted_date": "2026-11-23",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/ARE-Senior-Devops-Engineer/733667122/",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nFADA is seeking a highly skilled, forward-thinking DevOps Engineer (Cloud, AI Infrastructure, Telemetry & Geospatial Systems) to architect, automate, and optimize mission-critical infrastructure powering advanced geospatial intelligence (GEOINT), Intelligence, Surveillance, and Reconnaissance (ISR), and Earth Observation (EO) platforms.\n\nThis role plays a pivotal part in delivering secure, scalable, and resilient multi-cloud and hybrid environments across Azure and AWS for high-throughput imagery ingestion, raster/SAR/optical processing, AI/ML pipelines, and mission analytics. In alignment with industry standards, the role integrates AI-assisted operations and autonomous DevOps/SRE agents, InfluxDB time-series telemetry, and end-to-end observability to accelerate mission capability delivery while maintaining strict security, reliability, and governance.\n\nRESPONSIBILITIES\n\r\n\n• Multi-Cloud & Hybrid Architecture (Azure & AWS): Architect, deploy, and govern cloud-native and hybrid infrastructure across Azure and AWS for mission-critical GEOINT and imagery workflows—covering compute, object/block storage, networking, IAM/Entra ID, landing zones, and secure on-premise or air-gapped connectivity.\n\n• AI Infrastructure & DevOps/SRE Agents: Deploy, govern, and integrate AI tooling and autonomous/semi-autonomous DevOps and SRE agents (such as incident investigation, IaC/PR review, drift/compliance checking, and deployment risk workflows) with strict human-in-the-loop approvals, least-privilege guardrails, and full auditability.\n\n• Infrastructure as Code (IaC) & DevOps: Implement and maintain modular IaC (Terraform, Bicep, Ansible) and GitOps workflows (ArgoCD or Flux) to automate provisioning of geospatial data pipelines, GPU compute clusters, AI inference/training environments, and distributed mission services.\n\n• Time-Series & Telemetry Engineering (InfluxDB & OTel): Design, scale, and maintain high-throughput telemetry and time-series pipelines using InfluxDB (and collectors such as Telegraf and OpenTelemetry) to capture infrastructure metrics, pipeline throughput, sensor/ground/platform telemetry, and real-time operational events.\n\n• End-to-End Observability & AIOps: Build and optimize observability stacks (OpenTelemetry, Prometheus, Grafana, InfluxDB, ELK/Loki, Azure Monitor, AWS CloudWatch) combining metrics, logs, traces, and anomaly detection to ensure proactive reliability across GEOINT workloads and mission platforms.\n\n• CI/CD & Python Automation: Architect resilient CI/CD pipelines (Azure DevOps, GitHub Actions, GitLab CI) and build Python-based automation tools, CLI utilities, and API integrations for data ingestion, STAC/metadata workflows, telemetry automation, and automated verification.\n\n• Container & GPU Orchestration: Deploy and manage containerized workloads on Docker and Kubernetes (AKS and EKS), including GPU-accelerated node pools for computer vision/AI models, raster processing, and geospatial web services.\n\n• Performance & Scalability for EO/SAR Workloads: Tune storage, networking, caching, and distributed compute to handle bursty EO/SAR ingestion, large raster/COG datasets, and real-time analytics under strict SLAs.\n\n• Zero Trust Security & Mission Governance: Enforce Zero Trust architecture, network segmentation (VNet/VPC, firewalls, VPN/ExpressRoute/Direct Connect, service mesh), encryption at rest and in transit, secrets management, and compliance controls suited to sensitive defense and space/geospatial environments.\n\n• Incident Response, FinOps & Documentation: Lead root-cause analysis and incident response across dev, test, and operational environments; drive cloud/GPU FinOps optimization; and maintain architecture decision records (ADRs), playbooks, and operational runbooks.\n\n• Cross-Functional Collaboration: Partner closely with GEOINT engineers, AI/ML scientists, data engineers, and security teams to align infrastructure performance, telemetry, and automation with mission needs.\n\nBASIC QUALIFICATIONS\n\r\n\n• Education: Bachelor’s or Master’s degree in Computer Science, Cloud/Systems Engineering, GIS/Geospatial Technology, or a related technical field.\n\n• Experience: 8–10+ years of hands-on experience in DevOps, Platform Engineering, SRE, or Cloud Infrastructure roles.\n\n• Cloud Expertise (Azure & AWS): Deep practical experience with both Azure and AWS, including multi-account/multi-subscription landing zones, IAM/RBAC, networking, storage, and managed Kubernetes (AKS and EKS).\n\n• AI & DevOps Agents: Practical experience integrating AI/LLM-powered developer and operations agents, agentic tool/MCP workflows, or AIOps into CI/CD, IaC validation, or incident triage—including security, sandboxing, and governance controls.\n\n• Telemetry & InfluxDB: Hands-on experience with InfluxDB (time-series schema design, retention/downsampling policies, ingestion pipelines) alongside OpenTelemetry and industry-standard metrics, logs, and tracing stacks.\n\n• IaC & Automation: Strong proficiency in Python for operational tooling and APIs, paired with proven experience in Terraform (preferred), Bicep, or Ansible and Git-based workflows.\n\n• Containers & Orchestration: Solid mastery of Kubernetes architecture, workload autoscaling, ingress/egress, and GPU scheduling.\n\n• Geospatial Foundations: Hands-on experience supporting geospatial or imagery workflows (e.g., PostGIS, GeoTIFF/COG, WMTS/vector tiles, STAC catalogs, or raster processing pipelines).\n\n• Networking & Security: Strong command of DNS, routing, VPNs, load balancers, firewalls, Zero Trust principles, and enterprise security/compliance frameworks.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Experience building InfluxDB pipelines for high-frequency telemetry, hardware/satellite/ground-station metrics, or real-time operational analytics.\n\n• Experience deploying and governing AI agents (e.g., automated PR/IaC reviewers, SRE investigation agents, policy/compliance agents) with deterministic guardrails and audit trails.\n\n• Hands-on experience with Azure ML / AWS SageMaker, GPU clusters, and air-gapped, sovereign, or hybrid/on-premise deployments.\n\n• Experience integrating DevOps pipelines with EO/SAR processing engines, orthorectification/tiling/mosaicking workflows, or cloud EO platforms (e.g., SentinelHub, Google Earth Engine, OpenEO).\n\n• Experience with GitOps (ArgoCD or Flux), service mesh (e.g., Istio/Linkerd), and OpenTelemetry instrumentation across microservices and batch jobs.\n\n• Advanced Python for parallel geospatial/raster processing, metadata extraction, and automated infrastructure testing.\n\n• Background in defense, aerospace/space systems, ISR ecosystems, or high-assurance operational enclaves.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
   },
   {
    "id": "adnoc:33955",
@@ -773,6 +957,29 @@
    "url": "https://careers.majidalfuttaim.com/global/en/job/23216",
    "first_seen": "2026-11-23T10:09:44Z",
    "description": "ROLE SUMMARY\nThe Category Manager – Technology acts as the Dubai-based procurement partner for the assigned technology scope, translating category strategy into sourcing plans and leading complex, high-value technology sourcing events and strategic supplier relationships. The role drives commercial outcomes, savings and category performance for Dubai-led activities while guiding and overseeing Egypt-led sourcing events, ensuring alignment with Group Procurement standards.\n\nROLE PROFILE\n\n• Partner with Technology, Digital and BU stakeholders to develop and implement category strategies across software, SaaS, cloud, infrastructure, cybersecurity, telecom and IT services.\n• Consolidate technology requirements into an annual sourcing plan, anticipate renewals and drive supplier, licence and contract consolidation through preferred suppliers and framework agreements.\n• Lead complex, high-value and strategic Dubai-led technology sourcing events, including RFPs, supplier evaluations, commercial negotiations and award recommendations.\n• Negotiate technology licensing, subscription and service agreements, ensuring competitive pricing, favourable commercial terms, robust SLAs and appropriate legal, security and data protection provisions.\n• Define sourcing delivery routes, provide category guidance and commercial targets for Egypt-led events, and review and endorse strategic technology sourcing recommendations in line with DoA.\n• Manage strategic technology suppliers, conduct QBRs, monitor supplier performance, drive corrective actions and identify opportunities for innovation, supplier resilience and risk mitigation.\n• Deliver Finance-validated savings on Dubai-led activities, monitor category performance, maintain accurate sourcing and contract data in Coupa, and ensure compliance with procurement policies and governance requirements.\n• Monitor technology market trends, vendor developments, pricing benchmarks and AI innovations while supporting Program LOTUS and the adoption of digital procurement solutions.\n\nREQUIREMENTS\n\n• Finance-validated savings, contract coverage in Coupa, timely renewals, supplier performance, stakeholder satisfaction, governance compliance and data accuracy.\n• Primarily focused on business partnering, category strategy and strategic supplier management, with over 90% of sourcing events executed by the Egypt & International Hub.\n• Strong expertise in IT procurement across software, SaaS, cloud, ERP, cybersecurity, infrastructure and managed services, including licensing, commercial negotiations, contracting and supplier performance management.\n• Strong communication, business acumen, strategic thinking, accountability, stakeholder management, decision-making, adaptability, innovation and change leadership.\n• Minimum 8 years of procurement or sourcing experience, including at least 5 years in IT/Technology procurement, with proven experience managing complex sourcing events and global technology vendors. Proficiency in Coupa, Oracle Fusion or SAP S/4HANA.\n• Bachelor's degree in a relevant discipline. CIPS or equivalent professional certification preferred, with software licensing or IT asset management qualifications considered an advantage.\n\nWHAT WE OFFER\n\n• At Majid Al Futtaim, we’re on a mission to create great moments, to spread happiness, to build, experiences that stay in our memories for a lifetime. We’re proud to say that over the past 27 years, we have built a reputation as a regional market leader in what we do. Join us!\n• Work in a friendly environment, where everyone shares positive vibes and excited about our future.\n• Work with over 45,000 diverse and talented colleagues, all guided by our Leadership Model."
+  },
+  {
+   "id": "maf:23263",
+   "source": "maf",
+   "company": "Majid Al Futtaim",
+   "via": "",
+   "title": "Category Lead, IT | Emirati Talent",
+   "field": "Other IT",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Dubai"
+   ],
+   "workplace_type": "Regular",
+   "category": "Business Operations, Procurement & Logistics",
+   "posted_date": "2026-11-16",
+   "summary": "",
+   "url": "https://careers.majidalfuttaim.com/global/en/job/23263",
+   "first_seen": "2026-11-23T10:09:44Z",
+   "description": "Business Introduction\n\r\n\nJob Purpose\n\r\n\nKey Responsibilities & Accountability\n\r\n\nMinimum Experience\n\r\n\nMinimum Qualification / Education"
   },
   {
    "id": "maf:23263",
@@ -1728,7 +1935,7 @@
    "locations": [
     "United Arab Emirates, Abu Dhabi"
    ],
-   "workplace_type": "",
+   "workplace_type": "Hybrid",
    "category": "Software Development & Engineering",
    "posted_date": "2026-11-16",
    "summary": "",
@@ -2538,29 +2745,6 @@
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAt FADA we are looking for an experienced Configuration and Data Management (CADM) Specialist to lead and enforce CADM processes across complex, multi-stakeholder space and defense programs. This is a high-impact role where you will ensure consistency, compliance, and traceability of configuration items and program data across the full system lifecycle.\n\nThe ideal candidate will have strong experience in aerospace, defense, or space systems, and be confident managing the technical baseline, ensuring configuration control, and working closely with internal teams, suppliers, and partners to meet both technical and contractual data requirements.\n\nRESPONSIBILITIES\n\r\n\nConfiguration Management"
   },
   {
-   "id": "g42:3472",
-   "source": "g42",
-   "company": "G42 · Inception42",
-   "via": "",
-   "title": "Principal Product Designer",
-   "field": "UI/UX Design",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "Information Technology Operations",
-   "posted_date": "2026-10-23",
-   "summary": "We are currently hiring a Principal Product Designer to lead the design of AI-native products, shaping intuitive interfaces and autonomous systems. Drive end-to-end product strategy and manage a design team, leveraging your expertise in user research and interaction design. Ideal for experienced professionals with a strong background in AI product design.",
-   "url": "https://careers.g42.ai/global/en/job/3472",
-   "first_seen": "2026-11-08T18:36:43Z",
-   "description": "Inception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inception42.ai\n\nOverview:\n\r\n\nWe are looking for a hands-on Principal Product Designer to lead design work and manage a design pod across our AI-native portfolio: personal AI agents, executive intelligence, agentic workflows, governance platforms, and domain-specific solutions.\n\nThis is a role for an inventor. Your central job is to translate abstract vision — an executive ambition, a policy goal, a model capability that appeared six months ago — into concrete, innovative products that people trust and use every day. Your work will define how people should delegate real work to autonomous systems, and stay in control of the outcomes achieved by AI that are inherently non-deterministic.\n\nYou will own design from discovery through delivery, set the craft bar and the design systems across multiple products, and redefine the product design best practices at Inception42. You will work at the boundary of design, product, and applied AI — shaping not only the interface, but how the AI behaves with it.\n\nResponsibilities:\n\r\n\nVision and strategy\n\n• Define the design vision, experience principles and quality standards across Inception42’s AI product portfolio.\n\n• Translate business ambitions, government requirements and emerging AI capabilities into practical product concepts and shipped experiences.\n\n• Partner with Product, Engineering and Science to shape near- and long-term roadmaps, strengthen design thinking and improve delivery processes.\n\nEnd-to-end AI product design\n\n• Lead discovery, user research, journey mapping, interaction design, prototyping, usability testing and production, owning design from strategy through launch.\n\n• Manage multiple projects in a fast-moving environment, balancing ambiguity, stakeholder input, functional requirements and timelines.\n\n• Design intuitive agents, copilots, multi-agent systems, dashboards, conversational interfaces and workflows, including memory, citations and long-running actions.\n\n• Design for uncertainty and failure, including incorrect or fabricated outputs, incomplete information, refusals, streaming, latency, tool errors and unpredictable behaviour.\n\n• Make AI capabilities and limitations clear, helping users judge reliability, delegate work confidently and retain control over outcomes.\n\n• Collaborate on prompts, system behaviour, tone of voice, output structure, content standards and guardrails so AI behaviour supports the intended experience.\n\n• Define good output from the user’s perspective and contribute to evaluation rubrics, test sets and human review loops.\n\n• Ground decisions in user and market research, behavioural data, telemetry and stakeholder feedback.\n\n• Define and measure adoption, task success, time-to-value, correction and abandonment rates, and users’ ability to judge when to trust AI.\n\nDesign systems and quality\n\n• Establish and govern reusable design systems across web, mobile, conversational, voice and workflow experiences.\n\n• Use Figma, prototyping tools and AI tools to explore ideas quickly; use working prototypes to test concepts and align stakeholders.\n\n• Maintain clear design specifications and uphold consistent standards for interaction, visual design, content and usability through delivery.\n\n• Support English and Arabic experiences, including right-to-left layouts, bilingual typography and cultural context.\n\n• Embed responsible and sovereign AI requirements, including AI disclosure, privacy, data residency, auditability and human oversight.\n\nLeadership and influence\n\n• Lead a design pod while remaining hands-on with the most complex design challenges.\n\n• Recruit, mentor and develop permanent and contract designers, strengthening craft, critique and product thinking.\n\n• Present design concepts and decisions clearly to Product, Engineering, Science, leadership, government stakeholders, enterprise customers and partners.\n\n• Translate high-level feedback into actionable improvements and explain complex ideas effectively to executives, engineers and domain experts.\n\nQualifications:\n\r\n\n• 10+ years of product design experience, with experience managing teams for major design initiatives.\n• An online portfolio demonstrating end-to-end product ownership, interaction design, visual craft, and measurable outcomes. Case studies should show your process and your decisions, not only final screens.\n• Experience with best practices for user interface design, information architecture, and interaction design.\n• Experience with life-cycle design projects, from design strategy through to execution.\n• Experience designing complex enterprise, SaaS, workflow, operational, or data-rich products.\n• Strong expertise in user research, information architecture, prototyping, usability testing, and design systems.\n• Expert proficiency in Figma and other design and prototyping tools.\n• Experience designing AI-powered products such as agents, copilots, conversational UIs, intelligent workflows.\n• Practical understanding of human–AI interaction, explainability, trust, confidence, user control, and HITL.\n• Familiarity with AI concepts such as prompts, context, RAG, citations, memory, evaluations\n• Experience using AI-assisted design, coding, research, or prototyping tools in your day-to-day work.\n• Strong leadership, stakeholder management, communication, and presentation skills,\n• Ability to work with ambiguity and to find clarity in a fast-pacing and changing environment\n• Bachelor’s or Master’s degree in Product Design, Interaction Design, Human–Computer Interaction, or related fields\n\nPreferred qualifications\n\n• Experience with AI governance, workflow builders, decision-intelligence products, or enterprise AI platforms.\n• Experience designing bilingual Arabic and English products; Arabic language ability is a plus but not required\n• Familiarity with frontend technologies or design-to-code workflows, and the ability to prototype in code.\n• Solid grasp of conversational and voice design fundamentals.\n• Experience working directly with senior executives, government stakeholders, and enterprise customers.\n• Experience in regulated domains such as healthcare, energy, financial services, or the public sector.\n• Experience building or scaling a design function from a small base.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception42 community.\n\nWhat Working At Inception42 Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
-  },
-  {
    "id": "g42:3470",
    "source": "g42",
    "company": "G42 · Inception42",
@@ -2582,6 +2766,29 @@
    "url": "https://careers.g42.ai/global/en/job/3470",
    "first_seen": "2026-11-08T18:36:43Z",
    "description": "Inception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inception42.ai\n\nOverview:\n\r\n\nWe are looking for a hands-on Product Director with deep FinTech expertise to lead Alpha, Inception42's investment and credit AI product. You will own strategy, roadmap, and outcomes for institutional investors, lenders, and financial analysts.\n\nTranslate emerging AI capabilities into investment research, due diligence, underwriting support, and portfolio monitoring workflows. Turn fragmented information into reviewable analysis, with clear evidence and user control. Success means accurate work, sustained adoption, and measurable customer value.\n\nYou will lead cross-functional teams spanning Design, Engineering, Science, domain experts, and Growth. You will make difficult trade-offs, stay close to customers and product details, and mentor product managers.\n\nResponsibilities:\n\r\n\nProduct strategy and discovery\n\n• Define Alpha’s vision, target markets, differentiation and roadmap, aligning customer needs with emerging AI capabilities.\n\n• Engage investment analysts, portfolio managers, credit teams and senior decision-makers to understand workflows, buying criteria and adoption barriers.\n\n• Assess competitors and alternatives; validate demand through research, AI-assisted prototypes and pilots. Prioritise by customer value, commercial potential, feasibility and risk, coordinating shared capabilities with Catalyst.\n\nInvestment and credit workflows\n\n• Own requirements for opportunity screening, company and sector research, due diligence, valuation support and investment committee materials.\n\n• Develop workflows for financial statement analysis, cash-flow and debt-service assessment, downside scenarios, credit memos, covenant review and portfolio monitoring.\n\n• Define AI behaviour and acceptance criteria, enabling analyst review, collaboration, versioning and approval, with Excel, Word and PowerPoint outputs.\n\n• Prioritise integrations with filings, transcripts, market and credit data, internal research and deal rooms; guide licensing, access rights and build-versus-partner decisions.\n\nAI development, quality and governance\n\n• Partner with Science and Engineering on models, retrieval-augmented generation, prompts, context, memory, tools and agent orchestration.\n\n• Ensure accurate extraction and reconciliation across documents and tables, accounting for entities, periods, currencies, units, metric definitions, freshness and conflicting evidence.\n\n• Make outputs traceable to sources, separating reported facts, calculations, assumptions and AI interpretations, with reliable calculation tools and reviewable inputs.\n\n• Own evaluation frameworks, test sets, analyst reviews and release thresholds for numerical accuracy, citations, completeness, financial reasoning and task success; monitor regressions and feedback.\n\n• Define safeguards for fabricated outputs, missing evidence, tool failures and long-running actions, with intervention, recovery and approval paths.\n\n• Embed AI disclosure, permissions, audit trails and sovereign data residency. Partner with Security, Legal, Risk and Compliance on confidentiality, material non-public information and information barriers.\n\n• Agree approved uses and validation evidence with customer governance teams; assess English and Arabic content for language quality, numerical fidelity and localisation.\n\nDelivery and commercial outcomes\n\n• Lead discovery, launch and iteration across Design, Engineering, Science, domain experts and Growth, balancing scope, readiness, quality, reliability, latency and cost.\n\n• Own the business case and product performance; support pricing, packaging, positioning and enterprise sales, accounting for data, inference, review and support costs.\n\n• Convert pilots into sustained adoption through repeatable onboarding, workflow templates and training.\n\n• Track task success, time to validated analysis, errors, corrections and abandonment alongside adoption, conversion, retention, expansion and unit economics.\n\nLeadership\n\n• Align technical, financial and commercial stakeholders on priorities and trade-offs; communicate effectively with customers and leadership.\n\n• Mentor product managers, support hiring and strengthen discovery, evaluation and product reviews while remaining hands-on with experiments, feedback and production performance.\n\nQualifications:\n\r\n\nWhat We’re Looking For\n\n• 10+ years in product management or closely related roles, with substantial ownership of complex products at senior or principal level and a record of launching and scaling financial technology.\n\n• Knowledge of institutional investment or credit workflows, with working fluency across both.\n\n• Experience building products for analysts, investment teams, lenders, or risk professionals.\n\n• Strong understanding of financial statements, valuation, leverage, and credit risk.\n\n• Ability to interrogate financial models and challenge analytical assumptions.\n\n• Experience delivering enterprise software with measurable adoption and commercial impact, including direct customer discovery and engagement with senior financial stakeholders.\n\n• Experience taking AI-powered products, such as agents, copilots, or intelligent workflows, from concept to production and measurable adoption.\n\n• Practical fluency in large language models, retrieval-augmented generation, context, memory, tool use, and evaluations. Ability to reason with technical teams about quality, latency, reliability, and cost.\n\n• Hands-on use of AI tools to prototype workflows, test model behaviour, and accelerate research, analysis, or delivery.\n\n• Strong analytical and commercial skills, including hands-on use of Excel, SQL, or comparable tools to investigate data, test hypotheses, and measure outcomes.\n\n• Clear written and verbal communication, leadership across functions, and sound judgement in ambiguous environments where accuracy and customer trust are critical.\n\n• A bachelor's degree in finance, economics, computer science, engineering, business, or a related field, or equivalent practical experience.\n\n• Sound product judgement and financial rigour: test assumptions against customer evidence, check the numbers, and change direction when warranted.\n\n• Hands-on ownership and collaborative leadership: experiment to resolve uncertainty, welcome challenge, and stay accountable for outcomes beyond launch.\n\nNice to Have\n\n• Prior investment banking, asset management, private equity, private credit, corporate lending, or credit research experience alongside product leadership.\n\n• Experience with financial data providers, document intelligence, financial modelling tools, or enterprise integrations and data-access controls.\n\n• Experience with financial institutions, sovereign deployment, and regulated enterprise procurement. Arabic language ability and bilingual product experience are advantages.\n\n• CFA, FRM, or another relevant finance qualification; or similar practical depth in investment or credit analysis.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception42 community.\n\nWhat Working At Inception42 Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
+  },
+  {
+   "id": "g42:3472",
+   "source": "g42",
+   "company": "G42 · Inception42",
+   "via": "",
+   "title": "Principal Product Designer",
+   "field": "UI/UX Design",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "Information Technology Operations",
+   "posted_date": "2026-10-23",
+   "summary": "We are currently hiring a Principal Product Designer to lead the design of AI-native products, shaping intuitive interfaces and autonomous systems. Drive end-to-end product strategy and manage a design team, leveraging your expertise in user research and interaction design. Ideal for experienced professionals with a strong background in AI product design.",
+   "url": "https://careers.g42.ai/global/en/job/3472",
+   "first_seen": "2026-11-08T18:36:43Z",
+   "description": "Inception42, a G42 company, is the region’s leading innovator of AI-powered domain-specific as well as industry-agnostic products, built on a rich heritage of research and development. Within the G42 ecosystem, Inception functions as the core intelligence layer – transforming data and compute infrastructure into real-world, applied AI solutions. Beyond its commercial endeavors, Inception is committed to creating positive societal impact. For more information, please visit www.inception42.ai\n\nOverview:\n\r\n\nWe are looking for a hands-on Principal Product Designer to lead design work and manage a design pod across our AI-native portfolio: personal AI agents, executive intelligence, agentic workflows, governance platforms, and domain-specific solutions.\n\nThis is a role for an inventor. Your central job is to translate abstract vision — an executive ambition, a policy goal, a model capability that appeared six months ago — into concrete, innovative products that people trust and use every day. Your work will define how people should delegate real work to autonomous systems, and stay in control of the outcomes achieved by AI that are inherently non-deterministic.\n\nYou will own design from discovery through delivery, set the craft bar and the design systems across multiple products, and redefine the product design best practices at Inception42. You will work at the boundary of design, product, and applied AI — shaping not only the interface, but how the AI behaves with it.\n\nResponsibilities:\n\r\n\nVision and strategy\n\n• Define the design vision, experience principles and quality standards across Inception42’s AI product portfolio.\n\n• Translate business ambitions, government requirements and emerging AI capabilities into practical product concepts and shipped experiences.\n\n• Partner with Product, Engineering and Science to shape near- and long-term roadmaps, strengthen design thinking and improve delivery processes.\n\nEnd-to-end AI product design\n\n• Lead discovery, user research, journey mapping, interaction design, prototyping, usability testing and production, owning design from strategy through launch.\n\n• Manage multiple projects in a fast-moving environment, balancing ambiguity, stakeholder input, functional requirements and timelines.\n\n• Design intuitive agents, copilots, multi-agent systems, dashboards, conversational interfaces and workflows, including memory, citations and long-running actions.\n\n• Design for uncertainty and failure, including incorrect or fabricated outputs, incomplete information, refusals, streaming, latency, tool errors and unpredictable behaviour.\n\n• Make AI capabilities and limitations clear, helping users judge reliability, delegate work confidently and retain control over outcomes.\n\n• Collaborate on prompts, system behaviour, tone of voice, output structure, content standards and guardrails so AI behaviour supports the intended experience.\n\n• Define good output from the user’s perspective and contribute to evaluation rubrics, test sets and human review loops.\n\n• Ground decisions in user and market research, behavioural data, telemetry and stakeholder feedback.\n\n• Define and measure adoption, task success, time-to-value, correction and abandonment rates, and users’ ability to judge when to trust AI.\n\nDesign systems and quality\n\n• Establish and govern reusable design systems across web, mobile, conversational, voice and workflow experiences.\n\n• Use Figma, prototyping tools and AI tools to explore ideas quickly; use working prototypes to test concepts and align stakeholders.\n\n• Maintain clear design specifications and uphold consistent standards for interaction, visual design, content and usability through delivery.\n\n• Support English and Arabic experiences, including right-to-left layouts, bilingual typography and cultural context.\n\n• Embed responsible and sovereign AI requirements, including AI disclosure, privacy, data residency, auditability and human oversight.\n\nLeadership and influence\n\n• Lead a design pod while remaining hands-on with the most complex design challenges.\n\n• Recruit, mentor and develop permanent and contract designers, strengthening craft, critique and product thinking.\n\n• Present design concepts and decisions clearly to Product, Engineering, Science, leadership, government stakeholders, enterprise customers and partners.\n\n• Translate high-level feedback into actionable improvements and explain complex ideas effectively to executives, engineers and domain experts.\n\nQualifications:\n\r\n\n• 10+ years of product design experience, with experience managing teams for major design initiatives.\n• An online portfolio demonstrating end-to-end product ownership, interaction design, visual craft, and measurable outcomes. Case studies should show your process and your decisions, not only final screens.\n• Experience with best practices for user interface design, information architecture, and interaction design.\n• Experience with life-cycle design projects, from design strategy through to execution.\n• Experience designing complex enterprise, SaaS, workflow, operational, or data-rich products.\n• Strong expertise in user research, information architecture, prototyping, usability testing, and design systems.\n• Expert proficiency in Figma and other design and prototyping tools.\n• Experience designing AI-powered products such as agents, copilots, conversational UIs, intelligent workflows.\n• Practical understanding of human–AI interaction, explainability, trust, confidence, user control, and HITL.\n• Familiarity with AI concepts such as prompts, context, RAG, citations, memory, evaluations\n• Experience using AI-assisted design, coding, research, or prototyping tools in your day-to-day work.\n• Strong leadership, stakeholder management, communication, and presentation skills,\n• Ability to work with ambiguity and to find clarity in a fast-pacing and changing environment\n• Bachelor’s or Master’s degree in Product Design, Interaction Design, Human–Computer Interaction, or related fields\n\nPreferred qualifications\n\n• Experience with AI governance, workflow builders, decision-intelligence products, or enterprise AI platforms.\n• Experience designing bilingual Arabic and English products; Arabic language ability is a plus but not required\n• Familiarity with frontend technologies or design-to-code workflows, and the ability to prototype in code.\n• Solid grasp of conversational and voice design fundamentals.\n• Experience working directly with senior executives, government stakeholders, and enterprise customers.\n• Experience in regulated domains such as healthcare, energy, financial services, or the public sector.\n• Experience building or scaling a design function from a small base.\n\nWhat We Look For\n\nIf you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Inception42 community.\n\nWhat Working At Inception42 Offers\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.\n\nIf you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible."
   },
   {
    "id": "g42:3414",
@@ -3344,29 +3551,6 @@
    "description": "Role: Senior Engineer - Full Stack\n\nLocation: Abu Dhabi\n\nAbout Presight\n\nPresight is an ADX-listed public company with Abu Dhabi based G42 as its majority shareholder and is the region’s leading big data analytics company powered by GenAI. It combines big data, analytics, and AI expertise to serve every sector, of every scale, to create business and positive societal impact. Presight excels at all-source data interpretation to support insight-driven decision-making that shapes policy and creates safer, healthier, happier, and more sustainable societies. Today, through its range of GenAI-driven products and solutions, Presight is bringing Applied AI to the private and public sector, enabling them to realize their AI strategy and ambitions faster.\n\nThe Opportunity:\n\nPresight is seeking a strongly customer-focused, self-driven and results-oriented Senior Full Stack Engineer.\n\nResponsibilities\nKey Responsibilities:\n\nAs a Senior Full Stack Engineer, you will work within the development team to build the annotation platform on both sides front-end and back-end. Collaborating with Product Managers, Architects and Software Engineers to research, design, implement and improve functionalities of the annotation platform as part of a Big Data analytic system.\n\nFunctional\n\n• Own scoped features end to end: from requirements and technical design through implementation, testing, release, and production follow-up.\n• Build responsive, accessible interfaces for annotation and data-review workflows.\n• Develop backend services, RESTful APIs, data models, and asynchronous workflows.\n• Collaborate with Product, Design, and Engineering to clarify requirements, address edge cases, and deliver complete user journeys.\n• Use AI development tools to accelerate implementation, testing, debugging, and documentation while remaining accountable for quality.\n• Write automated tests, participate in code reviews, and apply security, privacy, performance, and reliability practices.\n• Troubleshoot issues across the stack and improve features based on production behavior and user feedback.\n• Follow applicable company policies and engineering standards.\n• Comply with QHSE (Quality Health Safety and Environment), Business Continuity, Information Security, Privacy, Risk, Compliance Management and Governance of Organizations policies, procedures, plans and related risk assessments.\n\nQualifications\nRequirements:\n\n•\nBachelor’s degree in information technology, Computer Science, Engineering or related field.\n\n•\nStrong computer science and basic algorithms knowledge.\n\n•\n7+ years of professional software development experience, including delivering features across frontend and backend.\n\n•\nA full-stack ownership mindset, with the ability to move between application layers and follow work through to production.\n\n•\nStrong JavaScript and TypeScript skills, alongside HTML, CSS, and web fundamentals.\n\n•\nExperience with component-based frontend development, preferably React and Next.js, including state management, data fetching, and client/server rendering concepts.\n\n•\nStrong backend development experience with Java and Spring Boot, alongside working proficiency in Python for AI agent orchestration, LLM integrations, and supporting backend services.\n\n•\nPractical knowledge of OOP concepts, SOLID principles, and modular design.\n\n•\nUnderstanding of modular monoliths and microservices, including service boundaries and architectural trade-offs.\n\n•\nWorking knowledge of relational databases, data modelling, RESTful APIs, authentication, and authorization.\n\n•\nFamiliarity with message brokers, such as RabbitMQ or Kafka, and asynchronous processing concepts, including retries and idempotency.\n\n•\nExperience with automated testing, Git, code reviews, and debugging across the stack.\n\n•\nAn AI-driven development mindset, with practical experience using coding assistants or agents and independently reviewing and validating their outputs.\n\n•\nClear communication, collaborative problem-solving, and the ability to explain technical trade-offs, raise risks early, and work effectively with product, design, and engineering teams.\n\nIdeally, you’ll also need\n\n• Experience building data-intensive applications.\n• Experience integrating AI or LLM capabilities into applications.\n• Familiarity with UI component libraries and design systems, such as Ant Design.\n• Experience with CI/CD pipelines, Docker, cloud platforms, and application monitoring.\n\nJoin us at Presight, where we offer a culture of innovation, outstanding career growth opportunities, and competitive rewards. If you're eager to conquer new frontiers in AI and thrive in a dynamic environment, we welcome you to our community.\n\nWhat working at Presight offers:\n\nCulture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.\n\nCareer: Accelerate your career through high-impact projects and access to resources for continuous growth and learning opportunities.\n\nRewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more."
   },
   {
-   "id": "edge:733615022",
-   "source": "edge",
-   "company": "EDGE · ADASI",
-   "via": "",
-   "title": "Senior System Engineer - Test Equipment Development",
-   "field": "Systems & Infrastructure",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "ADASI",
-   "posted_date": "2026-11-02",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-System-Engineer-Test-Equipment-Development-Abu/733615022/",
-   "first_seen": "2026-11-02T22:33:19Z",
-   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAbout ADASI"
-  },
-  {
    "id": "edge:733613122",
    "source": "edge",
    "company": "EDGE · ADASI",
@@ -3386,6 +3570,29 @@
    "posted_date": "2026-11-02",
    "summary": "",
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Systems-Engineer-System-Safety-Analysis-Abu/733613122/",
+   "first_seen": "2026-11-02T22:33:19Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAbout ADASI"
+  },
+  {
+   "id": "edge:733615022",
+   "source": "edge",
+   "company": "EDGE · ADASI",
+   "via": "",
+   "title": "Senior System Engineer - Test Equipment Development",
+   "field": "Systems & Infrastructure",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "ADASI",
+   "posted_date": "2026-11-02",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-System-Engineer-Test-Equipment-Development-Abu/733615022/",
    "first_seen": "2026-11-02T22:33:19Z",
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAbout ADASI"
   },
@@ -3657,7 +3864,7 @@
    "locations": [
     "United Arab Emirates, Abu Dhabi"
    ],
-   "workplace_type": "",
+   "workplace_type": "Hybrid",
    "category": "Software Development & Engineering",
    "posted_date": "2026-10-30",
    "summary": "",
@@ -3986,29 +4193,6 @@
    "url": "https://ehjd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/3104",
    "first_seen": "2026-10-27T07:11:20Z",
    "description": "JOB SUMMARY / INTRODUCTION:\nDefine and lead the strategic vision for Open API and Open Banking services across the enterprise, enabling secure, scalable, and innovative digital ecosystems. The role focuses on decomposing legacy systems into modular, reusable APIs, fostering third-party collaboration, and ensuring compliance with Open Banking regulations.\nDrives platform modernization, developer enablement, and cross-functional alignment to accelerate digital transformation and customer-centric innovation. Ensure APIs are designed and managed as strategic digital assets that deliver measurable business value.\n\nKEY RESPONSIBILITIES:\n\n• Align API initiatives with enterprise architecture, data strategy, and reusable adoption goals.\n• Establish metrics and KPIs to measure API performance, adoption, and business impact.\n• Lead the development and lifecycle management of Open APIs in compliance with Open Banking standards (e.g., PSD2, UAE Central Bank guidelines).\n• Collaborate with product, compliance, and architecture teams to define API strategies that support business capabilities and customer journeys.\n• Champion API-first design principles and ensure APIs are reusable, secure, and developer-friendly.\n• Drive the adoption of Open Banking ecosystems by enabling third-party integrations and fintech partnerships.\n• Define and maintain API documentation, sandbox environments, and developer portals.\n• Ensure APIs are discoverable, version-controlled, and aligned with enterprise architecture standards.\n• Provide technical leadership to API engineering teams, fostering a culture of innovation and continuous improvement.\n• Maintain delivery roadmaps, capacity planning, and resource forecasting for Open API initiatives.\n• Ensure compliance with IT governance, security, and regulatory frameworks.\n• Collaborate with enterprise architecture, security, and infrastructure teams to ensure platform scalability and resilience.\n• Track and report KPIs related to API performance, adoption, and risk metrics.\n• Promote DevSecOps, CI/CD, and test automation practices across the API lifecycle.\n\nREQUIREMENTS / QUALIFICATIONS:\n• Exp Overall: 12+ Years, Banking 8+ Years\n• Deep understanding of Open Banking frameworks, API security (OAuth2, OpenID Connect), and regulatory compliance.\n• Strong experience in API management platforms (e.g., Apigee, Kong, WSO2).\n• Expertise in RESTful API design, JSON, Swagger/OpenAPI specifications.\n• Familiarity with domain-driven design and microservices architecture.\n• Proven ability to lead cross-functional teams and manage complex stakeholder environments.\n• Strong communication, leadership, and mentoring skills.\n• Proficiency in API analytics, usage tracking, and performance optimization.\n• Experience with tools like API Management, Kong, Cloud Native Services, Kubernetes."
-  },
-  {
-   "id": "accenture:R00363427",
-   "source": "accenture",
-   "company": "Accenture",
-   "via": "",
-   "title": "SAP Solutions Consultant",
-   "field": "ERP & Business Apps",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, Sowwah Square - Al Sila Tower"
-   ],
-   "workplace_type": "",
-   "category": "",
-   "posted_date": "2026-10-26",
-   "summary": "",
-   "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/SAP-Solutions-Consultant_R00363427",
-   "first_seen": "2026-10-27T07:11:20Z",
-   "description": "Role Overview\n\nWe are seeking an experienced SAP Consultant to lead and support the design, implementation, and optimisation of SAP solutions. The successful candidate will bring deep functional and/or technical expertise across SAP modules relevant to operations, including logistics, asset management, procurement, finance, and human resources. You will work closely with client stakeholders, programme managers, and technical teams to deliver mission-critical SAP solutions.\n\nKey Responsibilities\n\n• Lead end-to-end SAP implementation and support projects\n• Gather and translate complex business requirements into SAP functional and technical specifications\n• Configure, test, and deploy SAP modules in line with SAP standards and regulatory frameworks\n• Provide subject matter expertise across relevant SAP modules (listed below)\n• Liaise with stakeholders to manage expectations and drive solution adoption\n• Conduct workshops, training sessions, and user acceptance testing (UAT)\n• Ensure data integrity, security compliance, and audit readiness across all SAP environments\n• Contribute to solution architecture design and continuous improvement initiatives\n• Manage and mentor junior consultants and client-side SAP teams\n\nSAP Modules – Required Knowledge\n\nFinance & Controlling\n\n• SAP FI (Financial Accounting) – General ledger, accounts payable/receivable, asset accounting for assets\n• SAP CO (Controlling) – Cost centre accounting, internal orders, project cost tracking\n• SAP FM (Funds Management) – Budget management, commitment accounting aligned to regulatory spending controls\n• SAP GM (Grants Management) – Funding from agencies\n• SAP PSM (Public Sector Management) –Budget execution and compliance\n\nLogistics & Supply Chain\n\n• SAP MM (Materials Management) – Procurement, inventory management, catalogue management\n• SAP WM / EWM (Warehouse / Extended Warehouse Management) – Depot management, spare parts logistics\n• SAP IM (Inventory Management) – Stock control including serialised and batch-managed items\n• SAP SD (Sales & Distribution) – Inter-agency sales, cross-charging, equipment loans and returns\n• SAP TM (Transportation Management) – Movement of equipment, vehicles, and materiel\n• SAP GTS (Global Trade Services) – Export controls, dual-use goods compliance, ITAR/EAR adherence\n\nPlant Maintenance & Asset Management\n\n• SAP PM (Plant Maintenance) – Equipment maintenance scheduling, corrective and preventive maintenance\n• SAP EAM (Enterprise Asset Management) – Full lifecycle management of assets\n• SAP CS (Customer Service) – Equipment repair and return management\n\nProject & Programme Management\n\n• SAP PS (Project System) – Management of acquisition projects, capital programmes, and R&D\n• SAP PPM (Portfolio & Project Management) – Programme, resource planning, and milestone tracking\n\nHuman Resources & Workforce\n\n• SAP HCM (Human Capital Management) – personnel records, payroll, absence management\n• SAP SuccessFactors – Talent acquisition, performance management, and workforce planning\n\nQuality & Compliance\n\n• SAP QM (Quality Management) – Inspection lots, quality control, supplier qualification\n• SAP GRC (Governance, Risk & Compliance) – Access control, audit management, segregation of duties, regulatory compliance\n\nAnalytics & Reporting\n\n• SAP BW/4HANA – operational reporting and data warehousing\n• SAP Analytics Cloud (SAC) – Dashboards, KPIs, and mission readiness reporting\n\nTechnology & Integration\n\n• SAP S/4HANA – Core ERP platform (on-premise or private cloud for classified environments)\n• SAP BTP (Business Technology Platform) – Integration, automation, and app development\n• SAP PI/PO / Integration Suite – Middleware integration\n• SAP Fiori – Role-based UX for field and operational users\n\nEssential Requirements\n\n• Proven experience (5+ years) delivering SAP solutions in highly regulated environments\n• Deep functional expertise in at least three of the above SAP modules\n• Understanding of procurement frameworks\n• Strong stakeholder management and communication skills at senior/executive level\n• SAP certification in one or more relevant modules (desirable)\n\nDesirable Requirements\n\n• Knowledge of ITIL, PRINCE2, or Agile delivery methodologies\n• Experience with SAP RISE or private cloud deployment\n• Background in logistics, engineering, or programme management\n\nWhat We Offer\n\n• Opportunity to work on high-impact programmes\n• Professional development and SAP certification support\n• [Pension / benefits / flexible working as applicable]\n\nAbout Accenture\nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities.\nVisit us at www.accenture.com\n\nEqual Employment Opportunity Statement\n\nWe believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, sexual orientation, gender identity or expression, marital status, citizenship status or any other basis as protected by applicable law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities."
   },
   {
    "id": "accenture:R00363431",
@@ -5529,6 +5713,29 @@
    "description": "Job Description\nAbout the role:\n\nUltimo is using AI to transform how their own internal teams work across Sales, Services, Support, HR, Finance and Marketing. As Senior AI Business Analyst, you'll own our internal AI products and agents end-to-end from discovery through delivery, launch and adoption. We are not just adding AI to our processes; we are transforming the way our company works.\n\nThe Senior AI Business Analyst turns business problems into valuable and usable AI solutions. Working within the AI Transformation Team, you will work with business stakeholders and technical teams to identify opportunities, define product requirements, prioritise the backlog, and guide AI products from idea to launch and continuous improvement.\n\nKey Responsibilities:\n\n• Collaborating and establishing a clear product vision for the internal AI solutions together with leadership aligned with organizations’ business objectives.\n• Working with internal business stakeholders to understand processes, challenges, and opportunities where AI can create meaningful value.\n• Translating business needs into clear, practical product requirements and solutions.\n• Managing and continuously refining a goal-oriented AI product backlog, prioritising items based on value, impact, risks, and dependencies.\n• Delivering AI product increments in close collaboration with technical teams.\n• Defining clear acceptance criteria and ensuring solutions meet the intended business needs.\n• Supporting the launch and adoption of AI solutions by communicating their purpose, capabilities, and value to users.\n• Gathering feedback and usage insights to continuously improve AI products and identify new opportunities.\n• Keeping up to date with relevant AI developments, including enterprise AI, and identifying practical opportunities to apply them within the business.\n\nQualifications\n• A degree in Computer Science, Information Technology, Business IT & Management, or a comparable field.\n• 4+ years of experience as a Project Manager, Business Analyst, Product Owner, or similar role.\n• Strong experience in requirements analysis, backlog management, and Agile ways of working.\n• Excellent verbal and written communication skills.\n• Experience working in multidisciplinary teams and managing internal and external stakeholders.\n• Strong understanding of business processes and the ability to translate business needs into practical solutions.\n• Demonstrates critical thinking, analytical decision-making, and a value-driven mindset.\n• Experience presenting solutions, facilitating discussions, and gathering feedback from stakeholders.\n• Good understanding of AI concepts and their practical application in business.\n\nAdditional Information\nWe champion flexibility and hybrid work options to support varying lifestyles and personal needs. At the same time, we value the power of in-person collaboration to build community, spark innovation, and strengthen connections. Our approach ensures you can work in ways that suit you best while still engaging with colleagues to share ideas and grow together. #LI-Hybrid #LI-DNP"
   },
   {
+   "id": "edge:733531822",
+   "source": "edge",
+   "company": "EDGE · ADASI",
+   "via": "",
+   "title": "Senior Embedded Software Engineer",
+   "field": "Software Development",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "ADASI",
+   "posted_date": "2026-10-08",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Embedded-Software-Engineer-Abu/733531822/",
+   "first_seen": "2026-10-09T07:32:04Z",
+   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nEmbedded Software Engineer\n\nRole Overview:\nDevelop and maintain embedded software for aerospace and UAV systems, ensuring high performance, reliability, and compliance with safety standards.\n\nRESPONSIBILITIES\n\r\n\n• Design, develop, and test embedded software in C/C++.\n\n• Develop software for real-time and safety-critical systems.\n\n• Integrate software with hardware components, sensors, and actuators.\n\n• Implement control algorithms and optimize code performance.\n\n• Perform debugging, troubleshooting, and system testing.\n\n• Maintain technical documentation and support certification activities.\n\n• Collaborate with hardware, systems, and QA teams.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's degree in Computer Science, Electrical Engineering, or related field.\n\n• 5–7+ years of embedded software development experience.\n\n• Strong proficiency in C/C++ and embedded systems.\n\n• Experience with RTOS (e.g., FreeRTOS, VxWorks, QNX).\n\n• Knowledge of hardware-software integration and communication protocols (SPI, I2C, UART, CAN).\n\n• Familiarity with aerospace/safety standards such as DO-178C and DO-254.\n\n• Experience with Git and software debugging tools.\n\n• Strong problem-solving and teamwork skills.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Aerospace, defense, automotive, or other safety-critical industry experience.\n\n• Relevant embedded systems or aerospace certifications.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
+  },
+  {
    "id": "edge:733532822",
    "source": "edge",
    "company": "EDGE · ADASI",
@@ -5642,29 +5849,6 @@
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Embedded-Software-Engineer-Abu/733531522/",
    "first_seen": "2026-10-09T07:32:04Z",
    "description": "External Job Description\n\r\n\nEmbedded Software Engineer\n\nLocation: Abu Dhabi\n\nAbout ADASI: ADASI is a leading aerospace company dedicated to advancing the aerospace industry through innovative technology solutions. Our mission is to enhance the safety, efficiency, and sustainability of airspace management. We are seeking a talented Embedded Software Developer to join our team and contribute to our mission.\n\nRole Overview:\nDevelop and maintain embedded software for aerospace and UAV systems, ensuring high performance, reliability, and compliance with safety standards.\n\nKey Responsibilities:\n\n• Design, develop, and test embedded software in C/C++.\n\n• Develop software for real-time and safety-critical systems.\n\n• Integrate software with hardware components, sensors, and actuators.\n\n• Implement control algorithms and optimize code performance.\n\n• Perform debugging, troubleshooting, and system testing.\n\n• Maintain technical documentation and support certification activities.\n\n• Collaborate with hardware, systems, and QA teams.\n\nRequirements:\n\n• Bachelor's degree in Computer Science, Electrical Engineering, or related field.\n\n• 5–7+ years of embedded software development experience.\n\n• Strong proficiency in C/C++ and embedded systems.\n\n• Experience with RTOS (e.g., FreeRTOS, VxWorks, QNX).\n\n• Knowledge of hardware-software integration and communication protocols (SPI, I2C, UART, CAN).\n\n• Familiarity with aerospace/safety standards such as DO-178C and DO-254.\n\n• Experience with Git and software debugging tools.\n\n• Strong problem-solving and teamwork skills.\n\nPreferred:\n\n• Aerospace, defense, automotive, or other safety-critical industry experience.\n\n• Relevant embedded systems or aerospace certifications."
-  },
-  {
-   "id": "edge:733531822",
-   "source": "edge",
-   "company": "EDGE · ADASI",
-   "via": "",
-   "title": "Senior Embedded Software Engineer",
-   "field": "Software Development",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "ADASI",
-   "posted_date": "2026-10-08",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-Embedded-Software-Engineer-Abu/733531822/",
-   "first_seen": "2026-10-09T07:32:04Z",
-   "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nEmbedded Software Engineer\n\nRole Overview:\nDevelop and maintain embedded software for aerospace and UAV systems, ensuring high performance, reliability, and compliance with safety standards.\n\nRESPONSIBILITIES\n\r\n\n• Design, develop, and test embedded software in C/C++.\n\n• Develop software for real-time and safety-critical systems.\n\n• Integrate software with hardware components, sensors, and actuators.\n\n• Implement control algorithms and optimize code performance.\n\n• Perform debugging, troubleshooting, and system testing.\n\n• Maintain technical documentation and support certification activities.\n\n• Collaborate with hardware, systems, and QA teams.\n\nBASIC QUALIFICATIONS\n\r\n\n• Bachelor's degree in Computer Science, Electrical Engineering, or related field.\n\n• 5–7+ years of embedded software development experience.\n\n• Strong proficiency in C/C++ and embedded systems.\n\n• Experience with RTOS (e.g., FreeRTOS, VxWorks, QNX).\n\n• Knowledge of hardware-software integration and communication protocols (SPI, I2C, UART, CAN).\n\n• Familiarity with aerospace/safety standards such as DO-178C and DO-254.\n\n• Experience with Git and software debugging tools.\n\n• Strong problem-solving and teamwork skills.\n\nPREFERRED QUALIFICATIONS\n\r\n\n• Aerospace, defense, automotive, or other safety-critical industry experience.\n\n• Relevant embedded systems or aerospace certifications.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
   },
   {
    "id": "edge:733451122",
@@ -5870,29 +6054,6 @@
    "description": "ABOUT EDGE\n\r\n\nAt EDGE bold ideas are engineered into technologies that protect, improve and save lives.\n\nHeadquartered in the United Arab Emirates, EDGE is a leading advanced technology group working at the forefront of defence and emerging technologies. Spanning more than 35 specialised companies and multiple centres of excellence, we are purpose-built to move fast. Free from heavy legacy processes, we give our people the autonomy, accountability, and agility to bring breakthrough technologies from concept to reality.\n\nBased in Abu Dhabi, a globally connected hub at the crossroads of Europe, Asia, Africa, and the Middle East, EDGE is home to a truly multicultural community where bold ideas thrive, and the future is shaped.\n\nTogether, we are shaping the future.\n\nABOUT THE ROLE\n\r\n\nAs an ERP Process Engineer, you will work closely with production, engineering, supply chain, quality, and IT teams to analyze operational workflows, improve business processes, and support the implementation and enhancement of enterprise systems.\n\nRESPONSIBILITIES\n\r\n\nBusiness Process Analysis\n\nAnalyze and evaluate manufacturing processes, including production, planning, inventory management, engineering, and quality functions.\nConduct workshops and stakeholder interviews to gather business requirements.\nPerform gap analysis between current and future-state processes and identify opportunities for improvement.\nSolution Design & Implementation\n\nTranslate business requirements into ERP and PLM system solutions.\nConfigure and support ERP/PLM modules related to production, bill of materials (BOM), routing, product lifecycle management, and manufacturing\noperations.\nSupport system implementations, upgrades, integrations, and continuous enhancements.\nEnsure seamless integration between ERP, PLM, MES, and supply chain systems.\n\nProduct Lifecycle & Data Management\n\nSupport product lifecycle processes including design, development, engineering change management, and product release.\nMaintain and optimize product structures, BOMs, and engineering data.\nDevelop and improve workflows supporting product development and change control activities.\n\nTraining & Change Management\n\nDevelop training materials, user guides, and process documentation.\nDeliver end-user training and provide post-go-live support.\nPromote best practices and drive user adoption of new technologies and processes.\n\nContinuous Improvement & Support\n\nProvide functional support and troubleshooting for ERP and PLM systems.\nMonitor system performance and identify opportunities for optimization.\nLead initiatives focused on process efficiency, automation, and operational excellence.\nStakeholder & Project Management\n\nCollaborate with cross-functional teams across manufacturing, engineering, supply chain, quality, and IT.\nSupport project planning, testing, deployment, and change management activities.\nCommunicate effectively with both technical teams and business stakeholders.\n\n#Powertech\n\nBASIC QUALIFICATIONS\n\r\n\nBachelor's Degree in Engineering, Information Systems, Manufacturing, or a related discipline.\n5–8+ years of experience in ERP and/or PLM consulting within a manufacturing environment.\nProven experience delivering ERP/PLM implementation or transformation projects.\nStrong understanding of manufacturing processes, including MRP, production planning, BOM management, routing, and inventory control.\nExperience with leading ERP platforms such as SAP, Oracle, or Microsoft Dynamics.\n\nPREFERRED QUALIFICATIONS\n\r\n\nKnowledge of ERP, PLM, MES, and manufacturing system integrations is highly desirable.\nSAP experience will be considered a strong advantage.\n\nWHY CHOOSE EDGE\n\r\n\nLaunched in November 2019, the UAE's EDGE is one of the world's leading advanced technology groups, established to develop agile, bold and disruptive solutions for defence and beyond, and to be a catalyst for change and transformation. It is dedicated to bringing breakthrough innovations, products, and services to market with greater speed and efficiency, to position the UAE as a leading global hub for future industries, and to creating clear paths within the sector for the next generation of highly skilled talent to thrive.\n\nAt EDGE, the real investment goes beyond compensation. Through our dedicated learning academy and digital learning platforms, employees have access to extensive opportunities to develop new skills, deepen their expertise, and advance their careers. Combined with the freedom to innovate, strong career support, and the opportunity to collaborate with world-class talent from across the globe, EDGE is a place where you can continue to grow, keep learning, and turn ambitious ideas into meaningful outcomes.\n\nWorking at EDGE also comes with a package that genuinely reflects how much we value our people. Salaries are highly competitive and tax-free and, depending on your role and seniority, benefits can include family visas, annual flight tickets, medical insurance for you and your dependents, and education allowances for your children.\n\nCANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nIf you feel your skills, experience and potential are a strong match for a role, we encourage you to apply even if you don’t meet every requirement. We are genuinely interested in what you can bring to EDGE.\n\nAny information you share as part of your EDGE candidate profile or job application will be handled in accordance with applicable data protection and privacy regulations.\n\nEDGE is an equal opportunity employer committed to building a diverse, inclusive, and high-performing workforce. We believe every individual deserves to be treated with fairness, respect and dignity, and our employment decisions reflect that. We do not discriminate based on race, colour, nationality, ethnicity, religion, gender, marital status, age, disability, pregnancy or parental status, or any other characteristic protected by applicable law.\n\nAs a global organisation, effective collaboration across international teams is central to how we work, so English proficiency is required for all roles unless otherwise stated in the job posting.\n\nPlease note that EDGE does not accept unsolicited resumes from recruitment agencies. Any resumes in the absence of a formally executed agreement in place will be deemed the property of EDGE, and no placement fees or compensation will be payable in respect of such submissions."
   },
   {
-   "id": "edge:733122122",
-   "source": "edge",
-   "company": "EDGE · AL TAIF",
-   "via": "",
-   "title": "Data Analyst",
-   "field": "Data & AI",
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "locations": [
-    "Abu Dhabi, United Arab Emirates"
-   ],
-   "workplace_type": "",
-   "category": "AL TAIF",
-   "posted_date": "2026-09-28",
-   "summary": "",
-   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Data-Analyst-Abu/733122122/",
-   "first_seen": "2026-10-09T07:32:04Z",
-   "description": "External Job Description\n\r\n\nMAJOR DUTIES AND RESPONSIBILITIES\n\n• Provide annual supply forecasting requirements for the Annual Service Plan (ASP).\n• Provide analysis of due—ins from OEMS, vendors, balance on hand and store level repairable for assigned equipment systems.\n• Coordinate with the Technical Supply Department and Technical Planning Department to provide advice on required platform stock levels and assessment reports of balance on hand.\n• Review inventory data and advise the Technical Supply Department of optimal line item stock levels for the main stores.\n• Facilitate the establishment of safety and reserve levels for line items critical to ensure operational readiness for all required equipment systems.\n• Coordinate with Technical Planning Department on the status of spares and maintenance trends for the assigned platforms.\n• Facilitate maintenance of the spares master data record in the computer system and coordinate all aspects of demand analysis in support of the units for the assigned platforms.\n• Advise the Technical Supply Department on the status of spares and maintenance trends for the assigned platforms whenever required.\n• Facilitate the requisition of authorised supplies by the Technical Supply Department for equipment system support.\n• Apply continuous improvement and LEAN management principles.\n• Ensure all issued tools, test equipment and high value property is maintained in a serviceable condition routinely inventoried and safeguarded.\n• Support other members of the material section in fulfilling their roles.\n• Maintain the confidentiality and security of all company documents.\n• Perform other duties as required by the Material Manager."
-  },
-  {
    "id": "edge:733505022",
    "source": "edge",
    "company": "EDGE · AL TAIF",
@@ -5914,6 +6075,29 @@
    "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Senior-IT-Analyst-Abu/733505022/",
    "first_seen": "2026-10-09T07:32:04Z",
    "description": "CANDIDATE PRIVACY & EQUAL OPPORTUNITY STATEMENT\n\r\n\nMAJOR DUTIES AND RESPONSIBILITIES\n\n• Ensure the smooth operation of applications and functional area computers to ensure all computer systems are consistently available and in compliance with applicable standards.\n\n• Coordinate the installation, configuration and maintenance of the organisation’s applications and work stations.\n\n• Direct diagnostic investigations of program errors and direct or recommend solutions or methodologies for resolution.\n\n• Manage communication with all areas of the enterprise that impacts the scope, budget, risk, and resources of the work effort being managed.\n\n• Correct program errors using methods such as modifying programs or altering the sequence of program steps. Analyse, review and rewrite programs to increase operating efficiency or to adapt programs to new requirements.\n\n• Prepare detailed workflow charts to illustrate the sequence of steps that programs must follow; describe input, output and logical operations involved.\n\n• Manage the administration, maintenance and upgrades of the organisation’s applications.\n\n• Analyse and recommend the use of new applications and services to senior management.\n\n• Conduct and validate the physical inventory of IT equipment and software.\n\n• Provide instructions and training to staff when necessary.\n\n• Assist with the enforcement of all IT directives within the company.\n\n• Ensure all IT property is maintained in a serviceable condition, routinely inventoried and safeguarded.\n\n• Supervise, monitor and train IT Analyst(s), Applications on a variety of IT tasks.\n\n• Maintain the confidentiality and security of all company information.\n\n• Support other members of the IT section in fulfilling their roles.\n\n• Ensure compliance with all safety, housekeeping and environmental directives.\n\nMINIMUM QUALIFICATIONS\n\n• Bachelor degree in computer science, information systems or a related discipline required; Master degree preferred, or Equivalent years of Experiences in same field\n\n• A minimum of five to six years of experience in an IT Applications role is required.\n\n• A minimum of one year of experience in a supervisory position is required.\n\n• Certifications in Cisco Certified Network Professions (CCNP), Cisco Certified Design Professions (CCDP), Cisco Certified Internetwork Expert (CCIE) and Cisco Certified Design Associate (CCDA) are an advantage.\n\n• The ability to communicate effectively in English, both in writing and verbally is required.\n\n• Have, or be able to obtain a valid UAE driver’s license."
+  },
+  {
+   "id": "edge:733122122",
+   "source": "edge",
+   "company": "EDGE · AL TAIF",
+   "via": "",
+   "title": "Data Analyst",
+   "field": "Data & AI",
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "locations": [
+    "Abu Dhabi, United Arab Emirates"
+   ],
+   "workplace_type": "",
+   "category": "AL TAIF",
+   "posted_date": "2026-09-28",
+   "summary": "",
+   "url": "https://careers.edgegroup.ae/job/Abu-Dhabi-Data-Analyst-Abu/733122122/",
+   "first_seen": "2026-10-09T07:32:04Z",
+   "description": "External Job Description\n\r\n\nMAJOR DUTIES AND RESPONSIBILITIES\n\n• Provide annual supply forecasting requirements for the Annual Service Plan (ASP).\n• Provide analysis of due—ins from OEMS, vendors, balance on hand and store level repairable for assigned equipment systems.\n• Coordinate with the Technical Supply Department and Technical Planning Department to provide advice on required platform stock levels and assessment reports of balance on hand.\n• Review inventory data and advise the Technical Supply Department of optimal line item stock levels for the main stores.\n• Facilitate the establishment of safety and reserve levels for line items critical to ensure operational readiness for all required equipment systems.\n• Coordinate with Technical Planning Department on the status of spares and maintenance trends for the assigned platforms.\n• Facilitate maintenance of the spares master data record in the computer system and coordinate all aspects of demand analysis in support of the units for the assigned platforms.\n• Advise the Technical Supply Department on the status of spares and maintenance trends for the assigned platforms whenever required.\n• Facilitate the requisition of authorised supplies by the Technical Supply Department for equipment system support.\n• Apply continuous improvement and LEAN management principles.\n• Ensure all issued tools, test equipment and high value property is maintained in a serviceable condition routinely inventoried and safeguarded.\n• Support other members of the material section in fulfilling their roles.\n• Maintain the confidentiality and security of all company documents.\n• Perform other duties as required by the Material Manager."
   },
   {
    "id": "michaelpage:jn-092026-7113158",
